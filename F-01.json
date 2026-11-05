@@ -1,0 +1,102 @@
+{
+ "title": "Bài 01. Chủ ngữ, động từ và danh từ",
+ "vocabulary": [
+  {
+   "word": "I",
+   "ipa": "/aɪ/",
+   "meaning": "tôi",
+   "pos": "đại từ",
+   "audio": "F-01-w-i.mp3"
+  },
+  {
+   "word": "we",
+   "ipa": "/wiː/",
+   "meaning": "chúng tôi",
+   "pos": "đại từ",
+   "audio": "F-01-w-we.mp3"
+  },
+  {
+   "word": "work",
+   "ipa": "/wɝːk/",
+   "meaning": "làm việc",
+   "pos": "động từ",
+   "audio": "F-01-w-work.mp3"
+  },
+  {
+   "word": "study",
+   "ipa": "/ˈstʌdi/",
+   "meaning": "học",
+   "pos": "động từ",
+   "audio": "F-01-w-study.mp3"
+  },
+  {
+   "word": "eat",
+   "ipa": "/iːt/",
+   "meaning": "ăn",
+   "pos": "động từ",
+   "audio": "F-01-w-eat.mp3"
+  },
+  {
+   "word": "sing",
+   "ipa": "/sɪŋ/",
+   "meaning": "hát, hót",
+   "pos": "động từ",
+   "audio": "F-01-w-sing.mp3"
+  },
+  {
+   "word": "run",
+   "ipa": "/rʌn/",
+   "meaning": "chạy",
+   "pos": "động từ",
+   "audio": "F-01-w-run.mp3"
+  },
+  {
+   "word": "students",
+   "ipa": "/ˈstuːdənts/",
+   "meaning": "học sinh, sinh viên",
+   "pos": "danh từ",
+   "audio": "F-01-w-students.mp3"
+  },
+  {
+   "word": "birds",
+   "ipa": "/bɝːdz/",
+   "meaning": "chim",
+   "pos": "danh từ",
+   "audio": "F-01-w-birds.mp3"
+  },
+  {
+   "word": "dogs",
+   "ipa": "/dɔːɡz/",
+   "meaning": "chó",
+   "pos": "danh từ",
+   "audio": "F-01-w-dogs.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I work.",
+   "vi": "Tôi làm việc.",
+   "audio": "F-01-ex-1.mp3"
+  },
+  {
+   "en": "We eat.",
+   "vi": "Chúng tôi ăn.",
+   "audio": "F-01-ex-2.mp3"
+  },
+  {
+   "en": "Students study.",
+   "vi": "Học sinh học tập.",
+   "audio": "F-01-ex-3.mp3"
+  },
+  {
+   "en": "Birds sing.",
+   "vi": "Chim hót.",
+   "audio": "F-01-ex-4.mp3"
+  },
+  {
+   "en": "Dogs run.",
+   "vi": "Chó chạy.",
+   "audio": "F-01-ex-5.mp3"
+  }
+ ]
+}

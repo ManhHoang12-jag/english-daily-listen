@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>English Daily: Nghe</title>
+<script src="https://telegram.org/js/telegram-web-app.js"></script>
+<style>
+  :root {
+    --bg: var(--tg-theme-bg-color, #ffffff);
+    --text: var(--tg-theme-text-color, #1a1a1a);
+    --hint: var(--tg-theme-hint-color, #6b6b6b);
+    --card: var(--tg-theme-secondary-bg-color, #f2f3f5);
+    --accent: var(--tg-theme-button-color, #2481cc);
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-telegram]) { --bg: #17212b; --text: #f5f5f5; --hint: #9aa7b3; --card: #232e3c; --accent: #5eb5f7; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; padding: 16px; background: var(--bg); color: var(--text);
+         font: 16px/1.4 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+  h1 { font-size: 18px; margin: 0 0 4px; }
+  h2 { font-size: 13px; margin: 20px 0 8px; color: var(--hint); font-weight: 600; }
+  p { margin: 0; color: var(--hint); font-size: 14px; }
+  .item { display: block; width: 100%; margin: 0 0 8px; padding: 12px 14px; min-height: 48px; text-align: left;
+          border: 2px solid transparent; border-radius: 12px; background: var(--card); color: var(--text);
+          font: inherit; cursor: pointer; -webkit-tap-highlight-color: transparent; touch-action: manipulation; }
+  .item.playing { border-color: var(--accent); }
+  .item:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+  .main { display: block; font-size: 18px; font-weight: 600; }
+  .ipa { font-weight: 400; color: var(--hint); font-size: 14px; margin-left: 6px; }
+  .sub { display: block; color: var(--hint); font-size: 14px; }
+  #error { color: #d9534f; margin-top: 16px; }
+</style>
+</head>
+<body>
+<h1 id="title">English Daily</h1>
+<p>Bấm vào chữ để nghe. Bấm lại để nghe lần nữa.</p>
+<div id="content"></div>
+<p id="error" role="alert"></p>
+<script>
+  const player = new Audio();
+  let active = null;
+
+  function clearActive() {
+    if (active) active.classList.remove("playing");
+    active = null;
+  }
+  player.addEventListener("ended", clearActive);
+
+  function play(button, src) {
+    clearActive();
+    document.getElementById("error").textContent = "";
+    player.src = src;
+    active = button;
+    button.classList.add("playing");
+    player.play().catch(error => {
+      if (error.name === "AbortError") return; // bấm sang chữ khác khi chữ cũ đang phát
+      clearActive();
+      document.getElementById("error").textContent = "Không phát được âm thanh. Bạn hãy kiểm tra kết nối mạng rồi bấm lại.";
+    });
+  }
+
+  function addItem(parent, item, main, ipa, sub) {
+    const button = document.createElement("button");
+    button.type = "button";
+    button.className = "item";
+    const line = document.createElement("span");
+    line.className = "main";
+    line.textContent = main;
+    if (ipa) {
+      const small = document.createElement("span");
+      small.className = "ipa";
+      small.textContent = ipa;
+      line.appendChild(small);
+    }
+    const detail = document.createElement("span");
+    detail.className = "sub";
+    detail.textContent = sub;
+    button.append(line, detail);
+    button.addEventListener("click", () => play(button, item.audio));
+    parent.appendChild(button);
+  }
+
+  function addHeading(parent, text) {
+    const heading = document.createElement("h2");
+    heading.textContent = text;
+    parent.appendChild(heading);
+  }
+
+  async function main() {
+    if (window.Telegram && Telegram.WebApp && Telegram.WebApp.initData) {
+      document.documentElement.dataset.telegram = "1";
+      Telegram.WebApp.ready();
+      Telegram.WebApp.expand();
+    }
+    const lessonId = new URLSearchParams(location.search).get("lesson") || "";
+    if (!/^[A-Za-z0-9-]+$/.test(lessonId)) throw new Error("bad lesson");
+    const response = await fetch(`${lessonId}.json`);
+    if (!response.ok) throw new Error("not found");
+    const lesson = await response.json();
+    document.getElementById("title").textContent = lesson.title;
+    const content = document.getElementById("content");
+    addHeading(content, "Từ vựng");
+    lesson.vocabulary.forEach(v => addItem(content, v, v.word, v.ipa, `${v.meaning} (${v.pos})`));
+    addHeading(content, "Câu ví dụ");
+    lesson.examples.forEach(e => addItem(content, e, e.en, "", e.vi));
+  }
+
+  main().catch(() => {
+    document.getElementById("error").textContent = "Không mở được bài này. Bạn hãy quay lại bot và mở lại trang nghe.";
+  });
+</script>
+</body>
+</html>
