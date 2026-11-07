@@ -1,0 +1,67 @@
+{
+ "title": "Bài 05. Đuôi -s sau he, she, it",
+ "vocabulary": [
+  {
+   "word": "works",
+   "ipa": "/wɝːks/",
+   "meaning": "làm việc (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-05-w-works.mp3"
+  },
+  {
+   "word": "reads",
+   "ipa": "/riːdz/",
+   "meaning": "đọc (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-05-w-reads.mp3"
+  },
+  {
+   "word": "likes",
+   "ipa": "/laɪks/",
+   "meaning": "thích (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-05-w-likes.mp3"
+  },
+  {
+   "word": "drinks",
+   "ipa": "/drɪŋks/",
+   "meaning": "uống (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-05-w-drinks.mp3"
+  },
+  {
+   "word": "sleeps",
+   "ipa": "/sliːps/",
+   "meaning": "ngủ (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-05-w-sleeps.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She works.",
+   "vi": "Cô ấy làm việc.",
+   "audio": "F-05-ex-1.mp3"
+  },
+  {
+   "en": "He likes coffee.",
+   "vi": "Anh ấy thích cà phê.",
+   "audio": "F-05-ex-2.mp3"
+  },
+  {
+   "en": "Lan reads books.",
+   "vi": "Lan đọc sách.",
+   "audio": "F-05-ex-3.mp3"
+  },
+  {
+   "en": "It sleeps.",
+   "vi": "Nó ngủ.",
+   "audio": "F-05-ex-4.mp3"
+  },
+  {
+   "en": "They drink water.",
+   "vi": "Họ uống nước.",
+   "audio": "F-05-ex-5.mp3"
+  }
+ ]
+}

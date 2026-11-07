@@ -1,0 +1,67 @@
+{
+ "title": "Bài 08. Vì sao cần to be: I am",
+ "vocabulary": [
+  {
+   "word": "am",
+   "ipa": "/æm/",
+   "meaning": "(từ nối, đi với I)",
+   "pos": "động từ to be",
+   "audio": "F-08-w-am.mp3"
+  },
+  {
+   "word": "happy",
+   "ipa": "/ˈhæpi/",
+   "meaning": "vui, hạnh phúc",
+   "pos": "tính từ",
+   "audio": "F-08-w-happy.mp3"
+  },
+  {
+   "word": "tired",
+   "ipa": "/ˈtaɪɚd/",
+   "meaning": "mệt",
+   "pos": "tính từ",
+   "audio": "F-08-w-tired.mp3"
+  },
+  {
+   "word": "busy",
+   "ipa": "/ˈbɪzi/",
+   "meaning": "bận",
+   "pos": "tính từ",
+   "audio": "F-08-w-busy.mp3"
+  },
+  {
+   "word": "ready",
+   "ipa": "/ˈredi/",
+   "meaning": "sẵn sàng",
+   "pos": "tính từ",
+   "audio": "F-08-w-ready.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am tired.",
+   "vi": "Tôi mệt.",
+   "audio": "F-08-ex-1.mp3"
+  },
+  {
+   "en": "I am happy.",
+   "vi": "Tôi vui.",
+   "audio": "F-08-ex-2.mp3"
+  },
+  {
+   "en": "I am busy.",
+   "vi": "Tôi bận.",
+   "audio": "F-08-ex-3.mp3"
+  },
+  {
+   "en": "I'm ready.",
+   "vi": "Tôi sẵn sàng.",
+   "audio": "F-08-ex-4.mp3"
+  },
+  {
+   "en": "I work. I am busy.",
+   "vi": "Tôi làm việc. Tôi bận.",
+   "audio": "F-08-ex-5.mp3"
+  }
+ ]
+}

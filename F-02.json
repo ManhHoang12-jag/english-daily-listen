@@ -1,0 +1,74 @@
+{
+ "title": "Bài 02. Tân ngữ: người hoặc vật chịu hành động",
+ "vocabulary": [
+  {
+   "word": "drink",
+   "ipa": "/drɪŋk/",
+   "meaning": "uống",
+   "pos": "động từ",
+   "audio": "F-02-w-drink.mp3"
+  },
+  {
+   "word": "read",
+   "ipa": "/riːd/",
+   "meaning": "đọc",
+   "pos": "động từ",
+   "audio": "F-02-w-read.mp3"
+  },
+  {
+   "word": "like",
+   "ipa": "/laɪk/",
+   "meaning": "thích",
+   "pos": "động từ",
+   "audio": "F-02-w-like.mp3"
+  },
+  {
+   "word": "water",
+   "ipa": "/ˈwɑːtɚ/",
+   "meaning": "nước",
+   "pos": "danh từ",
+   "audio": "F-02-w-water.mp3"
+  },
+  {
+   "word": "coffee",
+   "ipa": "/ˈkɑːfi/",
+   "meaning": "cà phê",
+   "pos": "danh từ",
+   "audio": "F-02-w-coffee.mp3"
+  },
+  {
+   "word": "books",
+   "ipa": "/bʊks/",
+   "meaning": "sách (nhiều cuốn)",
+   "pos": "danh từ",
+   "audio": "F-02-w-books.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I drink water.",
+   "vi": "Tôi uống nước.",
+   "audio": "F-02-ex-1.mp3"
+  },
+  {
+   "en": "We read books.",
+   "vi": "Chúng tôi đọc sách.",
+   "audio": "F-02-ex-2.mp3"
+  },
+  {
+   "en": "I like coffee.",
+   "vi": "Tôi thích cà phê.",
+   "audio": "F-02-ex-3.mp3"
+  },
+  {
+   "en": "Students read books.",
+   "vi": "Học sinh đọc sách.",
+   "audio": "F-02-ex-4.mp3"
+  },
+  {
+   "en": "Dogs drink water.",
+   "vi": "Chó uống nước.",
+   "audio": "F-02-ex-5.mp3"
+  }
+ ]
+}

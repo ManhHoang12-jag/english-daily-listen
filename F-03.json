@@ -1,0 +1,67 @@
+{
+ "title": "Bài 03. Đại từ I, you, we, they",
+ "vocabulary": [
+  {
+   "word": "you",
+   "ipa": "/juː/",
+   "meaning": "bạn, các bạn",
+   "pos": "đại từ",
+   "audio": "F-03-w-you.mp3"
+  },
+  {
+   "word": "they",
+   "ipa": "/ðeɪ/",
+   "meaning": "họ, chúng",
+   "pos": "đại từ",
+   "audio": "F-03-w-they.mp3"
+  },
+  {
+   "word": "friends",
+   "ipa": "/frendz/",
+   "meaning": "những người bạn",
+   "pos": "danh từ",
+   "audio": "F-03-w-friends.mp3"
+  },
+  {
+   "word": "English",
+   "ipa": "/ˈɪŋɡlɪʃ/",
+   "meaning": "tiếng Anh",
+   "pos": "danh từ",
+   "audio": "F-03-w-english.mp3"
+  },
+  {
+   "word": "rice",
+   "ipa": "/raɪs/",
+   "meaning": "gạo, cơm",
+   "pos": "danh từ",
+   "audio": "F-03-w-rice.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You study English.",
+   "vi": "Bạn học tiếng Anh.",
+   "audio": "F-03-ex-1.mp3"
+  },
+  {
+   "en": "They eat rice.",
+   "vi": "Họ ăn cơm.",
+   "audio": "F-03-ex-2.mp3"
+  },
+  {
+   "en": "We study English.",
+   "vi": "Chúng tôi học tiếng Anh.",
+   "audio": "F-03-ex-3.mp3"
+  },
+  {
+   "en": "Lan and Nam drink coffee.",
+   "vi": "Lan và Nam uống cà phê.",
+   "audio": "F-03-ex-4.mp3"
+  },
+  {
+   "en": "They drink coffee.",
+   "vi": "Họ uống cà phê.",
+   "audio": "F-03-ex-5.mp3"
+  }
+ ]
+}

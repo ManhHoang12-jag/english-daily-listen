@@ -1,0 +1,74 @@
+{
+ "title": "Bài 04. Đại từ he, she, it",
+ "vocabulary": [
+  {
+   "word": "he",
+   "ipa": "/hiː/",
+   "meaning": "anh ấy, ông ấy (nam)",
+   "pos": "đại từ",
+   "audio": "F-04-w-he.mp3"
+  },
+  {
+   "word": "she",
+   "ipa": "/ʃiː/",
+   "meaning": "cô ấy, chị ấy (nữ)",
+   "pos": "đại từ",
+   "audio": "F-04-w-she.mp3"
+  },
+  {
+   "word": "it",
+   "ipa": "/ɪt/",
+   "meaning": "nó (vật, con vật)",
+   "pos": "đại từ",
+   "audio": "F-04-w-it.mp3"
+  },
+  {
+   "word": "man",
+   "ipa": "/mæn/",
+   "meaning": "người đàn ông",
+   "pos": "danh từ",
+   "audio": "F-04-w-man.mp3"
+  },
+  {
+   "word": "woman",
+   "ipa": "/ˈwʊmən/",
+   "meaning": "người phụ nữ",
+   "pos": "danh từ",
+   "audio": "F-04-w-woman.mp3"
+  },
+  {
+   "word": "cat",
+   "ipa": "/kæt/",
+   "meaning": "con mèo",
+   "pos": "danh từ",
+   "audio": "F-04-w-cat.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "He reads books.",
+   "vi": "Anh ấy đọc sách.",
+   "audio": "F-04-ex-1.mp3"
+  },
+  {
+   "en": "She drinks coffee.",
+   "vi": "Cô ấy uống cà phê.",
+   "audio": "F-04-ex-2.mp3"
+  },
+  {
+   "en": "It drinks water.",
+   "vi": "Nó uống nước.",
+   "audio": "F-04-ex-3.mp3"
+  },
+  {
+   "en": "He works.",
+   "vi": "Ông ấy làm việc.",
+   "audio": "F-04-ex-4.mp3"
+  },
+  {
+   "en": "She studies English.",
+   "vi": "Chị ấy học tiếng Anh.",
+   "audio": "F-04-ex-5.mp3"
+  }
+ ]
+}

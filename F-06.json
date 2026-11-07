@@ -1,0 +1,81 @@
+{
+ "title": "Bài 06. Tính từ đứng trước danh từ",
+ "vocabulary": [
+  {
+   "word": "big",
+   "ipa": "/bɪɡ/",
+   "meaning": "to, lớn",
+   "pos": "tính từ",
+   "audio": "F-06-w-big.mp3"
+  },
+  {
+   "word": "small",
+   "ipa": "/smɔːl/",
+   "meaning": "nhỏ",
+   "pos": "tính từ",
+   "audio": "F-06-w-small.mp3"
+  },
+  {
+   "word": "good",
+   "ipa": "/ɡʊd/",
+   "meaning": "tốt, hay, ngon",
+   "pos": "tính từ",
+   "audio": "F-06-w-good.mp3"
+  },
+  {
+   "word": "new",
+   "ipa": "/nuː/",
+   "meaning": "mới",
+   "pos": "tính từ",
+   "audio": "F-06-w-new.mp3"
+  },
+  {
+   "word": "old",
+   "ipa": "/oʊld/",
+   "meaning": "cũ, già",
+   "pos": "tính từ",
+   "audio": "F-06-w-old.mp3"
+  },
+  {
+   "word": "houses",
+   "ipa": "/ˈhaʊzɪz/",
+   "meaning": "những ngôi nhà",
+   "pos": "danh từ",
+   "audio": "F-06-w-houses.mp3"
+  },
+  {
+   "word": "cars",
+   "ipa": "/kɑːrz/",
+   "meaning": "những chiếc xe hơi",
+   "pos": "danh từ",
+   "audio": "F-06-w-cars.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I like big houses.",
+   "vi": "Tôi thích nhà to.",
+   "audio": "F-06-ex-1.mp3"
+  },
+  {
+   "en": "We read good books.",
+   "vi": "Chúng tôi đọc sách hay.",
+   "audio": "F-06-ex-2.mp3"
+  },
+  {
+   "en": "She likes new cars.",
+   "vi": "Cô ấy thích xe hơi mới.",
+   "audio": "F-06-ex-3.mp3"
+  },
+  {
+   "en": "They like small cars.",
+   "vi": "Họ thích xe hơi nhỏ.",
+   "audio": "F-06-ex-4.mp3"
+  },
+  {
+   "en": "He likes old houses.",
+   "vi": "Ông ấy thích nhà cũ.",
+   "audio": "F-06-ex-5.mp3"
+  }
+ ]
+}

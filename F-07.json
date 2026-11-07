@@ -1,0 +1,60 @@
+{
+ "title": "Bài 07. Ôn tập và kiểm tra 1: bốn loại từ",
+ "vocabulary": [
+  {
+   "word": "she",
+   "ipa": "/ʃiː/",
+   "meaning": "cô ấy",
+   "pos": "đại từ",
+   "audio": "F-07-w-she.mp3"
+  },
+  {
+   "word": "likes",
+   "ipa": "/laɪks/",
+   "meaning": "thích (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-07-w-likes.mp3"
+  },
+  {
+   "word": "good",
+   "ipa": "/ɡʊd/",
+   "meaning": "tốt, hay",
+   "pos": "tính từ",
+   "audio": "F-07-w-good.mp3"
+  },
+  {
+   "word": "books",
+   "ipa": "/bʊks/",
+   "meaning": "sách",
+   "pos": "danh từ",
+   "audio": "F-07-w-books.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She likes good books.",
+   "vi": "Cô ấy thích sách hay.",
+   "audio": "F-07-ex-1.mp3"
+  },
+  {
+   "en": "Students drink coffee.",
+   "vi": "Học sinh uống cà phê.",
+   "audio": "F-07-ex-2.mp3"
+  },
+  {
+   "en": "He reads new books.",
+   "vi": "Anh ấy đọc sách mới.",
+   "audio": "F-07-ex-3.mp3"
+  },
+  {
+   "en": "They like big cars.",
+   "vi": "Họ thích xe hơi to.",
+   "audio": "F-07-ex-4.mp3"
+  },
+  {
+   "en": "We study English.",
+   "vi": "Chúng tôi học tiếng Anh.",
+   "audio": "F-07-ex-5.mp3"
+  }
+ ]
+}
