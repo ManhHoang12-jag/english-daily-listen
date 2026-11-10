@@ -1,0 +1,60 @@
+{
+ "title": "Bài 12. Câu hỏi có/không với to be",
+ "vocabulary": [
+  {
+   "word": "yes",
+   "ipa": "/jes/",
+   "meaning": "có, vâng",
+   "pos": "từ trả lời",
+   "audio": "F-12-w-yes.mp3"
+  },
+  {
+   "word": "no",
+   "ipa": "/noʊ/",
+   "meaning": "không",
+   "pos": "từ trả lời",
+   "audio": "F-12-w-no.mp3"
+  },
+  {
+   "word": "here",
+   "ipa": "/hɪr/",
+   "meaning": "ở đây",
+   "pos": "trạng từ",
+   "audio": "F-12-w-here.mp3"
+  },
+  {
+   "word": "home",
+   "ipa": "/hoʊm/",
+   "meaning": "ở nhà, nhà",
+   "pos": "trạng từ, danh từ",
+   "audio": "F-12-w-home.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Are you busy? Yes, I am.",
+   "vi": "Bạn có bận không? Có, tôi bận.",
+   "audio": "F-12-ex-1.mp3"
+  },
+  {
+   "en": "Is she here? No, she isn't.",
+   "vi": "Cô ấy có ở đây không? Không, cô ấy không ở đây.",
+   "audio": "F-12-ex-2.mp3"
+  },
+  {
+   "en": "Are they home? Yes, they are.",
+   "vi": "Họ có ở nhà không? Có, họ ở nhà.",
+   "audio": "F-12-ex-3.mp3"
+  },
+  {
+   "en": "Is Nam sick? No, he isn't.",
+   "vi": "Nam có ốm không? Không, cậu ấy không ốm.",
+   "audio": "F-12-ex-4.mp3"
+  },
+  {
+   "en": "Am I late? No, you aren't.",
+   "vi": "Tôi có đến muộn không? Không, bạn không muộn.",
+   "audio": "F-12-ex-5.mp3"
+  }
+ ]
+}

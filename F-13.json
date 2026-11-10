@@ -1,0 +1,67 @@
+{
+ "title": "Bài 13. Ôn tập và kiểm tra 2: to be hay động từ thường",
+ "vocabulary": [
+  {
+   "word": "is",
+   "ipa": "/ɪz/",
+   "meaning": "(từ nối, đi với he, she, it)",
+   "pos": "động từ to be",
+   "audio": "F-13-w-is.mp3"
+  },
+  {
+   "word": "are",
+   "ipa": "/ɑːr/",
+   "meaning": "(từ nối, đi với you, we, they)",
+   "pos": "động từ to be",
+   "audio": "F-13-w-are.mp3"
+  },
+  {
+   "word": "isn't",
+   "ipa": "/ˈɪzənt/",
+   "meaning": "không (= is not)",
+   "pos": "dạng gọn",
+   "audio": "F-13-w-isn-t.mp3"
+  },
+  {
+   "word": "works",
+   "ipa": "/wɝːks/",
+   "meaning": "làm việc (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-13-w-works.mp3"
+  },
+  {
+   "word": "likes",
+   "ipa": "/laɪks/",
+   "meaning": "thích (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-13-w-likes.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She works. She is busy.",
+   "vi": "Cô ấy làm việc. Cô ấy bận.",
+   "audio": "F-13-ex-1.mp3"
+  },
+  {
+   "en": "He likes coffee.",
+   "vi": "Anh ấy thích cà phê.",
+   "audio": "F-13-ex-2.mp3"
+  },
+  {
+   "en": "They are tired.",
+   "vi": "Họ mệt.",
+   "audio": "F-13-ex-3.mp3"
+  },
+  {
+   "en": "We aren't late.",
+   "vi": "Chúng tôi không trễ.",
+   "audio": "F-13-ex-4.mp3"
+  },
+  {
+   "en": "Are they home? No, they aren't.",
+   "vi": "Họ có ở nhà không? Không.",
+   "audio": "F-13-ex-5.mp3"
+  }
+ ]
+}

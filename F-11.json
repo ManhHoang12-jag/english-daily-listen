@@ -1,0 +1,67 @@
+{
+ "title": "Bài 11. Câu phủ định với not",
+ "vocabulary": [
+  {
+   "word": "not",
+   "ipa": "/nɑːt/",
+   "meaning": "không",
+   "pos": "trạng từ phủ định",
+   "audio": "F-11-w-not.mp3"
+  },
+  {
+   "word": "isn't",
+   "ipa": "/ˈɪzənt/",
+   "meaning": "không (= is not)",
+   "pos": "dạng gọn",
+   "audio": "F-11-w-isn-t.mp3"
+  },
+  {
+   "word": "aren't",
+   "ipa": "/ɑːrnt/",
+   "meaning": "không (= are not)",
+   "pos": "dạng gọn",
+   "audio": "F-11-w-aren-t.mp3"
+  },
+  {
+   "word": "sick",
+   "ipa": "/sɪk/",
+   "meaning": "ốm, bệnh",
+   "pos": "tính từ",
+   "audio": "F-11-w-sick.mp3"
+  },
+  {
+   "word": "free",
+   "ipa": "/friː/",
+   "meaning": "rảnh",
+   "pos": "tính từ",
+   "audio": "F-11-w-free.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am not sick.",
+   "vi": "Tôi không ốm.",
+   "audio": "F-11-ex-1.mp3"
+  },
+  {
+   "en": "She isn't busy.",
+   "vi": "Cô ấy không bận.",
+   "audio": "F-11-ex-2.mp3"
+  },
+  {
+   "en": "They aren't free.",
+   "vi": "Họ không rảnh.",
+   "audio": "F-11-ex-3.mp3"
+  },
+  {
+   "en": "He is not late.",
+   "vi": "Anh ấy không đến muộn.",
+   "audio": "F-11-ex-4.mp3"
+  },
+  {
+   "en": "Lan isn't sick. She is fine.",
+   "vi": "Lan không ốm. Cô ấy khỏe.",
+   "audio": "F-11-ex-5.mp3"
+  }
+ ]
+}

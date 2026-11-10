@@ -1,0 +1,67 @@
+{
+ "title": "Bài 16. Mạo từ the: a book hay the book",
+ "vocabulary": [
+  {
+   "word": "the",
+   "ipa": "/ðə/",
+   "meaning": "(cái) này, đó; cái mà người nghe đã biết",
+   "pos": "mạo từ",
+   "audio": "F-16-w-the.mp3"
+  },
+  {
+   "word": "door",
+   "ipa": "/dɔːr/",
+   "meaning": "cửa ra vào",
+   "pos": "danh từ",
+   "audio": "F-16-w-door.mp3"
+  },
+  {
+   "word": "window",
+   "ipa": "/ˈwɪndoʊ/",
+   "meaning": "cửa sổ",
+   "pos": "danh từ",
+   "audio": "F-16-w-window.mp3"
+  },
+  {
+   "word": "room",
+   "ipa": "/ruːm/",
+   "meaning": "căn phòng",
+   "pos": "danh từ",
+   "audio": "F-16-w-room.mp3"
+  },
+  {
+   "word": "table",
+   "ipa": "/ˈteɪbəl/",
+   "meaning": "cái bàn",
+   "pos": "danh từ",
+   "audio": "F-16-w-table.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The room is hot.",
+   "vi": "Căn phòng nóng.",
+   "audio": "F-16-ex-1.mp3"
+  },
+  {
+   "en": "I read a book. The book is good.",
+   "vi": "Tôi đọc một cuốn sách. Cuốn sách đó hay.",
+   "audio": "F-16-ex-2.mp3"
+  },
+  {
+   "en": "The door is old.",
+   "vi": "Cái cửa cũ.",
+   "audio": "F-16-ex-3.mp3"
+  },
+  {
+   "en": "The books are here.",
+   "vi": "Mấy cuốn sách ở đây.",
+   "audio": "F-16-ex-4.mp3"
+  },
+  {
+   "en": "Is the teacher here?",
+   "vi": "Thầy giáo có ở đây không?",
+   "audio": "F-16-ex-5.mp3"
+  }
+ ]
+}

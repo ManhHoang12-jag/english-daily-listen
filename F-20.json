@@ -1,0 +1,67 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra 3: my big house",
+ "vocabulary": [
+  {
+   "word": "my",
+   "ipa": "/maɪ/",
+   "meaning": "của tôi",
+   "pos": "từ sở hữu",
+   "audio": "F-20-w-my.mp3"
+  },
+  {
+   "word": "her",
+   "ipa": "/hɝː/",
+   "meaning": "của cô ấy; cô ấy (sau động từ)",
+   "pos": "từ sở hữu / đại từ tân ngữ",
+   "audio": "F-20-w-her.mp3"
+  },
+  {
+   "word": "his",
+   "ipa": "/hɪz/",
+   "meaning": "của anh ấy",
+   "pos": "từ sở hữu",
+   "audio": "F-20-w-his.mp3"
+  },
+  {
+   "word": "them",
+   "ipa": "/ðem/",
+   "meaning": "họ (sau động từ)",
+   "pos": "đại từ tân ngữ",
+   "audio": "F-20-w-them.mp3"
+  },
+  {
+   "word": "big",
+   "ipa": "/bɪɡ/",
+   "meaning": "to, lớn",
+   "pos": "tính từ",
+   "audio": "F-20-w-big.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My house is big.",
+   "vi": "Nhà của tôi to.",
+   "audio": "F-20-ex-1.mp3"
+  },
+  {
+   "en": "I like my big house.",
+   "vi": "Tôi thích ngôi nhà to của tôi.",
+   "audio": "F-20-ex-2.mp3"
+  },
+  {
+   "en": "She likes her new phone.",
+   "vi": "Cô ấy thích chiếc điện thoại mới của cô ấy.",
+   "audio": "F-20-ex-3.mp3"
+  },
+  {
+   "en": "Her son is a doctor.",
+   "vi": "Con trai cô ấy là bác sĩ.",
+   "audio": "F-20-ex-4.mp3"
+  },
+  {
+   "en": "My father helps them.",
+   "vi": "Bố tôi giúp họ.",
+   "audio": "F-20-ex-5.mp3"
+  }
+ ]
+}

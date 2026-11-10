@@ -1,0 +1,74 @@
+{
+ "title": "Bài 15. Mạo từ a, an: I am a teacher",
+ "vocabulary": [
+  {
+   "word": "a",
+   "ipa": "/ə/",
+   "meaning": "một (trước âm phụ âm)",
+   "pos": "mạo từ",
+   "audio": "F-15-w-a.mp3"
+  },
+  {
+   "word": "an",
+   "ipa": "/ən/",
+   "meaning": "một (trước âm nguyên âm)",
+   "pos": "mạo từ",
+   "audio": "F-15-w-an.mp3"
+  },
+  {
+   "word": "teacher",
+   "ipa": "/ˈtiːtʃɚ/",
+   "meaning": "giáo viên",
+   "pos": "danh từ",
+   "audio": "F-15-w-teacher.mp3"
+  },
+  {
+   "word": "student",
+   "ipa": "/ˈstuːdənt/",
+   "meaning": "học sinh, sinh viên",
+   "pos": "danh từ",
+   "audio": "F-15-w-student.mp3"
+  },
+  {
+   "word": "doctor",
+   "ipa": "/ˈdɑːktɚ/",
+   "meaning": "bác sĩ",
+   "pos": "danh từ",
+   "audio": "F-15-w-doctor.mp3"
+  },
+  {
+   "word": "apple",
+   "ipa": "/ˈæpəl/",
+   "meaning": "quả táo",
+   "pos": "danh từ",
+   "audio": "F-15-w-apple.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am a teacher.",
+   "vi": "Tôi là giáo viên.",
+   "audio": "F-15-ex-1.mp3"
+  },
+  {
+   "en": "She is a doctor.",
+   "vi": "Cô ấy là bác sĩ.",
+   "audio": "F-15-ex-2.mp3"
+  },
+  {
+   "en": "He is a student.",
+   "vi": "Anh ấy là học sinh.",
+   "audio": "F-15-ex-3.mp3"
+  },
+  {
+   "en": "I eat an apple.",
+   "vi": "Tôi ăn một quả táo.",
+   "audio": "F-15-ex-4.mp3"
+  },
+  {
+   "en": "They are students.",
+   "vi": "Họ là học sinh.",
+   "audio": "F-15-ex-5.mp3"
+  }
+ ]
+}

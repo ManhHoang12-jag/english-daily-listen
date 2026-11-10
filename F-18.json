@@ -1,0 +1,81 @@
+{
+ "title": "Bài 18. Của anh ấy, của cô ấy: his, her, its",
+ "vocabulary": [
+  {
+   "word": "his",
+   "ipa": "/hɪz/",
+   "meaning": "của anh ấy, của ông ấy",
+   "pos": "từ sở hữu",
+   "audio": "F-18-w-his.mp3"
+  },
+  {
+   "word": "her",
+   "ipa": "/hɝː/",
+   "meaning": "của cô ấy, của bà ấy",
+   "pos": "từ sở hữu",
+   "audio": "F-18-w-her.mp3"
+  },
+  {
+   "word": "its",
+   "ipa": "/ɪts/",
+   "meaning": "của nó",
+   "pos": "từ sở hữu",
+   "audio": "F-18-w-its.mp3"
+  },
+  {
+   "word": "mother",
+   "ipa": "/ˈmʌðɚ/",
+   "meaning": "mẹ",
+   "pos": "danh từ",
+   "audio": "F-18-w-mother.mp3"
+  },
+  {
+   "word": "father",
+   "ipa": "/ˈfɑːðɚ/",
+   "meaning": "bố, cha",
+   "pos": "danh từ",
+   "audio": "F-18-w-father.mp3"
+  },
+  {
+   "word": "son",
+   "ipa": "/sʌn/",
+   "meaning": "con trai",
+   "pos": "danh từ",
+   "audio": "F-18-w-son.mp3"
+  },
+  {
+   "word": "daughter",
+   "ipa": "/ˈdɑːtɚ/",
+   "meaning": "con gái",
+   "pos": "danh từ",
+   "audio": "F-18-w-daughter.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "His name is Nam.",
+   "vi": "Tên anh ấy là Nam.",
+   "audio": "F-18-ex-1.mp3"
+  },
+  {
+   "en": "Her name is Lan.",
+   "vi": "Tên cô ấy là Lan.",
+   "audio": "F-18-ex-2.mp3"
+  },
+  {
+   "en": "Lan is a doctor. Her son is a student.",
+   "vi": "Lan là bác sĩ. Con trai cô ấy là học sinh.",
+   "audio": "F-18-ex-3.mp3"
+  },
+  {
+   "en": "Nam is a teacher. His daughter is a doctor.",
+   "vi": "Nam là giáo viên. Con gái anh ấy là bác sĩ.",
+   "audio": "F-18-ex-4.mp3"
+  },
+  {
+   "en": "The cat is small. Its name is Mimi.",
+   "vi": "Con mèo nhỏ. Tên nó là Mimi.",
+   "audio": "F-18-ex-5.mp3"
+  }
+ ]
+}

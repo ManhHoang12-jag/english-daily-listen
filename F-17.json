@@ -1,0 +1,74 @@
+{
+ "title": "Bài 17. Của tôi, của bạn: my, your, our, their",
+ "vocabulary": [
+  {
+   "word": "my",
+   "ipa": "/maɪ/",
+   "meaning": "của tôi",
+   "pos": "từ sở hữu",
+   "audio": "F-17-w-my.mp3"
+  },
+  {
+   "word": "your",
+   "ipa": "/jʊr/",
+   "meaning": "của bạn, của các bạn",
+   "pos": "từ sở hữu",
+   "audio": "F-17-w-your.mp3"
+  },
+  {
+   "word": "our",
+   "ipa": "/aʊɚ/",
+   "meaning": "của chúng tôi, của chúng ta",
+   "pos": "từ sở hữu",
+   "audio": "F-17-w-our.mp3"
+  },
+  {
+   "word": "their",
+   "ipa": "/ðer/",
+   "meaning": "của họ",
+   "pos": "từ sở hữu",
+   "audio": "F-17-w-their.mp3"
+  },
+  {
+   "word": "name",
+   "ipa": "/neɪm/",
+   "meaning": "tên",
+   "pos": "danh từ",
+   "audio": "F-17-w-name.mp3"
+  },
+  {
+   "word": "job",
+   "ipa": "/dʒɑːb/",
+   "meaning": "công việc, nghề",
+   "pos": "danh từ",
+   "audio": "F-17-w-job.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My house is big.",
+   "vi": "Nhà của tôi to.",
+   "audio": "F-17-ex-1.mp3"
+  },
+  {
+   "en": "My name is Nam. I am a doctor.",
+   "vi": "Tên tôi là Nam. Tôi là bác sĩ.",
+   "audio": "F-17-ex-2.mp3"
+  },
+  {
+   "en": "Your phone is new.",
+   "vi": "Điện thoại của bạn mới.",
+   "audio": "F-17-ex-3.mp3"
+  },
+  {
+   "en": "I like my job.",
+   "vi": "Tôi thích công việc của tôi.",
+   "audio": "F-17-ex-4.mp3"
+  },
+  {
+   "en": "Our room is small. Their room is big.",
+   "vi": "Phòng của chúng tôi nhỏ. Phòng của họ to.",
+   "audio": "F-17-ex-5.mp3"
+  }
+ ]
+}

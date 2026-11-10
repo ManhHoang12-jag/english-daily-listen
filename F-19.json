@@ -1,0 +1,81 @@
+{
+ "title": "Bài 19. I, me, my: ba vị trí của \"tôi\"",
+ "vocabulary": [
+  {
+   "word": "me",
+   "ipa": "/miː/",
+   "meaning": "tôi (sau động từ)",
+   "pos": "đại từ tân ngữ",
+   "audio": "F-19-w-me.mp3"
+  },
+  {
+   "word": "him",
+   "ipa": "/hɪm/",
+   "meaning": "anh ấy, ông ấy (sau động từ)",
+   "pos": "đại từ tân ngữ",
+   "audio": "F-19-w-him.mp3"
+  },
+  {
+   "word": "us",
+   "ipa": "/ʌs/",
+   "meaning": "chúng tôi, chúng ta (sau động từ)",
+   "pos": "đại từ tân ngữ",
+   "audio": "F-19-w-us.mp3"
+  },
+  {
+   "word": "them",
+   "ipa": "/ðem/",
+   "meaning": "họ, chúng (sau động từ)",
+   "pos": "đại từ tân ngữ",
+   "audio": "F-19-w-them.mp3"
+  },
+  {
+   "word": "help",
+   "ipa": "/help/",
+   "meaning": "giúp",
+   "pos": "động từ",
+   "audio": "F-19-w-help.mp3"
+  },
+  {
+   "word": "call",
+   "ipa": "/kɑːl/",
+   "meaning": "gọi, gọi điện",
+   "pos": "động từ",
+   "audio": "F-19-w-call.mp3"
+  },
+  {
+   "word": "know",
+   "ipa": "/noʊ/",
+   "meaning": "biết, quen",
+   "pos": "động từ",
+   "audio": "F-19-w-know.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She helps me.",
+   "vi": "Cô ấy giúp tôi.",
+   "audio": "F-19-ex-1.mp3"
+  },
+  {
+   "en": "I know him.",
+   "vi": "Tôi biết anh ấy.",
+   "audio": "F-19-ex-2.mp3"
+  },
+  {
+   "en": "They call us.",
+   "vi": "Họ gọi chúng tôi.",
+   "audio": "F-19-ex-3.mp3"
+  },
+  {
+   "en": "We help them.",
+   "vi": "Chúng tôi giúp họ.",
+   "audio": "F-19-ex-4.mp3"
+  },
+  {
+   "en": "I help my mother. She helps me.",
+   "vi": "Tôi giúp mẹ tôi. Mẹ giúp tôi.",
+   "audio": "F-19-ex-5.mp3"
+  }
+ ]
+}

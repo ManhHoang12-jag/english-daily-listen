@@ -1,0 +1,74 @@
+{
+ "title": "Bài 09. Chọn am, is, are theo chủ ngữ",
+ "vocabulary": [
+  {
+   "word": "is",
+   "ipa": "/ɪz/",
+   "meaning": "(từ nối, đi với he, she, it)",
+   "pos": "động từ to be",
+   "audio": "F-09-w-is.mp3"
+  },
+  {
+   "word": "are",
+   "ipa": "/ɑːr/",
+   "meaning": "(từ nối, đi với you, we, they)",
+   "pos": "động từ to be",
+   "audio": "F-09-w-are.mp3"
+  },
+  {
+   "word": "hot",
+   "ipa": "/hɑːt/",
+   "meaning": "nóng",
+   "pos": "tính từ",
+   "audio": "F-09-w-hot.mp3"
+  },
+  {
+   "word": "cold",
+   "ipa": "/koʊld/",
+   "meaning": "lạnh",
+   "pos": "tính từ",
+   "audio": "F-09-w-cold.mp3"
+  },
+  {
+   "word": "late",
+   "ipa": "/leɪt/",
+   "meaning": "muộn, trễ",
+   "pos": "tính từ",
+   "audio": "F-09-w-late.mp3"
+  },
+  {
+   "word": "fine",
+   "ipa": "/faɪn/",
+   "meaning": "ổn, khỏe",
+   "pos": "tính từ",
+   "audio": "F-09-w-fine.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She is happy.",
+   "vi": "Cô ấy vui.",
+   "audio": "F-09-ex-1.mp3"
+  },
+  {
+   "en": "They are tired.",
+   "vi": "Họ mệt.",
+   "audio": "F-09-ex-2.mp3"
+  },
+  {
+   "en": "It is hot.",
+   "vi": "Trời nóng.",
+   "audio": "F-09-ex-3.mp3"
+  },
+  {
+   "en": "She's late.",
+   "vi": "Cô ấy đến muộn.",
+   "audio": "F-09-ex-4.mp3"
+  },
+  {
+   "en": "We're fine.",
+   "vi": "Chúng tôi ổn.",
+   "audio": "F-09-ex-5.mp3"
+  }
+ ]
+}

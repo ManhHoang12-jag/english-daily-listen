@@ -1,0 +1,60 @@
+{
+ "title": "Bài 10. Một người hay nhiều người: is hay are",
+ "vocabulary": [
+  {
+   "word": "and",
+   "ipa": "/ænd/",
+   "meaning": "và",
+   "pos": "liên từ",
+   "audio": "F-10-w-and.mp3"
+  },
+  {
+   "word": "teachers",
+   "ipa": "/ˈtiːtʃɚz/",
+   "meaning": "giáo viên (nhiều người)",
+   "pos": "danh từ",
+   "audio": "F-10-w-teachers.mp3"
+  },
+  {
+   "word": "family",
+   "ipa": "/ˈfæməli/",
+   "meaning": "gia đình",
+   "pos": "danh từ",
+   "audio": "F-10-w-family.mp3"
+  },
+  {
+   "word": "children",
+   "ipa": "/ˈtʃɪldrən/",
+   "meaning": "trẻ em, con cái (nhiều người)",
+   "pos": "danh từ",
+   "audio": "F-10-w-children.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Lan is busy.",
+   "vi": "Lan bận.",
+   "audio": "F-10-ex-1.mp3"
+  },
+  {
+   "en": "Lan and Nam are busy.",
+   "vi": "Lan và Nam bận.",
+   "audio": "F-10-ex-2.mp3"
+  },
+  {
+   "en": "Nam and I are students.",
+   "vi": "Nam và tôi là sinh viên.",
+   "audio": "F-10-ex-3.mp3"
+  },
+  {
+   "en": "Lan and Nam are teachers.",
+   "vi": "Lan và Nam là giáo viên.",
+   "audio": "F-10-ex-4.mp3"
+  },
+  {
+   "en": "My family is happy.",
+   "vi": "Gia đình tôi vui vẻ.",
+   "audio": "F-10-ex-5.mp3"
+  }
+ ]
+}

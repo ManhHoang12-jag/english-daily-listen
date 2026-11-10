@@ -1,0 +1,81 @@
+{
+ "title": "Bài 14. Danh từ số ít và số nhiều: one book, two books",
+ "vocabulary": [
+  {
+   "word": "one",
+   "ipa": "/wʌn/",
+   "meaning": "một",
+   "pos": "số đếm",
+   "audio": "F-14-w-one.mp3"
+  },
+  {
+   "word": "two",
+   "ipa": "/tuː/",
+   "meaning": "hai",
+   "pos": "số đếm",
+   "audio": "F-14-w-two.mp3"
+  },
+  {
+   "word": "three",
+   "ipa": "/θriː/",
+   "meaning": "ba",
+   "pos": "số đếm",
+   "audio": "F-14-w-three.mp3"
+  },
+  {
+   "word": "book",
+   "ipa": "/bʊk/",
+   "meaning": "cuốn sách",
+   "pos": "danh từ",
+   "audio": "F-14-w-book.mp3"
+  },
+  {
+   "word": "pen",
+   "ipa": "/pen/",
+   "meaning": "cây bút",
+   "pos": "danh từ",
+   "audio": "F-14-w-pen.mp3"
+  },
+  {
+   "word": "phone",
+   "ipa": "/foʊn/",
+   "meaning": "điện thoại",
+   "pos": "danh từ",
+   "audio": "F-14-w-phone.mp3"
+  },
+  {
+   "word": "day",
+   "ipa": "/deɪ/",
+   "meaning": "ngày",
+   "pos": "danh từ",
+   "audio": "F-14-w-day.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I read one book.",
+   "vi": "Tôi đọc một cuốn sách.",
+   "audio": "F-14-ex-1.mp3"
+  },
+  {
+   "en": "She reads two books.",
+   "vi": "Cô ấy đọc hai cuốn sách.",
+   "audio": "F-14-ex-2.mp3"
+  },
+  {
+   "en": "Two pens are here.",
+   "vi": "Hai cây bút ở đây.",
+   "audio": "F-14-ex-3.mp3"
+  },
+  {
+   "en": "Two phones are new. One phone is old.",
+   "vi": "Hai cái điện thoại còn mới. Một cái thì cũ.",
+   "audio": "F-14-ex-4.mp3"
+  },
+  {
+   "en": "They like new phones.",
+   "vi": "Họ thích điện thoại mới.",
+   "audio": "F-14-ex-5.mp3"
+  }
+ ]
+}
