@@ -1,0 +1,46 @@
+{
+ "title": "Bài 25. Câu hỏi có/không với do, does",
+ "vocabulary": [
+  {
+   "word": "do",
+   "ipa": "/duː/",
+   "meaning": "(từ giúp để hỏi, đi với I, you, we, they)",
+   "pos": "trợ động từ",
+   "audio": "F-25-w-do.mp3"
+  },
+  {
+   "word": "does",
+   "ipa": "/dʌz/",
+   "meaning": "(từ giúp để hỏi, đi với he, she, it)",
+   "pos": "trợ động từ",
+   "audio": "F-25-w-does.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Do you like coffee? Yes, I do.",
+   "vi": "Bạn có thích cà phê không? Có, tôi thích.",
+   "audio": "F-25-ex-1.mp3"
+  },
+  {
+   "en": "Do they eat meat? No, they don't.",
+   "vi": "Họ có ăn thịt không? Không, họ không ăn.",
+   "audio": "F-25-ex-2.mp3"
+  },
+  {
+   "en": "Does she cook? Yes, she does.",
+   "vi": "Cô ấy có nấu ăn không? Có, cô ấy có nấu.",
+   "audio": "F-25-ex-3.mp3"
+  },
+  {
+   "en": "Does he smoke? No, he doesn't.",
+   "vi": "Anh ấy có hút thuốc không? Không, anh ấy không hút.",
+   "audio": "F-25-ex-4.mp3"
+  },
+  {
+   "en": "Does Lan speak English? Yes, she does.",
+   "vi": "Lan có nói tiếng Anh không? Có, cô ấy có nói.",
+   "audio": "F-25-ex-5.mp3"
+  }
+ ]
+}

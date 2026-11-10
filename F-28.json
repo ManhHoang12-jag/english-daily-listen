@@ -1,0 +1,74 @@
+{
+ "title": "Bài 28. Trọng âm của từ và bài nghe ngắn",
+ "vocabulary": [
+  {
+   "word": "teacher",
+   "ipa": "/ˈtiːtʃɚ/",
+   "meaning": "giáo viên (TEA-cher)",
+   "pos": "danh từ",
+   "audio": "F-28-w-teacher.mp3"
+  },
+  {
+   "word": "student",
+   "ipa": "/ˈstuːdənt/",
+   "meaning": "học sinh, sinh viên (STU-dent)",
+   "pos": "danh từ",
+   "audio": "F-28-w-student.mp3"
+  },
+  {
+   "word": "doctor",
+   "ipa": "/ˈdɑːktɚ/",
+   "meaning": "bác sĩ (DOC-tor)",
+   "pos": "danh từ",
+   "audio": "F-28-w-doctor.mp3"
+  },
+  {
+   "word": "daughter",
+   "ipa": "/ˈdɑːtɚ/",
+   "meaning": "con gái (DAUGH-ter)",
+   "pos": "danh từ",
+   "audio": "F-28-w-daughter.mp3"
+  },
+  {
+   "word": "English",
+   "ipa": "/ˈɪŋɡlɪʃ/",
+   "meaning": "tiếng Anh (ENG-lish)",
+   "pos": "danh từ",
+   "audio": "F-28-w-english.mp3"
+  },
+  {
+   "word": "family",
+   "ipa": "/ˈfæməli/",
+   "meaning": "gia đình (FA-mi-ly)",
+   "pos": "danh từ",
+   "audio": "F-28-w-family.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My name is Mai. I am a teacher. I live in Da Nang. It is a big city. I have a son and a daughter. My son is a student. He studies English. My daughter is a doctor. I love my family.",
+   "vi": "Tên tôi là Mai. Tôi là giáo viên. Tôi sống ở Đà Nẵng. Đó là một thành phố lớn. Tôi có một con trai và một con gái. Con trai tôi là sinh viên. Nó học tiếng Anh. Con gái tôi là bác sĩ. Tôi yêu gia đình tôi.",
+   "audio": "F-28-ex-1.mp3"
+  },
+  {
+   "en": "My son is a student.",
+   "vi": "Con trai tôi là sinh viên.",
+   "audio": "F-28-ex-2.mp3"
+  },
+  {
+   "en": "My daughter is a doctor.",
+   "vi": "Con gái tôi là bác sĩ.",
+   "audio": "F-28-ex-3.mp3"
+  },
+  {
+   "en": "He studies English.",
+   "vi": "Nó học tiếng Anh.",
+   "audio": "F-28-ex-4.mp3"
+  },
+  {
+   "en": "I love my family.",
+   "vi": "Tôi yêu gia đình tôi.",
+   "audio": "F-28-ex-5.mp3"
+  }
+ ]
+}

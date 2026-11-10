@@ -1,0 +1,60 @@
+{
+ "title": "Bài 22. Câu phủ định với don't: I don't understand",
+ "vocabulary": [
+  {
+   "word": "don't",
+   "ipa": "/doʊnt/",
+   "meaning": "không (trước động từ, dạng gọn của do not)",
+   "pos": "trợ động từ + not",
+   "audio": "F-22-w-don-t.mp3"
+  },
+  {
+   "word": "speak",
+   "ipa": "/spiːk/",
+   "meaning": "nói (một ngôn ngữ)",
+   "pos": "động từ",
+   "audio": "F-22-w-speak.mp3"
+  },
+  {
+   "word": "understand",
+   "ipa": "/ˌʌndɚˈstænd/",
+   "meaning": "hiểu",
+   "pos": "động từ",
+   "audio": "F-22-w-understand.mp3"
+  },
+  {
+   "word": "meat",
+   "ipa": "/miːt/",
+   "meaning": "thịt",
+   "pos": "danh từ",
+   "audio": "F-22-w-meat.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I don't understand.",
+   "vi": "Tôi không hiểu.",
+   "audio": "F-22-ex-1.mp3"
+  },
+  {
+   "en": "I don't eat meat.",
+   "vi": "Tôi không ăn thịt.",
+   "audio": "F-22-ex-2.mp3"
+  },
+  {
+   "en": "They don't speak English.",
+   "vi": "Họ không nói tiếng Anh.",
+   "audio": "F-22-ex-3.mp3"
+  },
+  {
+   "en": "We don't have time.",
+   "vi": "Chúng tôi không có thời gian.",
+   "audio": "F-22-ex-4.mp3"
+  },
+  {
+   "en": "I don't like coffee.",
+   "vi": "Tôi không thích cà phê.",
+   "audio": "F-22-ex-5.mp3"
+  }
+ ]
+}

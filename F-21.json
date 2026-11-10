@@ -1,0 +1,102 @@
+{
+ "title": "Bài 21. Động từ thông dụng: have, has, go, goes",
+ "vocabulary": [
+  {
+   "word": "love",
+   "ipa": "/lʌv/",
+   "meaning": "yêu, rất thích",
+   "pos": "động từ",
+   "audio": "F-21-w-love.mp3"
+  },
+  {
+   "word": "want",
+   "ipa": "/wɑːnt/",
+   "meaning": "muốn",
+   "pos": "động từ",
+   "audio": "F-21-w-want.mp3"
+  },
+  {
+   "word": "need",
+   "ipa": "/niːd/",
+   "meaning": "cần",
+   "pos": "động từ",
+   "audio": "F-21-w-need.mp3"
+  },
+  {
+   "word": "have",
+   "ipa": "/hæv/",
+   "meaning": "có (sau I, you, we, they)",
+   "pos": "động từ",
+   "audio": "F-21-w-have.mp3"
+  },
+  {
+   "word": "has",
+   "ipa": "/hæz/",
+   "meaning": "có (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-21-w-has.mp3"
+  },
+  {
+   "word": "go",
+   "ipa": "/ɡoʊ/",
+   "meaning": "đi (sau I, you, we, they)",
+   "pos": "động từ",
+   "audio": "F-21-w-go.mp3"
+  },
+  {
+   "word": "goes",
+   "ipa": "/ɡoʊz/",
+   "meaning": "đi (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-21-w-goes.mp3"
+  },
+  {
+   "word": "school",
+   "ipa": "/skuːl/",
+   "meaning": "trường học",
+   "pos": "danh từ",
+   "audio": "F-21-w-school.mp3"
+  },
+  {
+   "word": "time",
+   "ipa": "/taɪm/",
+   "meaning": "thời gian",
+   "pos": "danh từ",
+   "audio": "F-21-w-time.mp3"
+  },
+  {
+   "word": "money",
+   "ipa": "/ˈmʌni/",
+   "meaning": "tiền",
+   "pos": "danh từ",
+   "audio": "F-21-w-money.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I love my family.",
+   "vi": "Tôi yêu gia đình tôi.",
+   "audio": "F-21-ex-1.mp3"
+  },
+  {
+   "en": "I need money.",
+   "vi": "Tôi cần tiền.",
+   "audio": "F-21-ex-2.mp3"
+  },
+  {
+   "en": "She wants a new phone.",
+   "vi": "Cô ấy muốn một chiếc điện thoại mới.",
+   "audio": "F-21-ex-3.mp3"
+  },
+  {
+   "en": "He has a big house.",
+   "vi": "Anh ấy có một ngôi nhà to.",
+   "audio": "F-21-ex-4.mp3"
+  },
+  {
+   "en": "Lan goes to school.",
+   "vi": "Lan đi học.",
+   "audio": "F-21-ex-5.mp3"
+  }
+ ]
+}

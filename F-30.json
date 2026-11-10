@@ -1,0 +1,74 @@
+{
+ "title": "Bài 30. Kiểm tra cuối chặng: nghe, nói, đọc, viết",
+ "vocabulary": [
+  {
+   "word": "where",
+   "ipa": "/wer/",
+   "meaning": "ở đâu",
+   "pos": "từ để hỏi",
+   "audio": "F-30-w-where.mp3"
+  },
+  {
+   "word": "lives",
+   "ipa": "/lɪvz/",
+   "meaning": "sống (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-30-w-lives.mp3"
+  },
+  {
+   "word": "doesn't",
+   "ipa": "/ˈdʌzənt/",
+   "meaning": "không (= does not, sau he, she, it)",
+   "pos": "dạng gọn",
+   "audio": "F-30-w-doesn-t.mp3"
+  },
+  {
+   "word": "watches",
+   "ipa": "/ˈwɑːtʃɪz/",
+   "meaning": "xem, trông (sau he, she, it)",
+   "pos": "động từ",
+   "audio": "F-30-w-watches.mp3"
+  },
+  {
+   "word": "city",
+   "ipa": "/ˈsɪti/",
+   "meaning": "thành phố",
+   "pos": "danh từ",
+   "audio": "F-30-w-city.mp3"
+  },
+  {
+   "word": "family",
+   "ipa": "/ˈfæməli/",
+   "meaning": "gia đình",
+   "pos": "danh từ",
+   "audio": "F-30-w-family.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am a student. I study English.",
+   "vi": "Tôi là sinh viên. Tôi học tiếng Anh.",
+   "audio": "F-30-ex-1.mp3"
+  },
+  {
+   "en": "She lives in a big city.",
+   "vi": "Cô ấy sống ở một thành phố lớn.",
+   "audio": "F-30-ex-2.mp3"
+  },
+  {
+   "en": "He doesn't eat meat.",
+   "vi": "Anh ấy không ăn thịt.",
+   "audio": "F-30-ex-3.mp3"
+  },
+  {
+   "en": "Do you have a phone? Yes, I do.",
+   "vi": "Bạn có điện thoại không? Có.",
+   "audio": "F-30-ex-4.mp3"
+  },
+  {
+   "en": "Where do they live? They live in Hanoi.",
+   "vi": "Họ sống ở đâu? Họ sống ở Hà Nội.",
+   "audio": "F-30-ex-5.mp3"
+  }
+ ]
+}

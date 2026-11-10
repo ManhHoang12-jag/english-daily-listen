@@ -1,0 +1,67 @@
+{
+ "title": "Bài 24. no, not hay don't",
+ "vocabulary": [
+  {
+   "word": "no",
+   "ipa": "/noʊ/",
+   "meaning": "không (đầu câu trả lời); không có (trước danh từ)",
+   "pos": "từ trả lời / từ hạn định",
+   "audio": "F-24-w-no.mp3"
+  },
+  {
+   "word": "not",
+   "ipa": "/nɑːt/",
+   "meaning": "không (sau am, is, are)",
+   "pos": "trạng từ",
+   "audio": "F-24-w-not.mp3"
+  },
+  {
+   "word": "don't",
+   "ipa": "/doʊnt/",
+   "meaning": "không (trước động từ, sau I, you, we, they)",
+   "pos": "trợ động từ + not",
+   "audio": "F-24-w-don-t.mp3"
+  },
+  {
+   "word": "doesn't",
+   "ipa": "/ˈdʌzənt/",
+   "meaning": "không (trước động từ, sau he, she, it)",
+   "pos": "trợ động từ + not",
+   "audio": "F-24-w-doesn-t.mp3"
+  },
+  {
+   "word": "know",
+   "ipa": "/noʊ/",
+   "meaning": "biết",
+   "pos": "động từ",
+   "audio": "F-24-w-know.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have no time.",
+   "vi": "Tôi không có thời gian.",
+   "audio": "F-24-ex-1.mp3"
+  },
+  {
+   "en": "I'm not busy.",
+   "vi": "Tôi không bận.",
+   "audio": "F-24-ex-2.mp3"
+  },
+  {
+   "en": "I don't know.",
+   "vi": "Tôi không biết.",
+   "audio": "F-24-ex-3.mp3"
+  },
+  {
+   "en": "She doesn't have money.",
+   "vi": "Cô ấy không có tiền.",
+   "audio": "F-24-ex-4.mp3"
+  },
+  {
+   "en": "Are you sick? No, I'm not.",
+   "vi": "Bạn có ốm không? Không, tôi không ốm.",
+   "audio": "F-24-ex-5.mp3"
+  }
+ ]
+}

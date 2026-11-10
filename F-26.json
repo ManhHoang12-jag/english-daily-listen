@@ -1,0 +1,60 @@
+{
+ "title": "Bài 26. Câu hỏi với What, Where",
+ "vocabulary": [
+  {
+   "word": "what",
+   "ipa": "/wʌt/",
+   "meaning": "cái gì, gì",
+   "pos": "từ để hỏi",
+   "audio": "F-26-w-what.mp3"
+  },
+  {
+   "word": "where",
+   "ipa": "/wer/",
+   "meaning": "ở đâu",
+   "pos": "từ để hỏi",
+   "audio": "F-26-w-where.mp3"
+  },
+  {
+   "word": "live",
+   "ipa": "/lɪv/",
+   "meaning": "sống, ở",
+   "pos": "động từ",
+   "audio": "F-26-w-live.mp3"
+  },
+  {
+   "word": "city",
+   "ipa": "/ˈsɪti/",
+   "meaning": "thành phố",
+   "pos": "danh từ",
+   "audio": "F-26-w-city.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What is your name? My name is Lan.",
+   "vi": "Bạn tên là gì? Tôi tên là Lan.",
+   "audio": "F-26-ex-1.mp3"
+  },
+  {
+   "en": "What is your job? I am a doctor.",
+   "vi": "Bạn làm nghề gì? Tôi là bác sĩ.",
+   "audio": "F-26-ex-2.mp3"
+  },
+  {
+   "en": "Where do you live? I live in Hanoi.",
+   "vi": "Bạn sống ở đâu? Tôi sống ở Hà Nội.",
+   "audio": "F-26-ex-3.mp3"
+  },
+  {
+   "en": "Where does Nam live? He lives in Ho Chi Minh City.",
+   "vi": "Nam sống ở đâu? Anh ấy sống ở Thành phố Hồ Chí Minh.",
+   "audio": "F-26-ex-4.mp3"
+  },
+  {
+   "en": "Where is Lan? She is home.",
+   "vi": "Lan đâu rồi? Cô ấy ở nhà.",
+   "audio": "F-26-ex-5.mp3"
+  }
+ ]
+}

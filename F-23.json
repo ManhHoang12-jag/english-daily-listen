@@ -1,0 +1,53 @@
+{
+ "title": "Bài 23. Câu phủ định với doesn't: He doesn't work",
+ "vocabulary": [
+  {
+   "word": "doesn't",
+   "ipa": "/ˈdʌzənt/",
+   "meaning": "không (sau he, she, it; dạng gọn của does not)",
+   "pos": "trợ động từ + not",
+   "audio": "F-23-w-doesn-t.mp3"
+  },
+  {
+   "word": "smoke",
+   "ipa": "/smoʊk/",
+   "meaning": "hút thuốc",
+   "pos": "động từ",
+   "audio": "F-23-w-smoke.mp3"
+  },
+  {
+   "word": "cook",
+   "ipa": "/kʊk/",
+   "meaning": "nấu ăn",
+   "pos": "động từ",
+   "audio": "F-23-w-cook.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "He doesn't work.",
+   "vi": "Anh ấy không làm việc.",
+   "audio": "F-23-ex-1.mp3"
+  },
+  {
+   "en": "She doesn't cook.",
+   "vi": "Cô ấy không nấu ăn.",
+   "audio": "F-23-ex-2.mp3"
+  },
+  {
+   "en": "Lan doesn't eat meat.",
+   "vi": "Lan không ăn thịt.",
+   "audio": "F-23-ex-3.mp3"
+  },
+  {
+   "en": "Nam doesn't have a car.",
+   "vi": "Nam không có ô tô.",
+   "audio": "F-23-ex-4.mp3"
+  },
+  {
+   "en": "I don't smoke. He doesn't smoke.",
+   "vi": "Tôi không hút thuốc. Anh ấy không hút thuốc.",
+   "audio": "F-23-ex-5.mp3"
+  }
+ ]
+}

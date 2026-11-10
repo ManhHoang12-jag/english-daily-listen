@@ -1,0 +1,39 @@
+{
+ "title": "Bài 29. Tự giới thiệu bản thân: Nice to meet you",
+ "vocabulary": [
+  {
+   "word": "Nice to meet you",
+   "ipa": "/naɪs tə ˈmiːt juː/",
+   "meaning": "Rất vui được gặp bạn",
+   "pos": "câu chào",
+   "audio": "F-29-w-nice-to-meet-you.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Nice to meet you. My name is Nam.",
+   "vi": "Rất vui được gặp bạn. Tôi tên là Nam.",
+   "audio": "F-29-ex-1.mp3"
+  },
+  {
+   "en": "I am a doctor. I love my job.",
+   "vi": "Tôi là bác sĩ. Tôi yêu công việc của mình.",
+   "audio": "F-29-ex-2.mp3"
+  },
+  {
+   "en": "I live in Hanoi. It is a big city.",
+   "vi": "Tôi sống ở Hà Nội. Đó là một thành phố lớn.",
+   "audio": "F-29-ex-3.mp3"
+  },
+  {
+   "en": "I have a son and a daughter.",
+   "vi": "Tôi có một con trai và một con gái.",
+   "audio": "F-29-ex-4.mp3"
+  },
+  {
+   "en": "Nice to meet you. My name is Lan. I am a student. I live in Da Nang. I study English. I don't eat meat. I love my family.",
+   "vi": "Rất vui được gặp bạn. Tôi tên là Lan. Tôi là sinh viên. Tôi sống ở Đà Nẵng. Tôi học tiếng Anh. Tôi không ăn thịt. Tôi yêu gia đình mình.",
+   "audio": "F-29-ex-5.mp3"
+  }
+ ]
+}

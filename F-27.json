@@ -1,0 +1,46 @@
+{
+ "title": "Bài 27. Ba cách đọc đuôi -s: /s/, /z/, /ɪz/",
+ "vocabulary": [
+  {
+   "word": "watch",
+   "ipa": "/wɑːtʃ/",
+   "meaning": "xem, trông, theo dõi; đồng hồ đeo tay",
+   "pos": "động từ, danh từ",
+   "audio": "F-27-w-watch.mp3"
+  },
+  {
+   "word": "watches",
+   "ipa": "/ˈwɑːtʃɪz/",
+   "meaning": "xem, trông (sau he, she, it); những chiếc đồng hồ",
+   "pos": "động từ, danh từ",
+   "audio": "F-27-w-watches.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "He works and sleeps.",
+   "vi": "Anh ấy làm việc và ngủ.",
+   "audio": "F-27-ex-1.mp3"
+  },
+  {
+   "en": "She reads books.",
+   "vi": "Cô ấy đọc sách.",
+   "audio": "F-27-ex-2.mp3"
+  },
+  {
+   "en": "My mother watches the children.",
+   "vi": "Mẹ tôi trông bọn trẻ.",
+   "audio": "F-27-ex-3.mp3"
+  },
+  {
+   "en": "They have two houses.",
+   "vi": "Họ có hai ngôi nhà.",
+   "audio": "F-27-ex-4.mp3"
+  },
+  {
+   "en": "Lan has three dogs.",
+   "vi": "Lan có ba con chó.",
+   "audio": "F-27-ex-5.mp3"
+  }
+ ]
+}
