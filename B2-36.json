@@ -1,0 +1,88 @@
+{
+ "title": "Bài 36. So sánh số liệu và tỷ lệ",
+ "vocabulary": [
+  {
+   "word": "proportion",
+   "ipa": "/prəˈpɔrʃən/",
+   "meaning": "tỷ lệ, phần (trong tổng thể)",
+   "pos": "danh từ",
+   "audio": "B2-36-w-proportion.mp3"
+  },
+  {
+   "word": "percentage",
+   "ipa": "/pɚˈsɛntɪdʒ/",
+   "meaning": "tỷ lệ phần trăm",
+   "pos": "danh từ",
+   "audio": "B2-36-w-percentage.mp3"
+  },
+  {
+   "word": "majority",
+   "ipa": "/məˈdʒɔrəti/",
+   "meaning": "phần lớn, đa số (the majority of)",
+   "pos": "danh từ",
+   "audio": "B2-36-w-majority.mp3"
+  },
+  {
+   "word": "minority",
+   "ipa": "/maɪˈnɔrəti/",
+   "meaning": "thiểu số, số ít (a minority of)",
+   "pos": "danh từ",
+   "audio": "B2-36-w-minority.mp3"
+  },
+  {
+   "word": "twice as",
+   "ipa": "/ˈtwaɪs æz/",
+   "meaning": "gấp đôi (twice as many/much/high as)",
+   "pos": "cụm so sánh",
+   "audio": "B2-36-w-twice-as.mp3"
+  },
+  {
+   "word": "compared with",
+   "ipa": "/kəmˈpɛrd wɪð/",
+   "meaning": "so với",
+   "pos": "cụm giới từ",
+   "audio": "B2-36-w-compared-with.mp3"
+  },
+  {
+   "word": "respectively",
+   "ipa": "/rɪˈspɛktɪvli/",
+   "meaning": "lần lượt (theo thứ tự đã nêu)",
+   "pos": "trạng từ",
+   "audio": "B2-36-w-respectively.mp3"
+  },
+  {
+   "word": "account for",
+   "ipa": "/əˈkaʊnt fɔr/",
+   "meaning": "chiếm (bao nhiêu phần)",
+   "pos": "cụm động từ",
+   "audio": "B2-36-w-account-for.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Motorbikes account for almost seventy percent of all journeys to work in the city.",
+   "vi": "Xe máy chiếm gần bảy mươi phần trăm tổng số chuyến đi làm trong thành phố.",
+   "audio": "B2-36-ex-1.mp3"
+  },
+  {
+   "en": "The majority of students cycle to school, whereas only a small minority take the bus.",
+   "vi": "Phần lớn học sinh đạp xe đến trường, trong khi chỉ một số ít đi xe buýt.",
+   "audio": "B2-36-ex-2.mp3"
+  },
+  {
+   "en": "Twice as many women as men use public transport.",
+   "vi": "Số phụ nữ dùng phương tiện công cộng nhiều gấp đôi nam giới.",
+   "audio": "B2-36-ex-3.mp3"
+  },
+  {
+   "en": "Compared with last year, the percentage of online shoppers has risen slightly.",
+   "vi": "So với năm ngoái, tỷ lệ người mua sắm trực tuyến đã tăng nhẹ.",
+   "audio": "B2-36-ex-4.mp3"
+  },
+  {
+   "en": "Men and women spend forty and fifty-five minutes a day on social media, respectively.",
+   "vi": "Nam và nữ dành lần lượt bốn mươi và năm mươi lăm phút mỗi ngày cho mạng xã hội.",
+   "audio": "B2-36-ex-5.mp3"
+  }
+ ]
+}

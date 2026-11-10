@@ -1,0 +1,74 @@
+{
+ "title": "Bài 117. Kỹ năng tích hợp: thuyết trình, tranh luận, đàm phán",
+ "vocabulary": [
+  {
+   "word": "fluency",
+   "ipa": "/ˈfluənsi/",
+   "meaning": "sự trôi chảy, lưu loát",
+   "pos": "danh từ",
+   "audio": "B2-117-w-fluency.mp3"
+  },
+  {
+   "word": "coherence",
+   "ipa": "/koʊˈhɪrəns/",
+   "meaning": "sự mạch lạc (các ý nối với nhau hợp lý)",
+   "pos": "danh từ",
+   "audio": "B2-117-w-coherence.mp3"
+  },
+  {
+   "word": "interaction",
+   "ipa": "/ˌɪntɚˈækʃən/",
+   "meaning": "sự tương tác, trao đổi qua lại",
+   "pos": "danh từ",
+   "audio": "B2-117-w-interaction.mp3"
+  },
+  {
+   "word": "pronunciation",
+   "ipa": "/prəˌnʌnsiˈeɪʃən/",
+   "meaning": "cách phát âm",
+   "pos": "danh từ",
+   "audio": "B2-117-w-pronunciation.mp3"
+  },
+  {
+   "word": "spontaneity",
+   "ipa": "/ˌspɑntəˈneɪəti/",
+   "meaning": "sự tự nhiên, khả năng nói ứng biến không chuẩn bị trước",
+   "pos": "danh từ",
+   "audio": "B2-117-w-spontaneity.mp3"
+  },
+  {
+   "word": "range",
+   "ipa": "/reɪndʒ/",
+   "meaning": "độ đa dạng, phạm vi (a wide range of vocabulary)",
+   "pos": "danh từ",
+   "audio": "B2-117-w-range.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today I'd like to talk about whether universities should replace some lectures with online videos, and I'll focus on three main points.",
+   "vi": "Hôm nay tôi muốn nói về việc các trường đại học có nên thay một số giờ giảng bằng video trực tuyến hay không, và tôi sẽ tập trung vào ba ý chính.",
+   "audio": "B2-117-ex-1.mp3"
+  },
+  {
+   "en": "As you can see from this chart, the number of students studying online has almost doubled over the past five years.",
+   "vi": "Như các bạn thấy trên biểu đồ này, số sinh viên học trực tuyến đã tăng gần gấp đôi trong năm năm qua.",
+   "audio": "B2-117-ex-2.mp3"
+  },
+  {
+   "en": "That's a fair point, but with respect, I'd argue that the evidence points in the opposite direction.",
+   "vi": "Ý đó có lý, nhưng xin phép được nói rằng bằng chứng lại cho thấy điều ngược lại.",
+   "audio": "B2-117-ex-3.mp3"
+  },
+  {
+   "en": "We'd be prepared to extend the deadline on condition that you cover the extra costs.",
+   "vi": "Chúng tôi sẵn sàng gia hạn thời hạn với điều kiện bên anh chịu phần chi phí phát sinh.",
+   "audio": "B2-117-ex-4.mp3"
+  },
+  {
+   "en": "I see where you're coming from, but could we perhaps meet halfway on the price?",
+   "vi": "Tôi hiểu quan điểm của anh, nhưng liệu chúng ta có thể mỗi bên nhường một nửa về giá không?",
+   "audio": "B2-117-ex-5.mp3"
+  }
+ ]
+}

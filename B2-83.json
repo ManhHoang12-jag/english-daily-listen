@@ -1,0 +1,88 @@
+{
+ "title": "Bài 83. Hedging: ngôn ngữ thận trọng",
+ "vocabulary": [
+  {
+   "word": "tend to",
+   "ipa": "/ˈtɛnd tə/",
+   "meaning": "có xu hướng, thường (+ V)",
+   "pos": "động từ",
+   "audio": "B2-83-w-tend-to.mp3"
+  },
+  {
+   "word": "appear to",
+   "ipa": "/əˈpɪr tə/",
+   "meaning": "dường như, có vẻ (+ V)",
+   "pos": "động từ",
+   "audio": "B2-83-w-appear-to.mp3"
+  },
+  {
+   "word": "arguably",
+   "ipa": "/ˈɑːrɡjuəbli/",
+   "meaning": "có thể nói là, có lẽ là",
+   "pos": "trạng từ",
+   "audio": "B2-83-w-arguably.mp3"
+  },
+  {
+   "word": "to some extent",
+   "ipa": "/tə ˌsʌm ɪkˈstɛnt/",
+   "meaning": "ở một mức độ nào đó",
+   "pos": "cụm trạng từ",
+   "audio": "B2-83-w-to-some-extent.mp3"
+  },
+  {
+   "word": "relatively",
+   "ipa": "/ˈrɛlətɪvli/",
+   "meaning": "tương đối",
+   "pos": "trạng từ",
+   "audio": "B2-83-w-relatively.mp3"
+  },
+  {
+   "word": "it could be argued",
+   "ipa": "/ɪt kʊd bi ˈɑːrɡjuːd/",
+   "meaning": "có thể lập luận rằng (+ that + mệnh đề)",
+   "pos": "cấu trúc",
+   "audio": "B2-83-w-it-could-be-argued.mp3"
+  },
+  {
+   "word": "possibly",
+   "ipa": "/ˈpɑːsəbli/",
+   "meaning": "có thể, có lẽ",
+   "pos": "trạng từ",
+   "audio": "B2-83-w-possibly.mp3"
+  },
+  {
+   "word": "suggest",
+   "ipa": "/səɡˈdʒɛst/",
+   "meaning": "cho thấy, gợi ra (chủ ngữ là dữ liệu, kết quả)",
+   "pos": "động từ",
+   "audio": "B2-83-w-suggest.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Students who sleep less than six hours a night tend to perform worse on memory tests.",
+   "vi": "Sinh viên ngủ dưới sáu tiếng mỗi đêm thường làm bài kiểm tra trí nhớ kém hơn.",
+   "audio": "B2-83-ex-1.mp3"
+  },
+  {
+   "en": "The new parking rules appear to have reduced traffic in the city center.",
+   "vi": "Quy định đỗ xe mới dường như đã làm giảm lượng xe ở trung tâm thành phố.",
+   "audio": "B2-83-ex-2.mp3"
+  },
+  {
+   "en": "It could be argued that social media has made people more isolated, not less.",
+   "vi": "Có thể lập luận rằng mạng xã hội đã làm con người cô lập hơn chứ không phải ít đi.",
+   "audio": "B2-83-ex-3.mp3"
+  },
+  {
+   "en": "Online learning is arguably more flexible than classroom learning, but it may not suit every student.",
+   "vi": "Có thể nói học trực tuyến linh hoạt hơn học trên lớp, nhưng có lẽ không hợp với mọi học viên.",
+   "audio": "B2-83-ex-4.mp3"
+  },
+  {
+   "en": "These results suggest that the delays were, to some extent, caused by poor planning.",
+   "vi": "Những kết quả này cho thấy sự chậm trễ, ở mức độ nào đó, là do lập kế hoạch kém.",
+   "audio": "B2-83-ex-5.mp3"
+  }
+ ]
+}

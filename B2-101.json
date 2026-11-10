@@ -1,0 +1,81 @@
+{
+ "title": "Bài 101. Mệnh đề danh từ",
+ "vocabulary": [
+  {
+   "word": "the fact that",
+   "ipa": "/ðə ˈfækt ðət/",
+   "meaning": "việc (rằng)…, sự thật là…",
+   "pos": "cụm mở đầu mệnh đề danh từ",
+   "audio": "B2-101-w-the-fact-that.mp3"
+  },
+  {
+   "word": "whether",
+   "ipa": "/ˈwɛðɚ/",
+   "meaning": "liệu… (hay không)",
+   "pos": "liên từ",
+   "audio": "B2-101-w-whether.mp3"
+  },
+  {
+   "word": "it remains unclear",
+   "ipa": "/ɪt rɪˌmeɪnz ʌnˈklɪr/",
+   "meaning": "vẫn chưa rõ",
+   "pos": "cụm câu",
+   "audio": "B2-101-w-it-remains-unclear.mp3"
+  },
+  {
+   "word": "how far",
+   "ipa": "/ˌhaʊ ˈfɑːr/",
+   "meaning": "đến mức nào",
+   "pos": "cụm từ để hỏi",
+   "audio": "B2-101-w-how-far.mp3"
+  },
+  {
+   "word": "depend on",
+   "ipa": "/dɪˈpɛnd ɑːn/",
+   "meaning": "phụ thuộc vào, tùy vào",
+   "pos": "động từ + giới từ",
+   "audio": "B2-101-w-depend-on.mp3"
+  },
+  {
+   "word": "determine",
+   "ipa": "/dɪˈtɝːmɪn/",
+   "meaning": "xác định; quyết định",
+   "pos": "động từ",
+   "audio": "B2-101-w-determine.mp3"
+  },
+  {
+   "word": "the extent to which",
+   "ipa": "/ði ɪkˈstɛnt tə ˈwɪtʃ/",
+   "meaning": "mức độ mà",
+   "pos": "cụm mở đầu mệnh đề danh từ",
+   "audio": "B2-101-w-the-extent-to-which.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What the latest study shows is that remote workers are not necessarily less productive than office workers.",
+   "vi": "Điều mà nghiên cứu mới nhất cho thấy là người làm việc từ xa không nhất thiết kém năng suất hơn người làm ở văn phòng.",
+   "audio": "B2-101-ex-1.mp3"
+  },
+  {
+   "en": "The fact that they save almost two hours a day on commuting clearly helps.",
+   "vi": "Việc họ tiết kiệm gần hai tiếng mỗi ngày đi lại rõ ràng là có ích.",
+   "audio": "B2-101-ex-2.mp3"
+  },
+  {
+   "en": "However, whether remote work succeeds depends on the type of job and the team.",
+   "vi": "Tuy nhiên, làm việc từ xa có thành công hay không còn tùy vào loại công việc và đội nhóm.",
+   "audio": "B2-101-ex-3.mp3"
+  },
+  {
+   "en": "It remains unclear how far younger employees benefit, since they may miss chances to learn from senior colleagues.",
+   "vi": "Vẫn chưa rõ nhân viên trẻ được lợi đến mức nào, vì họ có thể mất cơ hội học hỏi từ đồng nghiệp lâu năm.",
+   "audio": "B2-101-ex-4.mp3"
+  },
+  {
+   "en": "Researchers are also trying to determine the extent to which isolation affects mental health over time.",
+   "vi": "Các nhà nghiên cứu cũng đang cố xác định mức độ mà sự cô lập ảnh hưởng tới sức khỏe tinh thần theo thời gian.",
+   "audio": "B2-101-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 26. Thể truyền khiến nâng cao",
+ "vocabulary": [
+  {
+   "word": "have someone do",
+   "ipa": "/hæv ˈsʌmwʌn du/",
+   "meaning": "bảo, giao cho ai làm gì",
+   "pos": "cấu trúc",
+   "audio": "B2-26-w-have-someone-do.mp3"
+  },
+  {
+   "word": "get someone to do",
+   "ipa": "/ɡɛt ˈsʌmwʌn tə du/",
+   "meaning": "nhờ được, thuyết phục được ai làm gì",
+   "pos": "cấu trúc",
+   "audio": "B2-26-w-get-someone-to-do.mp3"
+  },
+  {
+   "word": "persuade",
+   "ipa": "/pɚˈsweɪd/",
+   "meaning": "thuyết phục",
+   "pos": "động từ",
+   "audio": "B2-26-w-persuade.mp3"
+  },
+  {
+   "word": "arrange",
+   "ipa": "/əˈreɪndʒ/",
+   "meaning": "sắp xếp, thu xếp",
+   "pos": "động từ",
+   "audio": "B2-26-w-arrange.mp3"
+  },
+  {
+   "word": "outsource",
+   "ipa": "/ˈaʊtˌsɔrs/",
+   "meaning": "thuê bên ngoài làm",
+   "pos": "động từ",
+   "audio": "B2-26-w-outsource.mp3"
+  },
+  {
+   "word": "commission",
+   "ipa": "/kəˈmɪʃən/",
+   "meaning": "đặt làm, ủy thác (một tác phẩm, một nghiên cứu)",
+   "pos": "động từ",
+   "audio": "B2-26-w-commission.mp3"
+  },
+  {
+   "word": "delegate",
+   "ipa": "/ˈdɛləˌɡeɪt/",
+   "meaning": "giao bớt việc, ủy quyền",
+   "pos": "động từ",
+   "audio": "B2-26-w-delegate.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'll have my assistant send you the conference program this afternoon.",
+   "vi": "Chiều nay tôi sẽ bảo trợ lý gửi cho anh chương trình hội thảo.",
+   "audio": "B2-26-ex-1.mp3"
+  },
+  {
+   "en": "It took us a week to persuade the dean, but we finally got her to give the opening speech.",
+   "vi": "Chúng tôi mất một tuần để thuyết phục bà trưởng khoa, nhưng cuối cùng cũng nhờ được bà phát biểu khai mạc.",
+   "audio": "B2-26-ex-2.mp3"
+  },
+  {
+   "en": "We outsourced the catering and had the posters printed by a local company.",
+   "vi": "Chúng tôi thuê ngoài phần ăn uống và cho một công ty địa phương in áp phích.",
+   "audio": "B2-26-ex-3.mp3"
+  },
+  {
+   "en": "The chair made every speaker finish within fifteen minutes, but she let the keynote speaker talk a little longer.",
+   "vi": "Chủ tọa bắt mọi diễn giả kết thúc trong mười lăm phút, nhưng cho diễn giả chính nói lâu hơn một chút.",
+   "audio": "B2-26-ex-4.mp3"
+  },
+  {
+   "en": "The projector in the main hall needs fixing, so I've arranged for a technician to come in on Monday.",
+   "vi": "Máy chiếu ở hội trường chính cần sửa, nên tôi đã sắp xếp để một kỹ thuật viên đến vào thứ Hai.",
+   "audio": "B2-26-ex-5.mp3"
+  }
+ ]
+}

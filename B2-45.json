@@ -1,0 +1,81 @@
+{
+ "title": "Bài 45. Mệnh đề phân từ: lý do, kết quả và lỗi treo",
+ "vocabulary": [
+  {
+   "word": "being",
+   "ipa": "/ˈbiɪŋ/",
+   "meaning": "vì là, vì đang (Being + N/adj ở đầu câu)",
+   "pos": "hiện tại phân từ của be",
+   "audio": "B2-45-w-being.mp3"
+  },
+  {
+   "word": "not knowing",
+   "ipa": "/nɑt ˈnoʊɪŋ/",
+   "meaning": "vì không biết",
+   "pos": "phân từ phủ định",
+   "audio": "B2-45-w-not-knowing.mp3"
+  },
+  {
+   "word": "faced with",
+   "ipa": "/ˈfeɪst wɪð/",
+   "meaning": "đối mặt với, trước (khó khăn)",
+   "pos": "cụm phân từ",
+   "audio": "B2-45-w-faced-with.mp3"
+  },
+  {
+   "word": "resulting in",
+   "ipa": "/rɪˈzʌltɪŋ ɪn/",
+   "meaning": "dẫn đến, gây ra (+ danh từ)",
+   "pos": "cụm phân từ",
+   "audio": "B2-45-w-resulting-in.mp3"
+  },
+  {
+   "word": "thereby",
+   "ipa": "/ˌðɛrˈbaɪ/",
+   "meaning": "nhờ đó, qua đó (+ V-ing)",
+   "pos": "trạng từ (trang trọng)",
+   "audio": "B2-45-w-thereby.mp3"
+  },
+  {
+   "word": "subject",
+   "ipa": "/ˈsʌbdʒɪkt/",
+   "meaning": "chủ ngữ (ngữ pháp); chủ đề, môn học",
+   "pos": "danh từ",
+   "audio": "B2-45-w-subject.mp3"
+  },
+  {
+   "word": "dangling",
+   "ipa": "/ˈdæŋɡlɪŋ/",
+   "meaning": "treo, lơ lửng (dangling participle = phân từ treo)",
+   "pos": "tính từ",
+   "audio": "B2-45-w-dangling.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Being the only doctor in the village, she was on call day and night.",
+   "vi": "Vì là bác sĩ duy nhất trong làng, chị ấy phải trực cả ngày lẫn đêm.",
+   "audio": "B2-45-ex-1.mp3"
+  },
+  {
+   "en": "Not knowing what to say, he simply smiled and nodded.",
+   "vi": "Không biết nói gì, anh ấy chỉ mỉm cười và gật đầu.",
+   "audio": "B2-45-ex-2.mp3"
+  },
+  {
+   "en": "Faced with rising rents, many young families have moved to the suburbs.",
+   "vi": "Trước giá thuê nhà tăng cao, nhiều gia đình trẻ đã chuyển ra ngoại ô.",
+   "audio": "B2-45-ex-3.mp3"
+  },
+  {
+   "en": "The factory closed last year, resulting in the loss of two hundred jobs.",
+   "vi": "Nhà máy đóng cửa năm ngoái, khiến hai trăm người mất việc.",
+   "audio": "B2-45-ex-4.mp3"
+  },
+  {
+   "en": "The city introduced a congestion charge, thereby cutting traffic in the center by a third.",
+   "vi": "Thành phố áp phí chống ùn tắc, nhờ đó giảm một phần ba lượng xe ở trung tâm.",
+   "audio": "B2-45-ex-5.mp3"
+  }
+ ]
+}

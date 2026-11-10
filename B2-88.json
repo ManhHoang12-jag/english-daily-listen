@@ -1,0 +1,81 @@
+{
+ "title": "Bài 88. Kỹ năng: viết email cho giáo sư và hội đồng tuyển sinh",
+ "vocabulary": [
+  {
+   "word": "prospective",
+   "ipa": "/prəˈspɛktɪv/",
+   "meaning": "tương lai, sắp trở thành (prospective student = người dự định nộp hồ sơ)",
+   "pos": "tính từ",
+   "audio": "B2-88-w-prospective.mp3"
+  },
+  {
+   "word": "research interest",
+   "ipa": "/ˈriːsɝːtʃ ˌɪntrəst/",
+   "meaning": "hướng nghiên cứu quan tâm (thường số nhiều: research interests)",
+   "pos": "danh từ",
+   "audio": "B2-88-w-research-interest.mp3"
+  },
+  {
+   "word": "supervision",
+   "ipa": "/ˌsuːpɚˈvɪʒən/",
+   "meaning": "sự hướng dẫn (luận văn, luận án); under the supervision of...",
+   "pos": "danh từ",
+   "audio": "B2-88-w-supervision.mp3"
+  },
+  {
+   "word": "I would welcome",
+   "ipa": "/aɪ wʊd ˈwɛlkəm/",
+   "meaning": "tôi rất mong nhận được (+ N: any advice, the opportunity...)",
+   "pos": "cụm câu",
+   "audio": "B2-88-w-i-would-welcome.mp3"
+  },
+  {
+   "word": "at your earliest convenience",
+   "ipa": "/æt jɔr ˈɝːliəst kənˈviːniəns/",
+   "meaning": "khi nào thuận tiện sớm nhất (trang trọng; cẩn thận vì có thể nghe như giục)",
+   "pos": "cụm trạng từ",
+   "audio": "B2-88-w-at-your-earliest-convenience.mp3"
+  },
+  {
+   "word": "CV",
+   "ipa": "/ˌsiːˈviː/",
+   "meaning": "sơ yếu lý lịch học thuật (curriculum vitae)",
+   "pos": "danh từ",
+   "audio": "B2-88-w-cv.mp3"
+  },
+  {
+   "word": "statement of purpose",
+   "ipa": "/ˈsteɪtmənt əv ˈpɝːpəs/",
+   "meaning": "bài luận mục tiêu học tập (nộp kèm hồ sơ sau đại học)",
+   "pos": "danh từ",
+   "audio": "B2-88-w-statement-of-purpose.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I recently read your article on low-cost air quality sensors, and I believe my research interests align closely with the work of your group.",
+   "vi": "Gần đây tôi đã đọc bài báo của giáo sư về cảm biến chất lượng không khí giá rẻ, và tôi tin rằng hướng nghiên cứu của tôi rất phù hợp với công việc của nhóm giáo sư.",
+   "audio": "B2-88-ex-1.mp3"
+  },
+  {
+   "en": "My thesis examined the relationship between traffic volume and fine dust levels in two districts of the city.",
+   "vi": "Luận văn của tôi nghiên cứu mối quan hệ giữa lưu lượng giao thông và mức bụi mịn ở hai quận của thành phố.",
+   "audio": "B2-88-ex-2.mp3"
+  },
+  {
+   "en": "I would be very grateful to know whether you expect to accept new students under your supervision next year.",
+   "vi": "Tôi rất mong được biết liệu năm tới giáo sư có dự định nhận thêm sinh viên dưới sự hướng dẫn của mình không.",
+   "audio": "B2-88-ex-3.mp3"
+  },
+  {
+   "en": "I would also welcome any advice on how to strengthen my statement of purpose.",
+   "vi": "Tôi cũng rất mong nhận được lời khuyên về cách làm bài luận mục tiêu học tập tốt hơn.",
+   "audio": "B2-88-ex-4.mp3"
+  },
+  {
+   "en": "I have attached my CV and a short summary of my thesis for your reference.",
+   "vi": "Tôi xin gửi kèm CV và bản tóm tắt ngắn luận văn để giáo sư tham khảo.",
+   "audio": "B2-88-ex-5.mp3"
+  }
+ ]
+}

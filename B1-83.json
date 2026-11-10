@@ -1,0 +1,74 @@
+{
+ "title": "Bài 83. Tổng ôn: điều kiện và wish",
+ "vocabulary": [
+  {
+   "word": "provided",
+   "ipa": "/prəˈvaɪdɪd/",
+   "meaning": "với điều kiện là (= provided that)",
+   "pos": "liên từ",
+   "audio": "B1-83-w-provided.mp3"
+  },
+  {
+   "word": "unless",
+   "ipa": "/ənˈlɛs/",
+   "meaning": "trừ khi, nếu không",
+   "pos": "liên từ",
+   "audio": "B1-83-w-unless.mp3"
+  },
+  {
+   "word": "supposing",
+   "ipa": "/səˈpoʊzɪŋ/",
+   "meaning": "giả sử",
+   "pos": "liên từ",
+   "audio": "B1-83-w-supposing.mp3"
+  },
+  {
+   "word": "imaginary",
+   "ipa": "/ɪˈmædʒənɛri/",
+   "meaning": "tưởng tượng, không có thật",
+   "pos": "tính từ",
+   "audio": "B1-83-w-imaginary.mp3"
+  },
+  {
+   "word": "likely",
+   "ipa": "/ˈlaɪkli/",
+   "meaning": "có khả năng xảy ra",
+   "pos": "tính từ",
+   "audio": "B1-83-w-likely.mp3"
+  },
+  {
+   "word": "hope",
+   "ipa": "/hoʊp/",
+   "meaning": "hy vọng, mong",
+   "pos": "động từ",
+   "audio": "B1-83-w-hope.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If you heat ice, it melts.",
+   "vi": "Nếu đun nóng nước đá, nó tan chảy.",
+   "audio": "B1-83-ex-1.mp3"
+  },
+  {
+   "en": "We'll go to the beach tomorrow, unless you're too tired.",
+   "vi": "Mai chúng ta sẽ đi biển, trừ khi bạn quá mệt.",
+   "audio": "B1-83-ex-2.mp3"
+  },
+  {
+   "en": "If I had more free time, I would learn to play the guitar.",
+   "vi": "Nếu tôi có nhiều thời gian rảnh hơn, tôi sẽ học chơi đàn ghi-ta.",
+   "audio": "B1-83-ex-3.mp3"
+  },
+  {
+   "en": "Supposing you lost your job tomorrow, what would you do?",
+   "vi": "Giả sử ngày mai bạn mất việc, bạn sẽ làm gì?",
+   "audio": "B1-83-ex-4.mp3"
+  },
+  {
+   "en": "I wish I could speak Japanese, and I hope I'll have time to learn it next year.",
+   "vi": "Tôi ước mình nói được tiếng Nhật, và tôi mong năm sau sẽ có thời gian học.",
+   "audio": "B1-83-ex-5.mp3"
+  }
+ ]
+}

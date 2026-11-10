@@ -1,0 +1,74 @@
+{
+ "title": "Bài 120. Kiểm tra cuối giai đoạn B2",
+ "vocabulary": [
+  {
+   "word": "hypothetical",
+   "ipa": "/ˌhaɪpəˈθɛtɪkəl/",
+   "meaning": "giả định, không có thật (ôn B2 · Bài 111)",
+   "pos": "tính từ",
+   "audio": "B2-120-w-hypothetical.mp3"
+  },
+  {
+   "word": "impersonal",
+   "ipa": "/ɪmˈpɝsənəl/",
+   "meaning": "khách quan, không mang tính cá nhân (ôn B2 · Bài 112)",
+   "pos": "tính từ",
+   "audio": "B2-120-w-impersonal.mp3"
+  },
+  {
+   "word": "inversion",
+   "ipa": "/ɪnˈvɝʒən/",
+   "meaning": "đảo ngữ (ôn B2 · Bài 113)",
+   "pos": "danh từ",
+   "audio": "B2-120-w-inversion.mp3"
+  },
+  {
+   "word": "collocation",
+   "ipa": "/ˌkɑləˈkeɪʃən/",
+   "meaning": "kết hợp từ cố định (ôn B2 · Bài 114)",
+   "pos": "danh từ",
+   "audio": "B2-120-w-collocation.mp3"
+  },
+  {
+   "word": "register mismatch",
+   "ipa": "/ˈrɛdʒɪstɚ ˈmɪsˌmætʃ/",
+   "meaning": "lệch văn phong (ôn B2 · Bài 115)",
+   "pos": "danh từ",
+   "audio": "B2-120-w-register-mismatch.mp3"
+  },
+  {
+   "word": "synthesis",
+   "ipa": "/ˈsɪnθəsɪs/",
+   "meaning": "sự tổng hợp từ nhiều nguồn (ôn B2 · Bài 118)",
+   "pos": "danh từ",
+   "audio": "B2-120-w-synthesis.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Had I known how competitive the program was, I would have applied much earlier.",
+   "vi": "Nếu biết trước chương trình cạnh tranh đến vậy, tôi đã nộp hồ sơ sớm hơn nhiều.",
+   "audio": "B2-120-ex-1.mp3"
+  },
+  {
+   "en": "It is widely believed that the new policy will reduce traffic, but the evidence so far is mixed.",
+   "vi": "Nhiều người tin rằng chính sách mới sẽ giảm ùn tắc, nhưng bằng chứng cho đến nay vẫn chưa rõ ràng.",
+   "audio": "B2-120-ex-2.mp3"
+  },
+  {
+   "en": "If the city hadn't invested in public transport ten years ago, the air would be far more polluted today.",
+   "vi": "Nếu mười năm trước thành phố không đầu tư vào giao thông công cộng, thì không khí hôm nay sẽ ô nhiễm hơn nhiều.",
+   "audio": "B2-120-ex-3.mp3"
+  },
+  {
+   "en": "What surprised the researchers most was not the size of the effect but how quickly it appeared.",
+   "vi": "Điều khiến các nhà nghiên cứu ngạc nhiên nhất không phải là mức độ của tác động mà là nó xuất hiện nhanh đến mức nào.",
+   "audio": "B2-120-ex-4.mp3"
+  },
+  {
+   "en": "The panel recommended that the university provide more support for part-time students.",
+   "vi": "Hội đồng khuyến nghị trường đại học hỗ trợ nhiều hơn cho sinh viên học bán thời gian.",
+   "audio": "B2-120-ex-5.mp3"
+  }
+ ]
+}

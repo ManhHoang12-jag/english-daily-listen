@@ -1,0 +1,74 @@
+{
+ "title": "Bài 34. Wish / if only với quá khứ đơn",
+ "vocabulary": [
+  {
+   "word": "wish",
+   "ipa": "/wɪʃ/",
+   "meaning": "ước, mong (điều trái thực tế)",
+   "pos": "động từ",
+   "audio": "B1-34-w-wish.mp3"
+  },
+  {
+   "word": "if only",
+   "ipa": "/ɪf ˈoʊnli/",
+   "meaning": "giá mà, ước gì",
+   "pos": "cụm từ",
+   "audio": "B1-34-w-if-only.mp3"
+  },
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡret/",
+   "meaning": "hối tiếc, tiếc nuối",
+   "pos": "động từ",
+   "audio": "B1-34-w-regret.mp3"
+  },
+  {
+   "word": "fluent",
+   "ipa": "/ˈfluːənt/",
+   "meaning": "trôi chảy, lưu loát",
+   "pos": "tính từ",
+   "audio": "B1-34-w-fluent.mp3"
+  },
+  {
+   "word": "free time",
+   "ipa": "/ˌfriː ˈtaɪm/",
+   "meaning": "thời gian rảnh",
+   "pos": "danh từ",
+   "audio": "B1-34-w-free-time.mp3"
+  },
+  {
+   "word": "instead",
+   "ipa": "/ɪnˈsted/",
+   "meaning": "thay vào đó; instead of = thay vì",
+   "pos": "trạng từ",
+   "audio": "B1-34-w-instead.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I wish I had more free time.",
+   "vi": "Ước gì tôi có nhiều thời gian rảnh hơn.",
+   "audio": "B1-34-ex-1.mp3"
+  },
+  {
+   "en": "I wish I were fluent in English.",
+   "vi": "Ước gì tôi nói tiếng Anh trôi chảy.",
+   "audio": "B1-34-ex-2.mp3"
+  },
+  {
+   "en": "If only I lived closer to work. I'd walk instead of driving.",
+   "vi": "Giá mà tôi sống gần chỗ làm hơn. Tôi sẽ đi bộ thay vì lái xe.",
+   "audio": "B1-34-ex-3.mp3"
+  },
+  {
+   "en": "She wishes she didn't work on weekends.",
+   "vi": "Cô ấy ước mình không phải làm việc cuối tuần.",
+   "audio": "B1-34-ex-4.mp3"
+  },
+  {
+   "en": "I don't regret moving to the city, but I wish I had a garden.",
+   "vi": "Tôi không hối tiếc vì đã chuyển lên thành phố, nhưng ước gì tôi có một khu vườn.",
+   "audio": "B1-34-ex-5.mp3"
+  }
+ ]
+}

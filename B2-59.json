@@ -1,0 +1,74 @@
+{
+ "title": "Bài 59. Kỹ năng: nghe bài nói dài và nhận diện quan điểm",
+ "vocabulary": [
+  {
+   "word": "speaker's view",
+   "ipa": "/ˈspikɚz ˈvju/",
+   "meaning": "quan điểm của diễn giả",
+   "pos": "danh từ",
+   "audio": "B2-59-w-speaker-s-view.mp3"
+  },
+  {
+   "word": "emphasis",
+   "ipa": "/ˈɛmfəsɪs/",
+   "meaning": "sự nhấn mạnh",
+   "pos": "danh từ",
+   "audio": "B2-59-w-emphasis.mp3"
+  },
+  {
+   "word": "implied",
+   "ipa": "/ɪmˈplaɪd/",
+   "meaning": "được ngụ ý, ngầm (không nói thẳng)",
+   "pos": "tính từ",
+   "audio": "B2-59-w-implied.mp3"
+  },
+  {
+   "word": "main argument",
+   "ipa": "/ˈmeɪn ˈɑrgjəmənt/",
+   "meaning": "luận điểm chính",
+   "pos": "danh từ",
+   "audio": "B2-59-w-main-argument.mp3"
+  },
+  {
+   "word": "anecdote",
+   "ipa": "/ˈænɪkˌdoʊt/",
+   "meaning": "câu chuyện ngắn có thật, giai thoại",
+   "pos": "danh từ",
+   "audio": "B2-59-w-anecdote.mp3"
+  },
+  {
+   "word": "conclude",
+   "ipa": "/kənˈklud/",
+   "meaning": "kết luận, kết thúc (bài nói)",
+   "pos": "động từ",
+   "audio": "B2-59-w-conclude.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At first, I was furious. I checked my phone again and again, as if a signal might suddenly appear.",
+   "vi": "Lúc đầu tôi rất bực. Tôi kiểm tra điện thoại hết lần này đến lần khác, như thể sóng sẽ bỗng nhiên xuất hiện.",
+   "audio": "B2-59-ex-1.mp3"
+  },
+  {
+   "en": "But what I want to argue today is that boredom isn't a problem at all. It's a signal, and quite often, it's the starting point of our best thinking.",
+   "vi": "Nhưng điều tôi muốn lập luận hôm nay là buồn chán hoàn toàn không phải vấn đề. Nó là một tín hiệu, và thường là điểm khởi đầu cho những suy nghĩ hay nhất của chúng ta.",
+   "audio": "B2-59-ex-2.mp3"
+  },
+  {
+   "en": "Rarely do we actually choose it; it simply fills every gap in the day.",
+   "vi": "Hiếm khi chúng ta thực sự chọn nó; nó chỉ đơn giản lấp đầy mọi khoảng trống trong ngày.",
+   "audio": "B2-59-ex-3.mp3"
+  },
+  {
+   "en": "It's not our schedules that leave no room for thinking. It's our habits.",
+   "vi": "Không phải lịch làm việc khiến ta không còn chỗ cho suy nghĩ. Mà chính là thói quen của chúng ta.",
+   "audio": "B2-59-ex-4.mp3"
+  },
+  {
+   "en": "Only when we stop filling every moment do we give our minds the space to surprise us.",
+   "vi": "Chỉ khi ngừng lấp đầy mọi khoảnh khắc, chúng ta mới cho tâm trí khoảng trống để làm ta bất ngờ.",
+   "audio": "B2-59-ex-5.mp3"
+  }
+ ]
+}

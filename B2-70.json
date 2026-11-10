@@ -1,0 +1,74 @@
+{
+ "title": "Bài 70. Ôn tập và kiểm tra B2-7",
+ "vocabulary": [
+  {
+   "word": "inflation",
+   "ipa": "/ɪnˈfleɪʃən/",
+   "meaning": "lạm phát (ôn B2 · Bài 61)",
+   "pos": "danh từ",
+   "audio": "B2-70-w-inflation.mp3"
+  },
+  {
+   "word": "supply chain",
+   "ipa": "/səˈplaɪ ˌtʃeɪn/",
+   "meaning": "chuỗi cung ứng (ôn B2 · Bài 62)",
+   "pos": "cụm danh từ",
+   "audio": "B2-70-w-supply-chain.mp3"
+  },
+  {
+   "word": "the elderly",
+   "ipa": "/ði ˈɛldɚli/",
+   "meaning": "người cao tuổi (ôn B2 · Bài 63)",
+   "pos": "cụm danh từ",
+   "audio": "B2-70-w-the-elderly.mp3"
+  },
+  {
+   "word": "implementation",
+   "ipa": "/ˌɪmpləmɛnˈteɪʃən/",
+   "meaning": "sự thực hiện, triển khai (ôn B2 · Bài 65)",
+   "pos": "danh từ",
+   "audio": "B2-70-w-implementation.mp3"
+  },
+  {
+   "word": "forecast",
+   "ipa": "/ˈfɔrˌkæst/",
+   "meaning": "dự báo (ôn B2 · Bài 66)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-70-w-forecast.mp3"
+  },
+  {
+   "word": "rebut",
+   "ipa": "/rɪˈbʌt/",
+   "meaning": "phản bác (ôn B2 · Bài 67)",
+   "pos": "động từ",
+   "audio": "B2-70-w-rebut.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Inflation has risen to its highest level in a decade, and the central bank is expected to raise interest rates again.",
+   "vi": "Lạm phát đã tăng lên mức cao nhất trong một thập kỷ, và ngân hàng trung ương được dự đoán sẽ lại tăng lãi suất.",
+   "audio": "B2-70-ex-1.mp3"
+  },
+  {
+   "en": "Thanks to global supply chains, a phone designed in California may be assembled in Vietnam from parts made in Korea.",
+   "vi": "Nhờ chuỗi cung ứng toàn cầu, một chiếc điện thoại thiết kế ở California có thể được lắp ráp tại Việt Nam từ linh kiện sản xuất ở Hàn Quốc.",
+   "audio": "B2-70-ex-2.mp3"
+  },
+  {
+   "en": "The elderly are especially vulnerable when prices rise, because many of them live on fixed incomes.",
+   "vi": "Người cao tuổi đặc biệt dễ bị tổn thương khi giá cả tăng, vì nhiều người sống bằng thu nhập cố định.",
+   "audio": "B2-70-ex-3.mp3"
+  },
+  {
+   "en": "The implementation of the new recycling policy has led to a sharp reduction in household waste.",
+   "vi": "Việc thực hiện chính sách tái chế mới đã giúp giảm mạnh rác thải sinh hoạt.",
+   "audio": "B2-70-ex-4.mp3"
+  },
+  {
+   "en": "I don't deny that tariffs protect some local jobs, but on balance, the evidence suggests they raise prices for consumers.",
+   "vi": "Tôi không phủ nhận thuế quan bảo vệ một số việc làm trong nước, nhưng xét mọi mặt, bằng chứng cho thấy chúng làm tăng giá cho người tiêu dùng.",
+   "audio": "B2-70-ex-5.mp3"
+  }
+ ]
+}

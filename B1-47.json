@@ -1,0 +1,74 @@
+{
+ "title": "Bài 47. Câu hỏi đuôi",
+ "vocabulary": [
+  {
+   "word": "isn't it",
+   "ipa": "/ˈɪzənt ɪt/",
+   "meaning": "phải không (đuôi cho câu với it is)",
+   "pos": "câu hỏi đuôi",
+   "audio": "B1-47-w-isn-t-it.mp3"
+  },
+  {
+   "word": "don't you",
+   "ipa": "/ˈdoʊntʃu/",
+   "meaning": "phải không (đuôi cho câu hiện tại đơn với you)",
+   "pos": "câu hỏi đuôi",
+   "audio": "B1-47-w-don-t-you.mp3"
+  },
+  {
+   "word": "aren't I",
+   "ipa": "/ˈɑrnt aɪ/",
+   "meaning": "phải không (đuôi đặc biệt cho I am)",
+   "pos": "câu hỏi đuôi",
+   "audio": "B1-47-w-aren-t-i.mp3"
+  },
+  {
+   "word": "shall we",
+   "ipa": "/ʃəl ˈwi/",
+   "meaning": "nhé (đuôi cho lời rủ Let's...)",
+   "pos": "câu hỏi đuôi",
+   "audio": "B1-47-w-shall-we.mp3"
+  },
+  {
+   "word": "confirm",
+   "ipa": "/kənˈfɝm/",
+   "meaning": "xác nhận",
+   "pos": "động từ",
+   "audio": "B1-47-w-confirm.mp3"
+  },
+  {
+   "word": "intonation",
+   "ipa": "/ˌɪntəˈneɪʃən/",
+   "meaning": "ngữ điệu (giọng lên xuống)",
+   "pos": "danh từ",
+   "audio": "B1-47-w-intonation.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It's a beautiful day, isn't it?",
+   "vi": "Hôm nay trời đẹp nhỉ?",
+   "audio": "B1-47-ex-1.mp3"
+  },
+  {
+   "en": "You work with Mai, don't you?",
+   "vi": "Bạn làm cùng chỗ với Mai, phải không?",
+   "audio": "B1-47-ex-2.mp3"
+  },
+  {
+   "en": "You didn't come to the party last week, did you?",
+   "vi": "Tuần trước bạn không đến bữa tiệc, đúng không?",
+   "audio": "B1-47-ex-3.mp3"
+  },
+  {
+   "en": "I'm a bit late with the report, aren't I?",
+   "vi": "Tôi nộp báo cáo hơi trễ, phải không?",
+   "audio": "B1-47-ex-4.mp3"
+  },
+  {
+   "en": "Let's finish it together after lunch, shall we?",
+   "vi": "Mình cùng làm cho xong sau bữa trưa nhé?",
+   "audio": "B1-47-ex-5.mp3"
+  }
+ ]
+}

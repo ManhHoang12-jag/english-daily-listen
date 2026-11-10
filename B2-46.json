@@ -1,0 +1,95 @@
+{
+ "title": "Bài 46. Chủ đề: các vấn đề xã hội",
+ "vocabulary": [
+  {
+   "word": "inequality",
+   "ipa": "/ˌɪnɪˈkwɑləti/",
+   "meaning": "sự bất bình đẳng (income inequality: bất bình đẳng thu nhập)",
+   "pos": "danh từ",
+   "audio": "B2-46-w-inequality.mp3"
+  },
+  {
+   "word": "urbanization",
+   "ipa": "/ˌɝbənəˈzeɪʃən/",
+   "meaning": "đô thị hóa (chính tả Anh: urbanisation)",
+   "pos": "danh từ",
+   "audio": "B2-46-w-urbanization.mp3"
+  },
+  {
+   "word": "aging population",
+   "ipa": "/ˈeɪdʒɪŋ ˌpɑpjəˈleɪʃən/",
+   "meaning": "dân số già hóa (chính tả Anh: ageing population)",
+   "pos": "cụm danh từ",
+   "audio": "B2-46-w-aging-population.mp3"
+  },
+  {
+   "word": "migration",
+   "ipa": "/maɪˈɡreɪʃən/",
+   "meaning": "sự di cư",
+   "pos": "danh từ",
+   "audio": "B2-46-w-migration.mp3"
+  },
+  {
+   "word": "poverty",
+   "ipa": "/ˈpɑvərti/",
+   "meaning": "sự nghèo đói",
+   "pos": "danh từ",
+   "audio": "B2-46-w-poverty.mp3"
+  },
+  {
+   "word": "welfare",
+   "ipa": "/ˈwɛlˌfɛr/",
+   "meaning": "phúc lợi xã hội, trợ cấp của nhà nước",
+   "pos": "danh từ",
+   "audio": "B2-46-w-welfare.mp3"
+  },
+  {
+   "word": "unemployment",
+   "ipa": "/ˌʌnɪmˈplɔɪmənt/",
+   "meaning": "tình trạng thất nghiệp",
+   "pos": "danh từ",
+   "audio": "B2-46-w-unemployment.mp3"
+  },
+  {
+   "word": "social mobility",
+   "ipa": "/ˈsoʊʃəl moʊˈbɪləti/",
+   "meaning": "khả năng thăng tiến xã hội (vươn lên tầng lớp khác)",
+   "pos": "cụm danh từ",
+   "audio": "B2-46-w-social-mobility.mp3"
+  },
+  {
+   "word": "marginalized",
+   "ipa": "/ˈmɑrdʒənəˌlaɪzd/",
+   "meaning": "bị gạt ra lề xã hội (chính tả Anh: marginalised)",
+   "pos": "tính từ",
+   "audio": "B2-46-w-marginalized.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Rapid urbanization has put huge pressure on housing and transport in Hanoi and Ho Chi Minh City.",
+   "vi": "Đô thị hóa nhanh đã gây áp lực rất lớn lên nhà ở và giao thông ở Hà Nội và Thành phố Hồ Chí Minh.",
+   "audio": "B2-46-ex-1.mp3"
+  },
+  {
+   "en": "Like many countries in Asia, Vietnam has an aging population, which means that fewer workers will have to support more retirees.",
+   "vi": "Giống nhiều nước châu Á, Việt Nam có dân số đang già hóa, nghĩa là ít người lao động hơn sẽ phải nuôi nhiều người nghỉ hưu hơn.",
+   "audio": "B2-46-ex-2.mp3"
+  },
+  {
+   "en": "Many workers migrating from the countryside send most of their income back home.",
+   "vi": "Nhiều lao động từ nông thôn ra thành phố gửi phần lớn thu nhập về quê.",
+   "audio": "B2-46-ex-3.mp3"
+  },
+  {
+   "en": "People living in remote mountain areas, many of whom belong to ethnic minorities, are more likely to be marginalized.",
+   "vi": "Người dân ở vùng núi xa xôi, nhiều người trong số đó là đồng bào dân tộc thiểu số, dễ bị gạt ra lề xã hội hơn.",
+   "audio": "B2-46-ex-4.mp3"
+  },
+  {
+   "en": "Faced with sudden unemployment, families with no access to welfare can quickly fall into poverty.",
+   "vi": "Khi bất ngờ thất nghiệp, những gia đình không được hưởng phúc lợi xã hội có thể nhanh chóng rơi vào nghèo đói.",
+   "audio": "B2-46-ex-5.mp3"
+  }
+ ]
+}

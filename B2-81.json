@@ -1,0 +1,88 @@
+{
+ "title": "Bài 81. Discourse markers trong văn viết",
+ "vocabulary": [
+  {
+   "word": "moreover",
+   "ipa": "/mɔːrˈoʊvɚ/",
+   "meaning": "hơn nữa, ngoài ra (trang trọng)",
+   "pos": "trạng từ nối",
+   "audio": "B2-81-w-moreover.mp3"
+  },
+  {
+   "word": "nevertheless",
+   "ipa": "/ˌnɛvɚðəˈlɛs/",
+   "meaning": "tuy vậy, dù vậy",
+   "pos": "trạng từ nối",
+   "audio": "B2-81-w-nevertheless.mp3"
+  },
+  {
+   "word": "nonetheless",
+   "ipa": "/ˌnʌnðəˈlɛs/",
+   "meaning": "tuy nhiên, dù sao (= nevertheless)",
+   "pos": "trạng từ nối",
+   "audio": "B2-81-w-nonetheless.mp3"
+  },
+  {
+   "word": "whereas",
+   "ipa": "/wɛrˈæz/",
+   "meaning": "trong khi (so sánh hai vế đối lập)",
+   "pos": "liên từ",
+   "audio": "B2-81-w-whereas.mp3"
+  },
+  {
+   "word": "admittedly",
+   "ipa": "/ədˈmɪtɪdli/",
+   "meaning": "phải thừa nhận rằng",
+   "pos": "trạng từ nối",
+   "audio": "B2-81-w-admittedly.mp3"
+  },
+  {
+   "word": "consequently",
+   "ipa": "/ˈkɑːnsəkwɛntli/",
+   "meaning": "do đó, vì vậy",
+   "pos": "trạng từ nối",
+   "audio": "B2-81-w-consequently.mp3"
+  },
+  {
+   "word": "in contrast",
+   "ipa": "/ɪn ˈkɑːntræst/",
+   "meaning": "ngược lại, trái lại (so sánh hai đối tượng)",
+   "pos": "cụm từ nối",
+   "audio": "B2-81-w-in-contrast.mp3"
+  },
+  {
+   "word": "to this end",
+   "ipa": "/tə ˈðɪs ˈɛnd/",
+   "meaning": "để đạt mục tiêu này",
+   "pos": "cụm từ nối",
+   "audio": "B2-81-w-to-this-end.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Public transport reduces traffic congestion. Moreover, it produces far less pollution per passenger than private cars.",
+   "vi": "Giao thông công cộng giảm ùn tắc. Hơn nữa, nó thải ra ít ô nhiễm hơn nhiều trên mỗi hành khách so với ô tô riêng.",
+   "audio": "B2-81-ex-1.mp3"
+  },
+  {
+   "en": "The new policy was unpopular with many staff members. Nevertheless, the board decided to implement it.",
+   "vi": "Chính sách mới không được nhiều nhân viên ủng hộ. Dù vậy, ban giám đốc vẫn quyết định thực hiện.",
+   "audio": "B2-81-ex-2.mp3"
+  },
+  {
+   "en": "Older employees often prefer face-to-face meetings, whereas younger colleagues are generally comfortable with video calls.",
+   "vi": "Nhân viên lớn tuổi thường thích họp trực tiếp, trong khi đồng nghiệp trẻ hơn nhìn chung thoải mái với gọi video.",
+   "audio": "B2-81-ex-3.mp3"
+  },
+  {
+   "en": "Admittedly, online courses lack the personal contact of a classroom. However, they give millions of people access to education.",
+   "vi": "Phải thừa nhận rằng khóa học trực tuyến thiếu sự tiếp xúc trực tiếp như lớp học. Tuy nhiên, chúng giúp hàng triệu người tiếp cận giáo dục.",
+   "audio": "B2-81-ex-4.mp3"
+  },
+  {
+   "en": "The company aims to cut its carbon emissions by half. To this end, it has invested heavily in solar power.",
+   "vi": "Công ty đặt mục tiêu cắt giảm một nửa lượng khí thải carbon. Để đạt được điều đó, công ty đã đầu tư mạnh vào điện mặt trời.",
+   "audio": "B2-81-ex-5.mp3"
+  }
+ ]
+}

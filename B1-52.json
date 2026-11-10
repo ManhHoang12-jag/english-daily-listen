@@ -1,0 +1,74 @@
+{
+ "title": "Bài 52. Liên từ tương phản: although, even though, however",
+ "vocabulary": [
+  {
+   "word": "although",
+   "ipa": "/ɔːlˈðoʊ/",
+   "meaning": "mặc dù",
+   "pos": "liên từ",
+   "audio": "B1-52-w-although.mp3"
+  },
+  {
+   "word": "even though",
+   "ipa": "/ˌiːvən ˈðoʊ/",
+   "meaning": "dù, mặc dù (mạnh hơn although)",
+   "pos": "liên từ",
+   "audio": "B1-52-w-even-though.mp3"
+  },
+  {
+   "word": "however",
+   "ipa": "/haʊˈɛvɚ/",
+   "meaning": "tuy nhiên",
+   "pos": "trạng từ liên kết",
+   "audio": "B1-52-w-however.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi (so sánh hai điều trái ngược; cũng có nghĩa thời gian)",
+   "pos": "liên từ",
+   "audio": "B1-52-w-while.mp3"
+  },
+  {
+   "word": "whereas",
+   "ipa": "/wɛrˈæz/",
+   "meaning": "trong khi, còn (so sánh, trang trọng)",
+   "pos": "liên từ",
+   "audio": "B1-52-w-whereas.mp3"
+  },
+  {
+   "word": "contrast",
+   "ipa": "/ˈkɑːntræst/",
+   "meaning": "sự tương phản, đối lập",
+   "pos": "danh từ",
+   "audio": "B1-52-w-contrast.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Although electric cars are expensive, more and more people are buying them.",
+   "vi": "Mặc dù ô tô điện đắt, ngày càng nhiều người mua chúng.",
+   "audio": "B1-52-ex-1.mp3"
+  },
+  {
+   "en": "Even though it was raining heavily, thousands of people joined the climate march.",
+   "vi": "Dù trời mưa rất to, hàng nghìn người vẫn tham gia cuộc tuần hành vì khí hậu.",
+   "audio": "B1-52-ex-2.mp3"
+  },
+  {
+   "en": "Plastic bags are cheap and useful. However, they take hundreds of years to break down.",
+   "vi": "Túi ni lông rẻ và tiện. Tuy nhiên, chúng mất hàng trăm năm để phân hủy.",
+   "audio": "B1-52-ex-3.mp3"
+  },
+  {
+   "en": "Some cities have clean air, while others have serious air pollution.",
+   "vi": "Một số thành phố có không khí trong lành, trong khi những thành phố khác bị ô nhiễm không khí nghiêm trọng.",
+   "audio": "B1-52-ex-4.mp3"
+  },
+  {
+   "en": "My parents never recycled anything, whereas my children sort all our trash carefully.",
+   "vi": "Bố mẹ tôi chưa bao giờ tái chế thứ gì, trong khi các con tôi phân loại hết rác nhà mình rất cẩn thận.",
+   "audio": "B1-52-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra B1-2",
+ "vocabulary": [
+  {
+   "word": "deadline",
+   "ipa": "/ˈdɛdlaɪn/",
+   "meaning": "hạn chót (ôn B1 · Bài 11)",
+   "pos": "danh từ",
+   "audio": "B1-20-w-deadline.mp3"
+  },
+  {
+   "word": "scholarship",
+   "ipa": "/ˈskɑlɚʃɪp/",
+   "meaning": "học bổng (ôn B1 · Bài 13)",
+   "pos": "danh từ",
+   "audio": "B1-20-w-scholarship.mp3"
+  },
+  {
+   "word": "graduate",
+   "ipa": "/ˈɡrædʒuˌeɪt/",
+   "meaning": "tốt nghiệp (ôn B1 · Bài 12)",
+   "pos": "động từ",
+   "audio": "B1-20-w-graduate.mp3"
+  },
+  {
+   "word": "submit",
+   "ipa": "/səbˈmɪt/",
+   "meaning": "nộp (hồ sơ, bài) (ôn B1 · Bài 15)",
+   "pos": "động từ",
+   "audio": "B1-20-w-submit.mp3"
+  },
+  {
+   "word": "postpone",
+   "ipa": "/poʊstˈpoʊn/",
+   "meaning": "hoãn lại (ôn B1 · Bài 17)",
+   "pos": "động từ",
+   "audio": "B1-20-w-postpone.mp3"
+  },
+  {
+   "word": "eligible",
+   "ipa": "/ˈɛlɪdʒəbəl/",
+   "meaning": "đủ điều kiện (ôn B1 · Bài 18)",
+   "pos": "tính từ",
+   "audio": "B1-20-w-eligible.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The semester starts on September fifth, so I'm going to apply this week.",
+   "vi": "Học kỳ bắt đầu ngày 5 tháng 9, nên tuần này tôi sẽ nộp đơn.",
+   "audio": "B1-20-ex-1.mp3"
+  },
+  {
+   "en": "This time next year, I'll be doing research for my thesis abroad.",
+   "vi": "Giờ này năm sau, tôi sẽ đang nghiên cứu cho luận văn ở nước ngoài.",
+   "audio": "B1-20-ex-2.mp3"
+  },
+  {
+   "en": "I'll call you as soon as I get the results.",
+   "vi": "Tôi sẽ gọi cho bạn ngay khi tôi nhận được kết quả.",
+   "audio": "B1-20-ex-3.mp3"
+  },
+  {
+   "en": "The library was designed by a famous architect and was built in nineteen ninety-eight.",
+   "vi": "Thư viện do một kiến trúc sư nổi tiếng thiết kế và được xây năm 1998.",
+   "audio": "B1-20-ex-4.mp3"
+  },
+  {
+   "en": "The exam has been postponed, and all forms must be submitted by Friday.",
+   "vi": "Kỳ thi đã bị hoãn, và tất cả các mẫu đơn phải được nộp trước thứ Sáu.",
+   "audio": "B1-20-ex-5.mp3"
+  }
+ ]
+}

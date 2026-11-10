@@ -1,0 +1,81 @@
+{
+ "title": "Bài 54. Đảo ngữ 2: thời gian và điều kiện",
+ "vocabulary": [
+  {
+   "word": "hardly",
+   "ipa": "/ˈhɑrdli/",
+   "meaning": "vừa mới (Hardly had... when...); hầu như không",
+   "pos": "trạng từ",
+   "audio": "B2-54-w-hardly.mp3"
+  },
+  {
+   "word": "no sooner",
+   "ipa": "/ˌnoʊ ˈsunɚ/",
+   "meaning": "vừa... thì đã (No sooner had... than...)",
+   "pos": "cụm trạng từ",
+   "audio": "B2-54-w-no-sooner.mp3"
+  },
+  {
+   "word": "not until",
+   "ipa": "/ˌnɑt ənˈtɪl/",
+   "meaning": "mãi đến... mới",
+   "pos": "cụm từ",
+   "audio": "B2-54-w-not-until.mp3"
+  },
+  {
+   "word": "only then",
+   "ipa": "/ˈoʊnli ˈðɛn/",
+   "meaning": "chỉ khi đó mới",
+   "pos": "cụm trạng từ",
+   "audio": "B2-54-w-only-then.mp3"
+  },
+  {
+   "word": "should you",
+   "ipa": "/ˈʃʊd ju/",
+   "meaning": "nếu bạn (chẳng may)... (= if you)",
+   "pos": "cụm từ",
+   "audio": "B2-54-w-should-you.mp3"
+  },
+  {
+   "word": "had I known",
+   "ipa": "/ˌhæd aɪ ˈnoʊn/",
+   "meaning": "giá mà tôi biết (= if I had known)",
+   "pos": "cụm từ",
+   "audio": "B2-54-w-had-i-known.mp3"
+  },
+  {
+   "word": "were it not for",
+   "ipa": "/ˌwɝ ɪt ˈnɑt fɔr/",
+   "meaning": "nếu không có (= if it were not for)",
+   "pos": "cụm từ",
+   "audio": "B2-54-w-were-it-not-for.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hardly had we started the meeting when the power went out.",
+   "vi": "Chúng tôi vừa mới bắt đầu cuộc họp thì mất điện.",
+   "audio": "B2-54-ex-1.mp3"
+  },
+  {
+   "en": "No sooner had I sent the email than I noticed the mistake.",
+   "vi": "Tôi vừa gửi email đi thì đã phát hiện ra lỗi.",
+   "audio": "B2-54-ex-2.mp3"
+  },
+  {
+   "en": "Not until the final results came out did we realize how close the vote had been.",
+   "vi": "Mãi đến khi có kết quả cuối cùng chúng tôi mới nhận ra cuộc bỏ phiếu đã sát nút đến mức nào.",
+   "audio": "B2-54-ex-3.mp3"
+  },
+  {
+   "en": "Had I known about the delay, I would have booked a later flight.",
+   "vi": "Giá mà tôi biết chuyến bay bị hoãn thì tôi đã đặt chuyến muộn hơn.",
+   "audio": "B2-54-ex-4.mp3"
+  },
+  {
+   "en": "Should you need any further information, please do not hesitate to contact me.",
+   "vi": "Nếu anh/chị cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi.",
+   "audio": "B2-54-ex-5.mp3"
+  }
+ ]
+}

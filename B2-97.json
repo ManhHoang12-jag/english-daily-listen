@@ -1,0 +1,102 @@
+{
+ "title": "Bài 97. Cụm động từ nâng cao: nghĩa trừu tượng",
+ "vocabulary": [
+  {
+   "word": "bring about",
+   "ipa": "/ˌbrɪŋ əˈbaʊt/",
+   "meaning": "gây ra, tạo nên (thay đổi)",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-bring-about.mp3"
+  },
+  {
+   "word": "account for",
+   "ipa": "/əˈkaʊnt fɔːr/",
+   "meaning": "giải thích; chiếm (tỉ lệ)",
+   "pos": "cụm động từ (không tách)",
+   "audio": "B2-97-w-account-for.mp3"
+  },
+  {
+   "word": "set out",
+   "ipa": "/ˌsɛt ˈaʊt/",
+   "meaning": "trình bày có hệ thống; set out to = bắt tay làm với mục tiêu",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-set-out.mp3"
+  },
+  {
+   "word": "rule out",
+   "ipa": "/ˌruːl ˈaʊt/",
+   "meaning": "loại trừ (khả năng)",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-rule-out.mp3"
+  },
+  {
+   "word": "stem from",
+   "ipa": "/ˈstɛm frʌm/",
+   "meaning": "bắt nguồn từ",
+   "pos": "cụm động từ (không tách)",
+   "audio": "B2-97-w-stem-from.mp3"
+  },
+  {
+   "word": "play down",
+   "ipa": "/ˌpleɪ ˈdaʊn/",
+   "meaning": "giảm nhẹ, nói giảm tầm quan trọng",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-play-down.mp3"
+  },
+  {
+   "word": "back up",
+   "ipa": "/ˌbæk ˈʌp/",
+   "meaning": "chứng minh, ủng hộ (bằng bằng chứng); sao lưu",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-back-up.mp3"
+  },
+  {
+   "word": "draw on",
+   "ipa": "/ˈdrɑː ɑːn/",
+   "meaning": "dựa vào, vận dụng (kinh nghiệm, kiến thức)",
+   "pos": "cụm động từ (không tách)",
+   "audio": "B2-97-w-draw-on.mp3"
+  },
+  {
+   "word": "phase out",
+   "ipa": "/ˌfeɪz ˈaʊt/",
+   "meaning": "loại bỏ dần",
+   "pos": "cụm động từ (tách được)",
+   "audio": "B2-97-w-phase-out.mp3"
+  },
+  {
+   "word": "carry on",
+   "ipa": "/ˌkæri ˈɑːn/",
+   "meaning": "tiếp tục",
+   "pos": "cụm động từ (không tách)",
+   "audio": "B2-97-w-carry-on.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The report sets out three reasons why the city's air has become cleaner.",
+   "vi": "Bản báo cáo trình bày ba lý do vì sao không khí của thành phố đã sạch hơn.",
+   "audio": "B2-97-ex-1.mp3"
+  },
+  {
+   "en": "Most experts say the change stems from the decision to phase out older diesel buses.",
+   "vi": "Phần lớn chuyên gia nói thay đổi này bắt nguồn từ quyết định loại bỏ dần các xe buýt chạy dầu diesel cũ.",
+   "audio": "B2-97-ex-2.mp3"
+  },
+  {
+   "en": "Traffic accounts for nearly half of the city's pollution.",
+   "vi": "Giao thông chiếm gần một nửa lượng ô nhiễm của thành phố.",
+   "audio": "B2-97-ex-3.mp3"
+  },
+  {
+   "en": "Officials have tried to play down the cost, but the data backs up their main claim.",
+   "vi": "Các quan chức đã cố nói giảm chi phí, nhưng số liệu chứng minh cho luận điểm chính của họ.",
+   "audio": "B2-97-ex-4.mp3"
+  },
+  {
+   "en": "Researchers cannot rule out other factors, such as the mild weather this year.",
+   "vi": "Các nhà nghiên cứu không thể loại trừ những yếu tố khác, như thời tiết ôn hòa năm nay.",
+   "audio": "B2-97-ex-5.mp3"
+  }
+ ]
+}

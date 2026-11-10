@@ -1,0 +1,74 @@
+{
+ "title": "Bài 68. Kỹ năng: nghe bài nói về sức khỏe",
+ "vocabulary": [
+  {
+   "word": "talk",
+   "ipa": "/tɑːk/",
+   "meaning": "bài nói, bài thuyết trình ngắn",
+   "pos": "danh từ",
+   "audio": "B1-68-w-talk.mp3"
+  },
+  {
+   "word": "speaker",
+   "ipa": "/ˈspiːkɚ/",
+   "meaning": "người nói, diễn giả",
+   "pos": "danh từ",
+   "audio": "B1-68-w-speaker.mp3"
+  },
+  {
+   "word": "research shows",
+   "ipa": "/ˈriːsɝːtʃ ʃoʊz/",
+   "meaning": "nghiên cứu cho thấy",
+   "pos": "cụm từ",
+   "audio": "B1-68-w-research-shows.mp3"
+  },
+  {
+   "word": "recommend",
+   "ipa": "/ˌrɛkəˈmɛnd/",
+   "meaning": "khuyên, đề xuất (recommend + V-ing)",
+   "pos": "động từ",
+   "audio": "B1-68-w-recommend.mp3"
+  },
+  {
+   "word": "benefit",
+   "ipa": "/ˈbɛnəfɪt/",
+   "meaning": "lợi ích",
+   "pos": "danh từ",
+   "audio": "B1-68-w-benefit.mp3"
+  },
+  {
+   "word": "risk",
+   "ipa": "/rɪsk/",
+   "meaning": "rủi ro, nguy cơ",
+   "pos": "danh từ",
+   "audio": "B1-68-w-risk.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, everyone. In today's talk, I'm going to explain why sitting for too long is bad for your health, and what you can do about it. I'll make three main points.",
+   "vi": "Chào buổi sáng mọi người. Trong bài nói hôm nay, tôi sẽ giải thích vì sao ngồi quá lâu có hại cho sức khỏe và bạn có thể làm gì. Tôi sẽ nêu ba ý chính.",
+   "audio": "B1-68-ex-1.mp3"
+  },
+  {
+   "en": "Firstly, let's look at the risks. Research shows that people who sit for more than eight hours a day have a higher risk of heart disease.",
+   "vi": "Thứ nhất, hãy xem các rủi ro. Nghiên cứu cho thấy người ngồi hơn tám tiếng mỗi ngày có nguy cơ mắc bệnh tim cao hơn.",
+   "audio": "B1-68-ex-2.mp3"
+  },
+  {
+   "en": "Another point is that short breaks really work. Doctors recommend standing up and moving for about five minutes every hour.",
+   "vi": "Một ý nữa là những quãng nghỉ ngắn thực sự có tác dụng. Bác sĩ khuyên nên đứng dậy và vận động khoảng năm phút mỗi giờ.",
+   "audio": "B1-68-ex-3.mp3"
+  },
+  {
+   "en": "My third point is about the benefits. When people move more at work, they concentrate better and feel less stressed.",
+   "vi": "Ý thứ ba của tôi là về lợi ích. Khi mọi người vận động nhiều hơn ở chỗ làm, họ tập trung tốt hơn và bớt căng thẳng.",
+   "audio": "B1-68-ex-4.mp3"
+  },
+  {
+   "en": "So, to finish, here is my advice. Set a reminder on your phone, take the stairs instead of the elevator, and stand up whenever you make a phone call.",
+   "vi": "Vậy, để kết thúc, đây là lời khuyên của tôi. Đặt lời nhắc trên điện thoại, đi cầu thang bộ thay vì thang máy, và đứng dậy mỗi khi gọi điện.",
+   "audio": "B1-68-ex-5.mp3"
+  }
+ ]
+}

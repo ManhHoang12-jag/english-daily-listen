@@ -1,0 +1,88 @@
+{
+ "title": "Bài 65. Danh từ hóa trong văn học thuật",
+ "vocabulary": [
+  {
+   "word": "reduction",
+   "ipa": "/rɪˈdʌkʃən/",
+   "meaning": "sự giảm, sự cắt giảm (reduce)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-reduction.mp3"
+  },
+  {
+   "word": "expansion",
+   "ipa": "/ɪkˈspænʃən/",
+   "meaning": "sự mở rộng (expand)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-expansion.mp3"
+  },
+  {
+   "word": "implementation",
+   "ipa": "/ˌɪmpləmɛnˈteɪʃən/",
+   "meaning": "sự triển khai, thực thi (implement)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-implementation.mp3"
+  },
+  {
+   "word": "failure",
+   "ipa": "/ˈfeɪljɚ/",
+   "meaning": "sự thất bại; việc không làm được (fail; failure to V)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-failure.mp3"
+  },
+  {
+   "word": "increase",
+   "ipa": "/ˈɪnkris/",
+   "meaning": "sự tăng (an increase in); danh từ nhấn âm đầu",
+   "pos": "danh từ",
+   "audio": "B2-65-w-increase.mp3"
+  },
+  {
+   "word": "growth",
+   "ipa": "/ɡroʊθ/",
+   "meaning": "sự tăng trưởng (grow; ôn B2 · Bài 61)",
+   "pos": "danh từ (không đếm được)",
+   "audio": "B2-65-w-growth.mp3"
+  },
+  {
+   "word": "availability",
+   "ipa": "/əˌveɪləˈbɪləti/",
+   "meaning": "sự sẵn có (available)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-availability.mp3"
+  },
+  {
+   "word": "decision",
+   "ipa": "/dɪˈsɪʒən/",
+   "meaning": "quyết định (decide; make a decision, the decision to V)",
+   "pos": "danh từ",
+   "audio": "B2-65-w-decision.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The reduction in corporate taxes led to a significant increase in foreign investment.",
+   "vi": "Việc giảm thuế doanh nghiệp đã dẫn đến sự tăng đáng kể của đầu tư nước ngoài.",
+   "audio": "B2-65-ex-1.mp3"
+  },
+  {
+   "en": "The rapid expansion of the middle class has boosted demand for consumer goods.",
+   "vi": "Sự mở rộng nhanh chóng của tầng lớp trung lưu đã thúc đẩy nhu cầu hàng tiêu dùng.",
+   "audio": "B2-65-ex-2.mp3"
+  },
+  {
+   "en": "The government's failure to control inflation damaged public confidence.",
+   "vi": "Việc chính phủ không kiểm soát được lạm phát đã làm tổn hại niềm tin của công chúng.",
+   "audio": "B2-65-ex-3.mp3"
+  },
+  {
+   "en": "The successful implementation of the new policy depends on the availability of skilled workers.",
+   "vi": "Việc triển khai thành công chính sách mới phụ thuộc vào sự sẵn có của lao động lành nghề.",
+   "audio": "B2-65-ex-4.mp3"
+  },
+  {
+   "en": "The decision to raise interest rates was widely criticized by small business owners.",
+   "vi": "Quyết định tăng lãi suất đã bị các chủ doanh nghiệp nhỏ chỉ trích rộng rãi.",
+   "audio": "B2-65-ex-5.mp3"
+  }
+ ]
+}

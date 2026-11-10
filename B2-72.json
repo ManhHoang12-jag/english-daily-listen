@@ -1,0 +1,116 @@
+{
+ "title": "Bài 72. Cấu tạo từ: tiền tố mang nghĩa",
+ "vocabulary": [
+  {
+   "word": "overestimate",
+   "ipa": "/ˌoʊvɚˈɛstəˌmeɪt/",
+   "meaning": "đánh giá quá cao, ước tính quá cao",
+   "pos": "động từ",
+   "audio": "B2-72-w-overestimate.mp3"
+  },
+  {
+   "word": "underfunded",
+   "ipa": "/ˌʌndɚˈfʌndɪd/",
+   "meaning": "thiếu kinh phí",
+   "pos": "tính từ",
+   "audio": "B2-72-w-underfunded.mp3"
+  },
+  {
+   "word": "reconsider",
+   "ipa": "/ˌrikənˈsɪdɚ/",
+   "meaning": "cân nhắc lại, xem xét lại",
+   "pos": "động từ",
+   "audio": "B2-72-w-reconsider.mp3"
+  },
+  {
+   "word": "pre-existing",
+   "ipa": "/ˌpriɪɡˈzɪstɪŋ/",
+   "meaning": "có từ trước",
+   "pos": "tính từ",
+   "audio": "B2-72-w-pre-existing.mp3"
+  },
+  {
+   "word": "postgraduate",
+   "ipa": "/ˌpoʊstˈɡrædʒuət/",
+   "meaning": "sau đại học; học viên cao học",
+   "pos": "tính từ / danh từ",
+   "audio": "B2-72-w-postgraduate.mp3"
+  },
+  {
+   "word": "international",
+   "ipa": "/ˌɪntɚˈnæʃənəl/",
+   "meaning": "quốc tế",
+   "pos": "tính từ",
+   "audio": "B2-72-w-international.mp3"
+  },
+  {
+   "word": "co-author",
+   "ipa": "/ˌkoʊˈɔθɚ/",
+   "meaning": "đồng tác giả; cùng viết",
+   "pos": "danh từ / động từ",
+   "audio": "B2-72-w-co-author.mp3"
+  },
+  {
+   "word": "multicultural",
+   "ipa": "/ˌmʌltiˈkʌltʃərəl/",
+   "meaning": "đa văn hóa",
+   "pos": "tính từ",
+   "audio": "B2-72-w-multicultural.mp3"
+  },
+  {
+   "word": "subcategory",
+   "ipa": "/ˈsʌbˌkætəˌɡɔri/",
+   "meaning": "tiểu mục, nhóm nhỏ trong một loại",
+   "pos": "danh từ",
+   "audio": "B2-72-w-subcategory.mp3"
+  },
+  {
+   "word": "antisocial",
+   "ipa": "/ˌæntiˈsoʊʃəl/",
+   "meaning": "chống đối xã hội, gây rối; ngại giao tiếp",
+   "pos": "tính từ",
+   "audio": "B2-72-w-antisocial.mp3"
+  },
+  {
+   "word": "outnumber",
+   "ipa": "/ˌaʊtˈnʌmbɚ/",
+   "meaning": "đông hơn, nhiều hơn về số lượng",
+   "pos": "động từ",
+   "audio": "B2-72-w-outnumber.mp3"
+  },
+  {
+   "word": "self-sufficient",
+   "ipa": "/ˌsɛlfsəˈfɪʃənt/",
+   "meaning": "tự cung tự cấp, tự lo được",
+   "pos": "tính từ",
+   "audio": "B2-72-w-self-sufficient.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Many first-time buyers overestimate how much they can afford and end up in debt.",
+   "vi": "Nhiều người mua nhà lần đầu đánh giá quá cao khả năng chi trả của mình và cuối cùng mắc nợ.",
+   "audio": "B2-72-ex-1.mp3"
+  },
+  {
+   "en": "Rural schools remain seriously underfunded, so teachers often buy supplies with their own money.",
+   "vi": "Các trường ở nông thôn vẫn thiếu kinh phí trầm trọng, nên giáo viên thường tự bỏ tiền mua đồ dùng.",
+   "audio": "B2-72-ex-2.mp3"
+  },
+  {
+   "en": "After reading the report, the board agreed to reconsider its decision.",
+   "vi": "Sau khi đọc báo cáo, hội đồng quản trị đồng ý xem xét lại quyết định.",
+   "audio": "B2-72-ex-3.mp3"
+  },
+  {
+   "en": "The travel insurance does not cover pre-existing medical conditions.",
+   "vi": "Bảo hiểm du lịch không chi trả cho các bệnh có từ trước.",
+   "audio": "B2-72-ex-4.mp3"
+  },
+  {
+   "en": "In our multicultural neighborhood, international students now outnumber local residents.",
+   "vi": "Ở khu phố đa văn hóa của chúng tôi, sinh viên quốc tế giờ đông hơn cư dân địa phương.",
+   "audio": "B2-72-ex-5.mp3"
+  }
+ ]
+}

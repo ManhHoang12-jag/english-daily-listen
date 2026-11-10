@@ -1,0 +1,74 @@
+{
+ "title": "Bài 01. Ôn các thì quá khứ qua câu chuyện đáng nhớ",
+ "vocabulary": [
+  {
+   "word": "memorable",
+   "ipa": "/ˈmɛmərəbəl/",
+   "meaning": "đáng nhớ, khó quên",
+   "pos": "tính từ",
+   "audio": "B1-01-w-memorable.mp3"
+  },
+  {
+   "word": "unexpected",
+   "ipa": "/ˌʌnɪkˈspɛktɪd/",
+   "meaning": "bất ngờ, không ngờ tới",
+   "pos": "tính từ",
+   "audio": "B1-01-w-unexpected.mp3"
+  },
+  {
+   "word": "suddenly",
+   "ipa": "/ˈsʌdənli/",
+   "meaning": "đột nhiên, bỗng nhiên",
+   "pos": "trạng từ",
+   "audio": "B1-01-w-suddenly.mp3"
+  },
+  {
+   "word": "realize",
+   "ipa": "/ˈriːəlaɪz/",
+   "meaning": "nhận ra (Anh-Anh viết realise)",
+   "pos": "động từ",
+   "audio": "B1-01-w-realize.mp3"
+  },
+  {
+   "word": "scared",
+   "ipa": "/skɛrd/",
+   "meaning": "sợ, hoảng",
+   "pos": "tính từ",
+   "audio": "B1-01-w-scared.mp3"
+  },
+  {
+   "word": "relieved",
+   "ipa": "/rɪˈliːvd/",
+   "meaning": "nhẹ nhõm, yên tâm",
+   "pos": "tính từ",
+   "audio": "B1-01-w-relieved.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "When I was in college, I used to take the night bus home every Friday.",
+   "vi": "Hồi học đại học, tối thứ Sáu nào tôi cũng đi xe buýt đêm về nhà.",
+   "audio": "B1-01-ex-1.mp3"
+  },
+  {
+   "en": "It was raining hard and the bus was moving slowly along a dark mountain road.",
+   "vi": "Trời đang mưa to và chiếc xe đang chạy chậm trên con đường núi tối om.",
+   "audio": "B1-01-ex-2.mp3"
+  },
+  {
+   "en": "I was reading a book when the bus suddenly stopped.",
+   "vi": "Tôi đang đọc sách thì xe đột nhiên dừng lại.",
+   "audio": "B1-01-ex-3.mp3"
+  },
+  {
+   "en": "While the driver was trying to move the tree, all the passengers got off the bus and helped him.",
+   "vi": "Trong lúc bác tài đang cố dời cái cây, tất cả hành khách xuống xe giúp bác.",
+   "audio": "B1-01-ex-4.mp3"
+  },
+  {
+   "en": "When we finally got to town at midnight, I felt relieved and strangely happy.",
+   "vi": "Cuối cùng khi về đến thị trấn lúc nửa đêm, tôi thấy nhẹ nhõm và vui một cách lạ lùng.",
+   "audio": "B1-01-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 21. Modal suy đoán quá khứ",
+ "vocabulary": [
+  {
+   "word": "must have",
+   "ipa": "/ˈmʌst əv/",
+   "meaning": "chắc hẳn đã (+ V3)",
+   "pos": "modal hoàn thành",
+   "audio": "B2-21-w-must-have.mp3"
+  },
+  {
+   "word": "can't have",
+   "ipa": "/ˈkænt əv/",
+   "meaning": "chắc chắn không thể đã (+ V3)",
+   "pos": "modal hoàn thành",
+   "audio": "B2-21-w-can-t-have.mp3"
+  },
+  {
+   "word": "might have",
+   "ipa": "/ˈmaɪt əv/",
+   "meaning": "có lẽ đã (+ V3)",
+   "pos": "modal hoàn thành",
+   "audio": "B2-21-w-might-have.mp3"
+  },
+  {
+   "word": "clue",
+   "ipa": "/klu/",
+   "meaning": "manh mối, dấu vết",
+   "pos": "danh từ",
+   "audio": "B2-21-w-clue.mp3"
+  },
+  {
+   "word": "conclude",
+   "ipa": "/kənˈklud/",
+   "meaning": "kết luận (conclude that...)",
+   "pos": "động từ",
+   "audio": "B2-21-w-conclude.mp3"
+  },
+  {
+   "word": "explanation",
+   "ipa": "/ˌɛkspləˈneɪʃən/",
+   "meaning": "lời giải thích (an explanation for...)",
+   "pos": "danh từ",
+   "audio": "B2-21-w-explanation.mp3"
+  },
+  {
+   "word": "mystery",
+   "ipa": "/ˈmɪstəri/",
+   "meaning": "điều bí ẩn",
+   "pos": "danh từ",
+   "audio": "B2-21-w-mystery.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Most scientists conclude that a large space rock must have exploded a few kilometers above the ground.",
+   "vi": "Hầu hết các nhà khoa học kết luận rằng một khối đá lớn từ vũ trụ chắc hẳn đã phát nổ cách mặt đất vài cây số.",
+   "audio": "B2-21-ex-1.mp3"
+  },
+  {
+   "en": "It can't have hit the surface, because there is no crater.",
+   "vi": "Nó không thể đã va xuống mặt đất, vì không có hố va chạm.",
+   "audio": "B2-21-ex-2.mp3"
+  },
+  {
+   "en": "It might have been a comet made mostly of ice, which would explain why so little material was found.",
+   "vi": "Có lẽ đó là một sao chổi chủ yếu là băng, điều này sẽ giải thích vì sao tìm thấy rất ít vật chất.",
+   "audio": "B2-21-ex-3.mp3"
+  },
+  {
+   "en": "The trees near the center were still standing, a clue that the blast must have come from directly above.",
+   "vi": "Những cây gần tâm vụ nổ vẫn còn đứng, một manh mối cho thấy vụ nổ chắc hẳn đã đến từ ngay phía trên.",
+   "audio": "B2-21-ex-4.mp3"
+  },
+  {
+   "en": "The rock must have been traveling at tens of thousands of kilometers per hour.",
+   "vi": "Khối đá chắc hẳn đã bay với vận tốc hàng chục nghìn cây số mỗi giờ.",
+   "audio": "B2-21-ex-5.mp3"
+  }
+ ]
+}

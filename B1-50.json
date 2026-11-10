@@ -1,0 +1,74 @@
+{
+ "title": "Bài 50. Ôn tập và kiểm tra B1-5",
+ "vocabulary": [
+  {
+   "word": "reliable",
+   "ipa": "/rɪˈlaɪəbəl/",
+   "meaning": "đáng tin cậy (ôn Bài 41)",
+   "pos": "tính từ",
+   "audio": "B1-50-w-reliable.mp3"
+  },
+  {
+   "word": "announce",
+   "ipa": "/əˈnaʊns/",
+   "meaning": "thông báo, công bố (ôn Bài 42)",
+   "pos": "động từ",
+   "audio": "B1-50-w-announce.mp3"
+  },
+  {
+   "word": "wonder",
+   "ipa": "/ˈwʌndɚ/",
+   "meaning": "tự hỏi, băn khoăn (ôn Bài 44)",
+   "pos": "động từ",
+   "audio": "B1-50-w-wonder.mp3"
+  },
+  {
+   "word": "warn",
+   "ipa": "/wɔːrn/",
+   "meaning": "cảnh báo (ôn Bài 45)",
+   "pos": "động từ",
+   "audio": "B1-50-w-warn.mp3"
+  },
+  {
+   "word": "privacy",
+   "ipa": "/ˈpraɪvəsi/",
+   "meaning": "sự riêng tư (ôn Bài 46)",
+   "pos": "danh từ",
+   "audio": "B1-50-w-privacy.mp3"
+  },
+  {
+   "word": "according to",
+   "ipa": "/əˈkɔːrdɪŋ tə/",
+   "meaning": "theo (nguồn tin) (ôn Bài 48)",
+   "pos": "giới từ",
+   "audio": "B1-50-w-according-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "A fire broke out at the Greenfield Shopping Center this afternoon, and more than two hundred shoppers were safely taken out of the building.",
+   "vi": "Một vụ cháy đã xảy ra ở Trung tâm Mua sắm Greenfield chiều nay, và hơn hai trăm người mua sắm đã được đưa ra khỏi tòa nhà an toàn.",
+   "audio": "B1-50-ex-1.mp3"
+  },
+  {
+   "en": "According to a fire service spokesperson, nobody was seriously hurt, but two staff members were taken to the hospital with minor injuries.",
+   "vi": "Theo người phát ngôn của lực lượng cứu hỏa, không ai bị thương nặng, nhưng hai nhân viên được đưa vào bệnh viện vì bị thương nhẹ.",
+   "audio": "B1-50-ex-2.mp3"
+  },
+  {
+   "en": "The spokesperson said that the fire had started in a kitchen on the ground floor.",
+   "vi": "Người phát ngôn cho biết đám cháy bắt đầu từ một nhà bếp ở tầng trệt.",
+   "audio": "B1-50-ex-3.mp3"
+  },
+  {
+   "en": "Shoppers were told not to return to the area until tomorrow morning, and drivers were asked to avoid the nearby roads.",
+   "vi": "Người mua sắm được dặn không quay lại khu vực này cho đến sáng mai, và các tài xế được yêu cầu tránh các tuyến đường gần đó.",
+   "audio": "B1-50-ex-4.mp3"
+  },
+  {
+   "en": "The center's manager announced that it would stay closed for at least a week, and he asked customers to check the website for updates.",
+   "vi": "Quản lý trung tâm thông báo rằng nơi này sẽ đóng cửa ít nhất một tuần, và ông ấy đề nghị khách hàng xem trang web để cập nhật thông tin.",
+   "audio": "B1-50-ex-5.mp3"
+  }
+ ]
+}

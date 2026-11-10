@@ -1,0 +1,81 @@
+{
+ "title": "Bài 64. Mạo từ nâng cao 2: văn học thuật và danh từ đổi nghĩa",
+ "vocabulary": [
+  {
+   "word": "an experience",
+   "ipa": "/ən ɪkˈspɪriəns/",
+   "meaning": "một trải nghiệm (đếm được); experience không a = kinh nghiệm",
+   "pos": "danh từ",
+   "audio": "B2-64-w-an-experience.mp3"
+  },
+  {
+   "word": "a paper",
+   "ipa": "/ə ˈpeɪpɚ/",
+   "meaning": "một bài báo khoa học; một tờ báo (paper không a = giấy)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-a-paper.mp3"
+  },
+  {
+   "word": "a work",
+   "ipa": "/ə ˈwɝk/",
+   "meaning": "một tác phẩm (work không a = công việc)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-a-work.mp3"
+  },
+  {
+   "word": "research",
+   "ipa": "/ˈrisɝtʃ/",
+   "meaning": "nghiên cứu (không đếm được)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-research.mp3"
+  },
+  {
+   "word": "knowledge",
+   "ipa": "/ˈnɑlɪdʒ/",
+   "meaning": "kiến thức, hiểu biết (không đếm được; a good knowledge of)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-knowledge.mp3"
+  },
+  {
+   "word": "the economy",
+   "ipa": "/ði ɪˈkɑnəmi/",
+   "meaning": "nền kinh tế (của một nước)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-the-economy.mp3"
+  },
+  {
+   "word": "economics",
+   "ipa": "/ˌɛkəˈnɑmɪks/",
+   "meaning": "kinh tế học (môn học; động từ số ít)",
+   "pos": "danh từ",
+   "audio": "B2-64-w-economics.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This paper examines the impact of rising interest rates on small businesses in Vietnam.",
+   "vi": "Bài báo này xem xét tác động của việc lãi suất tăng đối với doanh nghiệp nhỏ ở Việt Nam.",
+   "audio": "B2-64-ex-1.mp3"
+  },
+  {
+   "en": "Previous research has shown that inflation affects the poor more than the rich.",
+   "vi": "Các nghiên cứu trước đây đã chỉ ra rằng lạm phát ảnh hưởng đến người nghèo nhiều hơn người giàu.",
+   "audio": "B2-64-ex-2.mp3"
+  },
+  {
+   "en": "Working in a bank was an experience I will never forget, and it gave me valuable experience in finance.",
+   "vi": "Làm việc ở ngân hàng là một trải nghiệm tôi sẽ không bao giờ quên, và nó cho tôi kinh nghiệm quý giá về tài chính.",
+   "audio": "B2-64-ex-3.mp3"
+  },
+  {
+   "en": "Economics is a popular subject, but few students can explain how the economy actually works.",
+   "vi": "Kinh tế học là môn học được ưa chuộng, nhưng ít sinh viên giải thích được nền kinh tế thực sự vận hành ra sao.",
+   "audio": "B2-64-ex-4.mp3"
+  },
+  {
+   "en": "Applicants should have a good knowledge of statistics and some experience in data analysis.",
+   "vi": "Ứng viên cần có kiến thức tốt về thống kê và một chút kinh nghiệm phân tích dữ liệu.",
+   "audio": "B2-64-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 52. Câu chẻ với What và All",
+ "vocabulary": [
+  {
+   "word": "what I mean is",
+   "ipa": "/wʌt aɪ ˈmin ɪz/",
+   "meaning": "ý tôi là (giải thích lại cho rõ)",
+   "pos": "cụm từ",
+   "audio": "B2-52-w-what-i-mean-is.mp3"
+  },
+  {
+   "word": "the thing is",
+   "ipa": "/ðə ˈθɪŋ ɪz/",
+   "meaning": "vấn đề là, có điều là (báo trước một khó khăn)",
+   "pos": "cụm từ",
+   "audio": "B2-52-w-the-thing-is.mp3"
+  },
+  {
+   "word": "all we need",
+   "ipa": "/ˈɔl wi ˈnid/",
+   "meaning": "tất cả những gì chúng ta cần, chỉ cần",
+   "pos": "cụm từ",
+   "audio": "B2-52-w-all-we-need.mp3"
+  },
+  {
+   "word": "the reason why",
+   "ipa": "/ðə ˈrizən ˈwaɪ/",
+   "meaning": "lý do mà",
+   "pos": "cụm danh từ",
+   "audio": "B2-52-w-the-reason-why.mp3"
+  },
+  {
+   "word": "the point is",
+   "ipa": "/ðə ˈpɔɪnt ɪz/",
+   "meaning": "điều quan trọng là, vấn đề chính là",
+   "pos": "cụm từ",
+   "audio": "B2-52-w-the-point-is.mp3"
+  },
+  {
+   "word": "what matters",
+   "ipa": "/wʌt ˈmætɚz/",
+   "meaning": "điều quan trọng",
+   "pos": "cụm từ",
+   "audio": "B2-52-w-what-matters.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What I need is a clear plan, not another meeting.",
+   "vi": "Cái tôi cần là một kế hoạch rõ ràng, chứ không phải thêm một cuộc họp nữa.",
+   "audio": "B2-52-ex-1.mp3"
+  },
+  {
+   "en": "What happened was that the supplier sent the wrong parts.",
+   "vi": "Chuyện là nhà cung cấp đã gửi nhầm linh kiện.",
+   "audio": "B2-52-ex-2.mp3"
+  },
+  {
+   "en": "What we did was call every customer personally.",
+   "vi": "Việc chúng tôi đã làm là gọi điện trực tiếp cho từng khách hàng.",
+   "audio": "B2-52-ex-3.mp3"
+  },
+  {
+   "en": "All we need is two more volunteers for Saturday.",
+   "vi": "Tất cả những gì chúng ta cần là thêm hai tình nguyện viên cho thứ Bảy.",
+   "audio": "B2-52-ex-4.mp3"
+  },
+  {
+   "en": "The reason why the project failed is that nobody tested the system.",
+   "vi": "Lý do dự án thất bại là không ai kiểm tra hệ thống.",
+   "audio": "B2-52-ex-5.mp3"
+  }
+ ]
+}

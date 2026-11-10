@@ -1,0 +1,74 @@
+{
+ "title": "Bài 69. Kỹ năng: viết bài luận ngắn 150 từ",
+ "vocabulary": [
+  {
+   "word": "advantage",
+   "ipa": "/ədˈvæntɪdʒ/",
+   "meaning": "ưu điểm, lợi thế",
+   "pos": "danh từ",
+   "audio": "B1-69-w-advantage.mp3"
+  },
+  {
+   "word": "disadvantage",
+   "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+   "meaning": "nhược điểm, bất lợi",
+   "pos": "danh từ",
+   "audio": "B1-69-w-disadvantage.mp3"
+  },
+  {
+   "word": "on the one hand",
+   "ipa": "/ɑːn ðə ˈwʌn hænd/",
+   "meaning": "một mặt (mở mặt thứ nhất)",
+   "pos": "cụm từ nối",
+   "audio": "B1-69-w-on-the-one-hand.mp3"
+  },
+  {
+   "word": "on the other hand",
+   "ipa": "/ɑːn ði ˈʌðɚ hænd/",
+   "meaning": "mặt khác (mở mặt đối lập)",
+   "pos": "cụm từ nối",
+   "audio": "B1-69-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "to sum up",
+   "ipa": "/tə ˈsʌm ʌp/",
+   "meaning": "tóm lại",
+   "pos": "cụm từ nối",
+   "audio": "B1-69-w-to-sum-up.mp3"
+  },
+  {
+   "word": "overall",
+   "ipa": "/ˌoʊvɚˈɔːl/",
+   "meaning": "nhìn chung, tổng thể",
+   "pos": "trạng từ",
+   "audio": "B1-69-w-overall.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This arrangement has clear advantages, but it also has some serious disadvantages.",
+   "vi": "Cách làm việc này có những ưu điểm rõ ràng, nhưng cũng có một số nhược điểm nghiêm trọng.",
+   "audio": "B1-69-ex-1.mp3"
+  },
+  {
+   "en": "On the one hand, working from home saves time and money.",
+   "vi": "Một mặt, làm việc tại nhà tiết kiệm thời gian và tiền bạc.",
+   "audio": "B1-69-ex-2.mp3"
+  },
+  {
+   "en": "Employees do not have to spend hours in traffic, so they have more time for their families.",
+   "vi": "Nhân viên không phải mất hàng giờ kẹt xe, nên họ có nhiều thời gian hơn cho gia đình.",
+   "audio": "B1-69-ex-3.mp3"
+  },
+  {
+   "en": "On the other hand, home workers can feel lonely because they rarely see their colleagues.",
+   "vi": "Mặt khác, người làm việc tại nhà có thể thấy cô đơn vì họ hiếm khi gặp đồng nghiệp.",
+   "audio": "B1-69-ex-4.mp3"
+  },
+  {
+   "en": "Overall, I believe a mix of home and office work is the best option for most people.",
+   "vi": "Nhìn chung, tôi tin rằng kết hợp làm ở nhà và ở văn phòng là lựa chọn tốt nhất cho phần lớn mọi người.",
+   "audio": "B1-69-ex-5.mp3"
+  }
+ ]
+}

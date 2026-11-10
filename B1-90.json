@@ -1,0 +1,74 @@
+{
+ "title": "Bài 90. Kiểm tra cuối giai đoạn B1",
+ "vocabulary": [
+  {
+   "word": "although",
+   "ipa": "/ɔlˈðoʊ/",
+   "meaning": "mặc dù (ôn B1 · Bài 52)",
+   "pos": "liên từ",
+   "audio": "B1-90-w-although.mp3"
+  },
+  {
+   "word": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "meaning": "mặc dù, bất chấp + danh từ (ôn B1 · Bài 53)",
+   "pos": "giới từ",
+   "audio": "B1-90-w-despite.mp3"
+  },
+  {
+   "word": "whether",
+   "ipa": "/ˈwɛðɚ/",
+   "meaning": "liệu... có... không (ôn B1 · Bài 27)",
+   "pos": "liên từ",
+   "audio": "B1-90-w-whether.mp3"
+  },
+  {
+   "word": "eventually",
+   "ipa": "/ɪˈvɛntʃuəli/",
+   "meaning": "cuối cùng, rốt cuộc (ôn B1 · Bài 03)",
+   "pos": "trạng từ",
+   "audio": "B1-90-w-eventually.mp3"
+  },
+  {
+   "word": "therefore",
+   "ipa": "/ˈðɛrfɔr/",
+   "meaning": "vì vậy, do đó (ôn B1 · Bài 55)",
+   "pos": "trạng từ",
+   "audio": "B1-90-w-therefore.mp3"
+  },
+  {
+   "word": "be used to",
+   "ipa": "/bi ˈjuːst tə/",
+   "meaning": "quen với (+ V-ing / danh từ) (ôn B1 · Bài 64)",
+   "pos": "cụm động từ",
+   "audio": "B1-90-w-be-used-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "By the time we arrived at the station, the last train had already left.",
+   "vi": "Lúc chúng tôi đến nhà ga thì chuyến tàu cuối cùng đã chạy mất rồi.",
+   "audio": "B1-90-ex-1.mp3"
+  },
+  {
+   "en": "I've been studying English for two years, and this time next year I'll be studying in Canada.",
+   "vi": "Tôi đã học tiếng Anh được hai năm, và vào thời điểm này năm sau tôi sẽ đang học ở Canada.",
+   "audio": "B1-90-ex-2.mp3"
+  },
+  {
+   "en": "If I had more free time, I would take a cooking course, but I've been working late every evening.",
+   "vi": "Nếu có thêm thời gian rảnh, tôi sẽ học một khóa nấu ăn, nhưng tối nào tôi cũng phải làm muộn.",
+   "audio": "B1-90-ex-3.mp3"
+  },
+  {
+   "en": "The manager told us that the meeting had been postponed until the following week.",
+   "vi": "Quản lý nói với chúng tôi rằng cuộc họp đã được hoãn sang tuần sau đó.",
+   "audio": "B1-90-ex-4.mp3"
+  },
+  {
+   "en": "Although the course was expensive, it was worth it, because I managed to pass the exam on my first try.",
+   "vi": "Mặc dù khóa học đắt, nó vẫn đáng tiền, vì tôi đã thi đỗ ngay lần đầu.",
+   "audio": "B1-90-ex-5.mp3"
+  }
+ ]
+}

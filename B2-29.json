@@ -1,0 +1,81 @@
+{
+ "title": "Bài 29. Kỹ năng: viết mô tả quá trình",
+ "vocabulary": [
+  {
+   "word": "diagram",
+   "ipa": "/ˈdaɪəˌɡræm/",
+   "meaning": "sơ đồ, biểu đồ",
+   "pos": "danh từ",
+   "audio": "B2-29-w-diagram.mp3"
+  },
+  {
+   "word": "step",
+   "ipa": "/stɛp/",
+   "meaning": "bước",
+   "pos": "danh từ",
+   "audio": "B2-29-w-step.mp3"
+  },
+  {
+   "word": "followed by",
+   "ipa": "/ˈfɑloʊd baɪ/",
+   "meaning": "tiếp theo là, sau đó là",
+   "pos": "cụm từ",
+   "audio": "B2-29-w-followed-by.mp3"
+  },
+  {
+   "word": "finally",
+   "ipa": "/ˈfaɪnəli/",
+   "meaning": "cuối cùng",
+   "pos": "trạng từ",
+   "audio": "B2-29-w-finally.mp3"
+  },
+  {
+   "word": "is then",
+   "ipa": "/ɪz ˈðɛn/",
+   "meaning": "sau đó được (is then + V3)",
+   "pos": "cụm từ",
+   "audio": "B2-29-w-is-then.mp3"
+  },
+  {
+   "word": "in order to",
+   "ipa": "/ɪn ˈɔrdɚ tə/",
+   "meaning": "để (chỉ mục đích)",
+   "pos": "cụm từ",
+   "audio": "B2-29-w-in-order-to.mp3"
+  },
+  {
+   "word": "which is",
+   "ipa": "/wɪtʃ ɪz/",
+   "meaning": "cái mà, thứ mà (mệnh đề quan hệ)",
+   "pos": "cụm từ",
+   "audio": "B2-29-w-which-is.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The diagram illustrates how used paper is recycled to produce new paper products.",
+   "vi": "Sơ đồ minh họa cách giấy đã qua sử dụng được tái chế để tạo ra sản phẩm giấy mới.",
+   "audio": "B2-29-ex-1.mp3"
+  },
+  {
+   "en": "At the plant, it is sorted by type and quality, and this is followed by a check for plastic and metal.",
+   "vi": "Tại nhà máy, giấy được phân loại theo loại và chất lượng, sau đó là bước kiểm tra nhựa và kim loại.",
+   "audio": "B2-29-ex-2.mp3"
+  },
+  {
+   "en": "After being sorted, the paper is cut into small pieces and mixed with water and chemicals, creating a thick mixture which is known as pulp.",
+   "vi": "Sau khi được phân loại, giấy được cắt nhỏ và trộn với nước và hóa chất, tạo thành một hỗn hợp đặc gọi là bột giấy.",
+   "audio": "B2-29-ex-3.mp3"
+  },
+  {
+   "en": "The pulp is then cleaned in order to remove ink, glue and other unwanted materials.",
+   "vi": "Bột giấy sau đó được làm sạch để loại bỏ mực, keo và các tạp chất khác.",
+   "audio": "B2-29-ex-4.mp3"
+  },
+  {
+   "en": "It is then passed between heated rollers, which press and dry it into long sheets. Finally, the rolls are cut to the required size and delivered to shops.",
+   "vi": "Sau đó nó được đưa qua các trục lăn nóng, chúng ép và sấy khô nó thành những tấm dài. Cuối cùng, các cuộn giấy được cắt theo kích thước yêu cầu và giao đến cửa hàng.",
+   "audio": "B2-29-ex-5.mp3"
+  }
+ ]
+}

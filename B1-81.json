@@ -1,0 +1,74 @@
+{
+ "title": "Bài 81. Tổng ôn: hệ thống thì B1",
+ "vocabulary": [
+  {
+   "word": "review",
+   "ipa": "/rɪˈvjuː/",
+   "meaning": "ôn tập, xem lại",
+   "pos": "động từ / danh từ",
+   "audio": "B1-81-w-review.mp3"
+  },
+  {
+   "word": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "meaning": "độ chính xác",
+   "pos": "danh từ",
+   "audio": "B1-81-w-accuracy.mp3"
+  },
+  {
+   "word": "tense",
+   "ipa": "/tɛns/",
+   "meaning": "thì (ngữ pháp)",
+   "pos": "danh từ",
+   "audio": "B1-81-w-tense.mp3"
+  },
+  {
+   "word": "context",
+   "ipa": "/ˈkɑːntɛkst/",
+   "meaning": "ngữ cảnh (đã gặp ở B1 · Bài 79)",
+   "pos": "danh từ",
+   "audio": "B1-81-w-context.mp3"
+  },
+  {
+   "word": "time expression",
+   "ipa": "/ˈtaɪm ɪkˌsprɛʃən/",
+   "meaning": "từ, cụm từ chỉ thời gian",
+   "pos": "cụm danh từ",
+   "audio": "B1-81-w-time-expression.mp3"
+  },
+  {
+   "word": "sequence",
+   "ipa": "/ˈsiːkwəns/",
+   "meaning": "trình tự, thứ tự nối tiếp",
+   "pos": "danh từ",
+   "audio": "B1-81-w-sequence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I started learning English seriously three years ago.",
+   "vi": "Tôi bắt đầu học tiếng Anh nghiêm túc từ ba năm trước.",
+   "audio": "B1-81-ex-1.mp3"
+  },
+  {
+   "en": "By the time I joined my first class, I had already forgotten most of my school English.",
+   "vi": "Đến lúc tôi vào lớp học đầu tiên, tôi đã quên gần hết tiếng Anh học ở trường.",
+   "audio": "B1-81-ex-2.mp3"
+  },
+  {
+   "en": "I was walking home from work when I saw a poster for an evening course.",
+   "vi": "Tôi đang đi bộ từ chỗ làm về nhà thì nhìn thấy tờ quảng cáo một khóa học buổi tối.",
+   "audio": "B1-81-ex-3.mp3"
+  },
+  {
+   "en": "I've known her for three years, and I've finished three courses.",
+   "vi": "Tôi quen cô ấy được ba năm rồi, và tôi đã học xong ba khóa.",
+   "audio": "B1-81-ex-4.mp3"
+  },
+  {
+   "en": "As soon as I get my certificate, I'm going to apply for a job at an international company.",
+   "vi": "Ngay khi có chứng chỉ, tôi sẽ nộp đơn xin việc ở một công ty quốc tế.",
+   "audio": "B1-81-ex-5.mp3"
+  }
+ ]
+}

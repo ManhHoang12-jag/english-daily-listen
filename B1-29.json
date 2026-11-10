@@ -1,0 +1,81 @@
+{
+ "title": "Bài 29. Kỹ năng: viết email/thư xin việc ngắn",
+ "vocabulary": [
+  {
+   "word": "vacancy",
+   "ipa": "/ˈveɪkənsi/",
+   "meaning": "vị trí còn trống (cần tuyển)",
+   "pos": "danh từ",
+   "audio": "B1-29-w-vacancy.mp3"
+  },
+  {
+   "word": "apply",
+   "ipa": "/əˈplaɪ/",
+   "meaning": "ứng tuyển, nộp đơn (apply for + vị trí)",
+   "pos": "động từ",
+   "audio": "B1-29-w-apply.mp3"
+  },
+  {
+   "word": "advertised",
+   "ipa": "/ˈædvɚtaɪzd/",
+   "meaning": "được đăng tuyển, được quảng cáo",
+   "pos": "tính từ (V3 của advertise)",
+   "audio": "B1-29-w-advertised.mp3"
+  },
+  {
+   "word": "relevant",
+   "ipa": "/ˈrɛləvənt/",
+   "meaning": "liên quan, phù hợp với chủ đề",
+   "pos": "tính từ",
+   "audio": "B1-29-w-relevant.mp3"
+  },
+  {
+   "word": "enclose",
+   "ipa": "/ɪnˈkloʊz/",
+   "meaning": "gửi kèm (trong thư giấy)",
+   "pos": "động từ",
+   "audio": "B1-29-w-enclose.mp3"
+  },
+  {
+   "word": "suitable",
+   "ipa": "/ˈsuːt̬əbəl/",
+   "meaning": "phù hợp, thích hợp",
+   "pos": "tính từ",
+   "audio": "B1-29-w-suitable.mp3"
+  },
+  {
+   "word": "opportunity",
+   "ipa": "/ˌɑːpɚˈtuːnət̬i/",
+   "meaning": "cơ hội",
+   "pos": "danh từ",
+   "audio": "B1-29-w-opportunity.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to apply for the position of Customer Service Assistant, which was advertised on your website last week.",
+   "vi": "Tôi viết email này để ứng tuyển vị trí Trợ lý Chăm sóc Khách hàng, được đăng trên trang web của quý công ty tuần trước.",
+   "audio": "B1-29-ex-1.mp3"
+  },
+  {
+   "en": "I have worked as a receptionist at a hotel in Da Nang for three years.",
+   "vi": "Tôi đã làm lễ tân ở một khách sạn tại Đà Nẵng được ba năm.",
+   "audio": "B1-29-ex-2.mp3"
+  },
+  {
+   "en": "I believe I would be suitable for this vacancy because I have relevant experience in customer service.",
+   "vi": "Tôi tin rằng mình phù hợp với vị trí này vì tôi có kinh nghiệm liên quan trong lĩnh vực chăm sóc khách hàng.",
+   "audio": "B1-29-ex-3.mp3"
+  },
+  {
+   "en": "I have attached my CV and a reference from my current manager.",
+   "vi": "Tôi đã đính kèm CV và thư giới thiệu của quản lý hiện tại.",
+   "audio": "B1-29-ex-4.mp3"
+  },
+  {
+   "en": "I would welcome the opportunity to discuss my application at an interview.",
+   "vi": "Tôi rất mong có cơ hội trao đổi thêm về hồ sơ của mình trong một buổi phỏng vấn.",
+   "audio": "B1-29-ex-5.mp3"
+  }
+ ]
+}

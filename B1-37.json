@@ -1,0 +1,74 @@
+{
+ "title": "Bài 37. So / such ... that",
+ "vocabulary": [
+  {
+   "word": "expensive",
+   "ipa": "/ɪkˈspɛnsɪv/",
+   "meaning": "đắt",
+   "pos": "tính từ",
+   "audio": "B1-37-w-expensive.mp3"
+  },
+  {
+   "word": "cheap",
+   "ipa": "/tʃip/",
+   "meaning": "rẻ",
+   "pos": "tính từ",
+   "audio": "B1-37-w-cheap.mp3"
+  },
+  {
+   "word": "so many",
+   "ipa": "/soʊ ˈmɛni/",
+   "meaning": "nhiều (đến thế), nhiều đến nỗi",
+   "pos": "cụm từ",
+   "audio": "B1-37-w-so-many.mp3"
+  },
+  {
+   "word": "such a",
+   "ipa": "/ˈsʌtʃ ə/",
+   "meaning": "một... đến thế (đứng trước tính từ + danh từ số ít)",
+   "pos": "cụm từ",
+   "audio": "B1-37-w-such-a.mp3"
+  },
+  {
+   "word": "result",
+   "ipa": "/rɪˈzʌlt/",
+   "meaning": "kết quả",
+   "pos": "danh từ",
+   "audio": "B1-37-w-result.mp3"
+  },
+  {
+   "word": "worth",
+   "ipa": "/wɝθ/",
+   "meaning": "đáng, trị giá (worth it, worth + V-ing)",
+   "pos": "tính từ",
+   "audio": "B1-37-w-worth.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The hotel was so expensive that we stayed only one night.",
+   "vi": "Khách sạn đắt đến nỗi chúng tôi chỉ ở có một đêm.",
+   "audio": "B1-37-ex-1.mp3"
+  },
+  {
+   "en": "It was such a cheap flight that I booked two tickets right away.",
+   "vi": "Chuyến bay rẻ đến mức tôi đặt ngay hai vé.",
+   "audio": "B1-37-ex-2.mp3"
+  },
+  {
+   "en": "There were so many tourists that we couldn't see the paintings.",
+   "vi": "Có nhiều khách du lịch đến nỗi chúng tôi không nhìn thấy các bức tranh.",
+   "audio": "B1-37-ex-3.mp3"
+  },
+  {
+   "en": "She spoke so quickly that I didn't understand a word.",
+   "vi": "Cô ấy nói nhanh đến nỗi tôi không hiểu một từ nào.",
+   "audio": "B1-37-ex-4.mp3"
+  },
+  {
+   "en": "They were such friendly people that the long trip was worth it.",
+   "vi": "Họ là những người thân thiện đến mức chuyến đi dài cũng đáng.",
+   "audio": "B1-37-ex-5.mp3"
+  }
+ ]
+}

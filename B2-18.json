@@ -1,0 +1,81 @@
+{
+ "title": "Bài 18. Kỹ năng: đọc bài báo 500 từ về đạo đức công nghệ",
+ "vocabulary": [
+  {
+   "word": "artificial intelligence",
+   "ipa": "/ˌɑrtəˈfɪʃəl ɪnˈtɛlədʒəns/",
+   "meaning": "trí tuệ nhân tạo (AI)",
+   "pos": "cụm danh từ",
+   "audio": "B2-18-w-artificial-intelligence.mp3"
+  },
+  {
+   "word": "surveillance",
+   "ipa": "/sərˈveɪləns/",
+   "meaning": "sự giám sát, theo dõi",
+   "pos": "danh từ",
+   "audio": "B2-18-w-surveillance.mp3"
+  },
+  {
+   "word": "bias",
+   "ipa": "/ˈbaɪəs/",
+   "meaning": "thiên kiến, sự thiên vị",
+   "pos": "danh từ",
+   "audio": "B2-18-w-bias.mp3"
+  },
+  {
+   "word": "accountable",
+   "ipa": "/əˈkaʊntəbəl/",
+   "meaning": "chịu trách nhiệm (be held accountable for)",
+   "pos": "tính từ",
+   "audio": "B2-18-w-accountable.mp3"
+  },
+  {
+   "word": "regulate",
+   "ipa": "/ˈrɛɡjəˌleɪt/",
+   "meaning": "quản lý, điều chỉnh bằng quy định",
+   "pos": "động từ",
+   "audio": "B2-18-w-regulate.mp3"
+  },
+  {
+   "word": "transparency",
+   "ipa": "/trænsˈpɛrənsi/",
+   "meaning": "sự minh bạch",
+   "pos": "danh từ",
+   "audio": "B2-18-w-transparency.mp3"
+  },
+  {
+   "word": "concern",
+   "ipa": "/kənˈsɝn/",
+   "meaning": "mối lo ngại, quan ngại; làm lo ngại",
+   "pos": "danh từ / động từ",
+   "audio": "B2-18-w-concern.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It had simply learned from ten years of hiring decisions, most of which had favored men.",
+   "vi": "Nó chỉ đơn giản là học từ mười năm quyết định tuyển dụng, mà phần lớn trong số đó thiên vị nam giới.",
+   "audio": "B2-18-ex-1.mp3"
+  },
+  {
+   "en": "But consistency is not the same as fairness.",
+   "vi": "Nhưng sự nhất quán không giống với sự công bằng.",
+   "audio": "B2-18-ex-2.mp3"
+  },
+  {
+   "en": "If the data that a system learns from reflects past bias, the system will repeat that bias, quickly and on a massive scale.",
+   "vi": "Nếu dữ liệu mà hệ thống học phản ánh thiên kiến trong quá khứ, hệ thống sẽ lặp lại thiên kiến đó, nhanh chóng và trên quy mô lớn.",
+   "audio": "B2-18-ex-3.mp3"
+  },
+  {
+   "en": "The retail company eventually dropped its tool, but it should have tested it properly before using it on real applicants.",
+   "vi": "Công ty bán lẻ cuối cùng đã bỏ công cụ đó, nhưng lẽ ra họ nên thử nghiệm kỹ trước khi dùng với ứng viên thật.",
+   "audio": "B2-18-ex-4.mp3"
+  },
+  {
+   "en": "Governments need to regulate its use in areas that affect people's lives.",
+   "vi": "Chính phủ cần quản lý việc sử dụng nó trong những lĩnh vực ảnh hưởng đến cuộc sống con người.",
+   "audio": "B2-18-ex-5.mp3"
+  }
+ ]
+}

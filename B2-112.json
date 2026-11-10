@@ -1,0 +1,74 @@
+{
+ "title": "Bài 112. Tổng ôn: bị động, truyền khiến, động từ tường thuật",
+ "vocabulary": [
+  {
+   "word": "objective",
+   "ipa": "/əbˈdʒɛktɪv/",
+   "meaning": "khách quan (không theo cảm xúc, ý kiến riêng)",
+   "pos": "tính từ",
+   "audio": "B2-112-w-objective.mp3"
+  },
+  {
+   "word": "impersonal",
+   "ipa": "/ɪmˈpɝsənəl/",
+   "meaning": "phi cá nhân, không nhắc đến người viết (văn phong)",
+   "pos": "tính từ",
+   "audio": "B2-112-w-impersonal.mp3"
+  },
+  {
+   "word": "attribute",
+   "ipa": "/əˈtrɪbjut/",
+   "meaning": "quy cho, cho là do (attribute sth to sth)",
+   "pos": "động từ",
+   "audio": "B2-112-w-attribute.mp3"
+  },
+  {
+   "word": "report",
+   "ipa": "/rɪˈpɔrt/",
+   "meaning": "đưa tin, báo cáo; is reported to = được đưa tin là",
+   "pos": "động từ",
+   "audio": "B2-112-w-report.mp3"
+  },
+  {
+   "word": "cite",
+   "ipa": "/saɪt/",
+   "meaning": "trích dẫn, viện dẫn (một nguồn, nghiên cứu)",
+   "pos": "động từ",
+   "audio": "B2-112-w-cite.mp3"
+  },
+  {
+   "word": "agent",
+   "ipa": "/ˈeɪdʒənt/",
+   "meaning": "tác nhân, người thực hiện hành động (by... trong câu bị động)",
+   "pos": "danh từ",
+   "audio": "B2-112-w-agent.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The new bridge is thought to have cost twice as much as originally planned.",
+   "vi": "Cây cầu mới được cho là đã tốn gấp đôi so với kế hoạch ban đầu.",
+   "audio": "B2-112-ex-1.mp3"
+  },
+  {
+   "en": "The mayor is said to be considering a ban on cars in the old quarter.",
+   "vi": "Thị trưởng được cho là đang cân nhắc việc cấm ô tô ở khu phố cổ.",
+   "audio": "B2-112-ex-2.mp3"
+  },
+  {
+   "en": "The rise in prices has been attributed to higher energy costs.",
+   "vi": "Việc giá tăng được quy cho chi phí năng lượng cao hơn.",
+   "audio": "B2-112-ex-3.mp3"
+  },
+  {
+   "en": "We had the report checked by an independent expert before it was published.",
+   "vi": "Chúng tôi đã nhờ một chuyên gia độc lập kiểm tra báo cáo trước khi nó được công bố.",
+   "audio": "B2-112-ex-4.mp3"
+  },
+  {
+   "en": "The senator denied misleading voters but agreed to answer further questions.",
+   "vi": "Thượng nghị sĩ phủ nhận việc đã đánh lừa cử tri nhưng đồng ý trả lời thêm câu hỏi.",
+   "audio": "B2-112-ex-5.mp3"
+  }
+ ]
+}

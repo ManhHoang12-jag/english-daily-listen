@@ -1,0 +1,74 @@
+{
+ "title": "Bài 88. Kỹ năng tích hợp: viết email và bài luận",
+ "vocabulary": [
+  {
+   "word": "task",
+   "ipa": "/tæsk/",
+   "meaning": "nhiệm vụ, đề bài",
+   "pos": "danh từ",
+   "audio": "B1-88-w-task.mp3"
+  },
+  {
+   "word": "coherence",
+   "ipa": "/koʊˈhɪrəns/",
+   "meaning": "sự mạch lạc (các ý nối với nhau hợp lý)",
+   "pos": "danh từ",
+   "audio": "B1-88-w-coherence.mp3"
+  },
+  {
+   "word": "range",
+   "ipa": "/reɪndʒ/",
+   "meaning": "độ đa dạng, phạm vi (a range of = nhiều loại)",
+   "pos": "danh từ",
+   "audio": "B1-88-w-range.mp3"
+  },
+  {
+   "word": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "meaning": "độ chính xác",
+   "pos": "danh từ",
+   "audio": "B1-88-w-accuracy.mp3"
+  },
+  {
+   "word": "draft",
+   "ipa": "/dræft/",
+   "meaning": "bản nháp; viết nháp",
+   "pos": "danh từ / động từ",
+   "audio": "B1-88-w-draft.mp3"
+  },
+  {
+   "word": "edit",
+   "ipa": "/ˈɛdɪt/",
+   "meaning": "sửa, biên tập (bài viết)",
+   "pos": "động từ",
+   "audio": "B1-88-w-edit.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to apply for a place as a volunteer at the City Book Festival next month.",
+   "vi": "Tôi viết thư này để đăng ký làm tình nguyện viên tại Hội sách Thành phố tháng tới.",
+   "audio": "B1-88-ex-1.mp3"
+  },
+  {
+   "en": "I would be grateful if you could answer two questions.",
+   "vi": "Tôi rất biết ơn nếu bà có thể trả lời hai câu hỏi.",
+   "audio": "B1-88-ex-2.mp3"
+  },
+  {
+   "en": "In my opinion, working from home has more advantages than disadvantages, although it does not suit everyone.",
+   "vi": "Theo tôi, làm việc ở nhà có nhiều ưu điểm hơn nhược điểm, mặc dù nó không hợp với tất cả mọi người.",
+   "audio": "B1-88-ex-3.mp3"
+  },
+  {
+   "en": "On the other hand, working from home can be lonely.",
+   "vi": "Mặt khác, làm việc ở nhà có thể cô đơn.",
+   "audio": "B1-88-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, I believe working from home is a positive change, provided that people set clear limits between work and free time.",
+   "vi": "Tóm lại, tôi tin rằng làm việc ở nhà là một thay đổi tích cực, với điều kiện mọi người đặt ranh giới rõ ràng giữa công việc và thời gian rảnh.",
+   "audio": "B1-88-ex-5.mp3"
+  }
+ ]
+}

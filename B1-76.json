@@ -1,0 +1,74 @@
+{
+ "title": "Bài 76. Kỹ năng: viết email phàn nàn bán trang trọng",
+ "vocabulary": [
+  {
+   "word": "I am writing to complain",
+   "ipa": "/aɪ æm ˈraɪtɪŋ tə kəmˈpleɪn/",
+   "meaning": "Tôi viết thư này để phàn nàn (câu mở đầu)",
+   "pos": "cụm câu",
+   "audio": "B1-76-w-i-am-writing-to-complain.mp3"
+  },
+  {
+   "word": "unfortunately",
+   "ipa": "/ʌnˈfɔːrtʃənətli/",
+   "meaning": "đáng tiếc là, không may là",
+   "pos": "trạng từ",
+   "audio": "B1-76-w-unfortunately.mp3"
+  },
+  {
+   "word": "furthermore",
+   "ipa": "/ˈfɝːðɚmɔːr/",
+   "meaning": "hơn nữa, ngoài ra (trang trọng)",
+   "pos": "trạng từ",
+   "audio": "B1-76-w-furthermore.mp3"
+  },
+  {
+   "word": "I would appreciate",
+   "ipa": "/aɪ wʊd əˈpriːʃieɪt/",
+   "meaning": "Tôi rất mong, tôi sẽ rất cảm kích (dùng: I would appreciate it if you could...)",
+   "pos": "cụm câu",
+   "audio": "B1-76-w-i-would-appreciate.mp3"
+  },
+  {
+   "word": "resolve",
+   "ipa": "/rɪˈzɑːlv/",
+   "meaning": "giải quyết (vấn đề, khiếu nại)",
+   "pos": "động từ",
+   "audio": "B1-76-w-resolve.mp3"
+  },
+  {
+   "word": "as soon as possible",
+   "ipa": "/əz ˈsuːn əz ˈpɑːsəbəl/",
+   "meaning": "càng sớm càng tốt",
+   "pos": "cụm trạng từ",
+   "audio": "B1-76-w-as-soon-as-possible.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to complain about my recent stay at the Sunrise Hotel.",
+   "vi": "Tôi viết thư này để phàn nàn về đợt lưu trú gần đây tại khách sạn Sunrise.",
+   "audio": "B1-76-ex-1.mp3"
+  },
+  {
+   "en": "Unfortunately, my room was not cleaned during the whole stay, and the air conditioner did not work.",
+   "vi": "Đáng tiếc là phòng tôi không được dọn suốt thời gian ở, và máy lạnh không hoạt động.",
+   "audio": "B1-76-ex-2.mp3"
+  },
+  {
+   "en": "Furthermore, I was charged for breakfast, although it was included in my booking.",
+   "vi": "Hơn nữa, tôi bị tính tiền bữa sáng, mặc dù bữa sáng đã có trong đặt phòng.",
+   "audio": "B1-76-ex-3.mp3"
+  },
+  {
+   "en": "I would appreciate it if you could refund the cost of the breakfasts and explain how you will resolve these problems.",
+   "vi": "Tôi rất mong quý khách sạn hoàn lại tiền bữa sáng và giải thích sẽ giải quyết những vấn đề này thế nào.",
+   "audio": "B1-76-ex-4.mp3"
+  },
+  {
+   "en": "I look forward to hearing from you as soon as possible.",
+   "vi": "Tôi mong sớm nhận được phản hồi.",
+   "audio": "B1-76-ex-5.mp3"
+  }
+ ]
+}

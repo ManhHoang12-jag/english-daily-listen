@@ -1,0 +1,81 @@
+{
+ "title": "Bài 53. Đảo ngữ 1: trạng từ phủ định",
+ "vocabulary": [
+  {
+   "word": "never before",
+   "ipa": "/ˈnɛvɚ bɪˈfɔr/",
+   "meaning": "chưa từng bao giờ trước đây",
+   "pos": "cụm trạng từ",
+   "audio": "B2-53-w-never-before.mp3"
+  },
+  {
+   "word": "rarely",
+   "ipa": "/ˈrɛrli/",
+   "meaning": "hiếm khi",
+   "pos": "trạng từ",
+   "audio": "B2-53-w-rarely.mp3"
+  },
+  {
+   "word": "seldom",
+   "ipa": "/ˈsɛldəm/",
+   "meaning": "hiếm khi (trang trọng hơn rarely)",
+   "pos": "trạng từ",
+   "audio": "B2-53-w-seldom.mp3"
+  },
+  {
+   "word": "not only",
+   "ipa": "/ˌnɑt ˈoʊnli/",
+   "meaning": "không những (... mà còn)",
+   "pos": "cụm liên từ",
+   "audio": "B2-53-w-not-only.mp3"
+  },
+  {
+   "word": "little did",
+   "ipa": "/ˈlɪtəl dɪd/",
+   "meaning": "hoàn toàn không (biết, ngờ) – Little did I know...",
+   "pos": "cụm từ",
+   "audio": "B2-53-w-little-did.mp3"
+  },
+  {
+   "word": "under no circumstances",
+   "ipa": "/ˈʌndɚ ˌnoʊ ˈsɝkəmˌstænsɪz/",
+   "meaning": "trong bất kỳ trường hợp nào cũng không",
+   "pos": "cụm trạng từ",
+   "audio": "B2-53-w-under-no-circumstances.mp3"
+  },
+  {
+   "word": "at no time",
+   "ipa": "/æt ˌnoʊ ˈtaɪm/",
+   "meaning": "chưa lúc nào, không lúc nào",
+   "pos": "cụm trạng từ",
+   "audio": "B2-53-w-at-no-time.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Never before have we seen such a rapid rise in housing prices.",
+   "vi": "Chưa bao giờ chúng ta thấy giá nhà tăng nhanh đến vậy.",
+   "audio": "B2-53-ex-1.mp3"
+  },
+  {
+   "en": "Rarely do we get a chance to speak directly to the minister.",
+   "vi": "Hiếm khi chúng tôi có cơ hội nói chuyện trực tiếp với bộ trưởng.",
+   "audio": "B2-53-ex-2.mp3"
+  },
+  {
+   "en": "Not only did the new policy reduce traffic, but it also improved air quality.",
+   "vi": "Chính sách mới không những giảm ùn tắc mà còn cải thiện chất lượng không khí.",
+   "audio": "B2-53-ex-3.mp3"
+  },
+  {
+   "en": "Little did she know that her small blog would one day reach a million readers.",
+   "vi": "Cô ấy hoàn toàn không ngờ rằng blog nhỏ của mình một ngày nào đó sẽ có một triệu người đọc.",
+   "audio": "B2-53-ex-4.mp3"
+  },
+  {
+   "en": "Under no circumstances should staff share their login details with anyone.",
+   "vi": "Trong bất kỳ trường hợp nào, nhân viên cũng không được chia sẻ thông tin đăng nhập cho người khác.",
+   "audio": "B2-53-ex-5.mp3"
+  }
+ ]
+}

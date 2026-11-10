@@ -1,0 +1,74 @@
+{
+ "title": "Bài 78. Collocations B1: make, do, take, have",
+ "vocabulary": [
+  {
+   "word": "make a decision",
+   "ipa": "/ˌmeɪk ə dɪˈsɪʒən/",
+   "meaning": "đưa ra quyết định",
+   "pos": "collocation",
+   "audio": "B1-78-w-make-a-decision.mp3"
+  },
+  {
+   "word": "make progress",
+   "ipa": "/ˌmeɪk ˈprɑːɡrɛs/",
+   "meaning": "tiến bộ",
+   "pos": "collocation",
+   "audio": "B1-78-w-make-progress.mp3"
+  },
+  {
+   "word": "do research",
+   "ipa": "/ˌduː ˈriːsɝːtʃ/",
+   "meaning": "nghiên cứu, tìm hiểu",
+   "pos": "collocation",
+   "audio": "B1-78-w-do-research.mp3"
+  },
+  {
+   "word": "take a break",
+   "ipa": "/ˌteɪk ə ˈbreɪk/",
+   "meaning": "nghỉ giải lao, nghỉ một lát",
+   "pos": "collocation",
+   "audio": "B1-78-w-take-a-break.mp3"
+  },
+  {
+   "word": "take part in",
+   "ipa": "/ˌteɪk ˈpɑːrt ɪn/",
+   "meaning": "tham gia (hoạt động, sự kiện)",
+   "pos": "collocation",
+   "audio": "B1-78-w-take-part-in.mp3"
+  },
+  {
+   "word": "have an effect on",
+   "ipa": "/ˌhæv ən ɪˈfɛkt ɑːn/",
+   "meaning": "có ảnh hưởng tới",
+   "pos": "collocation",
+   "audio": "B1-78-w-have-an-effect-on.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Last year, I made an important decision: I joined a research project at my university.",
+   "vi": "Năm ngoái, tôi đưa ra một quyết định quan trọng: tôi tham gia một dự án nghiên cứu ở trường đại học.",
+   "audio": "B1-78-ex-1.mp3"
+  },
+  {
+   "en": "Our group did research on how phones have an effect on students' sleep.",
+   "vi": "Nhóm chúng tôi nghiên cứu xem điện thoại ảnh hưởng thế nào đến giấc ngủ của sinh viên.",
+   "audio": "B1-78-ex-2.mp3"
+  },
+  {
+   "en": "At first, I made a lot of mistakes, but slowly, I made progress.",
+   "vi": "Lúc đầu, tôi mắc nhiều lỗi, nhưng dần dần tôi tiến bộ.",
+   "audio": "B1-78-ex-3.mp3"
+  },
+  {
+   "en": "The work was hard, so we sometimes took a break and had a chat in the café.",
+   "vi": "Công việc vất vả, nên thỉnh thoảng chúng tôi nghỉ giải lao và trò chuyện ở quán cà phê.",
+   "audio": "B1-78-ex-4.mp3"
+  },
+  {
+   "en": "In May, I took part in a student conference, and my friends took a lot of photos of my talk.",
+   "vi": "Vào tháng Năm, tôi tham gia một hội nghị sinh viên, và bạn bè chụp rất nhiều ảnh bài nói của tôi.",
+   "audio": "B1-78-ex-5.mp3"
+  }
+ ]
+}

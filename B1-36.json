@@ -1,0 +1,95 @@
+{
+ "title": "Bài 36. Chủ đề: tiền bạc và chi tiêu",
+ "vocabulary": [
+  {
+   "word": "budget",
+   "ipa": "/ˈbʌdʒɪt/",
+   "meaning": "ngân sách, kế hoạch chi tiêu",
+   "pos": "danh từ",
+   "audio": "B1-36-w-budget.mp3"
+  },
+  {
+   "word": "income",
+   "ipa": "/ˈɪnkʌm/",
+   "meaning": "thu nhập",
+   "pos": "danh từ",
+   "audio": "B1-36-w-income.mp3"
+  },
+  {
+   "word": "expense",
+   "ipa": "/ɪkˈspens/",
+   "meaning": "khoản chi, chi phí",
+   "pos": "danh từ",
+   "audio": "B1-36-w-expense.mp3"
+  },
+  {
+   "word": "loan",
+   "ipa": "/loʊn/",
+   "meaning": "khoản vay",
+   "pos": "danh từ",
+   "audio": "B1-36-w-loan.mp3"
+  },
+  {
+   "word": "debt",
+   "ipa": "/det/",
+   "meaning": "món nợ, tiền nợ",
+   "pos": "danh từ",
+   "audio": "B1-36-w-debt.mp3"
+  },
+  {
+   "word": "save up",
+   "ipa": "/ˌseɪv ˈʌp/",
+   "meaning": "để dành tiền (cho mục tiêu)",
+   "pos": "cụm động từ",
+   "audio": "B1-36-w-save-up.mp3"
+  },
+  {
+   "word": "pay back",
+   "ipa": "/ˌpeɪ ˈbæk/",
+   "meaning": "trả lại (tiền đã vay)",
+   "pos": "cụm động từ",
+   "audio": "B1-36-w-pay-back.mp3"
+  },
+  {
+   "word": "afford",
+   "ipa": "/əˈfɔːrd/",
+   "meaning": "đủ tiền, kham nổi (afford + to V; ôn B1 · Bài 32)",
+   "pos": "động từ",
+   "audio": "B1-36-w-afford.mp3"
+  },
+  {
+   "word": "bargain",
+   "ipa": "/ˈbɑːrɡən/",
+   "meaning": "món hời, đồ mua được giá rẻ",
+   "pos": "danh từ",
+   "audio": "B1-36-w-bargain.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm saving up for a new motorbike, so I'm trying to spend less.",
+   "vi": "Tôi đang để dành tiền mua xe máy mới, nên tôi đang cố chi tiêu ít hơn.",
+   "audio": "B1-36-ex-1.mp3"
+  },
+  {
+   "en": "My expenses are higher than my income this month.",
+   "vi": "Tháng này khoản chi của tôi cao hơn thu nhập.",
+   "audio": "B1-36-ex-2.mp3"
+  },
+  {
+   "en": "He borrowed some money from his sister and paid her back two months later.",
+   "vi": "Anh ấy vay chị gái một ít tiền và hai tháng sau đã trả lại chị.",
+   "audio": "B1-36-ex-3.mp3"
+  },
+  {
+   "en": "We took out a loan to buy the apartment, and we'll pay it off in ten years.",
+   "vi": "Chúng tôi vay tiền để mua căn hộ, và sẽ trả hết trong mười năm.",
+   "audio": "B1-36-ex-4.mp3"
+  },
+  {
+   "en": "I can't afford to eat out every day, so I make a budget each month.",
+   "vi": "Tôi không đủ tiền ăn ngoài mỗi ngày, nên tháng nào tôi cũng lập ngân sách.",
+   "audio": "B1-36-ex-5.mp3"
+  }
+ ]
+}

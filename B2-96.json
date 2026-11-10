@@ -1,0 +1,88 @@
+{
+ "title": "Bài 96. Thành ngữ trong ngữ cảnh 2: cảm xúc và quan hệ",
+ "vocabulary": [
+  {
+   "word": "over the moon",
+   "ipa": "/ˌoʊvər ðə ˈmun/",
+   "meaning": "vui sướng vô cùng",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-over-the-moon.mp3"
+  },
+  {
+   "word": "on edge",
+   "ipa": "/ɑn ˈɛdʒ/",
+   "meaning": "bồn chồn, căng thẳng",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-on-edge.mp3"
+  },
+  {
+   "word": "see eye to eye",
+   "ipa": "/ˌsi ˌaɪ tə ˈaɪ/",
+   "meaning": "đồng quan điểm (with someone, on something)",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-see-eye-to-eye.mp3"
+  },
+  {
+   "word": "break the ice",
+   "ipa": "/ˌbreɪk ði ˈaɪs/",
+   "meaning": "phá vỡ sự ngại ngùng ban đầu",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-break-the-ice.mp3"
+  },
+  {
+   "word": "at a loss",
+   "ipa": "/æt ə ˈlɔs/",
+   "meaning": "bối rối, không biết nói gì hay làm gì (at a loss for words)",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-at-a-loss.mp3"
+  },
+  {
+   "word": "get on like a house on fire",
+   "ipa": "/ˌɡɛt ˈɑn laɪk ə ˈhaʊs ɑn ˈfaɪər/",
+   "meaning": "hợp nhau ngay, thân nhau rất nhanh",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-get-on-like-a-house-on-fire.mp3"
+  },
+  {
+   "word": "keep in touch",
+   "ipa": "/ˌkip ɪn ˈtʌtʃ/",
+   "meaning": "giữ liên lạc (with someone)",
+   "pos": "cụm cố định",
+   "audio": "B2-96-w-keep-in-touch.mp3"
+  },
+  {
+   "word": "a weight off my mind",
+   "ipa": "/ə ˈweɪt ɔf maɪ ˈmaɪnd/",
+   "meaning": "trút được gánh nặng, nhẹ cả người",
+   "pos": "thành ngữ",
+   "audio": "B2-96-w-a-weight-off-my-mind.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "On my first day I was really on edge.",
+   "vi": "Ngày đầu tiên tôi thực sự bồn chồn lo lắng.",
+   "audio": "B2-96-ex-1.mp3"
+  },
+  {
+   "en": "I broke the ice by asking where to find the best noodles in town.",
+   "vi": "Tôi phá vỡ sự ngại ngùng bằng cách hỏi chỗ nào bán mì ngon nhất thành phố.",
+   "audio": "B2-96-ex-2.mp3"
+  },
+  {
+   "en": "That's how I met Hoa, and we got on like a house on fire.",
+   "vi": "Tôi gặp Hoa như thế, và chúng tôi hợp nhau ngay lập tức.",
+   "audio": "B2-96-ex-3.mp3"
+  },
+  {
+   "en": "We didn't always see eye to eye on work, of course.",
+   "vi": "Tất nhiên, chúng tôi không phải lúc nào cũng đồng quan điểm về công việc.",
+   "audio": "B2-96-ex-4.mp3"
+  },
+  {
+   "en": "I was over the moon, and honestly, it was a weight off my mind.",
+   "vi": "Tôi vui sướng vô cùng, và thật lòng mà nói, tôi trút được gánh nặng.",
+   "audio": "B2-96-ex-5.mp3"
+  }
+ ]
+}

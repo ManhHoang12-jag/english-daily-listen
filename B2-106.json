@@ -1,0 +1,81 @@
+{
+ "title": "Bài 106. Kỹ năng: viết bài luận nghị luận hoàn chỉnh 250 từ",
+ "vocabulary": [
+  {
+   "word": "coherent",
+   "ipa": "/koʊˈhɪrənt/",
+   "meaning": "mạch lạc (ý sắp xếp logic, dễ theo dõi)",
+   "pos": "tính từ",
+   "audio": "B2-106-w-coherent.mp3"
+  },
+  {
+   "word": "cohesive",
+   "ipa": "/koʊˈhisɪv/",
+   "meaning": "liên kết chặt (câu nối với câu bằng từ nối, đại từ, thay thế)",
+   "pos": "tính từ",
+   "audio": "B2-106-w-cohesive.mp3"
+  },
+  {
+   "word": "nuanced",
+   "ipa": "/ˈnuɑnst/",
+   "meaning": "có sắc thái, không trắng đen tuyệt đối",
+   "pos": "tính từ",
+   "audio": "B2-106-w-nuanced.mp3"
+  },
+  {
+   "word": "substantiate",
+   "ipa": "/səbˈstænʃiˌeɪt/",
+   "meaning": "chứng minh, đưa bằng chứng cho (một khẳng định)",
+   "pos": "động từ",
+   "audio": "B2-106-w-substantiate.mp3"
+  },
+  {
+   "word": "well-reasoned",
+   "ipa": "/ˌwɛl ˈrizənd/",
+   "meaning": "lập luận chặt chẽ, có lý lẽ tốt",
+   "pos": "tính từ",
+   "audio": "B2-106-w-well-reasoned.mp3"
+  },
+  {
+   "word": "conclusion",
+   "ipa": "/kənˈkluʒən/",
+   "meaning": "kết luận, phần kết bài (In conclusion, ...)",
+   "pos": "danh từ",
+   "audio": "B2-106-w-conclusion.mp3"
+  },
+  {
+   "word": "proofread",
+   "ipa": "/ˈprufˌrid/",
+   "meaning": "đọc soát lỗi (quá khứ: proofread, đọc \"PRUF-red\")",
+   "pos": "động từ",
+   "audio": "B2-106-w-proofread.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Whether university education should be free for everyone is a question that divides governments around the world.",
+   "vi": "Liệu giáo dục đại học có nên miễn phí cho tất cả mọi người hay không là câu hỏi gây chia rẽ giữa các chính phủ trên thế giới.",
+   "audio": "B2-106-ex-1.mp3"
+  },
+  {
+   "en": "Admittedly, abolishing fees would place a heavy burden on public budgets.",
+   "vi": "Phải thừa nhận rằng bãi bỏ học phí sẽ đặt gánh nặng lớn lên ngân sách nhà nước.",
+   "audio": "B2-106-ex-2.mp3"
+  },
+  {
+   "en": "Graduates tend to earn more, pay more tax and rely less on welfare.",
+   "vi": "Người có bằng đại học thường kiếm nhiều hơn, đóng thuế nhiều hơn và ít phụ thuộc trợ cấp hơn.",
+   "audio": "B2-106-ex-3.mp3"
+  },
+  {
+   "en": "Faced with large debts, many talented students from low-income families simply decide not to apply.",
+   "vi": "Đứng trước những khoản nợ lớn, nhiều sinh viên giỏi từ gia đình thu nhập thấp quyết định không nộp đơn.",
+   "audio": "B2-106-ex-4.mp3"
+  },
+  {
+   "en": "It is the cost of rent and food, rather than fees, that often forces students to drop out.",
+   "vi": "Chính chi phí nhà ở và ăn uống, chứ không phải học phí, thường buộc sinh viên bỏ học.",
+   "audio": "B2-106-ex-5.mp3"
+  }
+ ]
+}

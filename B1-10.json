@@ -1,0 +1,67 @@
+{
+ "title": "Bài 10. Ôn tập và kiểm tra B1-1",
+ "vocabulary": [
+  {
+   "word": "suddenly",
+   "ipa": "/ˈsʌdənli/",
+   "meaning": "đột nhiên (ôn B1 · Bài 01)",
+   "pos": "trạng từ",
+   "audio": "B1-10-w-suddenly.mp3"
+  },
+  {
+   "word": "by the time",
+   "ipa": "/baɪ ðə ˈtaɪm/",
+   "meaning": "đến lúc (mà) (ôn B1 · Bài 03)",
+   "pos": "liên từ",
+   "audio": "B1-10-w-by-the-time.mp3"
+  },
+  {
+   "word": "it turned out that",
+   "ipa": "/ɪt ˈtɝːnd ˈaʊt ðət/",
+   "meaning": "hóa ra là (ôn B1 · Bài 04)",
+   "pos": "cụm từ",
+   "audio": "B1-10-w-it-turned-out-that.mp3"
+  },
+  {
+   "word": "so far",
+   "ipa": "/ˌsoʊ ˈfɑːr/",
+   "meaning": "cho đến nay (ôn B1 · Bài 06)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-10-w-so-far.mp3"
+  },
+  {
+   "word": "absolutely",
+   "ipa": "/ˌæbsəˈluːtli/",
+   "meaning": "hoàn toàn, cực kỳ (ôn B1 · Bài 07)",
+   "pos": "trạng từ",
+   "audio": "B1-10-w-absolutely.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been waiting for the bus for forty minutes, and I'm absolutely freezing.",
+   "vi": "Tôi đã đợi xe buýt bốn mươi phút rồi, và tôi lạnh cóng.",
+   "audio": "B1-10-ex-1.mp3"
+  },
+  {
+   "en": "By the time I got to the cinema, the film had already started.",
+   "vi": "Lúc tôi đến rạp thì phim đã bắt đầu rồi.",
+   "audio": "B1-10-ex-2.mp3"
+  },
+  {
+   "en": "I was cooking dinner when, all of a sudden, the lights went out.",
+   "vi": "Tôi đang nấu bữa tối thì bỗng nhiên mất điện.",
+   "audio": "B1-10-ex-3.mp3"
+  },
+  {
+   "en": "I used to hate flying, but I've flown more than twenty times since then.",
+   "vi": "Tôi từng ghét đi máy bay, nhưng từ đó đến nay tôi đã bay hơn hai mươi lần.",
+   "audio": "B1-10-ex-4.mp3"
+  },
+  {
+   "en": "So far this week, I've written four reports, and I've been working late every night.",
+   "vi": "Từ đầu tuần đến giờ, tôi đã viết bốn bản báo cáo, và tối nào tôi cũng làm muộn.",
+   "audio": "B1-10-ex-5.mp3"
+  }
+ ]
+}

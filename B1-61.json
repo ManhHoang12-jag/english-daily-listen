@@ -1,0 +1,88 @@
+{
+ "title": "Bài 61. Chủ đề: sức khỏe và lối sống",
+ "vocabulary": [
+  {
+   "word": "lifestyle",
+   "ipa": "/ˈlaɪfˌstaɪl/",
+   "meaning": "lối sống",
+   "pos": "danh từ",
+   "audio": "B1-61-w-lifestyle.mp3"
+  },
+  {
+   "word": "stress",
+   "ipa": "/strɛs/",
+   "meaning": "sự căng thẳng, áp lực",
+   "pos": "danh từ",
+   "audio": "B1-61-w-stress.mp3"
+  },
+  {
+   "word": "balanced diet",
+   "ipa": "/ˈbælənst ˈdaɪət/",
+   "meaning": "chế độ ăn cân bằng",
+   "pos": "cụm danh từ",
+   "audio": "B1-61-w-balanced-diet.mp3"
+  },
+  {
+   "word": "exercise regularly",
+   "ipa": "/ˈɛksɚˌsaɪz ˈrɛɡjəlɚli/",
+   "meaning": "tập thể dục đều đặn",
+   "pos": "cụm động từ",
+   "audio": "B1-61-w-exercise-regularly.mp3"
+  },
+  {
+   "word": "mental health",
+   "ipa": "/ˈmɛntəl hɛlθ/",
+   "meaning": "sức khỏe tinh thần",
+   "pos": "cụm danh từ",
+   "audio": "B1-61-w-mental-health.mp3"
+  },
+  {
+   "word": "habit",
+   "ipa": "/ˈhæbɪt/",
+   "meaning": "thói quen",
+   "pos": "danh từ",
+   "audio": "B1-61-w-habit.mp3"
+  },
+  {
+   "word": "sleep deprivation",
+   "ipa": "/ˈslip ˌdɛprəˈveɪʃən/",
+   "meaning": "tình trạng thiếu ngủ kéo dài",
+   "pos": "cụm danh từ",
+   "audio": "B1-61-w-sleep-deprivation.mp3"
+  },
+  {
+   "word": "cut down on",
+   "ipa": "/ˌkʌt ˈdaʊn ɑn/",
+   "meaning": "giảm bớt (ăn, uống, dùng)",
+   "pos": "cụm động từ",
+   "audio": "B1-61-w-cut-down-on.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been sleeping badly lately because of stress at work.",
+   "vi": "Dạo này tôi ngủ không ngon vì căng thẳng trong công việc.",
+   "audio": "B1-61-ex-1.mp3"
+  },
+  {
+   "en": "You should cut down on coffee, especially in the afternoon.",
+   "vi": "Bạn nên uống ít cà phê lại, nhất là vào buổi chiều.",
+   "audio": "B1-61-ex-2.mp3"
+  },
+  {
+   "en": "People who exercise regularly usually sleep better and feel less stressed.",
+   "vi": "Những người tập thể dục đều đặn thường ngủ ngon hơn và ít căng thẳng hơn.",
+   "audio": "B1-61-ex-3.mp3"
+  },
+  {
+   "en": "You ought to take a break, because sleep deprivation affects your mental health.",
+   "vi": "Bạn nên nghỉ ngơi một chút, vì thiếu ngủ kéo dài ảnh hưởng đến sức khỏe tinh thần.",
+   "audio": "B1-61-ex-4.mp3"
+  },
+  {
+   "en": "I've been trying to change my lifestyle, but old habits are hard to break.",
+   "vi": "Tôi đang cố thay đổi lối sống, nhưng thói quen cũ khó bỏ lắm.",
+   "audio": "B1-61-ex-5.mp3"
+  }
+ ]
+}

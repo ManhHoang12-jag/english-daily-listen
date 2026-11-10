@@ -1,0 +1,81 @@
+{
+ "title": "Bài 48. Kỹ năng: viết bài luận nghị luận (argument essay)",
+ "vocabulary": [
+  {
+   "word": "admittedly",
+   "ipa": "/ədˈmɪtɪdli/",
+   "meaning": "phải thừa nhận là (mở ý nhượng bộ)",
+   "pos": "trạng từ",
+   "audio": "B2-48-w-admittedly.mp3"
+  },
+  {
+   "word": "while it is true",
+   "ipa": "/waɪl ɪt ɪz ˈtru/",
+   "meaning": "dù đúng là (while it is true that X, Y)",
+   "pos": "cụm liên từ",
+   "audio": "B2-48-w-while-it-is-true.mp3"
+  },
+  {
+   "word": "nevertheless",
+   "ipa": "/ˌnɛvərðəˈlɛs/",
+   "meaning": "tuy vậy, dù vậy (trang trọng)",
+   "pos": "trạng từ",
+   "audio": "B2-48-w-nevertheless.mp3"
+  },
+  {
+   "word": "counter-argument",
+   "ipa": "/ˈkaʊntər ˌɑrɡjəmənt/",
+   "meaning": "ý phản biện, lập luận trái chiều",
+   "pos": "danh từ",
+   "audio": "B2-48-w-counter-argument.mp3"
+  },
+  {
+   "word": "refute",
+   "ipa": "/rɪˈfjut/",
+   "meaning": "bác bỏ (bằng lý lẽ, bằng chứng)",
+   "pos": "động từ",
+   "audio": "B2-48-w-refute.mp3"
+  },
+  {
+   "word": "convincing",
+   "ipa": "/kənˈvɪnsɪŋ/",
+   "meaning": "thuyết phục, có sức thuyết phục",
+   "pos": "tính từ",
+   "audio": "B2-48-w-convincing.mp3"
+  },
+  {
+   "word": "thesis statement",
+   "ipa": "/ˈθisɪs ˌsteɪtmənt/",
+   "meaning": "câu nêu luận đề (lập trường chính của bài)",
+   "pos": "cụm danh từ",
+   "audio": "B2-48-w-thesis-statement.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "In my view, such restrictions would do more harm than good.",
+   "vi": "Theo tôi, những hạn chế như vậy sẽ gây hại nhiều hơn lợi.",
+   "audio": "B2-48-ex-1.mp3"
+  },
+  {
+   "en": "First, migration is one of the most effective ways for rural families to escape poverty.",
+   "vi": "Thứ nhất, di cư là một trong những cách hiệu quả nhất để các gia đình nông thôn thoát nghèo.",
+   "audio": "B2-48-ex-2.mp3"
+  },
+  {
+   "en": "Admittedly, rapid migration puts heavy pressure on housing, transport and public services.",
+   "vi": "Phải thừa nhận rằng di cư nhanh gây áp lực lớn lên nhà ở, giao thông và dịch vụ công.",
+   "audio": "B2-48-ex-3.mp3"
+  },
+  {
+   "en": "However, this is an argument for better urban planning, not for keeping people out.",
+   "vi": "Tuy nhiên, đây là lý do để quy hoạch đô thị tốt hơn, chứ không phải để ngăn người ta vào.",
+   "audio": "B2-48-ex-4.mp3"
+  },
+  {
+   "en": "In conclusion, while it is true that overcrowding is a serious concern, limiting migration would punish the people who most need opportunities.",
+   "vi": "Tóm lại, dù đúng là tình trạng quá tải đáng lo ngại, việc hạn chế di cư sẽ trừng phạt chính những người cần cơ hội nhất.",
+   "audio": "B2-48-ex-5.mp3"
+  }
+ ]
+}

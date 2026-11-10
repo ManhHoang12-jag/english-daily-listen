@@ -1,0 +1,116 @@
+{
+ "title": "Bài 73. Cấu tạo từ: hậu tố danh từ",
+ "vocabulary": [
+  {
+   "word": "flexibility",
+   "ipa": "/ˌflɛksəˈbɪləti/",
+   "meaning": "tính linh hoạt (tính từ: flexible)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-flexibility.mp3"
+  },
+  {
+   "word": "awareness",
+   "ipa": "/əˈwɛrnəs/",
+   "meaning": "sự nhận thức, hiểu biết (awareness of sth)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-awareness.mp3"
+  },
+  {
+   "word": "significance",
+   "ipa": "/sɪɡˈnɪfɪkəns/",
+   "meaning": "tầm quan trọng, ý nghĩa (tính từ: significant)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-significance.mp3"
+  },
+  {
+   "word": "dependence",
+   "ipa": "/dɪˈpɛndəns/",
+   "meaning": "sự phụ thuộc (dependence on sth)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-dependence.mp3"
+  },
+  {
+   "word": "criticism",
+   "ipa": "/ˈkrɪtəˌsɪzəm/",
+   "meaning": "sự chỉ trích, lời phê bình (động từ: criticize)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-criticism.mp3"
+  },
+  {
+   "word": "leadership",
+   "ipa": "/ˈlidɚˌʃɪp/",
+   "meaning": "khả năng, vai trò lãnh đạo; ban lãnh đạo",
+   "pos": "danh từ",
+   "audio": "B2-73-w-leadership.mp3"
+  },
+  {
+   "word": "childhood",
+   "ipa": "/ˈtʃaɪldˌhʊd/",
+   "meaning": "thời thơ ấu",
+   "pos": "danh từ",
+   "audio": "B2-73-w-childhood.mp3"
+  },
+  {
+   "word": "refusal",
+   "ipa": "/rɪˈfjuzəl/",
+   "meaning": "sự từ chối (refusal to do sth; động từ: refuse)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-refusal.mp3"
+  },
+  {
+   "word": "shortage",
+   "ipa": "/ˈʃɔrtɪdʒ/",
+   "meaning": "sự thiếu hụt (a shortage of sth)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-shortage.mp3"
+  },
+  {
+   "word": "equality",
+   "ipa": "/iˈkwɑləti/",
+   "meaning": "sự bình đẳng (tính từ: equal)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-equality.mp3"
+  },
+  {
+   "word": "reliance",
+   "ipa": "/rɪˈlaɪəns/",
+   "meaning": "sự dựa vào, tin cậy (reliance on sth; động từ: rely)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-reliance.mp3"
+  },
+  {
+   "word": "scarcity",
+   "ipa": "/ˈskɛrsəti/",
+   "meaning": "sự khan hiếm (tính từ: scarce)",
+   "pos": "danh từ",
+   "audio": "B2-73-w-scarcity.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Over the past decade, the flexibility of remote work has changed how millions of people live.",
+   "vi": "Trong mười năm qua, tính linh hoạt của làm việc từ xa đã thay đổi cách sống của hàng triệu người.",
+   "audio": "B2-73-ex-1.mp3"
+  },
+  {
+   "en": "At the same time, public awareness of mental health has grown, and many employers now recognize the significance of work-life balance.",
+   "vi": "Cùng lúc đó, nhận thức của công chúng về sức khỏe tinh thần đã tăng, và nhiều nhà tuyển dụng nay nhận ra tầm quan trọng của cân bằng công việc và cuộc sống.",
+   "audio": "B2-73-ex-2.mp3"
+  },
+  {
+   "en": "Some managers worry about their teams' growing dependence on technology.",
+   "vi": "Một số quản lý lo ngại về sự phụ thuộc ngày càng lớn của nhóm vào công nghệ.",
+   "audio": "B2-73-ex-3.mp3"
+  },
+  {
+   "en": "In industries facing a shortage of skilled workers, a company's refusal to offer remote options can cost it good candidates.",
+   "vi": "Ở những ngành đang thiếu lao động lành nghề, việc một công ty từ chối cho làm từ xa có thể khiến công ty mất ứng viên giỏi.",
+   "audio": "B2-73-ex-4.mp3"
+  },
+  {
+   "en": "Supporters say remote work promotes equality, since parents of young children and people living far from big cities can compete for the same jobs.",
+   "vi": "Những người ủng hộ cho rằng làm việc từ xa thúc đẩy bình đẳng, vì cha mẹ có con nhỏ và người sống xa thành phố lớn có thể cạnh tranh cùng công việc.",
+   "audio": "B2-73-ex-5.mp3"
+  }
+ ]
+}

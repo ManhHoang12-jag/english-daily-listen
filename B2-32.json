@@ -1,0 +1,81 @@
+{
+ "title": "Bài 32. Động từ tường thuật 2: V-ing và that",
+ "vocabulary": [
+  {
+   "word": "admit",
+   "ipa": "/ədˈmɪt/",
+   "meaning": "thừa nhận (admit + V-ing / that)",
+   "pos": "động từ",
+   "audio": "B2-32-w-admit.mp3"
+  },
+  {
+   "word": "deny",
+   "ipa": "/dɪˈnaɪ/",
+   "meaning": "phủ nhận, chối (deny + V-ing / that)",
+   "pos": "động từ",
+   "audio": "B2-32-w-deny.mp3"
+  },
+  {
+   "word": "accuse",
+   "ipa": "/əˈkjuz/",
+   "meaning": "buộc tội, cáo buộc (accuse sb of + V-ing)",
+   "pos": "động từ",
+   "audio": "B2-32-w-accuse.mp3"
+  },
+  {
+   "word": "apologize",
+   "ipa": "/əˈpɑləˌdʒaɪz/",
+   "meaning": "xin lỗi (apologize for + V-ing); Anh-Anh viết apologise",
+   "pos": "động từ",
+   "audio": "B2-32-w-apologize.mp3"
+  },
+  {
+   "word": "blame",
+   "ipa": "/bleɪm/",
+   "meaning": "đổ lỗi (blame sb for + V-ing)",
+   "pos": "động từ",
+   "audio": "B2-32-w-blame.mp3"
+  },
+  {
+   "word": "insist",
+   "ipa": "/ɪnˈsɪst/",
+   "meaning": "khăng khăng, nhất quyết (insist on + V-ing / that)",
+   "pos": "động từ",
+   "audio": "B2-32-w-insist.mp3"
+  },
+  {
+   "word": "confirm",
+   "ipa": "/kənˈfɝm/",
+   "meaning": "xác nhận (confirm that)",
+   "pos": "động từ",
+   "audio": "B2-32-w-confirm.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Minh admitted making a mistake in the budget.",
+   "vi": "Minh thừa nhận đã mắc lỗi trong bảng ngân sách.",
+   "audio": "B2-32-ex-1.mp3"
+  },
+  {
+   "en": "Hoa denied deleting the shared file.",
+   "vi": "Hoa phủ nhận việc đã xóa tệp dùng chung.",
+   "audio": "B2-32-ex-2.mp3"
+  },
+  {
+   "en": "The team leader accused Nam of ignoring the deadline.",
+   "vi": "Trưởng nhóm buộc tội Nam phớt lờ hạn chót.",
+   "audio": "B2-32-ex-3.mp3"
+  },
+  {
+   "en": "Nam apologized for not replying to the emails sooner.",
+   "vi": "Nam xin lỗi vì không trả lời email sớm hơn.",
+   "audio": "B2-32-ex-4.mp3"
+  },
+  {
+   "en": "Lan insisted on checking every figure again before the meeting.",
+   "vi": "Lan khăng khăng đòi kiểm tra lại mọi con số trước cuộc họp.",
+   "audio": "B2-32-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 11. Câu điều kiện loại 3",
+ "vocabulary": [
+  {
+   "word": "if only",
+   "ipa": "/ɪf ˈoʊnli/",
+   "meaning": "giá mà, ước gì (cảm thán tiếc nuối)",
+   "pos": "cụm liên từ",
+   "audio": "B2-11-w-if-only.mp3"
+  },
+  {
+   "word": "turn out",
+   "ipa": "/ˌtɝn ˈaʊt/",
+   "meaning": "hóa ra, diễn ra (theo một cách nào đó)",
+   "pos": "cụm động từ",
+   "audio": "B2-11-w-turn-out.mp3"
+  },
+  {
+   "word": "outcome",
+   "ipa": "/ˈaʊtˌkʌm/",
+   "meaning": "kết quả, kết cục",
+   "pos": "danh từ",
+   "audio": "B2-11-w-outcome.mp3"
+  },
+  {
+   "word": "consequence",
+   "ipa": "/ˈkɑnsəkwɛns/",
+   "meaning": "hậu quả, hệ quả",
+   "pos": "danh từ",
+   "audio": "B2-11-w-consequence.mp3"
+  },
+  {
+   "word": "differently",
+   "ipa": "/ˈdɪfərəntli/",
+   "meaning": "một cách khác",
+   "pos": "trạng từ",
+   "audio": "B2-11-w-differently.mp3"
+  },
+  {
+   "word": "mistake",
+   "ipa": "/mɪˈsteɪk/",
+   "meaning": "sai lầm",
+   "pos": "danh từ",
+   "audio": "B2-11-w-mistake.mp3"
+  },
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡrɛt/",
+   "meaning": "hối tiếc; sự hối tiếc",
+   "pos": "động từ, danh từ",
+   "audio": "B2-11-w-regret.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I had accepted the job in Singapore, my life would have turned out very differently.",
+   "vi": "Nếu tôi đã nhận công việc ở Singapore, cuộc đời tôi đã diễn ra rất khác.",
+   "audio": "B2-11-ex-1.mp3"
+  },
+  {
+   "en": "We wouldn't have missed our flight if we had left home an hour earlier.",
+   "vi": "Chúng tôi đã không lỡ chuyến bay nếu chúng tôi rời nhà sớm hơn một tiếng.",
+   "audio": "B2-11-ex-2.mp3"
+  },
+  {
+   "en": "She might have won the scholarship if she had submitted her application on time.",
+   "vi": "Có lẽ cô ấy đã giành được học bổng nếu cô ấy nộp hồ sơ đúng hạn.",
+   "audio": "B2-11-ex-3.mp3"
+  },
+  {
+   "en": "What would you have done if you had been in my position?",
+   "vi": "Bạn sẽ làm gì nếu bạn ở vào vị trí của tôi lúc đó?",
+   "audio": "B2-11-ex-4.mp3"
+  },
+  {
+   "en": "If the doctors hadn't acted so quickly, the outcome could have been much worse.",
+   "vi": "Nếu các bác sĩ không hành động nhanh như vậy, kết quả đã có thể tệ hơn nhiều.",
+   "audio": "B2-11-ex-5.mp3"
+  }
+ ]
+}

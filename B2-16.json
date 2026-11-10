@@ -1,0 +1,95 @@
+{
+ "title": "Bài 16. Chủ đề: đạo đức và lựa chọn",
+ "vocabulary": [
+  {
+   "word": "ethical",
+   "ipa": "/ˈɛθɪkəl/",
+   "meaning": "hợp đạo đức (nghề nghiệp, nghiên cứu, kinh doanh)",
+   "pos": "tính từ",
+   "audio": "B2-16-w-ethical.mp3"
+  },
+  {
+   "word": "dilemma",
+   "ipa": "/dɪˈlɛmə/",
+   "meaning": "tình thế khó xử, tiến thoái lưỡng nan",
+   "pos": "danh từ",
+   "audio": "B2-16-w-dilemma.mp3"
+  },
+  {
+   "word": "moral",
+   "ipa": "/ˈmɔrəl/",
+   "meaning": "thuộc về đạo đức, lương tâm; bài học rút ra",
+   "pos": "tính từ / danh từ",
+   "audio": "B2-16-w-moral.mp3"
+  },
+  {
+   "word": "justify",
+   "ipa": "/ˈdʒʌstəˌfaɪ/",
+   "meaning": "biện minh, chứng minh là đúng",
+   "pos": "động từ",
+   "audio": "B2-16-w-justify.mp3"
+  },
+  {
+   "word": "integrity",
+   "ipa": "/ɪnˈtɛɡrəti/",
+   "meaning": "sự chính trực",
+   "pos": "danh từ",
+   "audio": "B2-16-w-integrity.mp3"
+  },
+  {
+   "word": "consent",
+   "ipa": "/kənˈsɛnt/",
+   "meaning": "sự đồng ý, ưng thuận; đồng ý (consent to)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-16-w-consent.mp3"
+  },
+  {
+   "word": "controversial",
+   "ipa": "/ˌkɑntrəˈvɝʃəl/",
+   "meaning": "gây tranh cãi",
+   "pos": "tính từ",
+   "audio": "B2-16-w-controversial.mp3"
+  },
+  {
+   "word": "principle",
+   "ipa": "/ˈprɪnsəpəl/",
+   "meaning": "nguyên tắc",
+   "pos": "danh từ",
+   "audio": "B2-16-w-principle.mp3"
+  },
+  {
+   "word": "fairness",
+   "ipa": "/ˈfɛrnəs/",
+   "meaning": "sự công bằng",
+   "pos": "danh từ",
+   "audio": "B2-16-w-fairness.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Is it ever acceptable to break a promise in order to protect someone?",
+   "vi": "Liệu có bao giờ chấp nhận được việc thất hứa để bảo vệ ai đó không?",
+   "audio": "B2-16-ex-1.mp3"
+  },
+  {
+   "en": "If I found a wallet full of cash, I would turn it in to the police, even if no one ever found out.",
+   "vi": "Nếu nhặt được một chiếc ví đầy tiền, tôi sẽ nộp cho công an, kể cả khi không ai biết chuyện.",
+   "audio": "B2-16-ex-2.mp3"
+  },
+  {
+   "en": "Researchers must obtain the participants' consent before they collect any personal data.",
+   "vi": "Nhà nghiên cứu phải có được sự đồng ý của người tham gia trước khi thu thập bất kỳ dữ liệu cá nhân nào.",
+   "audio": "B2-16-ex-3.mp3"
+  },
+  {
+   "en": "It is unacceptable to use someone else's work without giving them credit.",
+   "vi": "Việc dùng công trình của người khác mà không ghi nguồn là không thể chấp nhận được.",
+   "audio": "B2-16-ex-4.mp3"
+  },
+  {
+   "en": "If the company had acted with more integrity, it wouldn't have lost its customers' trust.",
+   "vi": "Nếu công ty đã hành động chính trực hơn, họ đã không mất lòng tin của khách hàng.",
+   "audio": "B2-16-ex-5.mp3"
+  }
+ ]
+}

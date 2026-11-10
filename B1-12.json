@@ -1,0 +1,74 @@
+{
+ "title": "Bài 12. Tương lai tiếp diễn",
+ "vocabulary": [
+  {
+   "word": "this time next year",
+   "ipa": "/ðɪs ˈtaɪm nɛkst ˈjɪr/",
+   "meaning": "giờ này năm sau",
+   "pos": "cụm trạng từ",
+   "audio": "B1-12-w-this-time-next-year.mp3"
+  },
+  {
+   "word": "abroad",
+   "ipa": "/əˈbrɔːd/",
+   "meaning": "ở nước ngoài, ra nước ngoài",
+   "pos": "trạng từ",
+   "audio": "B1-12-w-abroad.mp3"
+  },
+  {
+   "word": "graduate",
+   "ipa": "/ˈɡrædʒuˌeɪt/",
+   "meaning": "tốt nghiệp (graduate from)",
+   "pos": "động từ",
+   "audio": "B1-12-w-graduate.mp3"
+  },
+  {
+   "word": "research",
+   "ipa": "/ˈriːsɝːtʃ/",
+   "meaning": "(việc) nghiên cứu",
+   "pos": "danh từ, động từ",
+   "audio": "B1-12-w-research.mp3"
+  },
+  {
+   "word": "thesis",
+   "ipa": "/ˈθiːsɪs/",
+   "meaning": "luận văn, luận án",
+   "pos": "danh từ",
+   "audio": "B1-12-w-thesis.mp3"
+  },
+  {
+   "word": "campus",
+   "ipa": "/ˈkæmpəs/",
+   "meaning": "khuôn viên trường",
+   "pos": "danh từ",
+   "audio": "B1-12-w-campus.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This time next year, I'll be doing research abroad.",
+   "vi": "Giờ này năm sau, tôi sẽ đang làm nghiên cứu ở nước ngoài.",
+   "audio": "B1-12-ex-1.mp3"
+  },
+  {
+   "en": "At nine tomorrow morning, I'll be writing my thesis in the library.",
+   "vi": "Chín giờ sáng mai, tôi sẽ đang viết luận văn trong thư viện.",
+   "audio": "B1-12-ex-2.mp3"
+  },
+  {
+   "en": "Will you be using the car tonight? I need to get to campus.",
+   "vi": "Tối nay anh có dùng xe không? Em cần đến trường.",
+   "audio": "B1-12-ex-3.mp3"
+  },
+  {
+   "en": "Don't call me after eight. I'll be studying for my exam.",
+   "vi": "Đừng gọi tôi sau tám giờ. Lúc đó tôi sẽ đang ôn thi.",
+   "audio": "B1-12-ex-4.mp3"
+  },
+  {
+   "en": "My sister graduates in June, so this time next year she'll be working in a hospital.",
+   "vi": "Em gái tôi tốt nghiệp vào tháng Sáu, nên giờ này năm sau em ấy sẽ đang làm việc ở bệnh viện.",
+   "audio": "B1-12-ex-5.mp3"
+  }
+ ]
+}

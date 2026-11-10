@@ -1,0 +1,74 @@
+{
+ "title": "Bài 06. Hiện tại hoàn thành hay hoàn thành tiếp diễn",
+ "vocabulary": [
+  {
+   "word": "achieve",
+   "ipa": "/əˈtʃiːv/",
+   "meaning": "đạt được (mục tiêu, kết quả)",
+   "pos": "động từ",
+   "audio": "B1-06-w-achieve.mp3"
+  },
+  {
+   "word": "complete",
+   "ipa": "/kəmˈpliːt/",
+   "meaning": "hoàn thành; đầy đủ",
+   "pos": "động từ, tính từ",
+   "audio": "B1-06-w-complete.mp3"
+  },
+  {
+   "word": "so far",
+   "ipa": "/ˌsoʊ ˈfɑːr/",
+   "meaning": "cho đến nay, tính đến giờ",
+   "pos": "cụm trạng từ",
+   "audio": "B1-06-w-so-far.mp3"
+  },
+  {
+   "word": "all morning",
+   "ipa": "/ˌɔːl ˈmɔːrnɪŋ/",
+   "meaning": "suốt buổi sáng",
+   "pos": "cụm trạng từ",
+   "audio": "B1-06-w-all-morning.mp3"
+  },
+  {
+   "word": "non-stop",
+   "ipa": "/ˌnɑːnˈstɑːp/",
+   "meaning": "liên tục, không ngừng",
+   "pos": "trạng từ, tính từ",
+   "audio": "B1-06-w-non-stop.mp3"
+  },
+  {
+   "word": "progress",
+   "ipa": "/ˈprɑːɡrɛs/",
+   "meaning": "sự tiến bộ, tiến độ (không đếm được)",
+   "pos": "danh từ",
+   "audio": "B1-06-w-progress.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "So far, I've completed thirty lessons and learned about two hundred new words.",
+   "vi": "Đến giờ tôi đã học xong ba mươi bài và khoảng hai trăm từ mới.",
+   "audio": "B1-06-ex-1.mp3"
+  },
+  {
+   "en": "This week I've been practicing speaking every evening.",
+   "vi": "Tuần này tối nào tôi cũng luyện nói.",
+   "audio": "B1-06-ex-2.mp3"
+  },
+  {
+   "en": "I've been writing emails all morning, and I've finished three.",
+   "vi": "Tôi viết email cả buổi sáng, và đã xong ba cái.",
+   "audio": "B1-06-ex-3.mp3"
+  },
+  {
+   "en": "I've known my teacher for two years.",
+   "vi": "Tôi quen cô giáo của mình được hai năm rồi.",
+   "audio": "B1-06-ex-4.mp3"
+  },
+  {
+   "en": "I haven't achieved all my goals yet.",
+   "vi": "Tôi vẫn chưa đạt được hết các mục tiêu của mình.",
+   "audio": "B1-06-ex-5.mp3"
+  }
+ ]
+}

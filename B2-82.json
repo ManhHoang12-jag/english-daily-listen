@@ -1,0 +1,81 @@
+{
+ "title": "Bài 82. Discourse markers trong văn nói",
+ "vocabulary": [
+  {
+   "word": "anyway",
+   "ipa": "/ˈɛniweɪ/",
+   "meaning": "dù sao thì, thôi (quay về chủ đề chính hoặc kết thúc)",
+   "pos": "từ đánh dấu",
+   "audio": "B2-82-w-anyway.mp3"
+  },
+  {
+   "word": "actually",
+   "ipa": "/ˈæktʃuəli/",
+   "meaning": "thật ra (sửa thông tin, điều bất ngờ); không phải \"hiện nay\"",
+   "pos": "từ đánh dấu",
+   "audio": "B2-82-w-actually.mp3"
+  },
+  {
+   "word": "mind you",
+   "ipa": "/ˈmaɪnd juː/",
+   "meaning": "nhưng mà cũng phải nói là (thêm ý làm nhẹ câu trước)",
+   "pos": "từ đánh dấu",
+   "audio": "B2-82-w-mind-you.mp3"
+  },
+  {
+   "word": "as I was saying",
+   "ipa": "/æz aɪ wəz ˈseɪɪŋ/",
+   "meaning": "như tôi đang nói (quay lại sau khi bị ngắt)",
+   "pos": "cụm từ đánh dấu",
+   "audio": "B2-82-w-as-i-was-saying.mp3"
+  },
+  {
+   "word": "having said that",
+   "ipa": "/ˈhævɪŋ ˈsɛd ðæt/",
+   "meaning": "nói vậy chứ, dù vậy",
+   "pos": "cụm từ đánh dấu",
+   "audio": "B2-82-w-having-said-that.mp3"
+  },
+  {
+   "word": "I mean",
+   "ipa": "/aɪ ˈmiːn/",
+   "meaning": "ý tôi là (giải thích, nói rõ hơn)",
+   "pos": "cụm từ đánh dấu",
+   "audio": "B2-82-w-i-mean.mp3"
+  },
+  {
+   "word": "basically",
+   "ipa": "/ˈbeɪsɪkli/",
+   "meaning": "nói chung là, về cơ bản (tóm ý chính)",
+   "pos": "từ đánh dấu",
+   "audio": "B2-82-w-basically.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "So you're from Hanoi? Actually, I'm from Hue, but I've lived in Hanoi for ten years.",
+   "vi": "Vậy bạn là người Hà Nội à? Thật ra mình là người Huế, nhưng đã sống ở Hà Nội mười năm rồi.",
+   "audio": "B2-82-ex-1.mp3"
+  },
+  {
+   "en": "The hotel was lovely, and the staff were really friendly. Anyway, that's enough about my trip. How was your week?",
+   "vi": "Khách sạn rất đẹp, nhân viên thì rất thân thiện. Thôi, kể về chuyến đi của mình thế đủ rồi. Tuần của bạn thế nào?",
+   "audio": "B2-82-ex-2.mp3"
+  },
+  {
+   "en": "The restaurant is quite expensive. Having said that, the food is absolutely amazing.",
+   "vi": "Nhà hàng đó khá đắt. Nói vậy chứ đồ ăn thì tuyệt vời thật sự.",
+   "audio": "B2-82-ex-3.mp3"
+  },
+  {
+   "en": "Sorry about that, it was my boss on the phone. As I was saying, the meeting has been moved to Thursday.",
+   "vi": "Xin lỗi nhé, sếp mình gọi. Như mình đang nói, cuộc họp đã được dời sang thứ Năm.",
+   "audio": "B2-82-ex-4.mp3"
+  },
+  {
+   "en": "Basically, we need more people on the team. I mean, three of us can't do the work of six.",
+   "vi": "Nói chung là đội cần thêm người. Ý mình là ba người thì không thể làm việc của sáu người.",
+   "audio": "B2-82-ex-5.mp3"
+  }
+ ]
+}

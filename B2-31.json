@@ -1,0 +1,81 @@
+{
+ "title": "Bài 31. Động từ tường thuật 1: mẫu to V",
+ "vocabulary": [
+  {
+   "word": "refuse",
+   "ipa": "/rɪˈfjuz/",
+   "meaning": "từ chối (refuse to V)",
+   "pos": "động từ",
+   "audio": "B2-31-w-refuse.mp3"
+  },
+  {
+   "word": "offer",
+   "ipa": "/ˈɔfɚ/",
+   "meaning": "đề nghị (làm gì giúp ai); lời đề nghị",
+   "pos": "động từ / danh từ",
+   "audio": "B2-31-w-offer.mp3"
+  },
+  {
+   "word": "threaten",
+   "ipa": "/ˈθrɛtən/",
+   "meaning": "đe dọa (threaten to V)",
+   "pos": "động từ",
+   "audio": "B2-31-w-threaten.mp3"
+  },
+  {
+   "word": "urge",
+   "ipa": "/ɝdʒ/",
+   "meaning": "thúc giục, kêu gọi (urge sb to V)",
+   "pos": "động từ",
+   "audio": "B2-31-w-urge.mp3"
+  },
+  {
+   "word": "invite",
+   "ipa": "/ɪnˈvaɪt/",
+   "meaning": "mời (invite sb to V / to sth)",
+   "pos": "động từ",
+   "audio": "B2-31-w-invite.mp3"
+  },
+  {
+   "word": "persuade",
+   "ipa": "/pɚˈsweɪd/",
+   "meaning": "thuyết phục (thành công) (persuade sb to V) (đã gặp ở B2 · Bài 26)",
+   "pos": "động từ",
+   "audio": "B2-31-w-persuade.mp3"
+  },
+  {
+   "word": "encourage",
+   "ipa": "/ɪnˈkɝɪdʒ/",
+   "meaning": "khuyến khích, động viên (encourage sb to V)",
+   "pos": "động từ",
+   "audio": "B2-31-w-encourage.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The manager agreed to extend the deadline by a week.",
+   "vi": "Quản lý đồng ý gia hạn hạn chót thêm một tuần.",
+   "audio": "B2-31-ex-1.mp3"
+  },
+  {
+   "en": "Two members of the team refused to work over the weekend.",
+   "vi": "Hai thành viên trong nhóm từ chối làm việc vào cuối tuần.",
+   "audio": "B2-31-ex-2.mp3"
+  },
+  {
+   "en": "Linh offered to prepare the slides for the client presentation.",
+   "vi": "Linh xung phong chuẩn bị slide cho buổi thuyết trình với khách hàng.",
+   "audio": "B2-31-ex-3.mp3"
+  },
+  {
+   "en": "The supplier threatened to cancel the contract if we paid late again.",
+   "vi": "Nhà cung cấp dọa hủy hợp đồng nếu chúng tôi lại trả tiền muộn.",
+   "audio": "B2-31-ex-4.mp3"
+  },
+  {
+   "en": "The director urged everyone to keep the figures confidential.",
+   "vi": "Giám đốc yêu cầu khẩn thiết mọi người giữ bí mật các số liệu.",
+   "audio": "B2-31-ex-5.mp3"
+  }
+ ]
+}

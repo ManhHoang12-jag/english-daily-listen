@@ -1,0 +1,74 @@
+{
+ "title": "Bài 32. Câu điều kiện loại 2",
+ "vocabulary": [
+  {
+   "word": "win the lottery",
+   "ipa": "/ˌwɪn ðə ˈlɑːtəri/",
+   "meaning": "trúng xổ số",
+   "pos": "cụm động từ",
+   "audio": "B1-32-w-win-the-lottery.mp3"
+  },
+  {
+   "word": "afford",
+   "ipa": "/əˈfɔːrd/",
+   "meaning": "đủ tiền (mua, làm gì), kham nổi",
+   "pos": "động từ",
+   "audio": "B1-32-w-afford.mp3"
+  },
+  {
+   "word": "invent",
+   "ipa": "/ɪnˈvent/",
+   "meaning": "phát minh, sáng chế",
+   "pos": "động từ",
+   "audio": "B1-32-w-invent.mp3"
+  },
+  {
+   "word": "power",
+   "ipa": "/ˈpaʊɚ/",
+   "meaning": "quyền lực, sức mạnh; quyền (làm gì)",
+   "pos": "danh từ",
+   "audio": "B1-32-w-power.mp3"
+  },
+  {
+   "word": "choose",
+   "ipa": "/tʃuːz/",
+   "meaning": "chọn, lựa chọn",
+   "pos": "động từ",
+   "audio": "B1-32-w-choose.mp3"
+  },
+  {
+   "word": "spend",
+   "ipa": "/spend/",
+   "meaning": "tiêu (tiền), dành (thời gian)",
+   "pos": "động từ",
+   "audio": "B1-32-w-spend.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I won the lottery, I would travel around the world.",
+   "vi": "Nếu trúng xổ số, tôi sẽ đi du lịch vòng quanh thế giới.",
+   "audio": "B1-32-ex-1.mp3"
+  },
+  {
+   "en": "If I were rich, I could afford a house in the city center.",
+   "vi": "Nếu tôi giàu, tôi có thể mua nổi một căn nhà ở trung tâm thành phố.",
+   "audio": "B1-32-ex-2.mp3"
+  },
+  {
+   "en": "What would you do if you had the power to change one thing?",
+   "vi": "Bạn sẽ làm gì nếu bạn có quyền thay đổi một điều?",
+   "audio": "B1-32-ex-3.mp3"
+  },
+  {
+   "en": "If she spent less on clothes, she might save enough for a trip.",
+   "vi": "Nếu cô ấy chi ít tiền hơn cho quần áo, có lẽ cô ấy sẽ để dành đủ tiền cho một chuyến đi.",
+   "audio": "B1-32-ex-4.mp3"
+  },
+  {
+   "en": "If you could invent anything, what would you choose?",
+   "vi": "Nếu bạn có thể phát minh ra bất cứ thứ gì, bạn sẽ chọn gì?",
+   "audio": "B1-32-ex-5.mp3"
+  }
+ ]
+}

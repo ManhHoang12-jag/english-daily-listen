@@ -1,0 +1,74 @@
+{
+ "title": "Bài 58. Kỹ năng: xử lý câu hỏi sau thuyết trình",
+ "vocabulary": [
+  {
+   "word": "clarify",
+   "ipa": "/ˈklɛrəˌfaɪ/",
+   "meaning": "làm rõ",
+   "pos": "động từ",
+   "audio": "B2-58-w-clarify.mp3"
+  },
+  {
+   "word": "rephrase",
+   "ipa": "/riˈfreɪz/",
+   "meaning": "nói lại theo cách khác, diễn đạt lại",
+   "pos": "động từ",
+   "audio": "B2-58-w-rephrase.mp3"
+  },
+  {
+   "word": "beyond the scope",
+   "ipa": "/biˈjɑnd ðə ˈskoʊp/",
+   "meaning": "nằm ngoài phạm vi",
+   "pos": "cụm từ",
+   "audio": "B2-58-w-beyond-the-scope.mp3"
+  },
+  {
+   "word": "follow up",
+   "ipa": "/ˌfɑloʊ ˈʌp/",
+   "meaning": "liên lạc lại để bổ sung, theo dõi tiếp",
+   "pos": "cụm động từ",
+   "audio": "B2-58-w-follow-up.mp3"
+  },
+  {
+   "word": "valid concern",
+   "ipa": "/ˈvælɪd kənˈsɝn/",
+   "meaning": "mối lo ngại có cơ sở, hợp lý",
+   "pos": "danh từ",
+   "audio": "B2-58-w-valid-concern.mp3"
+  },
+  {
+   "word": "I'd need to check",
+   "ipa": "/aɪd ˈnid tə ˈtʃɛk/",
+   "meaning": "tôi cần kiểm tra lại (lịch sự, chưa trả lời chắc được ngay)",
+   "pos": "cụm từ",
+   "audio": "B2-58-w-i-d-need-to-check.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "That's a good question. If I understand correctly, you're asking whether the results also apply to small businesses.",
+   "vi": "Câu hỏi hay. Nếu tôi hiểu đúng, anh đang hỏi liệu kết quả này có áp dụng cho cả doanh nghiệp nhỏ không.",
+   "audio": "B2-58-ex-1.mp3"
+  },
+  {
+   "en": "Sorry, could you rephrase the question? I'm not quite sure which part of the study you're referring to.",
+   "vi": "Xin lỗi, chị có thể hỏi lại theo cách khác không? Tôi chưa chắc chị đang nói đến phần nào của nghiên cứu.",
+   "audio": "B2-58-ex-2.mp3"
+  },
+  {
+   "en": "I'm afraid that's beyond the scope of this presentation, but I'd be happy to discuss it with you afterwards.",
+   "vi": "Tôi e rằng điều đó nằm ngoài phạm vi bài thuyết trình này, nhưng tôi rất sẵn lòng trao đổi với anh sau buổi.",
+   "audio": "B2-58-ex-3.mp3"
+  },
+  {
+   "en": "That's a valid concern. What we found, however, was that costs went down after the first year.",
+   "vi": "Đó là một mối lo hợp lý. Tuy nhiên, điều chúng tôi phát hiện là chi phí đã giảm sau năm đầu tiên.",
+   "audio": "B2-58-ex-4.mp3"
+  },
+  {
+   "en": "I'd need to check the exact figures, so let me follow up with you by email after the session.",
+   "vi": "Tôi cần kiểm tra lại số liệu chính xác, nên tôi sẽ gửi email trả lời anh sau buổi này.",
+   "audio": "B2-58-ex-5.mp3"
+  }
+ ]
+}

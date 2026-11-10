@@ -1,0 +1,74 @@
+{
+ "title": "Bài 28. Kỹ năng: nghe cuộc trò chuyện dài ở nơi làm việc",
+ "vocabulary": [
+  {
+   "word": "meeting",
+   "ipa": "/ˈmiːt̬ɪŋ/",
+   "meaning": "cuộc họp",
+   "pos": "danh từ",
+   "audio": "B1-28-w-meeting.mp3"
+  },
+  {
+   "word": "agenda",
+   "ipa": "/əˈdʒɛndə/",
+   "meaning": "chương trình họp, danh sách việc cần bàn",
+   "pos": "danh từ",
+   "audio": "B1-28-w-agenda.mp3"
+  },
+  {
+   "word": "suggest",
+   "ipa": "/səɡˈdʒɛst/",
+   "meaning": "đề nghị, gợi ý",
+   "pos": "động từ",
+   "audio": "B1-28-w-suggest.mp3"
+  },
+  {
+   "word": "agree",
+   "ipa": "/əˈɡriː/",
+   "meaning": "đồng ý",
+   "pos": "động từ",
+   "audio": "B1-28-w-agree.mp3"
+  },
+  {
+   "word": "concern",
+   "ipa": "/kənˈsɝːn/",
+   "meaning": "mối lo ngại, điều băn khoăn",
+   "pos": "danh từ",
+   "audio": "B1-28-w-concern.mp3"
+  },
+  {
+   "word": "workload",
+   "ipa": "/ˈwɝːkloʊd/",
+   "meaning": "khối lượng công việc",
+   "pos": "danh từ",
+   "audio": "B1-28-w-workload.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hi Linh, do you have a minute? I wanted to talk to you before tomorrow's meeting. Sure. Is it about the agenda? I saw that the new website project is the first item.",
+   "vi": "Chào Linh, chị có rảnh một phút không? Tôi muốn nói chuyện với chị trước cuộc họp ngày mai. Được chứ. Về chương trình họp à? Tôi thấy dự án website mới là mục đầu tiên.",
+   "audio": "B1-28-ex-1.mp3"
+  },
+  {
+   "en": "Yes, it is. To be honest, I have a concern about it. The manager wants us to launch the website by the end of next month, but our team is already working on two other projects. I agree. My workload has been crazy since March. I've been staying late almost every day.",
+   "vi": "Đúng vậy. Thật lòng mà nói, tôi có một mối lo về nó. Quản lý muốn chúng ta ra mắt website trước cuối tháng sau, nhưng nhóm mình đang làm hai dự án khác rồi. Tôi đồng ý. Khối lượng việc của tôi từ tháng Ba đến giờ nhiều kinh khủng. Gần như ngày nào tôi cũng ở lại muộn.",
+   "audio": "B1-28-ex-2.mp3"
+  },
+  {
+   "en": "That's exactly my point. I don't think we can do a good job if we rush it. So I'm going to suggest moving the deadline to the middle of July. That makes sense, but I'm not sure she'll accept it. The client really wants the site before the summer sale.",
+   "vi": "Đó chính là ý tôi. Tôi không nghĩ chúng ta làm tốt được nếu làm vội. Nên tôi sẽ đề nghị dời hạn chót sang giữa tháng Bảy. Nghe hợp lý, nhưng tôi không chắc chị ấy sẽ đồng ý. Khách hàng rất muốn có website trước đợt giảm giá mùa hè.",
+   "audio": "B1-28-ex-3.mp3"
+  },
+  {
+   "en": "Hmm, you're right. What if we ask for some extra help instead? We could have the graphics done by a freelance designer. Now that's a good idea. Do you know whether the company would pay for that?",
+   "vi": "Ừm, chị nói đúng. Hay là mình xin thêm người giúp? Mình có thể thuê một nhà thiết kế tự do làm phần đồ họa. Ý này hay đấy. Anh có biết công ty có trả tiền cho việc đó không?",
+   "audio": "B1-28-ex-4.mp3"
+  },
+  {
+   "en": "I'm not sure, but I'll ask. Could you bring the numbers from the last project? They'll show how much time the graphics took us. No problem. I'll send them to you tonight, so we can prepare together before the meeting.",
+   "vi": "Tôi không chắc, nhưng tôi sẽ hỏi. Chị mang số liệu của dự án trước được không? Chúng sẽ cho thấy phần đồ họa đã tốn của mình bao nhiêu thời gian. Không vấn đề gì. Tối nay tôi sẽ gửi cho anh, để mình cùng chuẩn bị trước cuộc họp.",
+   "audio": "B1-28-ex-5.mp3"
+  }
+ ]
+}

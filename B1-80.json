@@ -1,0 +1,74 @@
+{
+ "title": "Bài 80. Ôn tập và kiểm tra B1-8",
+ "vocabulary": [
+  {
+   "word": "rely on",
+   "ipa": "/rɪˈlaɪ ɑːn/",
+   "meaning": "dựa vào, tin cậy (ôn B1 · Bài 71)",
+   "pos": "cụm động từ",
+   "audio": "B1-80-w-rely-on.mp3"
+  },
+  {
+   "word": "come up with",
+   "ipa": "/kʌm ˈʌp wɪð/",
+   "meaning": "nghĩ ra (ý tưởng, giải pháp) (ôn B1 · Bài 72)",
+   "pos": "cụm động từ",
+   "audio": "B1-80-w-come-up-with.mp3"
+  },
+  {
+   "word": "carry out",
+   "ipa": "/ˌkæri ˈaʊt/",
+   "meaning": "tiến hành, thực hiện (ôn B1 · Bài 73)",
+   "pos": "cụm động từ",
+   "audio": "B1-80-w-carry-out.mp3"
+  },
+  {
+   "word": "be supposed to",
+   "ipa": "/bi səˈpoʊst tə/",
+   "meaning": "phải, được cho là nên (theo quy ước) (ôn B1 · Bài 74)",
+   "pos": "cấu trúc",
+   "audio": "B1-80-w-be-supposed-to.mp3"
+  },
+  {
+   "word": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "meaning": "tiền hoàn lại (ôn B1 · Bài 75)",
+   "pos": "danh từ",
+   "audio": "B1-80-w-refund.mp3"
+  },
+  {
+   "word": "make progress",
+   "ipa": "/meɪk ˈprɑːɡrɛs/",
+   "meaning": "tiến bộ (ôn B1 · Bài 78)",
+   "pos": "collocation",
+   "audio": "B1-80-w-make-progress.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've always looked up to my grandmother, and I know I can rely on her.",
+   "vi": "Tôi luôn kính trọng bà tôi, và tôi biết mình có thể dựa vào bà.",
+   "audio": "B1-80-ex-1.mp3"
+  },
+  {
+   "en": "My manager pointed out a mistake in my report, so I had to hand it in again.",
+   "vi": "Quản lý chỉ ra một lỗi trong báo cáo của tôi, nên tôi phải nộp lại.",
+   "audio": "B1-80-ex-2.mp3"
+  },
+  {
+   "en": "During Tet, you're supposed to visit your relatives, whereas in America many people celebrate the New Year with friends.",
+   "vi": "Vào dịp Tết, người ta cần đi thăm họ hàng, trong khi ở Mỹ nhiều người đón năm mới cùng bạn bè.",
+   "audio": "B1-80-ex-3.mp3"
+  },
+  {
+   "en": "I'm afraid my luggage has been lost. Could you tell me when it will arrive?",
+   "vi": "E là hành lý của tôi đã bị thất lạc. Anh có thể cho tôi biết khi nào nó đến không?",
+   "audio": "B1-80-ex-4.mp3"
+  },
+  {
+   "en": "Unfortunately, the room was uncomfortable, so I would appreciate it if you could give me a refund.",
+   "vi": "Thật không may, căn phòng không thoải mái, vì vậy tôi rất cảm kích nếu quý vị có thể hoàn tiền cho tôi.",
+   "audio": "B1-80-ex-5.mp3"
+  }
+ ]
+}

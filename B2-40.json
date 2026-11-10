@@ -1,0 +1,74 @@
+{
+ "title": "Bài 40. Ôn tập và kiểm tra B2-4",
+ "vocabulary": [
+  {
+   "word": "persuade",
+   "ipa": "/pɚˈsweɪd/",
+   "meaning": "thuyết phục (persuade sb to V) (ôn B2 · Bài 31)",
+   "pos": "động từ",
+   "audio": "B2-40-w-persuade.mp3"
+  },
+  {
+   "word": "admit",
+   "ipa": "/ədˈmɪt/",
+   "meaning": "thừa nhận (admit + V-ing / that) (ôn B2 · Bài 32)",
+   "pos": "động từ",
+   "audio": "B2-40-w-admit.mp3"
+  },
+  {
+   "word": "according to",
+   "ipa": "/əˈkɔrdɪŋ tu/",
+   "meaning": "theo (nguồn, người nói) (ôn B2 · Bài 33)",
+   "pos": "giới từ ghép",
+   "audio": "B2-40-w-according-to.mp3"
+  },
+  {
+   "word": "participant",
+   "ipa": "/pɑrˈtɪsəpənt/",
+   "meaning": "người tham gia (nghiên cứu) (ôn B2 · Bài 34)",
+   "pos": "danh từ",
+   "audio": "B2-40-w-participant.mp3"
+  },
+  {
+   "word": "fluctuate",
+   "ipa": "/ˈflʌktʃuˌeɪt/",
+   "meaning": "dao động, lên xuống thất thường (ôn B2 · Bài 35)",
+   "pos": "động từ",
+   "audio": "B2-40-w-fluctuate.mp3"
+  },
+  {
+   "word": "account for",
+   "ipa": "/əˈkaʊnt fɔr/",
+   "meaning": "chiếm (tỷ lệ) (ôn B2 · Bài 36)",
+   "pos": "cụm động từ",
+   "audio": "B2-40-w-account-for.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The director refused to sign the contract and threatened to cancel the whole project.",
+   "vi": "Giám đốc từ chối ký hợp đồng và dọa hủy toàn bộ dự án.",
+   "audio": "B2-40-ex-1.mp3"
+  },
+  {
+   "en": "She apologized for arriving late and admitted forgetting about the meeting.",
+   "vi": "Cô ấy xin lỗi vì đến muộn và thừa nhận đã quên cuộc họp.",
+   "audio": "B2-40-ex-2.mp3"
+  },
+  {
+   "en": "According to a recent study, most participants preferred online classes, although the authors acknowledge that the sample size was small.",
+   "vi": "Theo một nghiên cứu gần đây, phần lớn người tham gia thích học trực tuyến hơn, dù các tác giả thừa nhận cỡ mẫu nhỏ.",
+   "audio": "B2-40-ex-3.mp3"
+  },
+  {
+   "en": "The number of visitors rose sharply in July, and women accounted for nearly two thirds of them.",
+   "vi": "Số khách tăng mạnh vào tháng Bảy, và phụ nữ chiếm gần hai phần ba.",
+   "audio": "B2-40-ex-4.mp3"
+  },
+  {
+   "en": "It is recommended that the company introduce a mentoring program for new employees.",
+   "vi": "Khuyến nghị công ty triển khai chương trình kèm cặp cho nhân viên mới.",
+   "audio": "B2-40-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 99. Kỹ năng: đọc bài bình luận và nhận diện giọng điệu",
+ "vocabulary": [
+  {
+   "word": "ironic",
+   "ipa": "/aɪˈrɑːnɪk/",
+   "meaning": "mỉa mai, nói ngược ý (thường nhẹ nhàng, hài hước)",
+   "pos": "tính từ",
+   "audio": "B2-99-w-ironic.mp3"
+  },
+  {
+   "word": "sarcastic",
+   "ipa": "/sɑːrˈkæstɪk/",
+   "meaning": "châm biếm, mỉa mai gay gắt",
+   "pos": "tính từ",
+   "audio": "B2-99-w-sarcastic.mp3"
+  },
+  {
+   "word": "biased",
+   "ipa": "/ˈbaɪəst/",
+   "meaning": "thiên vị, thiên lệch",
+   "pos": "tính từ",
+   "audio": "B2-99-w-biased.mp3"
+  },
+  {
+   "word": "persuasive",
+   "ipa": "/pɚˈsweɪsɪv/",
+   "meaning": "có sức thuyết phục",
+   "pos": "tính từ",
+   "audio": "B2-99-w-persuasive.mp3"
+  },
+  {
+   "word": "rhetorical question",
+   "ipa": "/rɪˌtɔːrɪkəl ˈkwɛstʃən/",
+   "meaning": "câu hỏi tu từ (không cần trả lời)",
+   "pos": "cụm danh từ",
+   "audio": "B2-99-w-rhetorical-question.mp3"
+  },
+  {
+   "word": "undermine",
+   "ipa": "/ˌʌndɚˈmaɪn/",
+   "meaning": "làm suy yếu dần, phá hoại ngầm",
+   "pos": "động từ",
+   "audio": "B2-99-w-undermine.mp3"
+  },
+  {
+   "word": "skeptical",
+   "ipa": "/ˈskɛptɪkəl/",
+   "meaning": "hoài nghi (Anh-Anh viết sceptical)",
+   "pos": "tính từ",
+   "audio": "B2-99-w-skeptical.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My phone is now extremely well organized. My life, sadly, is not.",
+   "vi": "Điện thoại của tôi giờ cực kỳ ngăn nắp. Còn cuộc sống của tôi thì, buồn thay, không.",
+   "audio": "B2-99-ex-1.mp3"
+  },
+  {
+   "en": "Where those hours come from is never explained.",
+   "vi": "Những giờ đó lấy từ đâu ra thì không bao giờ được giải thích.",
+   "audio": "B2-99-ex-2.mp3"
+  },
+  {
+   "en": "But much of that research is funded by the industry itself, which should make any reader at least a little skeptical.",
+   "vi": "Nhưng phần lớn nghiên cứu đó do chính ngành này tài trợ, điều đó nên khiến bất kỳ người đọc nào ít nhất cũng hơi hoài nghi.",
+   "audio": "B2-99-ex-3.mp3"
+  },
+  {
+   "en": "And who, exactly, benefits when we blame our exhaustion on poor time management rather than on longer working hours?",
+   "vi": "Và chính xác thì ai được lợi khi chúng ta đổ lỗi sự kiệt sức cho việc quản lý thời gian kém thay vì cho giờ làm việc dài hơn?",
+   "audio": "B2-99-ex-4.mp3"
+  },
+  {
+   "en": "That question matters, because the productivity message quietly undermines a more honest conversation.",
+   "vi": "Câu hỏi đó quan trọng, vì thông điệp về năng suất đang lặng lẽ làm suy yếu một cuộc thảo luận trung thực hơn.",
+   "audio": "B2-99-ex-5.mp3"
+  }
+ ]
+}

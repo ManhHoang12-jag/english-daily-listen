@@ -1,0 +1,81 @@
+{
+ "title": "Bài 15. Should have, could have, would have",
+ "vocabulary": [
+  {
+   "word": "should have",
+   "ipa": "/ˈʃʊd əv/",
+   "meaning": "lẽ ra nên (+ V3)",
+   "pos": "cụm động từ khuyết thiếu",
+   "audio": "B2-15-w-should-have.mp3"
+  },
+  {
+   "word": "could have",
+   "ipa": "/ˈkʊd əv/",
+   "meaning": "lẽ ra đã có thể (+ V3)",
+   "pos": "cụm động từ khuyết thiếu",
+   "audio": "B2-15-w-could-have.mp3"
+  },
+  {
+   "word": "needn't have",
+   "ipa": "/ˈnidənt əv/",
+   "meaning": "lẽ ra không cần (đã làm nhưng hóa ra không cần) (+ V3)",
+   "pos": "cụm động từ khuyết thiếu",
+   "audio": "B2-15-w-needn-t-have.mp3"
+  },
+  {
+   "word": "criticize",
+   "ipa": "/ˈkrɪtəˌsaɪz/",
+   "meaning": "phê bình, chỉ trích (Anh-Anh viết criticise)",
+   "pos": "động từ",
+   "audio": "B2-15-w-criticize.mp3"
+  },
+  {
+   "word": "blame",
+   "ipa": "/bleɪm/",
+   "meaning": "đổ lỗi (blame sb for sth); lỗi, trách nhiệm",
+   "pos": "động từ / danh từ",
+   "audio": "B2-15-w-blame.mp3"
+  },
+  {
+   "word": "avoid",
+   "ipa": "/əˈvɔɪd/",
+   "meaning": "tránh (+ N / V-ing)",
+   "pos": "động từ",
+   "audio": "B2-15-w-avoid.mp3"
+  },
+  {
+   "word": "responsibility",
+   "ipa": "/rɪˌspɑnsəˈbɪləti/",
+   "meaning": "trách nhiệm (take responsibility for)",
+   "pos": "danh từ",
+   "audio": "B2-15-w-responsibility.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We should have tested the app with real users before the launch.",
+   "vi": "Lẽ ra chúng tôi nên thử ứng dụng với người dùng thật trước khi ra mắt.",
+   "audio": "B2-15-ex-1.mp3"
+  },
+  {
+   "en": "The team shouldn't have ignored the early warnings from customers.",
+   "vi": "Lẽ ra nhóm không nên bỏ qua những cảnh báo sớm từ khách hàng.",
+   "audio": "B2-15-ex-2.mp3"
+  },
+  {
+   "en": "We could have avoided most of the delays if we had planned more carefully.",
+   "vi": "Lẽ ra chúng tôi đã có thể tránh phần lớn sự chậm trễ nếu lên kế hoạch cẩn thận hơn.",
+   "audio": "B2-15-ex-3.mp3"
+  },
+  {
+   "en": "A better manager would have taken responsibility instead of blaming the designers.",
+   "vi": "Một người quản lý giỏi hơn lẽ ra đã nhận trách nhiệm thay vì đổ lỗi cho các nhà thiết kế.",
+   "audio": "B2-15-ex-4.mp3"
+  },
+  {
+   "en": "We needn't have hired an outside consultant, because the problem turned out to be simple.",
+   "vi": "Lẽ ra chúng tôi không cần thuê chuyên gia bên ngoài, vì hóa ra vấn đề rất đơn giản.",
+   "audio": "B2-15-ex-5.mp3"
+  }
+ ]
+}

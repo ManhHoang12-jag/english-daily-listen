@@ -1,0 +1,74 @@
+{
+ "title": "Bài 30. Ôn tập và kiểm tra B2-3",
+ "vocabulary": [
+  {
+   "word": "must have",
+   "ipa": "/ˈmʌst əv/",
+   "meaning": "chắc hẳn đã (+ V3) (ôn B2 · Bài 21)",
+   "pos": "cấu trúc",
+   "audio": "B2-30-w-must-have.mp3"
+  },
+  {
+   "word": "bound to",
+   "ipa": "/ˈbaʊnd tə/",
+   "meaning": "chắc chắn sẽ (ôn B2 · Bài 22)",
+   "pos": "cấu trúc",
+   "audio": "B2-30-w-bound-to.mp3"
+  },
+  {
+   "word": "hypothesis",
+   "ipa": "/haɪˈpɑθəsɪs/",
+   "meaning": "giả thuyết (ôn B2 · Bài 23)",
+   "pos": "danh từ",
+   "audio": "B2-30-w-hypothesis.mp3"
+  },
+  {
+   "word": "verify",
+   "ipa": "/ˈvɛrəˌfaɪ/",
+   "meaning": "xác minh, kiểm chứng (ôn B2 · Bài 24)",
+   "pos": "động từ",
+   "audio": "B2-30-w-verify.mp3"
+  },
+  {
+   "word": "allegedly",
+   "ipa": "/əˈlɛdʒɪdli/",
+   "meaning": "theo cáo buộc (ôn B2 · Bài 25)",
+   "pos": "trạng từ",
+   "audio": "B2-30-w-allegedly.mp3"
+  },
+  {
+   "word": "correlation",
+   "ipa": "/ˌkɔrəˈleɪʃən/",
+   "meaning": "mối tương quan (ôn B2 · Bài 27)",
+   "pos": "danh từ",
+   "audio": "B2-30-w-correlation.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The seeds must have survived because the region is extremely dry.",
+   "vi": "Những hạt giống hẳn đã sống sót vì vùng này cực kỳ khô.",
+   "audio": "B2-30-ex-1.mp3"
+  },
+  {
+   "en": "With so many fans in the city, the match is bound to sell out, and in all likelihood the roads will be blocked.",
+   "vi": "Với chừng ấy cổ động viên trong thành phố, trận đấu chắc chắn sẽ bán hết vé, và rất có thể đường phố sẽ bị tắc.",
+   "audio": "B2-30-ex-2.mp3"
+  },
+  {
+   "en": "The samples are being tested at the moment, and the results will have been checked by Friday.",
+   "vi": "Các mẫu đang được xét nghiệm, và kết quả sẽ được kiểm tra xong trước thứ Sáu.",
+   "audio": "B2-30-ex-3.mp3"
+  },
+  {
+   "en": "The seeds are believed to have been stored there by the people who lived in the fortress.",
+   "vi": "Những hạt giống được cho là đã được những người sống trong pháo đài cất giữ ở đó.",
+   "audio": "B2-30-ex-4.mp3"
+  },
+  {
+   "en": "Initially, the seeds were soaked in water. Subsequently, I had the fruit analyzed, and I got a colleague to compare it with modern dates.",
+   "vi": "Lúc đầu, hạt giống được ngâm nước. Sau đó, tôi cho người phân tích quả, và nhờ một đồng nghiệp so sánh nó với chà là hiện đại.",
+   "audio": "B2-30-ex-5.mp3"
+  }
+ ]
+}

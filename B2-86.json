@@ -1,0 +1,81 @@
+{
+ "title": "Bài 86. Lịch sự gián tiếp và làm mềm câu",
+ "vocabulary": [
+  {
+   "word": "I was wondering",
+   "ipa": "/aɪ wəz ˈwʌndərɪŋ/",
+   "meaning": "không biết là... (mở đầu lời nhờ lịch sự: I was wondering if you could...)",
+   "pos": "cụm câu",
+   "audio": "B2-86-w-i-was-wondering.mp3"
+  },
+  {
+   "word": "would you mind",
+   "ipa": "/wʊd ju ˈmaɪnd/",
+   "meaning": "phiền anh/chị... được không (+ V-ing)",
+   "pos": "cụm câu",
+   "audio": "B2-86-w-would-you-mind.mp3"
+  },
+  {
+   "word": "I'm afraid",
+   "ipa": "/aɪm əˈfreɪd/",
+   "meaning": "rất tiếc là, e rằng (mở đầu tin không vui, lời từ chối)",
+   "pos": "cụm câu",
+   "audio": "B2-86-w-i-m-afraid.mp3"
+  },
+  {
+   "word": "slightly",
+   "ipa": "/ˈslaɪtli/",
+   "meaning": "hơi, một chút (giảm nhẹ mức độ)",
+   "pos": "trạng từ",
+   "audio": "B2-86-w-slightly.mp3"
+  },
+  {
+   "word": "perhaps",
+   "ipa": "/pɚˈhæps/",
+   "meaning": "có lẽ, có thể (làm đề xuất nhẹ hơn)",
+   "pos": "trạng từ",
+   "audio": "B2-86-w-perhaps.mp3"
+  },
+  {
+   "word": "tactful",
+   "ipa": "/ˈtæktfəl/",
+   "meaning": "tế nhị, khéo léo (không làm người khác phật lòng)",
+   "pos": "tính từ",
+   "audio": "B2-86-w-tactful.mp3"
+  },
+  {
+   "word": "diplomatic",
+   "ipa": "/ˌdɪpləˈmætɪk/",
+   "meaning": "khéo ngoại giao, giữ được hòa khí",
+   "pos": "tính từ",
+   "audio": "B2-86-w-diplomatic.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I was wondering if you could cover my shift on Saturday.",
+   "vi": "Không biết anh có thể làm thay ca của tôi vào thứ Bảy được không.",
+   "audio": "B2-86-ex-1.mp3"
+  },
+  {
+   "en": "Would you mind sending me the slides before the meeting?",
+   "vi": "Phiền anh gửi tôi các trang trình chiếu trước cuộc họp được không?",
+   "audio": "B2-86-ex-2.mp3"
+  },
+  {
+   "en": "I'm afraid I can't make it on Friday, but I could do Monday morning instead.",
+   "vi": "Rất tiếc là thứ Sáu tôi không đến được, nhưng sáng thứ Hai thì tôi có thể.",
+   "audio": "B2-86-ex-3.mp3"
+  },
+  {
+   "en": "I'm not sure that's quite right; the figures I have are slightly different.",
+   "vi": "Tôi e là chưa hẳn đúng; số liệu tôi có hơi khác một chút.",
+   "audio": "B2-86-ex-4.mp3"
+  },
+  {
+   "en": "I see your point, but perhaps it might be better to wait until we hear back from the client.",
+   "vi": "Tôi hiểu ý anh, nhưng có lẽ nên đợi đến khi khách hàng phản hồi thì hơn.",
+   "audio": "B2-86-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "title": "Bài 34. Chủ đề: nghiên cứu và phương pháp",
+ "vocabulary": [
+  {
+   "word": "survey",
+   "ipa": "/ˈsɝveɪ/",
+   "meaning": "cuộc khảo sát; khảo sát",
+   "pos": "danh từ / động từ",
+   "audio": "B2-34-w-survey.mp3"
+  },
+  {
+   "word": "questionnaire",
+   "ipa": "/ˌkwɛstʃəˈnɛr/",
+   "meaning": "bảng hỏi, phiếu khảo sát",
+   "pos": "danh từ",
+   "audio": "B2-34-w-questionnaire.mp3"
+  },
+  {
+   "word": "participant",
+   "ipa": "/pɑrˈtɪsəpənt/",
+   "meaning": "người tham gia (nghiên cứu)",
+   "pos": "danh từ",
+   "audio": "B2-34-w-participant.mp3"
+  },
+  {
+   "word": "sample size",
+   "ipa": "/ˈsæmpəl saɪz/",
+   "meaning": "cỡ mẫu",
+   "pos": "cụm danh từ",
+   "audio": "B2-34-w-sample-size.mp3"
+  },
+  {
+   "word": "qualitative",
+   "ipa": "/ˈkwɑləˌteɪtɪv/",
+   "meaning": "định tính (ý kiến, lời nói)",
+   "pos": "tính từ",
+   "audio": "B2-34-w-qualitative.mp3"
+  },
+  {
+   "word": "quantitative",
+   "ipa": "/ˈkwɑntəˌteɪtɪv/",
+   "meaning": "định lượng (con số)",
+   "pos": "tính từ",
+   "audio": "B2-34-w-quantitative.mp3"
+  },
+  {
+   "word": "variable",
+   "ipa": "/ˈvɛriəbəl/",
+   "meaning": "biến số, yếu tố thay đổi được",
+   "pos": "danh từ",
+   "audio": "B2-34-w-variable.mp3"
+  },
+  {
+   "word": "reliability",
+   "ipa": "/rɪˌlaɪəˈbɪləti/",
+   "meaning": "độ tin cậy (tính từ: reliable)",
+   "pos": "danh từ",
+   "audio": "B2-34-w-reliability.mp3"
+  },
+  {
+   "word": "limitation",
+   "ipa": "/ˌlɪməˈteɪʃən/",
+   "meaning": "hạn chế (limitation of)",
+   "pos": "danh từ",
+   "audio": "B2-34-w-limitation.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "A survey was conducted among five hundred university students.",
+   "vi": "Một cuộc khảo sát đã được tiến hành với năm trăm sinh viên đại học.",
+   "audio": "B2-34-ex-1.mp3"
+  },
+  {
+   "en": "Each participant was asked to complete an online questionnaire.",
+   "vi": "Mỗi người tham gia được yêu cầu điền một bảng hỏi trực tuyến.",
+   "audio": "B2-34-ex-2.mp3"
+  },
+  {
+   "en": "Qualitative data were collected through in-depth interviews.",
+   "vi": "Dữ liệu định tính được thu thập qua các cuộc phỏng vấn sâu.",
+   "audio": "B2-34-ex-3.mp3"
+  },
+  {
+   "en": "The sample size was too small to draw firm conclusions.",
+   "vi": "Cỡ mẫu quá nhỏ để đưa ra kết luận chắc chắn.",
+   "audio": "B2-34-ex-4.mp3"
+  },
+  {
+   "en": "One limitation of the study is that all the participants came from the same city.",
+   "vi": "Một hạn chế của nghiên cứu là tất cả người tham gia đều đến từ cùng một thành phố.",
+   "audio": "B2-34-ex-5.mp3"
+  }
+ ]
+}

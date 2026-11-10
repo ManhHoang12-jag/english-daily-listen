@@ -1,0 +1,88 @@
+{
+ "title": "Bài 65. Ôn mẫu động từ: V-ing hay to V",
+ "vocabulary": [
+  {
+   "word": "avoid",
+   "ipa": "/əˈvɔɪd/",
+   "meaning": "tránh (+ V-ing)",
+   "pos": "động từ",
+   "audio": "B1-65-w-avoid.mp3"
+  },
+  {
+   "word": "consider",
+   "ipa": "/kənˈsɪdɚ/",
+   "meaning": "cân nhắc, xem xét (+ V-ing)",
+   "pos": "động từ",
+   "audio": "B1-65-w-consider.mp3"
+  },
+  {
+   "word": "manage",
+   "ipa": "/ˈmænɪdʒ/",
+   "meaning": "xoay xở làm được (+ to V)",
+   "pos": "động từ",
+   "audio": "B1-65-w-manage.mp3"
+  },
+  {
+   "word": "refuse",
+   "ipa": "/rɪˈfjuz/",
+   "meaning": "từ chối, nhất định không (+ to V)",
+   "pos": "động từ",
+   "audio": "B1-65-w-refuse.mp3"
+  },
+  {
+   "word": "encourage",
+   "ipa": "/ɪnˈkɝɪdʒ/",
+   "meaning": "động viên, khuyến khích (+ người + to V)",
+   "pos": "động từ",
+   "audio": "B1-65-w-encourage.mp3"
+  },
+  {
+   "word": "expect",
+   "ipa": "/ɪkˈspɛkt/",
+   "meaning": "mong đợi, dự kiến (+ to V / + người + to V)",
+   "pos": "động từ",
+   "audio": "B1-65-w-expect.mp3"
+  },
+  {
+   "word": "give up",
+   "ipa": "/ˌɡɪv ˈʌp/",
+   "meaning": "bỏ hẳn (+ V-ing / N)",
+   "pos": "cụm động từ",
+   "audio": "B1-65-w-give-up.mp3"
+  },
+  {
+   "word": "keep",
+   "ipa": "/kip/",
+   "meaning": "cứ tiếp tục, cứ lặp lại (+ V-ing)",
+   "pos": "động từ",
+   "audio": "B1-65-w-keep.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I avoid eating junk food late at night.",
+   "vi": "Tôi tránh ăn đồ ăn vặt vào đêm muộn.",
+   "audio": "B1-65-ex-1.mp3"
+  },
+  {
+   "en": "My doctor suggested cutting down on salt.",
+   "vi": "Bác sĩ của tôi khuyên nên giảm ăn muối.",
+   "audio": "B1-65-ex-2.mp3"
+  },
+  {
+   "en": "After months of trying, he finally managed to give up smoking.",
+   "vi": "Sau nhiều tháng cố gắng, cuối cùng anh ấy đã bỏ được thuốc lá.",
+   "audio": "B1-65-ex-3.mp3"
+  },
+  {
+   "en": "She refused to stay in bed, even though she had a fever.",
+   "vi": "Cô ấy nhất định không chịu nằm nghỉ, dù đang bị sốt.",
+   "audio": "B1-65-ex-4.mp3"
+  },
+  {
+   "en": "My friends encouraged me to join a running club.",
+   "vi": "Bạn bè động viên tôi tham gia một câu lạc bộ chạy bộ.",
+   "audio": "B1-65-ex-5.mp3"
+  }
+ ]
+}

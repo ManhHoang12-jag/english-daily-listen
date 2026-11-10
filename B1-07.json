@@ -1,0 +1,88 @@
+{
+ "title": "Bài 07. Chủ đề: trải nghiệm du lịch",
+ "vocabulary": [
+  {
+   "word": "breathtaking",
+   "ipa": "/ˈbrɛθˌteɪkɪŋ/",
+   "meaning": "đẹp ngoạn mục, đẹp đến nín thở",
+   "pos": "tính từ",
+   "audio": "B1-07-w-breathtaking.mp3"
+  },
+  {
+   "word": "exhausting",
+   "ipa": "/ɪɡˈzɑːstɪŋ/",
+   "meaning": "làm kiệt sức",
+   "pos": "tính từ",
+   "audio": "B1-07-w-exhausting.mp3"
+  },
+  {
+   "word": "freezing",
+   "ipa": "/ˈfriːzɪŋ/",
+   "meaning": "lạnh cóng, cực lạnh",
+   "pos": "tính từ",
+   "audio": "B1-07-w-freezing.mp3"
+  },
+  {
+   "word": "absolutely",
+   "ipa": "/ˌæbsəˈluːtli/",
+   "meaning": "hoàn toàn, cực kỳ (đi với tính từ mạnh)",
+   "pos": "trạng từ",
+   "audio": "B1-07-w-absolutely.mp3"
+  },
+  {
+   "word": "unforgettable",
+   "ipa": "/ˌʌnfɚˈɡɛtəbəl/",
+   "meaning": "không thể nào quên",
+   "pos": "tính từ",
+   "audio": "B1-07-w-unforgettable.mp3"
+  },
+  {
+   "word": "disappointing",
+   "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+   "meaning": "đáng thất vọng",
+   "pos": "tính từ",
+   "audio": "B1-07-w-disappointing.mp3"
+  },
+  {
+   "word": "souvenir",
+   "ipa": "/ˌsuːvəˈnɪr/",
+   "meaning": "quà lưu niệm",
+   "pos": "danh từ",
+   "audio": "B1-07-w-souvenir.mp3"
+  },
+  {
+   "word": "local",
+   "ipa": "/ˈloʊkəl/",
+   "meaning": "(thuộc) địa phương",
+   "pos": "tính từ",
+   "audio": "B1-07-w-local.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The view from the top of Fansipan was absolutely breathtaking.",
+   "vi": "Quang cảnh từ đỉnh Fansipan đẹp ngoạn mục.",
+   "audio": "B1-07-ex-1.mp3"
+  },
+  {
+   "en": "I've been to Sa Pa twice, and my second trip was unforgettable.",
+   "vi": "Tôi đã đến Sa Pa hai lần, và chuyến thứ hai thật không thể quên.",
+   "audio": "B1-07-ex-2.mp3"
+  },
+  {
+   "en": "It was absolutely freezing at night, so we bought thick jackets at a local market.",
+   "vi": "Ban đêm trời lạnh cóng, nên chúng tôi mua áo khoác dày ở một chợ địa phương.",
+   "audio": "B1-07-ex-3.mp3"
+  },
+  {
+   "en": "The twelve-hour bus ride was absolutely exhausting.",
+   "vi": "Chuyến xe buýt mười hai tiếng làm người ta kiệt sức.",
+   "audio": "B1-07-ex-4.mp3"
+  },
+  {
+   "en": "The hotel was very disappointing, but we found some lovely souvenirs in the old town.",
+   "vi": "Khách sạn rất đáng thất vọng, nhưng chúng tôi tìm được vài món quà lưu niệm xinh xắn ở phố cổ.",
+   "audio": "B1-07-ex-5.mp3"
+  }
+ ]
+}

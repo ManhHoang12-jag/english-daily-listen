@@ -1,0 +1,88 @@
+{
+ "title": "Bài 25. Chủ đề: phỏng vấn xin việc",
+ "vocabulary": [
+  {
+   "word": "strength",
+   "ipa": "/strɛŋkθ/",
+   "meaning": "điểm mạnh, thế mạnh",
+   "pos": "danh từ",
+   "audio": "B1-25-w-strength.mp3"
+  },
+  {
+   "word": "weakness",
+   "ipa": "/ˈwiːknəs/",
+   "meaning": "điểm yếu",
+   "pos": "danh từ",
+   "audio": "B1-25-w-weakness.mp3"
+  },
+  {
+   "word": "achievement",
+   "ipa": "/əˈtʃiːvmənt/",
+   "meaning": "thành tựu, thành tích",
+   "pos": "danh từ",
+   "audio": "B1-25-w-achievement.mp3"
+  },
+  {
+   "word": "reliable",
+   "ipa": "/rɪˈlaɪəbəl/",
+   "meaning": "đáng tin cậy",
+   "pos": "tính từ",
+   "audio": "B1-25-w-reliable.mp3"
+  },
+  {
+   "word": "motivated",
+   "ipa": "/ˈmoʊt̬əveɪt̬ɪd/",
+   "meaning": "có động lực, nhiệt tình",
+   "pos": "tính từ",
+   "audio": "B1-25-w-motivated.mp3"
+  },
+  {
+   "word": "deal with",
+   "ipa": "/ˈdiːl wɪð/",
+   "meaning": "xử lý, đối phó với",
+   "pos": "cụm động từ",
+   "audio": "B1-25-w-deal-with.mp3"
+  },
+  {
+   "word": "teamwork",
+   "ipa": "/ˈtiːmwɝːk/",
+   "meaning": "làm việc nhóm, tinh thần đồng đội",
+   "pos": "danh từ",
+   "audio": "B1-25-w-teamwork.mp3"
+  },
+  {
+   "word": "deadline",
+   "ipa": "/ˈdɛdlaɪn/",
+   "meaning": "hạn chót",
+   "pos": "danh từ",
+   "audio": "B1-25-w-deadline.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My greatest strength is that I'm reliable. I always meet my deadlines.",
+   "vi": "Điểm mạnh lớn nhất của tôi là tôi đáng tin cậy. Tôi luôn hoàn thành đúng hạn.",
+   "audio": "B1-25-ex-1.mp3"
+  },
+  {
+   "en": "I'm good at dealing with difficult customers because I always stay calm and listen carefully.",
+   "vi": "Tôi giỏi xử lý những khách hàng khó tính vì tôi luôn bình tĩnh và lắng nghe cẩn thận.",
+   "audio": "B1-25-ex-2.mp3"
+  },
+  {
+   "en": "Last year I led a project which saved the company a lot of money. That was my biggest achievement.",
+   "vi": "Năm ngoái tôi dẫn dắt một dự án giúp công ty tiết kiệm được rất nhiều tiền. Đó là thành tựu lớn nhất của tôi.",
+   "audio": "B1-25-ex-3.mp3"
+  },
+  {
+   "en": "My weakness is that I sometimes spend too long on small details, but now I set a time limit for each task.",
+   "vi": "Điểm yếu của tôi là đôi khi tôi mất quá nhiều thời gian vào chi tiết nhỏ, nhưng bây giờ tôi đặt giới hạn thời gian cho mỗi việc.",
+   "audio": "B1-25-ex-4.mp3"
+  },
+  {
+   "en": "I've worked in a team of six people for three years, and I'm able to work well with very different personalities.",
+   "vi": "Tôi đã làm việc trong một nhóm sáu người được ba năm, và tôi có thể làm việc tốt với những tính cách rất khác nhau.",
+   "audio": "B1-25-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,116 @@
+{
+ "title": "Bài 77. Giới từ phụ thuộc",
+ "vocabulary": [
+  {
+   "word": "contribute to",
+   "ipa": "/kənˈtrɪbjut tu/",
+   "meaning": "góp phần vào, đóng góp cho",
+   "pos": "động từ + giới từ",
+   "audio": "B2-77-w-contribute-to.mp3"
+  },
+  {
+   "word": "result in",
+   "ipa": "/rɪˈzʌlt ɪn/",
+   "meaning": "dẫn đến (+ kết quả)",
+   "pos": "động từ + giới từ",
+   "audio": "B2-77-w-result-in.mp3"
+  },
+  {
+   "word": "result from",
+   "ipa": "/rɪˈzʌlt frʌm/",
+   "meaning": "bắt nguồn từ, do (+ nguyên nhân)",
+   "pos": "động từ + giới từ",
+   "audio": "B2-77-w-result-from.mp3"
+  },
+  {
+   "word": "consist of",
+   "ipa": "/kənˈsɪst əv/",
+   "meaning": "gồm có, bao gồm",
+   "pos": "động từ + giới từ",
+   "audio": "B2-77-w-consist-of.mp3"
+  },
+  {
+   "word": "account for",
+   "ipa": "/əˈkaʊnt fɔr/",
+   "meaning": "chiếm (tỷ lệ); giải thích, là lý do của",
+   "pos": "động từ + giới từ",
+   "audio": "B2-77-w-account-for.mp3"
+  },
+  {
+   "word": "aware of",
+   "ipa": "/əˈwɛr əv/",
+   "meaning": "biết, nhận thức được",
+   "pos": "tính từ + giới từ",
+   "audio": "B2-77-w-aware-of.mp3"
+  },
+  {
+   "word": "responsible for",
+   "ipa": "/rɪˈspɑnsəbəl fɔr/",
+   "meaning": "chịu trách nhiệm về (+ N/V-ing)",
+   "pos": "tính từ + giới từ",
+   "audio": "B2-77-w-responsible-for.mp3"
+  },
+  {
+   "word": "impact on",
+   "ipa": "/ˈɪmˌpækt ɑn/",
+   "meaning": "tác động lên (have an impact on)",
+   "pos": "danh từ + giới từ",
+   "audio": "B2-77-w-impact-on.mp3"
+  },
+  {
+   "word": "increase in",
+   "ipa": "/ˈɪnˌkris ɪn/",
+   "meaning": "sự tăng lên về (an increase in prices)",
+   "pos": "danh từ + giới từ",
+   "audio": "B2-77-w-increase-in.mp3"
+  },
+  {
+   "word": "approach to",
+   "ipa": "/əˈproʊtʃ tu/",
+   "meaning": "cách tiếp cận (+ N/V-ing)",
+   "pos": "danh từ + giới từ",
+   "audio": "B2-77-w-approach-to.mp3"
+  },
+  {
+   "word": "in terms of",
+   "ipa": "/ɪn tərmz əv/",
+   "meaning": "xét về mặt",
+   "pos": "cụm giới từ",
+   "audio": "B2-77-w-in-terms-of.mp3"
+  },
+  {
+   "word": "with regard to",
+   "ipa": "/wɪð rɪˈɡɑrd tu/",
+   "meaning": "về việc, liên quan đến (trang trọng)",
+   "pos": "cụm giới từ",
+   "audio": "B2-77-w-with-regard-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Several factors have contributed to the rise of online learning.",
+   "vi": "Nhiều yếu tố đã góp phần vào sự phát triển của học trực tuyến.",
+   "audio": "B2-77-ex-1.mp3"
+  },
+  {
+   "en": "Cheaper internet has resulted in a sharp increase in the number of students who study from home.",
+   "vi": "Internet rẻ hơn đã dẫn đến sự tăng mạnh số sinh viên học tại nhà.",
+   "audio": "B2-77-ex-2.mp3"
+  },
+  {
+   "en": "A typical online course consists of short videos, quizzes, and discussion forums.",
+   "vi": "Một khóa học trực tuyến điển hình gồm video ngắn, bài kiểm tra nhỏ và diễn đàn thảo luận.",
+   "audio": "B2-77-ex-3.mp3"
+  },
+  {
+   "en": "However, low completion rates often result from poor time management.",
+   "vi": "Tuy nhiên, tỷ lệ hoàn thành thấp thường bắt nguồn từ việc quản lý thời gian kém.",
+   "audio": "B2-77-ex-4.mp3"
+  },
+  {
+   "en": "Teachers are still responsible for designing good material, but their approach to teaching has changed.",
+   "vi": "Giáo viên vẫn chịu trách nhiệm thiết kế học liệu tốt, nhưng cách tiếp cận việc dạy của họ đã thay đổi.",
+   "audio": "B2-77-ex-5.mp3"
+  }
+ ]
+}

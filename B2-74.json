@@ -1,0 +1,116 @@
+{
+ "title": "Bài 74. Cấu tạo từ: hậu tố tính từ, động từ, trạng từ",
+ "vocabulary": [
+  {
+   "word": "competitive",
+   "ipa": "/kəmˈpɛtətɪv/",
+   "meaning": "có tính cạnh tranh, có sức cạnh tranh (động từ: compete)",
+   "pos": "tính từ",
+   "audio": "B2-74-w-competitive.mp3"
+  },
+  {
+   "word": "sustainable",
+   "ipa": "/səˈsteɪnəbəl/",
+   "meaning": "bền vững (động từ: sustain)",
+   "pos": "tính từ",
+   "audio": "B2-74-w-sustainable.mp3"
+  },
+  {
+   "word": "ambiguous",
+   "ipa": "/æmˈbɪɡjuəs/",
+   "meaning": "mơ hồ, có thể hiểu nhiều cách (danh từ: ambiguity)",
+   "pos": "tính từ",
+   "audio": "B2-74-w-ambiguous.mp3"
+  },
+  {
+   "word": "economical",
+   "ipa": "/ˌɛkəˈnɑmɪkəl/",
+   "meaning": "tiết kiệm, ít tốn kém (khác economic: thuộc kinh tế)",
+   "pos": "tính từ",
+   "audio": "B2-74-w-economical.mp3"
+  },
+  {
+   "word": "strategic",
+   "ipa": "/strəˈtidʒɪk/",
+   "meaning": "có tính chiến lược (danh từ: strategy)",
+   "pos": "tính từ",
+   "audio": "B2-74-w-strategic.mp3"
+  },
+  {
+   "word": "prioritize",
+   "ipa": "/praɪˈɔrəˌtaɪz/",
+   "meaning": "ưu tiên, xếp theo thứ tự ưu tiên (Anh-Anh: prioritise)",
+   "pos": "động từ",
+   "audio": "B2-74-w-prioritize.mp3"
+  },
+  {
+   "word": "clarify",
+   "ipa": "/ˈklɛrəˌfaɪ/",
+   "meaning": "làm rõ (tính từ: clear)",
+   "pos": "động từ",
+   "audio": "B2-74-w-clarify.mp3"
+  },
+  {
+   "word": "strengthen",
+   "ipa": "/ˈstrɛŋkθən/",
+   "meaning": "tăng cường, làm mạnh hơn (strong, strength)",
+   "pos": "động từ",
+   "audio": "B2-74-w-strengthen.mp3"
+  },
+  {
+   "word": "broaden",
+   "ipa": "/ˈbrɔdən/",
+   "meaning": "mở rộng (thường nghĩa bóng: kiến thức, phạm vi)",
+   "pos": "động từ",
+   "audio": "B2-74-w-broaden.mp3"
+  },
+  {
+   "word": "widen",
+   "ipa": "/ˈwaɪdən/",
+   "meaning": "nới rộng, làm rộng ra (đường, khoảng cách)",
+   "pos": "động từ",
+   "audio": "B2-74-w-widen.mp3"
+  },
+  {
+   "word": "considerably",
+   "ipa": "/kənˈsɪdərəbli/",
+   "meaning": "đáng kể, nhiều (tính từ: considerable)",
+   "pos": "trạng từ",
+   "audio": "B2-74-w-considerably.mp3"
+  },
+  {
+   "word": "feasible",
+   "ipa": "/ˈfizəbəl/",
+   "meaning": "khả thi, làm được",
+   "pos": "tính từ",
+   "audio": "B2-74-w-feasible.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "To stay competitive, our city needs a transport plan that is both ambitious and sustainable.",
+   "vi": "Để giữ sức cạnh tranh, thành phố cần một kế hoạch giao thông vừa tham vọng vừa bền vững.",
+   "audio": "B2-74-ex-1.mp3"
+  },
+  {
+   "en": "The current proposal is ambiguous: it promises cleaner air but does not say how.",
+   "vi": "Đề xuất hiện tại không rõ ràng: nó hứa hẹn không khí sạch hơn nhưng không nói bằng cách nào.",
+   "audio": "B2-74-ex-2.mp3"
+  },
+  {
+   "en": "We need to clarify our goals and prioritize projects that are feasible within five years.",
+   "vi": "Chúng ta cần làm rõ mục tiêu và ưu tiên các dự án khả thi trong vòng năm năm.",
+   "audio": "B2-74-ex-3.mp3"
+  },
+  {
+   "en": "Electric buses are an economical choice, since they cost considerably less to run than diesel ones.",
+   "vi": "Xe buýt điện là lựa chọn tiết kiệm, vì chi phí vận hành thấp hơn đáng kể so với xe chạy dầu.",
+   "audio": "B2-74-ex-4.mp3"
+  },
+  {
+   "en": "A strategic approach would strengthen public transport first and broaden access for people in the suburbs.",
+   "vi": "Một cách tiếp cận có chiến lược sẽ tăng cường giao thông công cộng trước và mở rộng khả năng tiếp cận cho người dân ngoại ô.",
+   "audio": "B2-74-ex-5.mp3"
+  }
+ ]
+}

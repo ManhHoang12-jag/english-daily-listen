@@ -1,0 +1,116 @@
+{
+ "title": "Bài 75. Collocations: động từ + danh từ học thuật",
+ "vocabulary": [
+  {
+   "word": "conduct research",
+   "ipa": "/kənˈdʌkt ˈrisɝtʃ/",
+   "meaning": "tiến hành nghiên cứu",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-conduct-research.mp3"
+  },
+  {
+   "word": "draw a conclusion",
+   "ipa": "/drɔ ə kənˈkluʒən/",
+   "meaning": "rút ra kết luận",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-draw-a-conclusion.mp3"
+  },
+  {
+   "word": "raise an issue",
+   "ipa": "/reɪz ən ˈɪʃu/",
+   "meaning": "nêu ra một vấn đề",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-raise-an-issue.mp3"
+  },
+  {
+   "word": "pose a threat",
+   "ipa": "/poʊz ə θrɛt/",
+   "meaning": "gây ra mối đe dọa (pose a threat to sth)",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-pose-a-threat.mp3"
+  },
+  {
+   "word": "play a role",
+   "ipa": "/pleɪ ə roʊl/",
+   "meaning": "đóng vai trò (play a role in sth)",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-play-a-role.mp3"
+  },
+  {
+   "word": "meet a deadline",
+   "ipa": "/mit ə ˈdɛdˌlaɪn/",
+   "meaning": "kịp hạn chót",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-meet-a-deadline.mp3"
+  },
+  {
+   "word": "gain insight",
+   "ipa": "/ɡeɪn ˈɪnˌsaɪt/",
+   "meaning": "hiểu sâu, có cái nhìn sâu sắc (gain insight into sth)",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-gain-insight.mp3"
+  },
+  {
+   "word": "bear in mind",
+   "ipa": "/bɛr ɪn maɪnd/",
+   "meaning": "ghi nhớ, lưu ý (trang trọng hơn keep in mind)",
+   "pos": "cụm động từ",
+   "audio": "B2-75-w-bear-in-mind.mp3"
+  },
+  {
+   "word": "address a problem",
+   "ipa": "/əˈdrɛs ə ˈprɑbləm/",
+   "meaning": "giải quyết, xử lý một vấn đề",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-address-a-problem.mp3"
+  },
+  {
+   "word": "reach a consensus",
+   "ipa": "/ritʃ ə kənˈsɛnsəs/",
+   "meaning": "đạt được sự đồng thuận",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-reach-a-consensus.mp3"
+  },
+  {
+   "word": "shed light on",
+   "ipa": "/ʃɛd laɪt ɑn/",
+   "meaning": "làm sáng tỏ",
+   "pos": "cụm động từ",
+   "audio": "B2-75-w-shed-light-on.mp3"
+  },
+  {
+   "word": "make a contribution",
+   "ipa": "/meɪk ə ˌkɑntrəˈbjuʃən/",
+   "meaning": "đóng góp (make a contribution to sth)",
+   "pos": "cụm động từ + danh từ",
+   "audio": "B2-75-w-make-a-contribution.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Social media plays a major role in how young people get their news.",
+   "vi": "Mạng xã hội đóng vai trò lớn trong cách người trẻ tiếp nhận tin tức.",
+   "audio": "B2-75-ex-1.mp3"
+  },
+  {
+   "en": "A team at our university conducted research on two thousand students to gain insight into their reading habits.",
+   "vi": "Một nhóm ở trường chúng tôi đã tiến hành nghiên cứu trên hai nghìn sinh viên để hiểu sâu thói quen đọc của họ.",
+   "audio": "B2-75-ex-2.mp3"
+  },
+  {
+   "en": "The findings shed light on a worrying trend: most students rarely check where a story comes from.",
+   "vi": "Kết quả làm sáng tỏ một xu hướng đáng lo: phần lớn sinh viên hiếm khi kiểm tra nguồn tin.",
+   "audio": "B2-75-ex-3.mp3"
+  },
+  {
+   "en": "This poses a threat to public debate, because false stories spread faster than corrections.",
+   "vi": "Điều này gây ra mối đe dọa cho tranh luận công khai, vì tin giả lan nhanh hơn tin đính chính.",
+   "audio": "B2-75-ex-4.mp3"
+  },
+  {
+   "en": "It is too early to draw a firm conclusion, and we should bear in mind that the sample was small.",
+   "vi": "Còn quá sớm để rút ra kết luận chắc chắn, và cần lưu ý rằng mẫu khảo sát còn nhỏ.",
+   "audio": "B2-75-ex-5.mp3"
+  }
+ ]
+}

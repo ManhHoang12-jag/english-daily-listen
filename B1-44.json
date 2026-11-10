@@ -1,0 +1,74 @@
+{
+ "title": "Bài 44. Tường thuật câu hỏi",
+ "vocabulary": [
+  {
+   "word": "ask",
+   "ipa": "/æsk/",
+   "meaning": "hỏi; ask sb (không có to): She asked me...",
+   "pos": "động từ",
+   "audio": "B1-44-w-ask.mp3"
+  },
+  {
+   "word": "enquire",
+   "ipa": "/ɪnˈkwaɪɚ/",
+   "meaning": "hỏi, hỏi thông tin (trang trọng; tiếng Mỹ thường viết inquire)",
+   "pos": "động từ",
+   "audio": "B1-44-w-enquire.mp3"
+  },
+  {
+   "word": "want to know",
+   "ipa": "/ˈwɑnt tə ˈnoʊ/",
+   "meaning": "muốn biết",
+   "pos": "cụm động từ",
+   "audio": "B1-44-w-want-to-know.mp3"
+  },
+  {
+   "word": "wonder",
+   "ipa": "/ˈwʌndɚ/",
+   "meaning": "tự hỏi, băn khoăn",
+   "pos": "động từ",
+   "audio": "B1-44-w-wonder.mp3"
+  },
+  {
+   "word": "interviewer",
+   "ipa": "/ˈɪntɚˌvjuɚ/",
+   "meaning": "người phỏng vấn",
+   "pos": "danh từ",
+   "audio": "B1-44-w-interviewer.mp3"
+  },
+  {
+   "word": "respond",
+   "ipa": "/rɪˈspɑnd/",
+   "meaning": "trả lời, đáp lại",
+   "pos": "động từ",
+   "audio": "B1-44-w-respond.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She asked me why I wanted to work for them.",
+   "vi": "Cô ấy hỏi tôi tại sao tôi muốn làm cho công ty họ.",
+   "audio": "B1-44-ex-1.mp3"
+  },
+  {
+   "en": "Then she wanted to know if I had worked in a team before.",
+   "vi": "Sau đó cô ấy muốn biết trước đây tôi đã làm việc theo nhóm chưa.",
+   "audio": "B1-44-ex-2.mp3"
+  },
+  {
+   "en": "She also asked me where I had studied and whether I could start the following month.",
+   "vi": "Cô ấy cũng hỏi tôi đã học ở đâu và tháng sau tôi có thể bắt đầu không.",
+   "audio": "B1-44-ex-3.mp3"
+  },
+  {
+   "en": "I asked when I would hear from them.",
+   "vi": "Tôi hỏi khi nào tôi sẽ nhận được tin từ họ.",
+   "audio": "B1-44-ex-4.mp3"
+  },
+  {
+   "en": "Now I keep wondering if my answers were good enough!",
+   "vi": "Giờ tôi cứ băn khoăn không biết câu trả lời của mình có đủ tốt không!",
+   "audio": "B1-44-ex-5.mp3"
+  }
+ ]
+}

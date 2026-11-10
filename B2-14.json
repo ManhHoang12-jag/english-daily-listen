@@ -1,0 +1,81 @@
+{
+ "title": "Bài 14. Biến thể điều kiện",
+ "vocabulary": [
+  {
+   "word": "provided that",
+   "ipa": "/prəˈvaɪdɪd ðæt/",
+   "meaning": "với điều kiện là",
+   "pos": "cụm liên từ",
+   "audio": "B2-14-w-provided-that.mp3"
+  },
+  {
+   "word": "as long as",
+   "ipa": "/əz ˈlɔŋ əz/",
+   "meaning": "miễn là",
+   "pos": "cụm liên từ",
+   "audio": "B2-14-w-as-long-as.mp3"
+  },
+  {
+   "word": "on condition that",
+   "ipa": "/ɑn kənˈdɪʃən ðæt/",
+   "meaning": "với điều kiện là (rất trang trọng)",
+   "pos": "cụm liên từ",
+   "audio": "B2-14-w-on-condition-that.mp3"
+  },
+  {
+   "word": "otherwise",
+   "ipa": "/ˈʌðərˌwaɪz/",
+   "meaning": "nếu không thì; mặt khác",
+   "pos": "trạng từ",
+   "audio": "B2-14-w-otherwise.mp3"
+  },
+  {
+   "word": "in case",
+   "ipa": "/ɪn ˈkeɪs/",
+   "meaning": "phòng khi, đề phòng trường hợp",
+   "pos": "cụm liên từ",
+   "audio": "B2-14-w-in-case.mp3"
+  },
+  {
+   "word": "supposing",
+   "ipa": "/səˈpoʊzɪŋ/",
+   "meaning": "giả sử",
+   "pos": "liên từ",
+   "audio": "B2-14-w-supposing.mp3"
+  },
+  {
+   "word": "assuming",
+   "ipa": "/əˈsumɪŋ/",
+   "meaning": "cho rằng, giả định là (coi như điều đó xảy ra)",
+   "pos": "liên từ",
+   "audio": "B2-14-w-assuming.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You may keep the scholarship provided that your grades remain satisfactory.",
+   "vi": "Bạn được giữ học bổng với điều kiện kết quả học tập vẫn đạt yêu cầu.",
+   "audio": "B2-14-ex-1.mp3"
+  },
+  {
+   "en": "You can work part-time as long as it does not exceed twenty hours a week.",
+   "vi": "Bạn có thể làm thêm miễn là không quá hai mươi giờ một tuần.",
+   "audio": "B2-14-ex-2.mp3"
+  },
+  {
+   "en": "The funding is offered on condition that you return to work in Vietnam for at least two years.",
+   "vi": "Khoản tài trợ được cấp với điều kiện bạn về làm việc tại Việt Nam ít nhất hai năm.",
+   "audio": "B2-14-ex-3.mp3"
+  },
+  {
+   "en": "Submit your progress report by the end of May; otherwise, your next payment may be delayed.",
+   "vi": "Hãy nộp báo cáo tiến độ trước cuối tháng Năm; nếu không, khoản tiền tiếp theo có thể bị chậm.",
+   "audio": "B2-14-ex-4.mp3"
+  },
+  {
+   "en": "Keep copies of all your receipts in case the university asks for them.",
+   "vi": "Hãy giữ bản sao tất cả hóa đơn, phòng khi trường đại học yêu cầu.",
+   "audio": "B2-14-ex-5.mp3"
+  }
+ ]
+}

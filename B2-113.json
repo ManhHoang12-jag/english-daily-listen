@@ -1,0 +1,74 @@
+{
+ "title": "Bài 113. Tổng ôn: mệnh đề, đảo ngữ, câu chẻ",
+ "vocabulary": [
+  {
+   "word": "sentence variety",
+   "ipa": "/ˈsɛntəns vəˈraɪəti/",
+   "meaning": "sự đa dạng câu (độ dài, kiểu câu)",
+   "pos": "cụm danh từ",
+   "audio": "B2-113-w-sentence-variety.mp3"
+  },
+  {
+   "word": "emphasis",
+   "ipa": "/ˈɛmfəsɪs/",
+   "meaning": "sự nhấn mạnh",
+   "pos": "danh từ",
+   "audio": "B2-113-w-emphasis.mp3"
+  },
+  {
+   "word": "clause",
+   "ipa": "/klɔz/",
+   "meaning": "mệnh đề",
+   "pos": "danh từ",
+   "audio": "B2-113-w-clause.mp3"
+  },
+  {
+   "word": "inversion",
+   "ipa": "/ɪnˈvɝʒən/",
+   "meaning": "đảo ngữ (đảo trợ động từ lên trước chủ ngữ)",
+   "pos": "danh từ",
+   "audio": "B2-113-w-inversion.mp3"
+  },
+  {
+   "word": "cleft",
+   "ipa": "/klɛft/",
+   "meaning": "câu chẻ (cleft sentence: It was... that..., What... is...)",
+   "pos": "tính từ / danh từ",
+   "audio": "B2-113-w-cleft.mp3"
+  },
+  {
+   "word": "participle",
+   "ipa": "/ˈpɑrtəˌsɪpəl/",
+   "meaning": "phân từ (V-ing, V3)",
+   "pos": "danh từ",
+   "audio": "B2-113-w-participle.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Having reviewed all the evidence, the committee rejected the proposal, which surprised many of its supporters.",
+   "vi": "Sau khi xem xét toàn bộ bằng chứng, ủy ban đã bác đề xuất, điều này làm nhiều người ủng hộ ngạc nhiên.",
+   "audio": "B2-113-ex-1.mp3"
+  },
+  {
+   "en": "Not only did the new policy reduce costs, but it also improved staff morale.",
+   "vi": "Chính sách mới chẳng những giảm chi phí mà còn cải thiện tinh thần nhân viên.",
+   "audio": "B2-113-ex-2.mp3"
+  },
+  {
+   "en": "It was only after the results were published that the team realized its mistake.",
+   "vi": "Mãi đến khi kết quả được công bố, nhóm mới nhận ra sai lầm của mình.",
+   "audio": "B2-113-ex-3.mp3"
+  },
+  {
+   "en": "What worries most residents is the fact that nobody has been held responsible.",
+   "vi": "Điều khiến hầu hết cư dân lo lắng là việc chưa ai bị quy trách nhiệm.",
+   "audio": "B2-113-ex-4.mp3"
+  },
+  {
+   "en": "Hardly had the meeting started when the fire alarm went off.",
+   "vi": "Cuộc họp vừa mới bắt đầu thì chuông báo cháy reo.",
+   "audio": "B2-113-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 92. Kỹ năng: tham gia cuộc họp (role-play)",
+ "vocabulary": [
+  {
+   "word": "propose",
+   "ipa": "/prəˈpoʊz/",
+   "meaning": "đề xuất (propose that we + V; propose + V-ing)",
+   "pos": "động từ",
+   "audio": "B2-92-w-propose.mp3"
+  },
+  {
+   "word": "second",
+   "ipa": "/ˈsɛkənd/",
+   "meaning": "ủng hộ (đề xuất của người khác) trong cuộc họp",
+   "pos": "động từ",
+   "audio": "B2-92-w-second.mp3"
+  },
+  {
+   "word": "reservation",
+   "ipa": "/ˌrɛzərˈveɪʃən/",
+   "meaning": "sự băn khoăn, e ngại (have reservations about something)",
+   "pos": "danh từ",
+   "audio": "B2-92-w-reservation.mp3"
+  },
+  {
+   "word": "go along with",
+   "ipa": "/ˌɡoʊ əˈlɔŋ wɪð/",
+   "meaning": "đồng ý theo, chấp nhận (ý kiến, kế hoạch của người khác)",
+   "pos": "cụm động từ",
+   "audio": "B2-92-w-go-along-with.mp3"
+  },
+  {
+   "word": "on board",
+   "ipa": "/ɑn ˈbɔrd/",
+   "meaning": "đồng thuận, sẵn sàng tham gia (be on board)",
+   "pos": "cụm tính từ",
+   "audio": "B2-92-w-on-board.mp3"
+  },
+  {
+   "word": "vote",
+   "ipa": "/voʊt/",
+   "meaning": "biểu quyết, bỏ phiếu (put it to a vote = đưa ra biểu quyết)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-92-w-vote.mp3"
+  },
+  {
+   "word": "outcome",
+   "ipa": "/ˈaʊtˌkʌm/",
+   "meaning": "kết quả (của cuộc họp, cuộc thảo luận)",
+   "pos": "danh từ",
+   "audio": "B2-92-w-outcome.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like to propose that we run the user testing online this time.",
+   "vi": "Tôi muốn đề xuất lần này chúng ta thử nghiệm với người dùng qua mạng.",
+   "audio": "B2-92-ex-1.mp3"
+  },
+  {
+   "en": "I'd second that, actually, because it would save us a lot of travel time.",
+   "vi": "Thật ra tôi ủng hộ ý đó, vì nó sẽ giúp chúng ta tiết kiệm nhiều thời gian đi lại.",
+   "audio": "B2-92-ex-2.mp3"
+  },
+  {
+   "en": "I have a few reservations about the idea, to be honest.",
+   "vi": "Thành thật mà nói, tôi có vài băn khoăn về ý tưởng này.",
+   "audio": "B2-92-ex-3.mp3"
+  },
+  {
+   "en": "I'm not totally convinced, but I can go along with that if we run a small pilot first.",
+   "vi": "Tôi chưa hoàn toàn bị thuyết phục, nhưng tôi có thể đồng ý nếu chúng ta chạy thử nhỏ trước.",
+   "audio": "B2-92-ex-4.mp3"
+  },
+  {
+   "en": "So, is everyone on board, or shall we put it to a vote?",
+   "vi": "Vậy mọi người đều đồng ý chứ, hay chúng ta biểu quyết?",
+   "audio": "B2-92-ex-5.mp3"
+  }
+ ]
+}

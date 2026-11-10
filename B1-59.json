@@ -1,0 +1,74 @@
+{
+ "title": "Bài 59. Kỹ năng: đọc bài báo 300–350 từ về môi trường",
+ "vocabulary": [
+  {
+   "word": "fact",
+   "ipa": "/fækt/",
+   "meaning": "sự thật, sự kiện có thật",
+   "pos": "danh từ",
+   "audio": "B1-59-w-fact.mp3"
+  },
+  {
+   "word": "opinion",
+   "ipa": "/əˈpɪnjən/",
+   "meaning": "ý kiến, quan điểm",
+   "pos": "danh từ",
+   "audio": "B1-59-w-opinion.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvɪdəns/",
+   "meaning": "bằng chứng (không đếm được)",
+   "pos": "danh từ",
+   "audio": "B1-59-w-evidence.mp3"
+  },
+  {
+   "word": "expert",
+   "ipa": "/ˈɛkspɝt/",
+   "meaning": "chuyên gia",
+   "pos": "danh từ",
+   "audio": "B1-59-w-expert.mp3"
+  },
+  {
+   "word": "impact",
+   "ipa": "/ˈɪmpækt/",
+   "meaning": "tác động, ảnh hưởng lớn (impact on)",
+   "pos": "danh từ",
+   "audio": "B1-59-w-impact.mp3"
+  },
+  {
+   "word": "crisis",
+   "ipa": "/ˈkraɪsɪs/",
+   "meaning": "khủng hoảng",
+   "pos": "danh từ",
+   "audio": "B1-59-w-crisis.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This happens because roads and buildings absorb heat during the day and release it at night.",
+   "vi": "Điều này xảy ra vì đường sá và nhà cửa hấp thụ nhiệt ban ngày và tỏa nhiệt ra ban đêm.",
+   "audio": "B1-59-ex-1.mp3"
+  },
+  {
+   "en": "As a result, many residents cannot sleep well, and older people face serious health risks.",
+   "vi": "Kết quả là nhiều cư dân không ngủ ngon được, và người già gặp nguy cơ sức khỏe nghiêm trọng.",
+   "audio": "B1-59-ex-2.mp3"
+  },
+  {
+   "en": "This evidence has encouraged several cities to start large planting programs.",
+   "vi": "Bằng chứng này đã khuyến khích một số thành phố bắt đầu các chương trình trồng cây lớn.",
+   "audio": "B1-59-ex-3.mp3"
+  },
+  {
+   "en": "However, trees are not a quick fix.",
+   "vi": "Tuy nhiên, cây xanh không phải giải pháp nhanh gọn.",
+   "audio": "B1-59-ex-4.mp3"
+  },
+  {
+   "en": "In her opinion, every city should aim to cover at least a third of its streets with trees.",
+   "vi": "Theo bà ấy, mọi thành phố nên đặt mục tiêu phủ cây xanh ít nhất một phần ba số con phố.",
+   "audio": "B1-59-ex-5.mp3"
+  }
+ ]
+}

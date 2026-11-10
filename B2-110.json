@@ -1,0 +1,74 @@
+{
+ "title": "Bài 110. Ôn tập và kiểm tra B2-11",
+ "vocabulary": [
+  {
+   "word": "the extent to which",
+   "ipa": "/ði ɪkˈstɛnt tu wɪtʃ/",
+   "meaning": "mức độ mà (ôn B2 · Bài 101)",
+   "pos": "cụm từ",
+   "audio": "B2-110-w-the-extent-to-which.mp3"
+  },
+  {
+   "word": "it's high time",
+   "ipa": "/ɪts ˈhaɪ ˈtaɪm/",
+   "meaning": "đã đến lúc (phải làm gì) rồi, + S + quá khứ (ôn B2 · Bài 102)",
+   "pos": "cụm từ",
+   "audio": "B2-110-w-it-s-high-time.mp3"
+  },
+  {
+   "word": "stipulate",
+   "ipa": "/ˈstɪpjəˌleɪt/",
+   "meaning": "quy định rõ (trong hợp đồng, luật) (ôn B2 · Bài 103)",
+   "pos": "động từ",
+   "audio": "B2-110-w-stipulate.mp3"
+  },
+  {
+   "word": "none of",
+   "ipa": "/ˈnʌn əv/",
+   "meaning": "không ai / không cái nào trong số (ôn B2 · Bài 105)",
+   "pos": "lượng từ",
+   "audio": "B2-110-w-none-of.mp3"
+  },
+  {
+   "word": "contradict",
+   "ipa": "/ˌkɑntrəˈdɪkt/",
+   "meaning": "mâu thuẫn với, nói ngược lại (ôn B2 · Bài 107)",
+   "pos": "động từ",
+   "audio": "B2-110-w-contradict.mp3"
+  },
+  {
+   "word": "elaborate",
+   "ipa": "/ɪˈlæbəˌreɪt/",
+   "meaning": "nói rõ thêm (elaborate on) (ôn B2 · Bài 109)",
+   "pos": "động từ",
+   "audio": "B2-110-w-elaborate.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What the study shows is that the number of students who drop out has fallen sharply.",
+   "vi": "Điều nghiên cứu cho thấy là số sinh viên bỏ học đã giảm mạnh.",
+   "audio": "B2-110-ex-1.mp3"
+  },
+  {
+   "en": "It's high time we updated the course, but I'd rather we waited until the new data is available.",
+   "vi": "Đã đến lúc chúng ta cập nhật khóa học rồi, nhưng tôi muốn chúng ta đợi đến khi có số liệu mới.",
+   "audio": "B2-110-ex-2.mp3"
+  },
+  {
+   "en": "The board insisted that every employee be informed before the policy took effect.",
+   "vi": "Hội đồng quản trị nhất quyết yêu cầu mọi nhân viên phải được thông báo trước khi chính sách có hiệu lực.",
+   "audio": "B2-110-ex-3.mp3"
+  },
+  {
+   "en": "I did warn them about the deadline, but none of them seemed to listen.",
+   "vi": "Tôi đã cảnh báo họ về hạn chót rồi đấy, nhưng chẳng ai trong số họ có vẻ chịu nghe.",
+   "audio": "B2-110-ex-4.mp3"
+  },
+  {
+   "en": "Building on that point, whereas the first two sources report higher output, the third one contradicts them.",
+   "vi": "Phát triển tiếp ý đó, trong khi hai nguồn đầu báo cáo sản lượng cao hơn, thì nguồn thứ ba mâu thuẫn với chúng.",
+   "audio": "B2-110-ex-5.mp3"
+  }
+ ]
+}

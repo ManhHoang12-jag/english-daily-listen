@@ -1,0 +1,81 @@
+{
+ "title": "Bài 03. Quá khứ hoàn thành với by the time, before, after, when",
+ "vocabulary": [
+  {
+   "word": "by the time",
+   "ipa": "/ˌbaɪ ðə ˈtaɪm/",
+   "meaning": "đến lúc (mà)",
+   "pos": "liên từ",
+   "audio": "B1-03-w-by-the-time.mp3"
+  },
+  {
+   "word": "as soon as",
+   "ipa": "/əz ˈsuːn əz/",
+   "meaning": "ngay khi, vừa ... là",
+   "pos": "liên từ",
+   "audio": "B1-03-w-as-soon-as.mp3"
+  },
+  {
+   "word": "once",
+   "ipa": "/wʌns/",
+   "meaning": "một khi, ngay khi (liên từ); một lần",
+   "pos": "liên từ",
+   "audio": "B1-03-w-once.mp3"
+  },
+  {
+   "word": "eventually",
+   "ipa": "/ɪˈvɛntʃuəli/",
+   "meaning": "rốt cuộc, sau cùng (sau thời gian dài)",
+   "pos": "trạng từ",
+   "audio": "B1-03-w-eventually.mp3"
+  },
+  {
+   "word": "finally",
+   "ipa": "/ˈfaɪnəli/",
+   "meaning": "cuối cùng (sau khi chờ đợi)",
+   "pos": "trạng từ",
+   "audio": "B1-03-w-finally.mp3"
+  },
+  {
+   "word": "in the end",
+   "ipa": "/ɪn ði ˈɛnd/",
+   "meaning": "kết cục, rốt cuộc",
+   "pos": "cụm trạng từ",
+   "audio": "B1-03-w-in-the-end.mp3"
+  },
+  {
+   "word": "afterwards",
+   "ipa": "/ˈæftɚwɚdz/",
+   "meaning": "sau đó (Mỹ hay nói afterward)",
+   "pos": "trạng từ",
+   "audio": "B1-03-w-afterwards.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "By the time I found an apartment, I had already spent three weeks in a hotel.",
+   "vi": "Đến lúc tìm được căn hộ thì tôi đã ở khách sạn ba tuần rồi.",
+   "audio": "B1-03-ex-1.mp3"
+  },
+  {
+   "en": "As soon as I got the keys, I called my parents.",
+   "vi": "Vừa nhận chìa khóa là tôi gọi cho bố mẹ.",
+   "audio": "B1-03-ex-2.mp3"
+  },
+  {
+   "en": "Once I had unpacked, I went out to explore the neighborhood.",
+   "vi": "Sau khi dỡ đồ xong xuôi, tôi ra ngoài khám phá khu phố.",
+   "audio": "B1-03-ex-3.mp3"
+  },
+  {
+   "en": "Before I moved, I had never lived alone.",
+   "vi": "Trước khi chuyển đi, tôi chưa từng sống một mình.",
+   "audio": "B1-03-ex-4.mp3"
+  },
+  {
+   "en": "In the end, moving was the best decision I ever made.",
+   "vi": "Rốt cuộc, chuyển nhà là quyết định đúng đắn nhất tôi từng làm.",
+   "audio": "B1-03-ex-5.mp3"
+  }
+ ]
+}

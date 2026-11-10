@@ -1,0 +1,81 @@
+{
+ "title": "Bài 41. Mệnh đề quan hệ với giới từ",
+ "vocabulary": [
+  {
+   "word": "to which",
+   "ipa": "/tə ˈwɪtʃ/",
+   "meaning": "mà... (đến/với) cái đó (the extent to which = mức độ mà)",
+   "pos": "giới từ + đại từ quan hệ",
+   "audio": "B2-41-w-to-which.mp3"
+  },
+  {
+   "word": "with whom",
+   "ipa": "/wɪθ ˈhum/",
+   "meaning": "(người) mà... cùng với",
+   "pos": "giới từ + đại từ quan hệ",
+   "audio": "B2-41-w-with-whom.mp3"
+  },
+  {
+   "word": "of which",
+   "ipa": "/əv ˈwɪtʃ/",
+   "meaning": "của cái đó; trong số đó (vật)",
+   "pos": "giới từ + đại từ quan hệ",
+   "audio": "B2-41-w-of-which.mp3"
+  },
+  {
+   "word": "in which",
+   "ipa": "/ɪn ˈwɪtʃ/",
+   "meaning": "trong đó, mà ở đó (tình huống, điều kiện, nơi chốn)",
+   "pos": "giới từ + đại từ quan hệ",
+   "audio": "B2-41-w-in-which.mp3"
+  },
+  {
+   "word": "by which",
+   "ipa": "/baɪ ˈwɪtʃ/",
+   "meaning": "nhờ đó, bằng cách đó (quá trình, phương thức)",
+   "pos": "giới từ + đại từ quan hệ",
+   "audio": "B2-41-w-by-which.mp3"
+  },
+  {
+   "word": "whom",
+   "ipa": "/hum/",
+   "meaning": "người mà (dạng tân ngữ của who, bắt buộc sau giới từ)",
+   "pos": "đại từ quan hệ",
+   "audio": "B2-41-w-whom.mp3"
+  },
+  {
+   "word": "formal",
+   "ipa": "/ˈfɔrməl/",
+   "meaning": "trang trọng (văn phong); chính thức",
+   "pos": "tính từ",
+   "audio": "B2-41-w-formal.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This is the issue to which I referred in my last report.",
+   "vi": "Đây là vấn đề mà tôi đã nhắc đến trong báo cáo lần trước.",
+   "audio": "B2-41-ex-1.mp3"
+  },
+  {
+   "en": "The colleague with whom I shared an office has just been promoted.",
+   "vi": "Người đồng nghiệp mà tôi ngồi chung văn phòng vừa được thăng chức.",
+   "audio": "B2-41-ex-2.mp3"
+  },
+  {
+   "en": "The committee published a report, the conclusions of which were widely criticized.",
+   "vi": "Ủy ban công bố một báo cáo, mà các kết luận của nó bị chỉ trích rộng rãi.",
+   "audio": "B2-41-ex-3.mp3"
+  },
+  {
+   "en": "We need to understand the conditions in which these workers live.",
+   "vi": "Chúng ta cần hiểu điều kiện mà những người lao động này đang sống.",
+   "audio": "B2-41-ex-4.mp3"
+  },
+  {
+   "en": "Photosynthesis is the process by which plants turn sunlight into energy.",
+   "vi": "Quang hợp là quá trình mà nhờ đó thực vật biến ánh sáng mặt trời thành năng lượng.",
+   "audio": "B2-41-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Bài 85. Chủ đề: giao tiếp nơi làm việc",
+ "vocabulary": [
+  {
+   "word": "follow up",
+   "ipa": "/ˌfɑːloʊ ˈʌp/",
+   "meaning": "hỏi lại, nhắc lại, theo dõi tiếp (follow up on + việc)",
+   "pos": "cụm động từ",
+   "audio": "B2-85-w-follow-up.mp3"
+  },
+  {
+   "word": "update",
+   "ipa": "/ˈʌpdeɪt/",
+   "meaning": "bản cập nhật (danh từ, nhấn đầu); cập nhật (động từ, nhấn sau /ʌpˈdeɪt/)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-85-w-update.mp3"
+  },
+  {
+   "word": "attachment",
+   "ipa": "/əˈtætʃmənt/",
+   "meaning": "tệp đính kèm",
+   "pos": "danh từ",
+   "audio": "B2-85-w-attachment.mp3"
+  },
+  {
+   "word": "deadline",
+   "ipa": "/ˈdɛdlaɪn/",
+   "meaning": "hạn chót (meet / miss a deadline)",
+   "pos": "danh từ",
+   "audio": "B2-85-w-deadline.mp3"
+  },
+  {
+   "word": "CC",
+   "ipa": "/ˌsiːˈsiː/",
+   "meaning": "gửi đồng (bản sao) email cho ai; I've cc'd Laura = tôi đã cc Laura",
+   "pos": "động từ / danh từ",
+   "audio": "B2-85-w-cc.mp3"
+  },
+  {
+   "word": "action point",
+   "ipa": "/ˈækʃən pɔɪnt/",
+   "meaning": "việc cần làm (được giao sau cuộc họp)",
+   "pos": "danh từ",
+   "audio": "B2-85-w-action-point.mp3"
+  },
+  {
+   "word": "stakeholder",
+   "ipa": "/ˈsteɪkhoʊldɚ/",
+   "meaning": "bên liên quan (người có quyền lợi trong dự án)",
+   "pos": "danh từ",
+   "audio": "B2-85-w-stakeholder.mp3"
+  },
+  {
+   "word": "as discussed",
+   "ipa": "/æz dɪˈskʌst/",
+   "meaning": "như đã trao đổi",
+   "pos": "cụm từ",
+   "audio": "B2-85-w-as-discussed.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Just a quick update on the website project: the design is finished, and the developers have started on the booking page.",
+   "vi": "Cập nhật nhanh về dự án website: phần thiết kế đã xong, và đội lập trình đã bắt đầu làm trang đặt chỗ.",
+   "audio": "B2-85-ex-1.mp3"
+  },
+  {
+   "en": "Following our meeting this morning, here are the action points.",
+   "vi": "Tiếp theo cuộc họp sáng nay, đây là các việc cần làm.",
+   "audio": "B2-85-ex-2.mp3"
+  },
+  {
+   "en": "Tom, could you please update the budget by Friday?",
+   "vi": "Tom, anh cập nhật ngân sách giúp tôi chậm nhất thứ Sáu nhé?",
+   "audio": "B2-85-ex-3.mp3"
+  },
+  {
+   "en": "Please find attached the slides from the meeting.",
+   "vi": "Xin gửi kèm các trang trình chiếu của cuộc họp.",
+   "audio": "B2-85-ex-4.mp3"
+  },
+  {
+   "en": "I'm just following up on the sales figures I asked for last week.",
+   "vi": "Tôi chỉ muốn hỏi lại về số liệu doanh số tôi đã xin tuần trước.",
+   "audio": "B2-85-ex-5.mp3"
+  }
+ ]
+}

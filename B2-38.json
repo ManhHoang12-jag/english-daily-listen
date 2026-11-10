@@ -1,0 +1,81 @@
+{
+ "title": "Bài 38. Kỹ năng: viết báo cáo (report) 200–250 từ",
+ "vocabulary": [
+  {
+   "word": "purpose",
+   "ipa": "/ˈpɝpəs/",
+   "meaning": "mục đích",
+   "pos": "danh từ",
+   "audio": "B2-38-w-purpose.mp3"
+  },
+  {
+   "word": "introduction",
+   "ipa": "/ˌɪntrəˈdʌkʃən/",
+   "meaning": "phần giới thiệu, mở đầu",
+   "pos": "danh từ",
+   "audio": "B2-38-w-introduction.mp3"
+  },
+  {
+   "word": "findings",
+   "ipa": "/ˈfaɪndɪŋz/",
+   "meaning": "những phát hiện; tên mục kết quả trong report (ôn Bài 37)",
+   "pos": "danh từ số nhiều",
+   "audio": "B2-38-w-findings.mp3"
+  },
+  {
+   "word": "recommendation",
+   "ipa": "/ˌrɛkəmɛnˈdeɪʃən/",
+   "meaning": "khuyến nghị, đề xuất",
+   "pos": "danh từ",
+   "audio": "B2-38-w-recommendation.mp3"
+  },
+  {
+   "word": "it is recommended",
+   "ipa": "/ɪt ɪz ˌrɛkəˈmɛndɪd/",
+   "meaning": "khuyến nghị rằng (It is recommended that + S + V nguyên mẫu)",
+   "pos": "cấu trúc",
+   "audio": "B2-38-w-it-is-recommended.mp3"
+  },
+  {
+   "word": "in conclusion",
+   "ipa": "/ɪn kənˈkluʒən/",
+   "meaning": "tóm lại, kết luận (mở đoạn kết)",
+   "pos": "cụm từ nối",
+   "audio": "B2-38-w-in-conclusion.mp3"
+  },
+  {
+   "word": "heading",
+   "ipa": "/ˈhɛdɪŋ/",
+   "meaning": "tiêu đề mục",
+   "pos": "danh từ",
+   "audio": "B2-38-w-heading.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The purpose of this report is to present the results of a recent survey on how students use the college library.",
+   "vi": "Mục đích của báo cáo này là trình bày kết quả một cuộc khảo sát gần đây về cách sinh viên sử dụng thư viện trường.",
+   "audio": "B2-38-ex-1.mp3"
+  },
+  {
+   "en": "A questionnaire was completed by two hundred fifty students in October.",
+   "vi": "Hai trăm năm mươi sinh viên đã trả lời bảng hỏi vào tháng Mười.",
+   "audio": "B2-38-ex-2.mp3"
+  },
+  {
+   "en": "The majority of respondents stated that the library closes too early.",
+   "vi": "Phần lớn người trả lời cho biết thư viện đóng cửa quá sớm.",
+   "audio": "B2-38-ex-3.mp3"
+  },
+  {
+   "en": "In light of these findings, it is recommended that opening hours be extended during exam periods.",
+   "vi": "Dựa trên những phát hiện này, khuyến nghị kéo dài giờ mở cửa trong mùa thi.",
+   "audio": "B2-38-ex-4.mp3"
+  },
+  {
+   "en": "In conclusion, students value the library, but its opening hours and use of space no longer meet their needs.",
+   "vi": "Tóm lại, sinh viên quý thư viện, nhưng giờ mở cửa và cách bố trí không gian không còn đáp ứng nhu cầu của họ.",
+   "audio": "B2-38-ex-5.mp3"
+  }
+ ]
+}

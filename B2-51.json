@@ -1,0 +1,74 @@
+{
+ "title": "Bài 51. Câu chẻ với It",
+ "vocabulary": [
+  {
+   "word": "it is",
+   "ipa": "/ɪt ˈɪz/",
+   "meaning": "chính là... (mở đầu câu chẻ ở hiện tại)",
+   "pos": "cụm từ",
+   "audio": "B2-51-w-it-is.mp3"
+  },
+  {
+   "word": "it was",
+   "ipa": "/ɪt ˈwʌz/",
+   "meaning": "chính là... (mở đầu câu chẻ ở quá khứ)",
+   "pos": "cụm từ",
+   "audio": "B2-51-w-it-was.mp3"
+  },
+  {
+   "word": "it wasn't until",
+   "ipa": "/ɪt ˈwʌzənt ənˈtɪl/",
+   "meaning": "mãi đến... mới...",
+   "pos": "cụm từ",
+   "audio": "B2-51-w-it-wasn-t-until.mp3"
+  },
+  {
+   "word": "emphasize",
+   "ipa": "/ˈɛmfəˌsaɪz/",
+   "meaning": "nhấn mạnh (Anh-Anh viết emphasise)",
+   "pos": "động từ",
+   "audio": "B2-51-w-emphasize.mp3"
+  },
+  {
+   "word": "focus",
+   "ipa": "/ˈfoʊkəs/",
+   "meaning": "trọng tâm; tập trung (vào)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-51-w-focus.mp3"
+  },
+  {
+   "word": "highlight",
+   "ipa": "/ˈhaɪˌlaɪt/",
+   "meaning": "làm nổi bật, nhấn mạnh; điểm nổi bật",
+   "pos": "động từ / danh từ",
+   "audio": "B2-51-w-highlight.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It was the data, not the presentation, that changed my mind.",
+   "vi": "Chính số liệu, chứ không phải bài thuyết trình, đã làm tôi đổi ý.",
+   "audio": "B2-51-ex-1.mp3"
+  },
+  {
+   "en": "It is in Vietnam that the company plans to open its first Asian factory.",
+   "vi": "Chính ở Việt Nam là nơi công ty định mở nhà máy đầu tiên ở châu Á.",
+   "audio": "B2-51-ex-2.mp3"
+  },
+  {
+   "en": "It wasn't until I read the report that I understood the problem.",
+   "vi": "Mãi đến khi đọc báo cáo tôi mới hiểu vấn đề.",
+   "audio": "B2-51-ex-3.mp3"
+  },
+  {
+   "en": "It was my colleague who found the mistake, not me.",
+   "vi": "Chính đồng nghiệp của tôi phát hiện ra lỗi, không phải tôi.",
+   "audio": "B2-51-ex-4.mp3"
+  },
+  {
+   "en": "It is the cost, rather than the design, that worries most customers.",
+   "vi": "Chính giá cả, chứ không phải thiết kế, mới là điều khiến phần lớn khách hàng lo ngại.",
+   "audio": "B2-51-ex-5.mp3"
+  }
+ ]
+}

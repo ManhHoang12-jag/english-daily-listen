@@ -1,0 +1,74 @@
+{
+ "title": "Bài 54. Chỉ mục đích: in order to, so as to, so that",
+ "vocabulary": [
+  {
+   "word": "in order to",
+   "ipa": "/ɪn ˈɔːrdɚ tə/",
+   "meaning": "để (nhấn mạnh mục đích)",
+   "pos": "cụm từ",
+   "audio": "B1-54-w-in-order-to.mp3"
+  },
+  {
+   "word": "so as to",
+   "ipa": "/ˈsoʊ əz tə/",
+   "meaning": "để (trang trọng)",
+   "pos": "cụm từ",
+   "audio": "B1-54-w-so-as-to.mp3"
+  },
+  {
+   "word": "so that",
+   "ipa": "/ˈsoʊ ðæt/",
+   "meaning": "để (+ mệnh đề)",
+   "pos": "liên từ",
+   "audio": "B1-54-w-so-that.mp3"
+  },
+  {
+   "word": "purpose",
+   "ipa": "/ˈpɝːpəs/",
+   "meaning": "mục đích",
+   "pos": "danh từ",
+   "audio": "B1-54-w-purpose.mp3"
+  },
+  {
+   "word": "aim",
+   "ipa": "/eɪm/",
+   "meaning": "mục tiêu, mục đích (danh từ); nhắm tới (động từ)",
+   "pos": "danh từ / động từ",
+   "audio": "B1-54-w-aim.mp3"
+  },
+  {
+   "word": "goal",
+   "ipa": "/ɡoʊl/",
+   "meaning": "mục tiêu",
+   "pos": "danh từ",
+   "audio": "B1-54-w-goal.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I take my own bag to the supermarket to avoid using plastic bags.",
+   "vi": "Tôi mang túi riêng đi siêu thị để tránh dùng túi ni lông.",
+   "audio": "B1-54-ex-1.mp3"
+  },
+  {
+   "en": "We turn off the lights when we leave a room in order to save energy.",
+   "vi": "Chúng tôi tắt đèn khi ra khỏi phòng để tiết kiệm điện.",
+   "audio": "B1-54-ex-2.mp3"
+  },
+  {
+   "en": "She cycles to work so as not to add to the traffic and pollution.",
+   "vi": "Cô ấy đạp xe đi làm để không làm tăng thêm kẹt xe và ô nhiễm.",
+   "audio": "B1-54-ex-3.mp3"
+  },
+  {
+   "en": "I fixed my old phone so that I wouldn't have to buy a new one.",
+   "vi": "Tôi sửa chiếc điện thoại cũ để không phải mua cái mới.",
+   "audio": "B1-54-ex-4.mp3"
+  },
+  {
+   "en": "The main goal of the campaign is to encourage people to recycle more.",
+   "vi": "Mục tiêu chính của chiến dịch là khuyến khích mọi người tái chế nhiều hơn.",
+   "audio": "B1-54-ex-5.mp3"
+  }
+ ]
+}

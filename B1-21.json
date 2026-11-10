@@ -1,0 +1,88 @@
+{
+ "title": "Bài 21. Chủ đề: công việc và sự nghiệp",
+ "vocabulary": [
+  {
+   "word": "career",
+   "ipa": "/kəˈrɪr/",
+   "meaning": "sự nghiệp, nghề nghiệp lâu dài",
+   "pos": "danh từ",
+   "audio": "B1-21-w-career.mp3"
+  },
+  {
+   "word": "promotion",
+   "ipa": "/prəˈmoʊʃən/",
+   "meaning": "sự thăng chức (get a promotion)",
+   "pos": "danh từ",
+   "audio": "B1-21-w-promotion.mp3"
+  },
+  {
+   "word": "colleague",
+   "ipa": "/ˈkɑliɡ/",
+   "meaning": "đồng nghiệp",
+   "pos": "danh từ",
+   "audio": "B1-21-w-colleague.mp3"
+  },
+  {
+   "word": "manager",
+   "ipa": "/ˈmænɪdʒɚ/",
+   "meaning": "người quản lý",
+   "pos": "danh từ",
+   "audio": "B1-21-w-manager.mp3"
+  },
+  {
+   "word": "experience",
+   "ipa": "/ɪkˈspɪriəns/",
+   "meaning": "kinh nghiệm (không đếm được); một trải nghiệm (đếm được)",
+   "pos": "danh từ",
+   "audio": "B1-21-w-experience.mp3"
+  },
+  {
+   "word": "skill",
+   "ipa": "/skɪl/",
+   "meaning": "kỹ năng",
+   "pos": "danh từ",
+   "audio": "B1-21-w-skill.mp3"
+  },
+  {
+   "word": "in charge of",
+   "ipa": "/ɪn ˈtʃɑrdʒ əv/",
+   "meaning": "phụ trách, chịu trách nhiệm quản lý (be in charge of + N/V-ing)",
+   "pos": "cụm giới từ",
+   "audio": "B1-21-w-in-charge-of.mp3"
+  },
+  {
+   "word": "apply for",
+   "ipa": "/əˈplaɪ fɔr/",
+   "meaning": "nộp đơn xin (việc, học bổng, chương trình)",
+   "pos": "cụm động từ",
+   "audio": "B1-21-w-apply-for.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been working as an English teacher for eight years.",
+   "vi": "Tôi đã làm giáo viên tiếng Anh được tám năm.",
+   "audio": "B1-21-ex-1.mp3"
+  },
+  {
+   "en": "I'm in charge of the school's English club.",
+   "vi": "Tôi phụ trách câu lạc bộ tiếng Anh của trường.",
+   "audio": "B1-21-ex-2.mp3"
+  },
+  {
+   "en": "I'm also responsible for training new colleagues.",
+   "vi": "Tôi cũng chịu trách nhiệm đào tạo đồng nghiệp mới.",
+   "audio": "B1-21-ex-3.mp3"
+  },
+  {
+   "en": "My manager says I have the skills and experience for a promotion.",
+   "vi": "Quản lý của tôi nói tôi có đủ kỹ năng và kinh nghiệm để được thăng chức.",
+   "audio": "B1-21-ex-4.mp3"
+  },
+  {
+   "en": "Next year, I'm going to apply for a master's program to develop my career.",
+   "vi": "Năm sau, tôi sẽ nộp đơn vào một chương trình thạc sĩ để phát triển sự nghiệp.",
+   "audio": "B1-21-ex-5.mp3"
+  }
+ ]
+}

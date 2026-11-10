@@ -1,0 +1,88 @@
+{
+ "title": "Bài 84. Register: trang trọng và thân mật",
+ "vocabulary": [
+  {
+   "word": "investigate",
+   "ipa": "/ɪnˈvɛstɪɡeɪt/",
+   "meaning": "điều tra, xem xét kỹ (trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-investigate.mp3"
+  },
+  {
+   "word": "look into",
+   "ipa": "/ˌlʊk ˈɪntuː/",
+   "meaning": "xem xét, tìm hiểu (thân mật hơn investigate)",
+   "pos": "cụm động từ",
+   "audio": "B2-84-w-look-into.mp3"
+  },
+  {
+   "word": "obtain",
+   "ipa": "/əbˈteɪn/",
+   "meaning": "có được, xin được (trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-obtain.mp3"
+  },
+  {
+   "word": "get",
+   "ipa": "/ɡɛt/",
+   "meaning": "lấy, nhận, có được (thông dụng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-get.mp3"
+  },
+  {
+   "word": "require",
+   "ipa": "/rɪˈkwaɪɚ/",
+   "meaning": "yêu cầu, cần (trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-require.mp3"
+  },
+  {
+   "word": "need",
+   "ipa": "/niːd/",
+   "meaning": "cần (thông dụng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-need.mp3"
+  },
+  {
+   "word": "assist",
+   "ipa": "/əˈsɪst/",
+   "meaning": "hỗ trợ, giúp đỡ (trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-assist.mp3"
+  },
+  {
+   "word": "help",
+   "ipa": "/hɛlp/",
+   "meaning": "giúp (thông dụng)",
+   "pos": "động từ",
+   "audio": "B2-84-w-help.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The company is investigating the cause of the delay.",
+   "vi": "Công ty đang điều tra nguyên nhân của sự chậm trễ.",
+   "audio": "B2-84-ex-1.mp3"
+  },
+  {
+   "en": "Applicants are required to obtain a visa before they travel.",
+   "vi": "Người nộp đơn phải xin thị thực trước khi đi.",
+   "audio": "B2-84-ex-2.mp3"
+  },
+  {
+   "en": "Hey, can you help me move on Saturday? I need to get a van.",
+   "vi": "Này, thứ Bảy giúp mình chuyển nhà được không? Mình cần thuê một chiếc xe tải.",
+   "audio": "B2-84-ex-3.mp3"
+  },
+  {
+   "en": "We would be grateful if you could assist us with this matter.",
+   "vi": "Chúng tôi rất biết ơn nếu quý vị có thể hỗ trợ chúng tôi trong vấn đề này.",
+   "audio": "B2-84-ex-4.mp3"
+  },
+  {
+   "en": "Further information can be obtained from our website.",
+   "vi": "Có thể tìm thêm thông tin trên trang web của chúng tôi.",
+   "audio": "B2-84-ex-5.mp3"
+  }
+ ]
+}

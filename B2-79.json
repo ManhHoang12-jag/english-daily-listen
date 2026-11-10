@@ -1,0 +1,81 @@
+{
+ "title": "Bài 79. Kỹ năng: đọc và suy luận nghĩa qua cấu tạo từ",
+ "vocabulary": [
+  {
+   "word": "root",
+   "ipa": "/ruːt/",
+   "meaning": "gốc từ (phần mang nghĩa chính)",
+   "pos": "danh từ",
+   "audio": "B2-79-w-root.mp3"
+  },
+  {
+   "word": "prefix",
+   "ipa": "/ˈpriːfɪks/",
+   "meaning": "tiền tố (gắn trước gốc: un-, re-, over-)",
+   "pos": "danh từ",
+   "audio": "B2-79-w-prefix.mp3"
+  },
+  {
+   "word": "suffix",
+   "ipa": "/ˈsʌfɪks/",
+   "meaning": "hậu tố (gắn sau gốc: -ness, -able, -ize)",
+   "pos": "danh từ",
+   "audio": "B2-79-w-suffix.mp3"
+  },
+  {
+   "word": "derive",
+   "ipa": "/dɪˈraɪv/",
+   "meaning": "bắt nguồn từ, phái sinh từ (derive from)",
+   "pos": "động từ",
+   "audio": "B2-79-w-derive.mp3"
+  },
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝː/",
+   "meaning": "suy ra, suy luận (ôn B2 · Bài 09)",
+   "pos": "động từ",
+   "audio": "B2-79-w-infer.mp3"
+  },
+  {
+   "word": "unfamiliar",
+   "ipa": "/ˌʌnfəˈmɪljɚ/",
+   "meaning": "lạ, chưa quen",
+   "pos": "tính từ",
+   "audio": "B2-79-w-unfamiliar.mp3"
+  },
+  {
+   "word": "word family",
+   "ipa": "/ˈwɝːd ˌfæməli/",
+   "meaning": "họ từ (rely, reliable, reliance...)",
+   "pos": "cụm danh từ",
+   "audio": "B2-79-w-word-family.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "In several countries, underfunded branches were closed, and those that survived were often described as outdated relics of a pre-digital age.",
+   "vi": "Ở nhiều nước, các chi nhánh thiếu kinh phí bị đóng cửa, còn những nơi trụ lại thường bị coi là di tích lỗi thời của thời kỳ trước kỹ thuật số.",
+   "audio": "B2-79-ex-1.mp3"
+  },
+  {
+   "en": "The predictions turned out to be premature. Rather than disappearing, many libraries have reinvented themselves.",
+   "vi": "Những dự đoán đó hóa ra là quá vội. Thay vì biến mất, nhiều thư viện đã tự đổi mới chính mình.",
+   "audio": "B2-79-ex-2.mp3"
+  },
+  {
+   "en": "Critics argue that, by trying to be everything to everyone, libraries risk losing their distinctiveness.",
+   "vi": "Những người chỉ trích cho rằng, khi cố làm mọi thứ cho mọi người, thư viện có nguy cơ đánh mất nét riêng biệt của mình.",
+   "audio": "B2-79-ex-3.mp3"
+  },
+  {
+   "en": "Others worry about the overreliance on digital services, which can disadvantage older residents who are uncomfortable with technology.",
+   "vi": "Những người khác lo ngại việc quá phụ thuộc vào dịch vụ số, điều có thể gây bất lợi cho cư dân lớn tuổi vốn không thoải mái với công nghệ.",
+   "audio": "B2-79-ex-4.mp3"
+  },
+  {
+   "en": "In a city where almost every indoor space is commercialized, that may be the library's most irreplaceable feature.",
+   "vi": "Ở một thành phố mà gần như mọi không gian trong nhà đều bị thương mại hóa, đó có lẽ là đặc điểm không thể thay thế nhất của thư viện.",
+   "audio": "B2-79-ex-5.mp3"
+  }
+ ]
+}

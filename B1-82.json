@@ -1,0 +1,74 @@
+{
+ "title": "Bài 82. Tổng ôn: bị động và have something done",
+ "vocabulary": [
+  {
+   "word": "be carried out",
+   "ipa": "/bi ˌkærid ˈaʊt/",
+   "meaning": "được tiến hành, được thực hiện",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-carried-out.mp3"
+  },
+  {
+   "word": "be made",
+   "ipa": "/bi ˈmeɪd/",
+   "meaning": "được làm, được sản xuất",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-made.mp3"
+  },
+  {
+   "word": "be held",
+   "ipa": "/bi ˈhɛld/",
+   "meaning": "được tổ chức",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-held.mp3"
+  },
+  {
+   "word": "be given",
+   "ipa": "/bi ˈɡɪvən/",
+   "meaning": "được trao, được cho",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-given.mp3"
+  },
+  {
+   "word": "be expected",
+   "ipa": "/bi ɪkˈspɛktɪd/",
+   "meaning": "được dự đoán, được mong đợi",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-expected.mp3"
+  },
+  {
+   "word": "be known as",
+   "ipa": "/bi ˈnoʊn əz/",
+   "meaning": "được biết đến là, còn gọi là",
+   "pos": "cụm bị động",
+   "audio": "B1-82-w-be-known-as.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The coffee cherries are dried in the sun for about two weeks.",
+   "vi": "Quả cà phê được phơi nắng khoảng hai tuần.",
+   "audio": "B1-82-ex-1.mp3"
+  },
+  {
+   "en": "A coffee festival is held in Buon Ma Thuot, where prizes are given to the best farmers.",
+   "vi": "Một lễ hội cà phê được tổ chức ở Buôn Ma Thuột, nơi các giải thưởng được trao cho những nông dân giỏi nhất.",
+   "audio": "B1-82-ex-2.mp3"
+  },
+  {
+   "en": "Tests are being carried out on a new type of coffee plant.",
+   "vi": "Các thử nghiệm đang được tiến hành trên một giống cây cà phê mới.",
+   "audio": "B1-82-ex-3.mp3"
+  },
+  {
+   "en": "Thousands of new trees have been planted, and exports are expected to grow.",
+   "vi": "Hàng nghìn cây mới đã được trồng, và xuất khẩu được dự đoán sẽ tăng.",
+   "audio": "B1-82-ex-4.mp3"
+  },
+  {
+   "en": "We had our coffee machine repaired, and next month we're going to get the kitchen painted.",
+   "vi": "Chúng tôi đã cho người sửa máy pha cà phê, và tháng sau chúng tôi sẽ thuê người sơn lại bếp.",
+   "audio": "B1-82-ex-5.mp3"
+  }
+ ]
+}

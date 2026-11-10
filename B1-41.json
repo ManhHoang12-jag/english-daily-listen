@@ -1,0 +1,88 @@
+{
+ "title": "Bài 41. Chủ đề: truyền thông và tin tức",
+ "vocabulary": [
+  {
+   "word": "headline",
+   "ipa": "/ˈhɛdˌlaɪn/",
+   "meaning": "tiêu đề báo, tít báo; the headlines = tin chính",
+   "pos": "danh từ",
+   "audio": "B1-41-w-headline.mp3"
+  },
+  {
+   "word": "journalist",
+   "ipa": "/ˈdʒɝnəlɪst/",
+   "meaning": "nhà báo",
+   "pos": "danh từ",
+   "audio": "B1-41-w-journalist.mp3"
+  },
+  {
+   "word": "source",
+   "ipa": "/sɔrs/",
+   "meaning": "nguồn (tin)",
+   "pos": "danh từ",
+   "audio": "B1-41-w-source.mp3"
+  },
+  {
+   "word": "reliable",
+   "ipa": "/rɪˈlaɪəbəl/",
+   "meaning": "đáng tin cậy (ôn B1 · Bài 25)",
+   "pos": "tính từ",
+   "audio": "B1-41-w-reliable.mp3"
+  },
+  {
+   "word": "fake news",
+   "ipa": "/ˈfeɪk ˈnuz/",
+   "meaning": "tin giả",
+   "pos": "cụm danh từ (không đếm được)",
+   "audio": "B1-41-w-fake-news.mp3"
+  },
+  {
+   "word": "broadcast",
+   "ipa": "/ˈbrɔdˌkæst/",
+   "meaning": "phát sóng; chương trình phát sóng (V2, V3: broadcast)",
+   "pos": "động từ / danh từ",
+   "audio": "B1-41-w-broadcast.mp3"
+  },
+  {
+   "word": "coverage",
+   "ipa": "/ˈkʌvərɪdʒ/",
+   "meaning": "việc đưa tin, tường thuật (về một sự kiện)",
+   "pos": "danh từ",
+   "audio": "B1-41-w-coverage.mp3"
+  },
+  {
+   "word": "current affairs",
+   "ipa": "/ˈkɝənt əˈfɛrz/",
+   "meaning": "thời sự, các sự kiện đang diễn ra",
+   "pos": "cụm danh từ",
+   "audio": "B1-41-w-current-affairs.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Two men were arrested last night for selling fake medicine online.",
+   "vi": "Hai người đàn ông đã bị bắt tối qua vì bán thuốc giả trên mạng.",
+   "audio": "B1-41-ex-1.mp3"
+  },
+  {
+   "en": "It has been reported that the old bridge will be closed for repairs.",
+   "vi": "Có tin cho biết cây cầu cũ sẽ bị đóng cửa để sửa chữa.",
+   "audio": "B1-41-ex-2.mp3"
+  },
+  {
+   "en": "The final will be broadcast live on national TV.",
+   "vi": "Trận chung kết sẽ được phát sóng trực tiếp trên truyền hình quốc gia.",
+   "audio": "B1-41-ex-3.mp3"
+  },
+  {
+   "en": "Before I share a story, I always check whether the source is reliable.",
+   "vi": "Trước khi chia sẻ một tin, tôi luôn kiểm tra xem nguồn có đáng tin không.",
+   "audio": "B1-41-ex-4.mp3"
+  },
+  {
+   "en": "There's so much fake news online that many people don't trust any headlines.",
+   "vi": "Trên mạng có quá nhiều tin giả đến nỗi nhiều người không tin bất kỳ tiêu đề nào.",
+   "audio": "B1-41-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 10. Ôn tập và kiểm tra B2-1",
+ "vocabulary": [
+  {
+   "word": "dissertation",
+   "ipa": "/ˌdɪsɚˈteɪʃən/",
+   "meaning": "luận văn (ôn B2 · Bài 04)",
+   "pos": "danh từ",
+   "audio": "B2-10-w-dissertation.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvədəns/",
+   "meaning": "bằng chứng (ôn B2 · Bài 05)",
+   "pos": "danh từ",
+   "audio": "B2-10-w-evidence.mp3"
+  },
+  {
+   "word": "moving on",
+   "ipa": "/ˌmuvɪŋ ˈɑn/",
+   "meaning": "chuyển sang (phần tiếp theo) (ôn B2 · Bài 06)",
+   "pos": "cụm từ báo hiệu",
+   "audio": "B2-10-w-moving-on.mp3"
+  },
+  {
+   "word": "condense",
+   "ipa": "/kənˈdɛns/",
+   "meaning": "rút gọn, cô đọng (ôn B2 · Bài 07)",
+   "pos": "động từ",
+   "audio": "B2-10-w-condense.mp3"
+  },
+  {
+   "word": "hence",
+   "ipa": "/hɛns/",
+   "meaning": "do đó, vì thế (ôn B2 · Bài 08)",
+   "pos": "trạng từ nối",
+   "audio": "B2-10-w-hence.mp3"
+  },
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝ/",
+   "meaning": "suy ra, suy luận (ôn B2 · Bài 09)",
+   "pos": "động từ",
+   "audio": "B2-10-w-infer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today I'd like to give you an outline of how distance learning has changed over the last two centuries.",
+   "vi": "Hôm nay tôi muốn trình bày khái quát việc học từ xa đã thay đổi như thế nào trong hai thế kỷ qua.",
+   "audio": "B2-10-ex-1.mp3"
+  },
+  {
+   "en": "By the time the first online degrees appeared, universities had been teaching students by mail for more than a century.",
+   "vi": "Đến khi những bằng cấp trực tuyến đầu tiên xuất hiện, các trường đại học đã dạy sinh viên qua thư hơn một thế kỷ.",
+   "audio": "B2-10-ex-2.mp3"
+  },
+  {
+   "en": "Moving on to the present, the key concept is flexibility, that is, students decide when and where they study.",
+   "vi": "Chuyển sang hiện tại, khái niệm then chốt là sự linh hoạt, tức là sinh viên tự quyết định học khi nào và ở đâu.",
+   "audio": "B2-10-ex-3.mp3"
+  },
+  {
+   "en": "To illustrate, a working parent can watch a recorded lecture at night and join a seminar online on the weekend.",
+   "vi": "Để minh họa, một người vừa đi làm vừa nuôi con có thể xem bài giảng ghi sẵn vào buổi tối và tham gia seminar trực tuyến vào cuối tuần.",
+   "audio": "B2-10-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, many experts expect that by the end of this decade, most students will have taken at least one course online.",
+   "vi": "Tóm lại, nhiều chuyên gia dự đoán rằng đến cuối thập kỷ này, hầu hết sinh viên sẽ học qua ít nhất một khóa trực tuyến.",
+   "audio": "B2-10-ex-5.mp3"
+  }
+ ]
+}

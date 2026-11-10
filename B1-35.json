@@ -1,0 +1,74 @@
+{
+ "title": "Bài 35. Wish + could / would",
+ "vocabulary": [
+  {
+   "word": "annoying",
+   "ipa": "/əˈnɔɪɪŋ/",
+   "meaning": "gây khó chịu, phiền phức",
+   "pos": "tính từ",
+   "audio": "B1-35-w-annoying.mp3"
+  },
+  {
+   "word": "complain",
+   "ipa": "/kəmˈpleɪn/",
+   "meaning": "phàn nàn, than phiền",
+   "pos": "động từ",
+   "audio": "B1-35-w-complain.mp3"
+  },
+  {
+   "word": "noise",
+   "ipa": "/nɔɪz/",
+   "meaning": "tiếng ồn",
+   "pos": "danh từ",
+   "audio": "B1-35-w-noise.mp3"
+  },
+  {
+   "word": "stop",
+   "ipa": "/stɑːp/",
+   "meaning": "dừng, thôi (stop + V-ing = thôi làm gì)",
+   "pos": "động từ",
+   "audio": "B1-35-w-stop.mp3"
+  },
+  {
+   "word": "keep doing",
+   "ipa": "/ˌkiːp ˈduːɪŋ/",
+   "meaning": "cứ làm (gì) mãi; mẫu keep + V-ing",
+   "pos": "cụm động từ",
+   "audio": "B1-35-w-keep-doing.mp3"
+  },
+  {
+   "word": "patient",
+   "ipa": "/ˈpeɪʃənt/",
+   "meaning": "kiên nhẫn",
+   "pos": "tính từ",
+   "audio": "B1-35-w-patient.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I wish I could speak Japanese.",
+   "vi": "Ước gì tôi nói được tiếng Nhật.",
+   "audio": "B1-35-ex-1.mp3"
+  },
+  {
+   "en": "I wish I could come to your party, but I have to work.",
+   "vi": "Ước gì mình đến dự tiệc của bạn được, nhưng mình phải đi làm.",
+   "audio": "B1-35-ex-2.mp3"
+  },
+  {
+   "en": "I wish my neighbor would stop playing loud music at night.",
+   "vi": "Ước gì ông hàng xóm thôi bật nhạc to vào ban đêm.",
+   "audio": "B1-35-ex-3.mp3"
+  },
+  {
+   "en": "My coworker keeps talking on the phone. It's really annoying.",
+   "vi": "Đồng nghiệp của tôi cứ nói chuyện điện thoại mãi. Thật khó chịu.",
+   "audio": "B1-35-ex-4.mp3"
+  },
+  {
+   "en": "I don't like to complain, but the noise is really annoying. Could you turn the music down, please?",
+   "vi": "Tôi không muốn phàn nàn đâu, nhưng tiếng ồn thật sự rất khó chịu. Anh có thể vặn nhỏ nhạc được không?",
+   "audio": "B1-35-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 93. Đàm phán 1: đề xuất và điều kiện",
+ "vocabulary": [
+  {
+   "word": "proposal",
+   "ipa": "/prəˈpoʊzəl/",
+   "meaning": "đề xuất, bản đề xuất",
+   "pos": "danh từ",
+   "audio": "B2-93-w-proposal.mp3"
+  },
+  {
+   "word": "willing to",
+   "ipa": "/ˈwɪlɪŋ tə/",
+   "meaning": "sẵn lòng (làm gì)",
+   "pos": "cụm tính từ",
+   "audio": "B2-93-w-willing-to.mp3"
+  },
+  {
+   "word": "prepared to",
+   "ipa": "/prɪˈpɛrd tə/",
+   "meaning": "sẵn sàng (làm gì, sau khi đã cân nhắc)",
+   "pos": "cụm tính từ",
+   "audio": "B2-93-w-prepared-to.mp3"
+  },
+  {
+   "word": "on condition that",
+   "ipa": "/ɑn kənˈdɪʃən ðæt/",
+   "meaning": "với điều kiện là (chặt chẽ, bắt buộc)",
+   "pos": "liên từ",
+   "audio": "B2-93-w-on-condition-that.mp3"
+  },
+  {
+   "word": "terms",
+   "ipa": "/tɜrmz/",
+   "meaning": "các điều khoản (của thỏa thuận, hợp đồng)",
+   "pos": "danh từ số nhiều",
+   "audio": "B2-93-w-terms.mp3"
+  },
+  {
+   "word": "offer",
+   "ipa": "/ˈɔfər/",
+   "meaning": "lời đề nghị; đề nghị, mời",
+   "pos": "danh từ / động từ",
+   "audio": "B2-93-w-offer.mp3"
+  },
+  {
+   "word": "counter-offer",
+   "ipa": "/ˈkaʊntər ˌɔfər/",
+   "meaning": "đề nghị ngược lại (trả giá lại lời đề nghị)",
+   "pos": "danh từ",
+   "audio": "B2-93-w-counter-offer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If you could start in June, we would be willing to offer a higher monthly allowance.",
+   "vi": "Nếu bạn có thể bắt đầu vào tháng Sáu, chúng tôi sẵn lòng trả mức trợ cấp hằng tháng cao hơn.",
+   "audio": "B2-93-ex-1.mp3"
+  },
+  {
+   "en": "We'd be prepared to cover your accommodation on condition that you stay for six months.",
+   "vi": "Chúng tôi sẵn sàng chi trả chỗ ở cho bạn với điều kiện bạn ở lại sáu tháng.",
+   "audio": "B2-93-ex-2.mp3"
+  },
+  {
+   "en": "I'm happy to accept the offer, provided that I can work remotely two days a week.",
+   "vi": "Tôi vui lòng nhận lời đề nghị, với điều kiện tôi được làm việc từ xa hai ngày mỗi tuần.",
+   "audio": "B2-93-ex-3.mp3"
+  },
+  {
+   "en": "If you accept these terms by Friday, we'll pay for your flight.",
+   "vi": "Nếu bạn chấp nhận các điều khoản này trước thứ Sáu, chúng tôi sẽ trả tiền vé máy bay cho bạn.",
+   "audio": "B2-93-ex-4.mp3"
+  },
+  {
+   "en": "That's a generous offer, but I'd like to make a counter-offer.",
+   "vi": "Đó là lời đề nghị hào phóng, nhưng tôi muốn đưa ra một đề nghị khác.",
+   "audio": "B2-93-ex-5.mp3"
+  }
+ ]
+}

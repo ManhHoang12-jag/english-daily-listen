@@ -1,0 +1,81 @@
+{
+ "title": "Bài 43. Rút gọn mệnh đề quan hệ",
+ "vocabulary": [
+  {
+   "word": "reduced clause",
+   "ipa": "/rɪˈdust ˈklɔz/",
+   "meaning": "mệnh đề rút gọn",
+   "pos": "cụm danh từ",
+   "audio": "B2-43-w-reduced-clause.mp3"
+  },
+  {
+   "word": "concise",
+   "ipa": "/kənˈsaɪs/",
+   "meaning": "ngắn gọn, súc tích",
+   "pos": "tính từ",
+   "audio": "B2-43-w-concise.mp3"
+  },
+  {
+   "word": "collected",
+   "ipa": "/kəˈlɛktɪd/",
+   "meaning": "được thu thập (V3 của collect)",
+   "pos": "quá khứ phân từ",
+   "audio": "B2-43-w-collected.mp3"
+  },
+  {
+   "word": "living",
+   "ipa": "/ˈlɪvɪŋ/",
+   "meaning": "đang sống (= who live/who are living)",
+   "pos": "hiện tại phân từ",
+   "audio": "B2-43-w-living.mp3"
+  },
+  {
+   "word": "to be discussed",
+   "ipa": "/tə bi dɪˈskʌst/",
+   "meaning": "sẽ được / cần được thảo luận",
+   "pos": "nguyên mẫu bị động",
+   "audio": "B2-43-w-to-be-discussed.mp3"
+  },
+  {
+   "word": "the first to",
+   "ipa": "/ðə ˈfɝst tə/",
+   "meaning": "người / cái đầu tiên (làm gì): the first to arrive",
+   "pos": "cụm cố định + V",
+   "audio": "B2-43-w-the-first-to.mp3"
+  },
+  {
+   "word": "based on",
+   "ipa": "/ˈbeɪst ɑn/",
+   "meaning": "dựa trên, căn cứ vào",
+   "pos": "cụm phân từ",
+   "audio": "B2-43-w-based-on.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Most people living in large cities spend over an hour commuting every day.",
+   "vi": "Phần lớn người sống ở thành phố lớn mất hơn một tiếng đi lại mỗi ngày.",
+   "audio": "B2-43-ex-1.mp3"
+  },
+  {
+   "en": "The samples collected from the river were tested in an independent lab.",
+   "vi": "Các mẫu lấy từ con sông đã được xét nghiệm ở một phòng thí nghiệm độc lập.",
+   "audio": "B2-43-ex-2.mp3"
+  },
+  {
+   "en": "She was the first to arrive and the last to leave.",
+   "vi": "Cô ấy là người đến đầu tiên và về sau cùng.",
+   "audio": "B2-43-ex-3.mp3"
+  },
+  {
+   "en": "The main issue to be discussed at tomorrow's meeting is the budget.",
+   "vi": "Vấn đề chính sẽ được thảo luận ở cuộc họp ngày mai là ngân sách.",
+   "audio": "B2-43-ex-4.mp3"
+  },
+  {
+   "en": "The report, based on interviews with two hundred teachers, recommends smaller classes.",
+   "vi": "Bản báo cáo, dựa trên phỏng vấn hai trăm giáo viên, khuyến nghị giảm sĩ số lớp.",
+   "audio": "B2-43-ex-5.mp3"
+  }
+ ]
+}

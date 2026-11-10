@@ -1,0 +1,74 @@
+{
+ "title": "Bài 87. Kỹ năng: viết thư/email trang trọng",
+ "vocabulary": [
+  {
+   "word": "Dear Sir or Madam",
+   "ipa": "/dɪr ˈsɝː ɔr ˈmædəm/",
+   "meaning": "Kính gửi Quý ông/bà (khi không biết tên người nhận)",
+   "pos": "lời chào",
+   "audio": "B2-87-w-dear-sir-or-madam.mp3"
+  },
+  {
+   "word": "with reference to",
+   "ipa": "/wɪð ˈrɛfrəns tu/",
+   "meaning": "liên quan đến, về việc (trang trọng)",
+   "pos": "cụm giới từ",
+   "audio": "B2-87-w-with-reference-to.mp3"
+  },
+  {
+   "word": "I would be grateful",
+   "ipa": "/aɪ wʊd bi ˈɡreɪtfəl/",
+   "meaning": "tôi rất biết ơn, rất mong (I would be grateful if you could...)",
+   "pos": "cụm câu",
+   "audio": "B2-87-w-i-would-be-grateful.mp3"
+  },
+  {
+   "word": "should you require",
+   "ipa": "/ʃʊd ju rɪˈkwaɪɚ/",
+   "meaning": "nếu quý vị cần (đảo ngữ của if you require)",
+   "pos": "cụm câu",
+   "audio": "B2-87-w-should-you-require.mp3"
+  },
+  {
+   "word": "yours faithfully",
+   "ipa": "/jɔrz ˈfeɪθfəli/",
+   "meaning": "kính thư (kết thư kiểu Anh khi mở đầu bằng Dear Sir or Madam)",
+   "pos": "lời kết",
+   "audio": "B2-87-w-yours-faithfully.mp3"
+  },
+  {
+   "word": "enclosed",
+   "ipa": "/ɪnˈkloʊzd/",
+   "meaning": "được gửi kèm (trong thư)",
+   "pos": "tính từ / phân từ",
+   "audio": "B2-87-w-enclosed.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing with reference to the standing desk that I purchased from your online store last month.",
+   "vi": "Tôi viết thư này liên quan đến chiếc bàn đứng tôi đã mua tại cửa hàng trực tuyến của quý công ty tháng trước.",
+   "audio": "B2-87-ex-1.mp3"
+  },
+  {
+   "en": "When the desk was delivered, two of the legs were damaged, and the motor failed to work.",
+   "vi": "Khi bàn được giao, hai chân bàn bị hỏng và mô-tơ không hoạt động.",
+   "audio": "B2-87-ex-2.mp3"
+  },
+  {
+   "en": "I would be grateful if you could arrange for the desk to be collected and either replace it or provide a full refund within fourteen days.",
+   "vi": "Tôi rất mong quý công ty sắp xếp đến lấy bàn và đổi sản phẩm mới hoặc hoàn tiền toàn bộ trong vòng mười bốn ngày.",
+   "audio": "B2-87-ex-3.mp3"
+  },
+  {
+   "en": "Enclosed is a copy of my receipt, together with photographs of the damage.",
+   "vi": "Kèm theo thư là bản sao hóa đơn của tôi, cùng ảnh chụp chỗ hư hỏng.",
+   "audio": "B2-87-ex-4.mp3"
+  },
+  {
+   "en": "Should you require any further information, please do not hesitate to contact me.",
+   "vi": "Nếu quý công ty cần thêm thông tin, xin đừng ngần ngại liên hệ với tôi.",
+   "audio": "B2-87-ex-5.mp3"
+  }
+ ]
+}

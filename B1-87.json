@@ -1,0 +1,74 @@
+{
+ "title": "Bài 87. Kỹ năng tích hợp: nghe bài nói dài và ghi chú",
+ "vocabulary": [
+  {
+   "word": "note",
+   "ipa": "/noʊt/",
+   "meaning": "ghi chú; ghi lại (take notes = ghi chép)",
+   "pos": "danh từ / động từ",
+   "audio": "B1-87-w-note.mp3"
+  },
+  {
+   "word": "key word",
+   "ipa": "/ˈkiː ˌwɝːd/",
+   "meaning": "từ khóa",
+   "pos": "cụm danh từ",
+   "audio": "B1-87-w-key-word.mp3"
+  },
+  {
+   "word": "signpost",
+   "ipa": "/ˈsaɪnˌpoʊst/",
+   "meaning": "từ báo hiệu (trong bài nói, bài viết); biển chỉ đường",
+   "pos": "danh từ",
+   "audio": "B1-87-w-signpost.mp3"
+  },
+  {
+   "word": "main point",
+   "ipa": "/ˈmeɪn ˌpɔɪnt/",
+   "meaning": "ý chính",
+   "pos": "cụm danh từ",
+   "audio": "B1-87-w-main-point.mp3"
+  },
+  {
+   "word": "detail",
+   "ipa": "/ˈdiːteɪl/",
+   "meaning": "chi tiết",
+   "pos": "danh từ",
+   "audio": "B1-87-w-detail.mp3"
+  },
+  {
+   "word": "attitude",
+   "ipa": "/ˈætɪtuːd/",
+   "meaning": "thái độ, quan điểm",
+   "pos": "danh từ",
+   "audio": "B1-87-w-attitude.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, everyone. Today I'd like to talk about learning a new language as an adult. Many people believe that adults are simply too old to learn, but I'm not convinced that's true. I'll cover three main points: why learning feels harder for adults, what research tells us, and what you can actually do about it.",
+   "vi": "Chào mọi người. Hôm nay tôi nói về việc học ngoại ngữ khi đã trưởng thành. Nhiều người tin người lớn quá già để học, nhưng tôi không tin điều đó. Tôi sẽ nói ba ý: vì sao người lớn thấy khó hơn, nghiên cứu cho biết gì, và bạn có thể làm gì.",
+   "audio": "B1-87-ex-1.mp3"
+  },
+  {
+   "en": "First of all, why does it feel so difficult? The main reason is time. Children spend hours every day listening and playing in the new language, whereas most adults study for maybe two hours a week. Adults also worry more about making mistakes, so they often stay silent in class.",
+   "vi": "Trước hết, vì sao lại thấy khó? Lý do chính là thời gian. Trẻ em nghe và chơi bằng ngôn ngữ mới hàng giờ mỗi ngày, còn người lớn chỉ học khoảng hai giờ một tuần. Người lớn cũng sợ mắc lỗi hơn nên hay im lặng trong lớp.",
+   "audio": "B1-87-ex-2.mp3"
+  },
+  {
+   "en": "Moving on to my second point, what does research show? Several studies have found that adults often learn grammar and vocabulary faster than children in the first few months. Children usually do better in the long run, especially with pronunciation. In other words, age matters less than many people think.",
+   "vi": "Sang ý thứ hai, nghiên cứu cho thấy gì? Nhiều nghiên cứu thấy người lớn thường học ngữ pháp và từ vựng nhanh hơn trẻ em trong vài tháng đầu. Về lâu dài trẻ em thường giỏi hơn, nhất là phát âm. Nói cách khác, tuổi ít quan trọng hơn ta nghĩ.",
+   "audio": "B1-87-ex-3.mp3"
+  },
+  {
+   "en": "Finally, what can you do? My first tip is to study a little every day rather than a lot once a week. Twenty minutes a day is far more effective than three hours on Sunday. My second tip is to listen to things you actually enjoy, like podcasts or films, so that the language becomes part of your life.",
+   "vi": "Cuối cùng, bạn làm được gì? Lời khuyên một: học ít mỗi ngày thay vì học nhiều mỗi tuần một lần. Hai mươi phút mỗi ngày hiệu quả hơn nhiều so với ba tiếng ngày Chủ nhật. Lời khuyên hai: nghe thứ bạn thật sự thích, như podcast hay phim, để ngôn ngữ thành một phần cuộc sống.",
+   "audio": "B1-87-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, learning a language as an adult is challenging, but it is definitely possible. The key is regular practice and a positive attitude towards mistakes. Personally, I think making mistakes is the best way to learn. Thank you for listening.",
+   "vi": "Tóm lại, học ngoại ngữ khi trưởng thành là thử thách nhưng chắc chắn làm được. Điều then chốt là luyện đều và có thái độ tích cực với lỗi sai. Riêng tôi nghĩ mắc lỗi là cách học tốt nhất. Cảm ơn đã lắng nghe.",
+   "audio": "B1-87-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 105. Lượng từ nâng cao và hòa hợp chủ vị",
+ "vocabulary": [
+  {
+   "word": "a number of",
+   "ipa": "/ə ˈnʌmbɚ əv/",
+   "meaning": "một số, nhiều (+ N số nhiều + V số nhiều)",
+   "pos": "lượng từ",
+   "audio": "B2-105-w-a-number-of.mp3"
+  },
+  {
+   "word": "the number of",
+   "ipa": "/ðə ˈnʌmbɚ əv/",
+   "meaning": "số lượng, con số (+ N số nhiều + V số ít)",
+   "pos": "cụm danh từ",
+   "audio": "B2-105-w-the-number-of.mp3"
+  },
+  {
+   "word": "each of",
+   "ipa": "/ˈitʃ əv/",
+   "meaning": "mỗi (người, cái) trong số (+ V số ít)",
+   "pos": "lượng từ",
+   "audio": "B2-105-w-each-of.mp3"
+  },
+  {
+   "word": "none of",
+   "ipa": "/ˈnʌn əv/",
+   "meaning": "không ai, không cái nào trong số",
+   "pos": "lượng từ",
+   "audio": "B2-105-w-none-of.mp3"
+  },
+  {
+   "word": "the majority of",
+   "ipa": "/ðə məˈdʒɔrəti əv/",
+   "meaning": "đa số, phần lớn (động từ theo danh từ sau of)",
+   "pos": "lượng từ",
+   "audio": "B2-105-w-the-majority-of.mp3"
+  },
+  {
+   "word": "collective noun",
+   "ipa": "/kəˈlɛktɪv ˈnaʊn/",
+   "meaning": "danh từ tập hợp (government, team, committee)",
+   "pos": "danh từ (thuật ngữ)",
+   "audio": "B2-105-w-collective-noun.mp3"
+  },
+  {
+   "word": "data",
+   "ipa": "/ˈdeɪtə/",
+   "meaning": "dữ liệu (data is: văn thường; data are: văn học thuật; cả hai đều đúng)",
+   "pos": "danh từ",
+   "audio": "B2-105-w-data.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The number of employees who completed the survey this year was two hundred and forty.",
+   "vi": "Số nhân viên hoàn thành khảo sát năm nay là hai trăm bốn mươi người.",
+   "audio": "B2-105-ex-1.mp3"
+  },
+  {
+   "en": "A number of them were new to the company.",
+   "vi": "Khá nhiều người trong số họ là nhân viên mới của công ty.",
+   "audio": "B2-105-ex-2.mp3"
+  },
+  {
+   "en": "The majority of respondents are happy with their working hours, but the majority of the feedback on pay was negative.",
+   "vi": "Đa số người trả lời hài lòng với giờ làm, nhưng phần lớn ý kiến về lương là tiêu cực.",
+   "audio": "B2-105-ex-3.mp3"
+  },
+  {
+   "en": "Each of the five departments has its own results.",
+   "vi": "Mỗi phòng trong năm phòng ban đều có kết quả riêng.",
+   "audio": "B2-105-ex-4.mp3"
+  },
+  {
+   "en": "One of the problems that are mentioned most often is parking.",
+   "vi": "Một trong những vấn đề được nhắc đến nhiều nhất là chỗ đỗ xe.",
+   "audio": "B2-105-ex-5.mp3"
+  }
+ ]
+}

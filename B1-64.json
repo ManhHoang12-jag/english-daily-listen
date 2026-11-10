@@ -1,0 +1,74 @@
+{
+ "title": "Bài 64. Used to, be used to, get used to",
+ "vocabulary": [
+  {
+   "word": "be used to",
+   "ipa": "/bi ˈjustə/",
+   "meaning": "đã quen với (+ V-ing / danh từ)",
+   "pos": "cụm động từ",
+   "audio": "B1-64-w-be-used-to.mp3"
+  },
+  {
+   "word": "get used to",
+   "ipa": "/ˌɡɛt ˈjustə/",
+   "meaning": "dần quen với (+ V-ing / danh từ)",
+   "pos": "cụm động từ",
+   "audio": "B1-64-w-get-used-to.mp3"
+  },
+  {
+   "word": "adapt",
+   "ipa": "/əˈdæpt/",
+   "meaning": "thích nghi (adapt to + N / V-ing)",
+   "pos": "động từ",
+   "audio": "B1-64-w-adapt.mp3"
+  },
+  {
+   "word": "routine",
+   "ipa": "/ruˈtin/",
+   "meaning": "nếp sinh hoạt hằng ngày, việc làm thường lệ",
+   "pos": "danh từ",
+   "audio": "B1-64-w-routine.mp3"
+  },
+  {
+   "word": "culture shock",
+   "ipa": "/ˈkʌltʃɚ ʃɑk/",
+   "meaning": "sốc văn hóa",
+   "pos": "cụm danh từ",
+   "audio": "B1-64-w-culture-shock.mp3"
+  },
+  {
+   "word": "adjust",
+   "ipa": "/əˈdʒʌst/",
+   "meaning": "điều chỉnh, làm quen dần (adjust to + N)",
+   "pos": "động từ",
+   "audio": "B1-64-w-adjust.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I used to walk to work, but now I take the subway.",
+   "vi": "Trước đây tôi đi bộ đi làm, nhưng giờ tôi đi tàu điện ngầm.",
+   "audio": "B1-64-ex-1.mp3"
+  },
+  {
+   "en": "I'm not used to driving on the left, so I drive very slowly in London.",
+   "vi": "Tôi chưa quen lái xe bên trái, nên ở London tôi lái rất chậm.",
+   "audio": "B1-64-ex-2.mp3"
+  },
+  {
+   "en": "It took me months to get used to the cold winters.",
+   "vi": "Tôi mất mấy tháng mới quen được mùa đông lạnh giá.",
+   "audio": "B1-64-ex-3.mp3"
+  },
+  {
+   "en": "She's used to working night shifts. She's been a nurse for ten years.",
+   "vi": "Cô ấy quen làm ca đêm rồi. Cô ấy làm y tá được mười năm.",
+   "audio": "B1-64-ex-4.mp3"
+  },
+  {
+   "en": "You'll get used to your new routine. Just give yourself time to adjust.",
+   "vi": "Bạn sẽ quen với nếp sinh hoạt mới thôi. Cứ cho mình thời gian để thích nghi.",
+   "audio": "B1-64-ex-5.mp3"
+  }
+ ]
+}

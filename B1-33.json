@@ -1,0 +1,74 @@
+{
+ "title": "Bài 33. If I were you: lời khuyên và chọn loại 1 hay 2",
+ "vocabulary": [
+  {
+   "word": "advice",
+   "ipa": "/ədˈvaɪs/",
+   "meaning": "lời khuyên (không đếm được; ôn A2 · Bài 32)",
+   "pos": "danh từ",
+   "audio": "B1-33-w-advice.mp3"
+  },
+  {
+   "word": "recommend",
+   "ipa": "/ˌrekəˈmend/",
+   "meaning": "giới thiệu, khuyên dùng, đề xuất",
+   "pos": "động từ",
+   "audio": "B1-33-w-recommend.mp3"
+  },
+  {
+   "word": "option",
+   "ipa": "/ˈɑːpʃən/",
+   "meaning": "lựa chọn, phương án",
+   "pos": "danh từ",
+   "audio": "B1-33-w-option.mp3"
+  },
+  {
+   "word": "consider",
+   "ipa": "/kənˈsɪdɚ/",
+   "meaning": "cân nhắc, xem xét",
+   "pos": "động từ",
+   "audio": "B1-33-w-consider.mp3"
+  },
+  {
+   "word": "in your position",
+   "ipa": "/ɪn jʊr pəˈzɪʃən/",
+   "meaning": "ở vị trí của bạn, nếu là bạn",
+   "pos": "cụm từ",
+   "audio": "B1-33-w-in-your-position.mp3"
+  },
+  {
+   "word": "I'd rather",
+   "ipa": "/aɪd ˈræðɚ/",
+   "meaning": "tôi thích (làm gì) hơn, tôi muốn... hơn",
+   "pos": "cụm từ",
+   "audio": "B1-33-w-i-d-rather.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I were you, I'd take the job in Hanoi.",
+   "vi": "Nếu là bạn, mình sẽ nhận công việc ở Hà Nội.",
+   "audio": "B1-33-ex-1.mp3"
+  },
+  {
+   "en": "In your position, I'd consider every option carefully.",
+   "vi": "Ở vị trí của bạn, mình sẽ cân nhắc kỹ mọi lựa chọn.",
+   "audio": "B1-33-ex-2.mp3"
+  },
+  {
+   "en": "I'd recommend the evening class. It's cheaper and smaller.",
+   "vi": "Mình khuyên bạn học lớp buổi tối. Lớp đó rẻ hơn và ít người hơn.",
+   "audio": "B1-33-ex-3.mp3"
+  },
+  {
+   "en": "I'd rather take the train than fly.",
+   "vi": "Mình thích đi tàu hơn là đi máy bay.",
+   "audio": "B1-33-ex-4.mp3"
+  },
+  {
+   "en": "If my boss offered me a raise tomorrow, I'd be very surprised.",
+   "vi": "Nếu mai sếp đề nghị tăng lương cho tôi, tôi sẽ rất ngạc nhiên.",
+   "audio": "B1-33-ex-5.mp3"
+  }
+ ]
+}

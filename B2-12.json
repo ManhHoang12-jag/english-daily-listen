@@ -1,0 +1,81 @@
+{
+ "title": "Bài 12. Câu điều kiện hỗn hợp",
+ "vocabulary": [
+  {
+   "word": "mixed",
+   "ipa": "/mɪkst/",
+   "meaning": "hỗn hợp, pha trộn",
+   "pos": "tính từ",
+   "audio": "B2-12-w-mixed.mp3"
+  },
+  {
+   "word": "present result",
+   "ipa": "/ˈprɛzənt rɪˈzʌlt/",
+   "meaning": "kết quả ở hiện tại",
+   "pos": "cụm danh từ",
+   "audio": "B2-12-w-present-result.mp3"
+  },
+  {
+   "word": "past cause",
+   "ipa": "/ˈpæst ˈkɔz/",
+   "meaning": "nguyên nhân trong quá khứ",
+   "pos": "cụm danh từ",
+   "audio": "B2-12-w-past-cause.mp3"
+  },
+  {
+   "word": "career path",
+   "ipa": "/kəˈrɪr ˌpæθ/",
+   "meaning": "con đường sự nghiệp, hướng nghề nghiệp",
+   "pos": "cụm danh từ",
+   "audio": "B2-12-w-career-path.mp3"
+  },
+  {
+   "word": "by now",
+   "ipa": "/baɪ ˈnaʊ/",
+   "meaning": "đến bây giờ, đến lúc này",
+   "pos": "cụm trạng từ",
+   "audio": "B2-12-w-by-now.mp3"
+  },
+  {
+   "word": "still",
+   "ipa": "/stɪl/",
+   "meaning": "vẫn còn; (đầu câu) tuy vậy",
+   "pos": "trạng từ",
+   "audio": "B2-12-w-still.mp3"
+  },
+  {
+   "word": "otherwise",
+   "ipa": "/ˈʌðɚˌwaɪz/",
+   "meaning": "nếu không thì",
+   "pos": "trạng từ nối",
+   "audio": "B2-12-w-otherwise.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I had studied computer science, I would be a software engineer now.",
+   "vi": "Nếu hồi đó tôi học ngành khoa học máy tính, thì bây giờ tôi đã là kỹ sư phần mềm.",
+   "audio": "B2-12-ex-1.mp3"
+  },
+  {
+   "en": "If she hadn't moved to Hanoi, she wouldn't speak such good English today.",
+   "vi": "Nếu cô ấy không chuyển ra Hà Nội, thì giờ cô ấy đã không nói tiếng Anh giỏi như vậy.",
+   "audio": "B2-12-ex-2.mp3"
+  },
+  {
+   "en": "If I weren't so afraid of flying, I would have visited my sister in Canada last year.",
+   "vi": "Nếu tôi không sợ đi máy bay đến thế, năm ngoái tôi đã sang Canada thăm chị gái rồi.",
+   "audio": "B2-12-ex-3.mp3"
+  },
+  {
+   "en": "If he had taken the job offer, he would still be living in Singapore.",
+   "vi": "Nếu anh ấy đã nhận lời mời làm việc đó, thì giờ anh ấy vẫn đang sống ở Singapore.",
+   "audio": "B2-12-ex-4.mp3"
+  },
+  {
+   "en": "I took the scholarship; otherwise, I would still be working at the bank.",
+   "vi": "Tôi đã nhận học bổng; nếu không thì giờ tôi vẫn đang làm ở ngân hàng.",
+   "audio": "B2-12-ex-5.mp3"
+  }
+ ]
+}

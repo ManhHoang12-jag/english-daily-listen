@@ -1,0 +1,74 @@
+{
+ "title": "Bài 56. Both...and, either...or, neither...nor",
+ "vocabulary": [
+  {
+   "word": "both",
+   "ipa": "/boʊθ/",
+   "meaning": "cả hai",
+   "pos": "từ hạn định / đại từ",
+   "audio": "B1-56-w-both.mp3"
+  },
+  {
+   "word": "either",
+   "ipa": "/ˈiːðɚ/",
+   "meaning": "hoặc (either...or); một trong hai",
+   "pos": "từ hạn định / liên từ",
+   "audio": "B1-56-w-either.mp3"
+  },
+  {
+   "word": "neither",
+   "ipa": "/ˈniːðɚ/",
+   "meaning": "không cái nào (trong hai); neither...nor: cả... lẫn... đều không",
+   "pos": "từ hạn định / liên từ",
+   "audio": "B1-56-w-neither.mp3"
+  },
+  {
+   "word": "nor",
+   "ipa": "/nɔr/",
+   "meaning": "cũng không (đi với neither)",
+   "pos": "liên từ",
+   "audio": "B1-56-w-nor.mp3"
+  },
+  {
+   "word": "alternative",
+   "ipa": "/ɔlˈtɝnətɪv/",
+   "meaning": "phương án thay thế; thay thế",
+   "pos": "danh từ / tính từ",
+   "audio": "B1-56-w-alternative.mp3"
+  },
+  {
+   "word": "option",
+   "ipa": "/ˈɑpʃən/",
+   "meaning": "lựa chọn",
+   "pos": "danh từ",
+   "audio": "B1-56-w-option.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Both buses and trains are cheaper than taxis in my city.",
+   "vi": "Cả xe buýt lẫn tàu đều rẻ hơn taxi ở thành phố tôi.",
+   "audio": "B1-56-ex-1.mp3"
+  },
+  {
+   "en": "You can either take the subway or ride a bike to the office.",
+   "vi": "Bạn có thể đi tàu điện ngầm hoặc đạp xe đến văn phòng.",
+   "audio": "B1-56-ex-2.mp3"
+  },
+  {
+   "en": "Neither my colleagues nor my boss drives to work.",
+   "vi": "Cả đồng nghiệp lẫn sếp tôi đều không lái xe đi làm.",
+   "audio": "B1-56-ex-3.mp3"
+  },
+  {
+   "en": "Neither of these options is perfect, but both of them are better than driving.",
+   "vi": "Không lựa chọn nào trong hai cái này hoàn hảo, nhưng cả hai đều tốt hơn lái xe.",
+   "audio": "B1-56-ex-4.mp3"
+  },
+  {
+   "en": "Cycling is a cheap alternative, and it's good for both your health and the environment.",
+   "vi": "Đạp xe là một phương án thay thế rẻ, và nó tốt cho cả sức khỏe của bạn lẫn môi trường.",
+   "audio": "B1-56-ex-5.mp3"
+  }
+ ]
+}

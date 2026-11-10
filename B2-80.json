@@ -1,0 +1,74 @@
+{
+ "title": "Bài 80. Ôn tập và kiểm tra B2-8",
+ "vocabulary": [
+  {
+   "word": "unreliable",
+   "ipa": "/ˌʌnrɪˈlaɪəbəl/",
+   "meaning": "không đáng tin cậy (ôn B2 · Bài 71)",
+   "pos": "tính từ",
+   "audio": "B2-80-w-unreliable.mp3"
+  },
+  {
+   "word": "reconsider",
+   "ipa": "/ˌriːkənˈsɪdɚ/",
+   "meaning": "xem xét lại (ôn B2 · Bài 72)",
+   "pos": "động từ",
+   "audio": "B2-80-w-reconsider.mp3"
+  },
+  {
+   "word": "significance",
+   "ipa": "/sɪɡˈnɪfɪkəns/",
+   "meaning": "tầm quan trọng, ý nghĩa (ôn B2 · Bài 73)",
+   "pos": "danh từ",
+   "audio": "B2-80-w-significance.mp3"
+  },
+  {
+   "word": "sustainable",
+   "ipa": "/səˈsteɪnəbəl/",
+   "meaning": "bền vững (ôn B2 · Bài 74)",
+   "pos": "tính từ",
+   "audio": "B2-80-w-sustainable.mp3"
+  },
+  {
+   "word": "shed light on",
+   "ipa": "/ˈʃɛd ˈlaɪt ɑːn/",
+   "meaning": "làm sáng tỏ (ôn B2 · Bài 75)",
+   "pos": "collocation",
+   "audio": "B2-80-w-shed-light-on.mp3"
+  },
+  {
+   "word": "contribute to",
+   "ipa": "/kənˈtrɪbjuːt tə/",
+   "meaning": "góp phần vào (ôn B2 · Bài 77)",
+   "pos": "động từ + giới từ",
+   "audio": "B2-80-w-contribute-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Over the past few years, researchers have conducted a great deal of research on remote work.",
+   "vi": "Vài năm qua, các nhà nghiên cứu đã tiến hành rất nhiều nghiên cứu về làm việc từ xa.",
+   "audio": "B2-80-ex-1.mp3"
+  },
+  {
+   "en": "The vast majority of studies report a significant increase in job satisfaction.",
+   "vi": "Đại đa số các nghiên cứu cho thấy sự hài lòng với công việc tăng đáng kể.",
+   "audio": "B2-80-ex-2.mp3"
+  },
+  {
+   "en": "Some managers are deeply concerned that remote teams find it harder to reach a consensus.",
+   "vi": "Một số quản lý rất lo ngại rằng các nhóm làm việc từ xa khó đạt được đồng thuận hơn.",
+   "audio": "B2-80-ex-3.mp3"
+  },
+  {
+   "en": "Critics also point out that productivity figures are often inaccurate.",
+   "vi": "Những người phê bình cũng chỉ ra rằng số liệu về năng suất thường không chính xác.",
+   "audio": "B2-80-ex-4.mp3"
+  },
+  {
+   "en": "A more sustainable approach to the issue may be a hybrid model.",
+   "vi": "Một cách tiếp cận bền vững hơn cho vấn đề này có thể là mô hình kết hợp.",
+   "audio": "B2-80-ex-5.mp3"
+  }
+ ]
+}

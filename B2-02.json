@@ -1,0 +1,81 @@
+{
+ "title": "Bài 02. Quá khứ hoàn thành tiếp diễn",
+ "vocabulary": [
+  {
+   "word": "had been",
+   "ipa": "/həd bɪn/",
+   "meaning": "đã (đang)... (trợ động từ của quá khứ hoàn thành tiếp diễn)",
+   "pos": "cụm trợ động từ",
+   "audio": "B2-02-w-had-been.mp3"
+  },
+  {
+   "word": "struggle",
+   "ipa": "/ˈstrʌɡəl/",
+   "meaning": "vật lộn, chật vật",
+   "pos": "động từ / danh từ",
+   "audio": "B2-02-w-struggle.mp3"
+  },
+  {
+   "word": "investigate",
+   "ipa": "/ɪnˈvestəˌɡeɪt/",
+   "meaning": "điều tra, nghiên cứu tìm hiểu",
+   "pos": "động từ",
+   "audio": "B2-02-w-investigate.mp3"
+  },
+  {
+   "word": "prior to",
+   "ipa": "/ˈpraɪər tə/",
+   "meaning": "trước (khi) (trang trọng)",
+   "pos": "giới từ",
+   "audio": "B2-02-w-prior-to.mp3"
+  },
+  {
+   "word": "consequently",
+   "ipa": "/ˈkɑnsəˌkwentli/",
+   "meaning": "vì vậy, do đó",
+   "pos": "trạng từ",
+   "audio": "B2-02-w-consequently.mp3"
+  },
+  {
+   "word": "exhausted",
+   "ipa": "/ɪɡˈzɑstɪd/",
+   "meaning": "kiệt sức",
+   "pos": "tính từ",
+   "audio": "B2-02-w-exhausted.mp3"
+  },
+  {
+   "word": "gradually",
+   "ipa": "/ˈɡrædʒuəli/",
+   "meaning": "dần dần",
+   "pos": "trạng từ",
+   "audio": "B2-02-w-gradually.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Prior to that, I had been working in marketing for six years, so academic research was completely new to me.",
+   "vi": "Trước đó, tôi đã làm marketing sáu năm, nên nghiên cứu học thuật hoàn toàn mới mẻ với tôi.",
+   "audio": "B2-02-ex-1.mp3"
+  },
+  {
+   "en": "For the first two months, I struggled. I had been reading articles every night, but I still did not understand the statistics.",
+   "vi": "Hai tháng đầu, tôi rất vất vả. Tôi đã đọc bài báo khoa học hằng đêm, nhưng vẫn không hiểu phần thống kê.",
+   "audio": "B2-02-ex-2.mp3"
+  },
+  {
+   "en": "By April, I was exhausted, and the project leader noticed. She asked how long I had been sleeping only five hours a night.",
+   "vi": "Đến tháng Tư, tôi kiệt sức, và trưởng nhóm nhận ra. Cô hỏi tôi đã chỉ ngủ năm tiếng mỗi đêm được bao lâu rồi.",
+   "audio": "B2-02-ex-3.mp3"
+  },
+  {
+   "en": "When we presented our findings in June, the team had interviewed over sixty students.",
+   "vi": "Khi chúng tôi trình bày kết quả vào tháng Sáu, nhóm đã phỏng vấn hơn sáu mươi sinh viên.",
+   "audio": "B2-02-ex-4.mp3"
+  },
+  {
+   "en": "Consequently, we made a new plan. Gradually, things improved, and I realized that I had been trying to do everything alone.",
+   "vi": "Vì vậy, chúng tôi lập kế hoạch mới. Mọi thứ dần dần khá lên, và tôi nhận ra mình đã cố làm mọi việc một mình.",
+   "audio": "B2-02-ex-5.mp3"
+  }
+ ]
+}

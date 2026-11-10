@@ -1,0 +1,67 @@
+{
+ "title": "Bài 30. Ôn tập và kiểm tra B1-3",
+ "vocabulary": [
+  {
+   "word": "in charge of",
+   "ipa": "/ɪn ˈtʃɑːrdʒ əv/",
+   "meaning": "phụ trách, chịu trách nhiệm (ôn B1 · Bài 21)",
+   "pos": "cụm giới từ",
+   "audio": "B1-30-w-in-charge-of.mp3"
+  },
+  {
+   "word": "candidate",
+   "ipa": "/ˈkændɪdeɪt/",
+   "meaning": "ứng viên (ôn B1 · Bài 22)",
+   "pos": "danh từ",
+   "audio": "B1-30-w-candidate.mp3"
+  },
+  {
+   "word": "headquarters",
+   "ipa": "/ˈhɛdˌkwɔːrt̬ɚz/",
+   "meaning": "trụ sở chính (ôn B1 · Bài 23)",
+   "pos": "danh từ",
+   "audio": "B1-30-w-headquarters.mp3"
+  },
+  {
+   "word": "reputation",
+   "ipa": "/ˌrɛpjəˈteɪʃən/",
+   "meaning": "danh tiếng (ôn B1 · Bài 24)",
+   "pos": "danh từ",
+   "audio": "B1-30-w-reputation.mp3"
+  },
+  {
+   "word": "whether",
+   "ipa": "/ˈwɛðɚ/",
+   "meaning": "liệu... (có... không) (ôn B1 · Bài 27)",
+   "pos": "liên từ",
+   "audio": "B1-30-w-whether.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been working as an accountant for six years, and I'm now in charge of a team of four.",
+   "vi": "Tôi đã làm kế toán được sáu năm, và hiện tôi phụ trách một nhóm bốn người.",
+   "audio": "B1-30-ex-1.mp3"
+  },
+  {
+   "en": "The candidate we interviewed yesterday has a lot of relevant experience.",
+   "vi": "Ứng viên chúng ta phỏng vấn hôm qua có nhiều kinh nghiệm liên quan.",
+   "audio": "B1-30-ex-2.mp3"
+  },
+  {
+   "en": "This is the office where I started my career, and she's the manager whose advice helped me most.",
+   "vi": "Đây là văn phòng nơi tôi bắt đầu sự nghiệp, và cô ấy là người quản lý mà lời khuyên của cô ấy giúp tôi nhiều nhất.",
+   "audio": "B1-30-ex-3.mp3"
+  },
+  {
+   "en": "Our founder, who started the company fifteen years ago, still meets every new employee.",
+   "vi": "Người sáng lập công ty chúng tôi, người đã thành lập công ty mười lăm năm trước, vẫn gặp từng nhân viên mới.",
+   "audio": "B1-30-ex-4.mp3"
+  },
+  {
+   "en": "Could you tell me when I'll hear about the result, and whether I need to have my documents translated?",
+   "vi": "Anh/chị có thể cho tôi biết khi nào tôi nhận được kết quả, và tôi có cần đem giấy tờ đi dịch không?",
+   "audio": "B1-30-ex-5.mp3"
+  }
+ ]
+}

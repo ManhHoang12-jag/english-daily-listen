@@ -1,0 +1,88 @@
+{
+ "title": "Bài 46. Chủ đề: mạng xã hội và công nghệ",
+ "vocabulary": [
+  {
+   "word": "social media",
+   "ipa": "/ˈsoʊʃəl ˈmidiə/",
+   "meaning": "mạng xã hội (không đếm được)",
+   "pos": "danh từ",
+   "audio": "B1-46-w-social-media.mp3"
+  },
+  {
+   "word": "post",
+   "ipa": "/poʊst/",
+   "meaning": "đăng (bài, ảnh); bài đăng",
+   "pos": "động từ / danh từ",
+   "audio": "B1-46-w-post.mp3"
+  },
+  {
+   "word": "share",
+   "ipa": "/ʃɛr/",
+   "meaning": "chia sẻ",
+   "pos": "động từ",
+   "audio": "B1-46-w-share.mp3"
+  },
+  {
+   "word": "follower",
+   "ipa": "/ˈfɑloʊɚ/",
+   "meaning": "người theo dõi",
+   "pos": "danh từ",
+   "audio": "B1-46-w-follower.mp3"
+  },
+  {
+   "word": "addicted",
+   "ipa": "/əˈdɪktɪd/",
+   "meaning": "nghiện (addicted to + N)",
+   "pos": "tính từ",
+   "audio": "B1-46-w-addicted.mp3"
+  },
+  {
+   "word": "privacy",
+   "ipa": "/ˈpraɪvəsi/",
+   "meaning": "sự riêng tư, quyền riêng tư",
+   "pos": "danh từ",
+   "audio": "B1-46-w-privacy.mp3"
+  },
+  {
+   "word": "online",
+   "ipa": "/ˌɑnˈlaɪn/",
+   "meaning": "trực tuyến, trên mạng",
+   "pos": "tính từ / trạng từ",
+   "audio": "B1-46-w-online.mp3"
+  },
+  {
+   "word": "screen time",
+   "ipa": "/ˈskrin ˌtaɪm/",
+   "meaning": "thời gian dùng màn hình",
+   "pos": "danh từ",
+   "audio": "B1-46-w-screen-time.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The average adult now has more than six hours of screen time a day.",
+   "vi": "Người trưởng thành trung bình hiện dùng màn hình hơn sáu tiếng mỗi ngày.",
+   "audio": "B1-46-ex-1.mp3"
+  },
+  {
+   "en": "It is said that the average user checks their phone about ninety times a day.",
+   "vi": "Người ta nói rằng người dùng trung bình xem điện thoại khoảng chín mươi lần mỗi ngày.",
+   "audio": "B1-46-ex-2.mp3"
+  },
+  {
+   "en": "Many people say they share photos and post updates to stay in touch with friends and family.",
+   "vi": "Nhiều người nói họ chia sẻ ảnh và đăng tin để giữ liên lạc với bạn bè, gia đình.",
+   "audio": "B1-46-ex-3.mp3"
+  },
+  {
+   "en": "Experts have warned users not to share too much personal information.",
+   "vi": "Các chuyên gia đã cảnh báo người dùng không nên chia sẻ quá nhiều thông tin cá nhân.",
+   "audio": "B1-46-ex-4.mp3"
+  },
+  {
+   "en": "Some teenagers told researchers that they felt addicted to their phones.",
+   "vi": "Một số thiếu niên nói với các nhà nghiên cứu rằng họ thấy mình nghiện điện thoại.",
+   "audio": "B1-46-ex-5.mp3"
+  }
+ ]
+}

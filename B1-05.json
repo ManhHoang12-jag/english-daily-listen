@@ -1,0 +1,81 @@
+{
+ "title": "Bài 05. Hiện tại hoàn thành tiếp diễn: dạng và nghĩa",
+ "vocabulary": [
+  {
+   "word": "lately",
+   "ipa": "/ˈleɪtli/",
+   "meaning": "dạo này, gần đây",
+   "pos": "trạng từ",
+   "audio": "B1-05-w-lately.mp3"
+  },
+  {
+   "word": "recently",
+   "ipa": "/ˈriːsəntli/",
+   "meaning": "gần đây, mới đây",
+   "pos": "trạng từ",
+   "audio": "B1-05-w-recently.mp3"
+  },
+  {
+   "word": "exhausted",
+   "ipa": "/ɪɡˈzɑːstɪd/",
+   "meaning": "kiệt sức, mệt lả",
+   "pos": "tính từ",
+   "audio": "B1-05-w-exhausted.mp3"
+  },
+  {
+   "word": "tired out",
+   "ipa": "/ˌtaɪɚd ˈaʊt/",
+   "meaning": "mệt rã rời",
+   "pos": "cụm tính từ",
+   "audio": "B1-05-w-tired-out.mp3"
+  },
+  {
+   "word": "wait",
+   "ipa": "/weɪt/",
+   "meaning": "chờ, đợi (wait for someone)",
+   "pos": "động từ",
+   "audio": "B1-05-w-wait.mp3"
+  },
+  {
+   "word": "queue",
+   "ipa": "/kjuː/",
+   "meaning": "hàng người xếp hàng (Anh-Anh; Mỹ thường nói line)",
+   "pos": "danh từ",
+   "audio": "B1-05-w-queue.mp3"
+  },
+  {
+   "word": "practice",
+   "ipa": "/ˈpræktɪs/",
+   "meaning": "luyện tập (Anh-Anh viết động từ là practise)",
+   "pos": "động từ",
+   "audio": "B1-05-w-practice.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been waiting in this queue for forty minutes!",
+   "vi": "Mình đã đứng xếp hàng ở đây bốn mươi phút rồi!",
+   "audio": "B1-05-ex-1.mp3"
+  },
+  {
+   "en": "You look exhausted. What have you been doing all day?",
+   "vi": "Trông bạn kiệt sức quá. Cả ngày nay bạn làm gì vậy?",
+   "audio": "B1-05-ex-2.mp3"
+  },
+  {
+   "en": "I've been moving to a new apartment since eight o'clock this morning.",
+   "vi": "Mình chuyển nhà sang căn hộ mới từ tám giờ sáng đến giờ.",
+   "audio": "B1-05-ex-3.mp3"
+  },
+  {
+   "en": "How long have you been living in Hanoi now? For about two years.",
+   "vi": "Bạn sống ở Hà Nội được bao lâu rồi? Khoảng hai năm.",
+   "audio": "B1-05-ex-4.mp3"
+  },
+  {
+   "en": "My neighbors haven't been sleeping well recently.",
+   "vi": "Dạo gần đây hàng xóm của mình ngủ không ngon.",
+   "audio": "B1-05-ex-5.mp3"
+  }
+ ]
+}

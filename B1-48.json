@@ -1,0 +1,74 @@
+{
+ "title": "Bài 48. Kỹ năng: nghe bản tin và podcast ngắn",
+ "vocabulary": [
+  {
+   "word": "report",
+   "ipa": "/rɪˈpɔrt/",
+   "meaning": "bản tin, báo cáo; đưa tin",
+   "pos": "danh từ / động từ",
+   "audio": "B1-48-w-report.mp3"
+  },
+  {
+   "word": "according to",
+   "ipa": "/əˈkɔrdɪŋ tu/",
+   "meaning": "theo (nguồn tin)",
+   "pos": "giới từ",
+   "audio": "B1-48-w-according-to.mp3"
+  },
+  {
+   "word": "spokesperson",
+   "ipa": "/ˈspoʊksˌpɝsən/",
+   "meaning": "người phát ngôn",
+   "pos": "danh từ",
+   "audio": "B1-48-w-spokesperson.mp3"
+  },
+  {
+   "word": "statement",
+   "ipa": "/ˈsteɪtmənt/",
+   "meaning": "tuyên bố, thông cáo",
+   "pos": "danh từ",
+   "audio": "B1-48-w-statement.mp3"
+  },
+  {
+   "word": "incident",
+   "ipa": "/ˈɪnsɪdənt/",
+   "meaning": "sự cố, vụ việc",
+   "pos": "danh từ",
+   "audio": "B1-48-w-incident.mp3"
+  },
+  {
+   "word": "update",
+   "ipa": "/ˈʌpˌdeɪt/",
+   "meaning": "tin cập nhật; cập nhật",
+   "pos": "danh từ / động từ",
+   "audio": "B1-48-w-update.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good evening. A fire broke out at the Riverside Shopping Mall this afternoon. According to the fire department, it started in a kitchen on the third floor at around two thirty. More than five hundred people were safely moved out of the building.",
+   "vi": "Chào buổi tối. Chiều nay xảy ra cháy ở trung tâm mua sắm Riverside. Theo sở cứu hỏa, đám cháy bắt đầu từ một bếp ở tầng ba lúc khoảng 2 giờ 30. Hơn 500 người đã được đưa ra ngoài an toàn.",
+   "audio": "B1-48-ex-1.mp3"
+  },
+  {
+   "en": "No one was seriously hurt, but two workers were taken to the hospital for a check-up. In a statement, a spokesperson for the mall said that the building would stay closed until Friday. The cause of the incident has not been confirmed yet.",
+   "vi": "Không ai bị thương nặng, nhưng hai nhân viên được đưa đến bệnh viện để kiểm tra. Trong một tuyên bố, người phát ngôn của trung tâm cho biết tòa nhà sẽ đóng cửa đến thứ Sáu. Nguyên nhân sự cố chưa được xác nhận.",
+   "audio": "B1-48-ex-2.mp3"
+  },
+  {
+   "en": "In other news, the city has announced that two hundred new electric buses will be added next year. According to a city report, the buses will cut air pollution on the busiest roads by about fifteen percent.",
+   "vi": "Tin khác, thành phố thông báo sẽ bổ sung 200 xe buýt điện mới vào năm sau. Theo báo cáo của thành phố, số xe này sẽ giảm khoảng 15% ô nhiễm không khí trên những tuyến đường đông nhất.",
+   "audio": "B1-48-ex-3.mp3"
+  },
+  {
+   "en": "Most people have welcomed the plan, but some drivers have complained that ticket prices will go up. A city spokesperson said they would give an update on prices next month.",
+   "vi": "Phần lớn người dân hoan nghênh kế hoạch, nhưng một số tài xế phàn nàn rằng giá vé sẽ tăng. Người phát ngôn thành phố cho biết sẽ cập nhật về giá vào tháng tới.",
+   "audio": "B1-48-ex-4.mp3"
+  },
+  {
+   "en": "Welcome back to Money Talk. Honestly, I was surprised by the latest survey. It says young people spend almost a third of their food budget on delivery. I'm not against these apps, they're really convenient, but I think we need to be more careful with our money.",
+   "vi": "Chào mừng trở lại Money Talk. Thật lòng tôi ngạc nhiên với khảo sát mới nhất. Nó cho thấy người trẻ chi gần một phần ba tiền ăn cho đồ giao tận nơi. Tôi không phản đối các ứng dụng này, chúng rất tiện, nhưng tôi nghĩ ta cần cẩn thận hơn với tiền.",
+   "audio": "B1-48-ex-5.mp3"
+  }
+ ]
+}

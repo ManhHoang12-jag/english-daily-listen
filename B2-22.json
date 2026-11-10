@@ -1,0 +1,81 @@
+{
+ "title": "Bài 22. Mức độ khả năng nâng cao",
+ "vocabulary": [
+  {
+   "word": "bound to",
+   "ipa": "/ˈbaʊnd tə/",
+   "meaning": "chắc chắn sẽ (be bound to + V)",
+   "pos": "cụm tính từ",
+   "audio": "B2-22-w-bound-to.mp3"
+  },
+  {
+   "word": "likely",
+   "ipa": "/ˈlaɪkli/",
+   "meaning": "có khả năng, có thể xảy ra (be likely to + V)",
+   "pos": "tính từ",
+   "audio": "B2-22-w-likely.mp3"
+  },
+  {
+   "word": "unlikely",
+   "ipa": "/ʌnˈlaɪkli/",
+   "meaning": "ít khả năng, khó xảy ra",
+   "pos": "tính từ",
+   "audio": "B2-22-w-unlikely.mp3"
+  },
+  {
+   "word": "probability",
+   "ipa": "/ˌprɑbəˈbɪləti/",
+   "meaning": "xác suất, khả năng xảy ra",
+   "pos": "danh từ",
+   "audio": "B2-22-w-probability.mp3"
+  },
+  {
+   "word": "in all likelihood",
+   "ipa": "/ɪn ˈɔl ˈlaɪklihʊd/",
+   "meaning": "rất có thể, nhiều khả năng là",
+   "pos": "cụm trạng từ",
+   "audio": "B2-22-w-in-all-likelihood.mp3"
+  },
+  {
+   "word": "chance",
+   "ipa": "/tʃæns/",
+   "meaning": "khả năng; cơ hội (a good / slim chance)",
+   "pos": "danh từ",
+   "audio": "B2-22-w-chance.mp3"
+  },
+  {
+   "word": "predict",
+   "ipa": "/prɪˈdɪkt/",
+   "meaning": "dự đoán, dự báo (predict that...)",
+   "pos": "động từ",
+   "audio": "B2-22-w-predict.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Batteries are bound to become cheaper and more efficient.",
+   "vi": "Pin chắc chắn sẽ trở nên rẻ hơn và hiệu quả hơn.",
+   "audio": "B2-22-ex-1.mp3"
+  },
+  {
+   "en": "In all likelihood, electric cars will outsell gasoline cars in many countries.",
+   "vi": "Rất có thể ô tô điện sẽ bán chạy hơn ô tô chạy xăng ở nhiều nước.",
+   "audio": "B2-22-ex-2.mp3"
+  },
+  {
+   "en": "There's a good chance that doctors will use artificial intelligence to spot diseases much earlier.",
+   "vi": "Nhiều khả năng các bác sĩ sẽ dùng trí tuệ nhân tạo để phát hiện bệnh sớm hơn nhiều.",
+   "audio": "B2-22-ex-3.mp3"
+  },
+  {
+   "en": "It is highly probable that personalized medicine will become common in wealthy countries.",
+   "vi": "Rất có khả năng y học cá nhân hóa sẽ trở nên phổ biến ở các nước giàu.",
+   "audio": "B2-22-ex-4.mp3"
+  },
+  {
+   "en": "Humans are unlikely to live on Mars within the next decade.",
+   "vi": "Con người khó có khả năng sống trên sao Hỏa trong thập kỷ tới.",
+   "audio": "B2-22-ex-5.mp3"
+  }
+ ]
+}

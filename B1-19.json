@@ -1,0 +1,74 @@
+{
+ "title": "Bài 19. Kỹ năng: viết email bán trang trọng hỏi về khóa học",
+ "vocabulary": [
+  {
+   "word": "enquire",
+   "ipa": "/ɪnˈkwaɪɚ/",
+   "meaning": "hỏi, hỏi thông tin (trang trọng; enquire about + N; Mỹ hay viết inquire)",
+   "pos": "động từ",
+   "audio": "B1-19-w-enquire.mp3"
+  },
+  {
+   "word": "grateful",
+   "ipa": "/ˈɡreɪtfəl/",
+   "meaning": "biết ơn (I would be grateful if... = rất mong quý vị...)",
+   "pos": "tính từ",
+   "audio": "B1-19-w-grateful.mp3"
+  },
+  {
+   "word": "regarding",
+   "ipa": "/rɪˈɡɑrdɪŋ/",
+   "meaning": "về, liên quan đến (trang trọng hơn about)",
+   "pos": "giới từ",
+   "audio": "B1-19-w-regarding.mp3"
+  },
+  {
+   "word": "further information",
+   "ipa": "/ˈfɝðɚ ˌɪnfɚˈmeɪʃən/",
+   "meaning": "thêm thông tin, thông tin chi tiết hơn (không thêm s)",
+   "pos": "cụm danh từ",
+   "audio": "B1-19-w-further-information.mp3"
+  },
+  {
+   "word": "attach",
+   "ipa": "/əˈtætʃ/",
+   "meaning": "gửi kèm, đính kèm (ôn A2 · Bài 49)",
+   "pos": "động từ",
+   "audio": "B1-19-w-attach.mp3"
+  },
+  {
+   "word": "sincerely",
+   "ipa": "/sɪnˈsɪrli/",
+   "meaning": "trân trọng (dùng để kết thư: Sincerely, + họ tên)",
+   "pos": "trạng từ",
+   "audio": "B1-19-w-sincerely.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to enquire about the scholarships for the Master of Education program.",
+   "vi": "Tôi viết thư này để hỏi về các suất học bổng cho chương trình Thạc sĩ Giáo dục.",
+   "audio": "B1-19-ex-1.mp3"
+  },
+  {
+   "en": "I would be grateful if you could send me further information regarding the scholarship.",
+   "vi": "Tôi rất biết ơn nếu quý vị có thể gửi cho tôi thêm thông tin về học bổng.",
+   "audio": "B1-19-ex-2.mp3"
+  },
+  {
+   "en": "Could you tell me how much of the tuition fee the scholarship covers?",
+   "vi": "Xin cho tôi biết học bổng chi trả bao nhiêu phần học phí?",
+   "audio": "B1-19-ex-3.mp3"
+  },
+  {
+   "en": "I would also like to know whether international students are eligible.",
+   "vi": "Tôi cũng muốn biết sinh viên quốc tế có đủ điều kiện hay không.",
+   "audio": "B1-19-ex-4.mp3"
+  },
+  {
+   "en": "I have attached my transcript and a reference letter.",
+   "vi": "Tôi đã gửi kèm bảng điểm và một thư giới thiệu.",
+   "audio": "B1-19-ex-5.mp3"
+  }
+ ]
+}

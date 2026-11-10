@@ -1,0 +1,95 @@
+{
+ "title": "Bài 51. Chủ đề: môi trường",
+ "vocabulary": [
+  {
+   "word": "climate change",
+   "ipa": "/ˈklaɪmət ˌtʃeɪndʒ/",
+   "meaning": "biến đổi khí hậu",
+   "pos": "danh từ",
+   "audio": "B1-51-w-climate-change.mp3"
+  },
+  {
+   "word": "pollution",
+   "ipa": "/pəˈluːʃən/",
+   "meaning": "sự ô nhiễm",
+   "pos": "danh từ",
+   "audio": "B1-51-w-pollution.mp3"
+  },
+  {
+   "word": "global warming",
+   "ipa": "/ˌɡloʊbəl ˈwɔːrmɪŋ/",
+   "meaning": "sự nóng lên toàn cầu",
+   "pos": "danh từ",
+   "audio": "B1-51-w-global-warming.mp3"
+  },
+  {
+   "word": "renewable",
+   "ipa": "/rɪˈnuːəbəl/",
+   "meaning": "tái tạo được (năng lượng)",
+   "pos": "tính từ",
+   "audio": "B1-51-w-renewable.mp3"
+  },
+  {
+   "word": "recycle",
+   "ipa": "/ˌriːˈsaɪkəl/",
+   "meaning": "tái chế",
+   "pos": "động từ",
+   "audio": "B1-51-w-recycle.mp3"
+  },
+  {
+   "word": "waste",
+   "ipa": "/weɪst/",
+   "meaning": "rác thải (danh từ); lãng phí (động từ)",
+   "pos": "danh từ / động từ",
+   "audio": "B1-51-w-waste.mp3"
+  },
+  {
+   "word": "reduce",
+   "ipa": "/rɪˈduːs/",
+   "meaning": "giảm, cắt giảm",
+   "pos": "động từ",
+   "audio": "B1-51-w-reduce.mp3"
+  },
+  {
+   "word": "protect",
+   "ipa": "/prəˈtɛkt/",
+   "meaning": "bảo vệ",
+   "pos": "động từ",
+   "audio": "B1-51-w-protect.mp3"
+  },
+  {
+   "word": "carbon footprint",
+   "ipa": "/ˌkɑːrbən ˈfʊtprɪnt/",
+   "meaning": "lượng khí thải carbon (một người, một hoạt động tạo ra)",
+   "pos": "danh từ",
+   "audio": "B1-51-w-carbon-footprint.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Air pollution is getting worse in many big cities because there are too many cars and motorbikes.",
+   "vi": "Ô nhiễm không khí đang ngày càng tệ hơn ở nhiều thành phố lớn vì có quá nhiều ô tô và xe máy.",
+   "audio": "B1-51-ex-1.mp3"
+  },
+  {
+   "en": "Forests are being destroyed to make space for farms and roads.",
+   "vi": "Rừng đang bị phá để lấy chỗ làm trang trại và đường sá.",
+   "audio": "B1-51-ex-2.mp3"
+  },
+  {
+   "en": "If we don't reduce our waste, the rivers will become even dirtier.",
+   "vi": "Nếu chúng ta không giảm rác thải, các dòng sông sẽ còn bẩn hơn nữa.",
+   "audio": "B1-51-ex-3.mp3"
+  },
+  {
+   "en": "Governments should invest more in renewable energy, such as solar and wind power.",
+   "vi": "Chính phủ nên đầu tư nhiều hơn vào năng lượng tái tạo, như năng lượng mặt trời và năng lượng gió.",
+   "audio": "B1-51-ex-4.mp3"
+  },
+  {
+   "en": "You can reduce your carbon footprint by flying less and eating less meat.",
+   "vi": "Bạn có thể giảm lượng khí thải carbon của mình bằng cách đi máy bay ít hơn và ăn ít thịt hơn.",
+   "audio": "B1-51-ex-5.mp3"
+  }
+ ]
+}

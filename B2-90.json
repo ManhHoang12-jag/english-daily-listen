@@ -1,0 +1,74 @@
+{
+ "title": "Bài 90. Ôn tập và kiểm tra B2-9",
+ "vocabulary": [
+  {
+   "word": "nevertheless",
+   "ipa": "/ˌnɛvɚðəˈlɛs/",
+   "meaning": "tuy nhiên, tuy vậy (ôn B2 · Bài 81)",
+   "pos": "trạng từ",
+   "audio": "B2-90-w-nevertheless.mp3"
+  },
+  {
+   "word": "having said that",
+   "ipa": "/ˈhævɪŋ ˈsɛd ðæt/",
+   "meaning": "dù vậy, tuy nói thế (ôn B2 · Bài 82)",
+   "pos": "cụm từ",
+   "audio": "B2-90-w-having-said-that.mp3"
+  },
+  {
+   "word": "arguably",
+   "ipa": "/ˈɑːrɡjuəbli/",
+   "meaning": "có thể cho rằng, có lẽ (ôn B2 · Bài 83)",
+   "pos": "trạng từ",
+   "audio": "B2-90-w-arguably.mp3"
+  },
+  {
+   "word": "obtain",
+   "ipa": "/əbˈteɪn/",
+   "meaning": "có được, nhận được (trang trọng của get; ôn B2 · Bài 84)",
+   "pos": "động từ",
+   "audio": "B2-90-w-obtain.mp3"
+  },
+  {
+   "word": "follow up",
+   "ipa": "/ˌfɑːloʊ ˈʌp/",
+   "meaning": "hỏi lại, nhắc lại việc (ôn B2 · Bài 85)",
+   "pos": "cụm động từ",
+   "audio": "B2-90-w-follow-up.mp3"
+  },
+  {
+   "word": "reluctant",
+   "ipa": "/rɪˈlʌktənt/",
+   "meaning": "miễn cưỡng (ôn B2 · Bài 89)",
+   "pos": "tính từ",
+   "audio": "B2-90-w-reluctant.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Admittedly, the new system is expensive; nevertheless, it should save us money in the long run.",
+   "vi": "Phải thừa nhận là hệ thống mới đắt; tuy vậy, về lâu dài nó sẽ giúp chúng ta tiết kiệm tiền.",
+   "audio": "B2-90-ex-1.mp3"
+  },
+  {
+   "en": "It could be argued that remote work improves productivity, at least to some extent.",
+   "vi": "Có thể lập luận rằng làm việc từ xa giúp tăng năng suất, ít nhất là ở một mức độ nào đó.",
+   "audio": "B2-90-ex-2.mp3"
+  },
+  {
+   "en": "I was wondering if you could take a look at the draft before I send it to the client.",
+   "vi": "Không biết anh có thể xem qua bản nháp trước khi tôi gửi cho khách hàng được không.",
+   "audio": "B2-90-ex-3.mp3"
+  },
+  {
+   "en": "Following our meeting, please find attached the revised schedule and a list of action points.",
+   "vi": "Tiếp theo cuộc họp, xin gửi kèm lịch đã sửa và danh sách các việc cần làm.",
+   "audio": "B2-90-ex-4.mp3"
+  },
+  {
+   "en": "Anyway, as I was saying, we need a decision on the budget by Friday. Having said that, nobody seems very enthusiastic about cutting costs.",
+   "vi": "Thôi, như tôi đang nói, chúng ta cần quyết định về ngân sách trước thứ Sáu. Tuy vậy, có vẻ không ai hào hứng với việc cắt giảm chi phí.",
+   "audio": "B2-90-ex-5.mp3"
+  }
+ ]
+}

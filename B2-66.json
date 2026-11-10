@@ -1,0 +1,81 @@
+{
+ "title": "Bài 66. Kỹ năng: đọc bài báo kinh tế 600 từ (2 trang)",
+ "vocabulary": [
+  {
+   "word": "analyst",
+   "ipa": "/ˈænəlɪst/",
+   "meaning": "nhà phân tích",
+   "pos": "danh từ",
+   "audio": "B2-66-w-analyst.mp3"
+  },
+  {
+   "word": "forecast",
+   "ipa": "/ˈfɔrkæst/",
+   "meaning": "dự báo (danh từ và động từ)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-66-w-forecast.mp3"
+  },
+  {
+   "word": "slowdown",
+   "ipa": "/ˈsloʊˌdaʊn/",
+   "meaning": "sự chậm lại, sự suy giảm (của tăng trưởng)",
+   "pos": "danh từ",
+   "audio": "B2-66-w-slowdown.mp3"
+  },
+  {
+   "word": "stimulus",
+   "ipa": "/ˈstɪmjələs/",
+   "meaning": "sự kích thích (a stimulus package: gói kích thích kinh tế)",
+   "pos": "danh từ",
+   "audio": "B2-66-w-stimulus.mp3"
+  },
+  {
+   "word": "outlook",
+   "ipa": "/ˈaʊtˌlʊk/",
+   "meaning": "triển vọng, viễn cảnh",
+   "pos": "danh từ",
+   "audio": "B2-66-w-outlook.mp3"
+  },
+  {
+   "word": "volatile",
+   "ipa": "/ˈvɑlətəl/",
+   "meaning": "biến động mạnh, thất thường",
+   "pos": "tính từ",
+   "audio": "B2-66-w-volatile.mp3"
+  },
+  {
+   "word": "sector",
+   "ipa": "/ˈsɛktɚ/",
+   "meaning": "khu vực, ngành (kinh tế)",
+   "pos": "danh từ",
+   "audio": "B2-66-w-sector.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It is widely believed that the slowdown will be temporary, but few economists are willing to say exactly when it will end.",
+   "vi": "Nhiều người tin rằng sự suy giảm sẽ chỉ là tạm thời, nhưng ít nhà kinh tế dám nói chính xác khi nào nó kết thúc.",
+   "audio": "B2-66-ex-1.mp3"
+  },
+  {
+   "en": "Factories that make phones, computer chips and clothing have reported a significant reduction in new orders.",
+   "vi": "Các nhà máy sản xuất điện thoại, chip máy tính và quần áo cho biết đơn hàng mới giảm đáng kể.",
+   "audio": "B2-66-ex-2.mp3"
+  },
+  {
+   "en": "What we are seeing is not a collapse but a rebalancing.",
+   "vi": "Điều chúng ta đang thấy không phải là sụp đổ mà là tái cân bằng.",
+   "audio": "B2-66-ex-3.mp3"
+  },
+  {
+   "en": "Critics, however, warn that large stimulus programs are likely to push up public debt.",
+   "vi": "Tuy nhiên, những người phản đối cảnh báo rằng các gói kích thích lớn có thể đẩy nợ công lên.",
+   "audio": "B2-66-ex-4.mp3"
+  },
+  {
+   "en": "If local currencies weaken, imported goods such as fuel, medicine and electronics are bound to become more expensive.",
+   "vi": "Nếu đồng nội tệ yếu đi, hàng nhập khẩu như nhiên liệu, thuốc men và đồ điện tử chắc chắn sẽ đắt hơn.",
+   "audio": "B2-66-ex-5.mp3"
+  }
+ ]
+}

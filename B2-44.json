@@ -1,0 +1,74 @@
+{
+ "title": "Bài 44. Mệnh đề phân từ: thời gian và trình tự",
+ "vocabulary": [
+  {
+   "word": "having completed",
+   "ipa": "/ˈhævɪŋ kəmˈplitɪd/",
+   "meaning": "sau khi đã hoàn thành (Having + V3)",
+   "pos": "phân từ hoàn thành",
+   "audio": "B2-44-w-having-completed.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi, trong lúc (while + V-ing)",
+   "pos": "liên từ",
+   "audio": "B2-44-w-while.mp3"
+  },
+  {
+   "word": "upon arrival",
+   "ipa": "/əˈpɑn əˈraɪvəl/",
+   "meaning": "khi đến nơi (trang trọng)",
+   "pos": "cụm giới từ",
+   "audio": "B2-44-w-upon-arrival.mp3"
+  },
+  {
+   "word": "on hearing",
+   "ipa": "/ɑn ˈhɪrɪŋ/",
+   "meaning": "ngay khi nghe (on + V-ing)",
+   "pos": "cụm giới từ",
+   "audio": "B2-44-w-on-hearing.mp3"
+  },
+  {
+   "word": "after doing",
+   "ipa": "/ˈæftɚ ˈduɪŋ/",
+   "meaning": "sau khi làm (mẫu after + V-ing: after analyzing, after finishing)",
+   "pos": "giới từ + V-ing",
+   "audio": "B2-44-w-after-doing.mp3"
+  },
+  {
+   "word": "simultaneously",
+   "ipa": "/ˌsaɪməlˈteɪniəsli/",
+   "meaning": "đồng thời, cùng một lúc",
+   "pos": "trạng từ",
+   "audio": "B2-44-w-simultaneously.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Having completed the pilot study, the team made several changes to the questionnaire.",
+   "vi": "Sau khi hoàn thành nghiên cứu thử, nhóm đã sửa một số chỗ trong bảng hỏi.",
+   "audio": "B2-44-ex-1.mp3"
+  },
+  {
+   "en": "While collecting the data, the researchers noticed an unexpected pattern.",
+   "vi": "Trong lúc thu thập số liệu, các nhà nghiên cứu nhận thấy một xu hướng bất ngờ.",
+   "audio": "B2-44-ex-2.mp3"
+  },
+  {
+   "en": "After analyzing the results, we presented them to the board.",
+   "vi": "Sau khi phân tích kết quả, chúng tôi trình bày với ban giám đốc.",
+   "audio": "B2-44-ex-3.mp3"
+  },
+  {
+   "en": "On hearing the news, the lead researcher called an emergency meeting.",
+   "vi": "Ngay khi nghe tin, trưởng nhóm nghiên cứu triệu tập một cuộc họp khẩn.",
+   "audio": "B2-44-ex-4.mp3"
+  },
+  {
+   "en": "Upon arrival, all participants were asked to sign a consent form.",
+   "vi": "Khi đến nơi, tất cả người tham gia được đề nghị ký giấy đồng ý.",
+   "audio": "B2-44-ex-5.mp3"
+  }
+ ]
+}

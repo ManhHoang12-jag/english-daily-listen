@@ -1,0 +1,74 @@
+{
+ "title": "Bài 70. Ôn tập và kiểm tra B1-7",
+ "vocabulary": [
+  {
+   "word": "certain",
+   "ipa": "/ˈsɝːtən/",
+   "meaning": "chắc chắn (ôn B1 · Bài 62)",
+   "pos": "tính từ",
+   "audio": "B1-70-w-certain.mp3"
+  },
+  {
+   "word": "apparently",
+   "ipa": "/əˈpærəntli/",
+   "meaning": "nghe nói là, có vẻ như (ôn B1 · Bài 63)",
+   "pos": "trạng từ",
+   "audio": "B1-70-w-apparently.mp3"
+  },
+  {
+   "word": "adjust",
+   "ipa": "/əˈdʒʌst/",
+   "meaning": "điều chỉnh, thích nghi (ôn B1 · Bài 64)",
+   "pos": "động từ",
+   "audio": "B1-70-w-adjust.mp3"
+  },
+  {
+   "word": "avoid",
+   "ipa": "/əˈvɔɪd/",
+   "meaning": "tránh (+ V-ing) (ôn B1 · Bài 65)",
+   "pos": "động từ",
+   "audio": "B1-70-w-avoid.mp3"
+  },
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡrɛt/",
+   "meaning": "hối tiếc (+ V-ing) (ôn B1 · Bài 66)",
+   "pos": "động từ",
+   "audio": "B1-70-w-regret.mp3"
+  },
+  {
+   "word": "recommend",
+   "ipa": "/ˌrɛkəˈmɛnd/",
+   "meaning": "khuyên, đề xuất (+ V-ing) (ôn B1 · Bài 68)",
+   "pos": "động từ",
+   "audio": "B1-70-w-recommend.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Nobody is answering the door, so they must be out.",
+   "vi": "Không ai ra mở cửa, vậy chắc chắn họ đi vắng rồi.",
+   "audio": "B1-70-ex-1.mp3"
+  },
+  {
+   "en": "In the foreground, two people are running. It looks as if they're trying to catch a bus.",
+   "vi": "Ở tiền cảnh, có hai người đang chạy. Có vẻ như họ đang cố đuổi theo xe buýt.",
+   "audio": "B1-70-ex-2.mp3"
+  },
+  {
+   "en": "When I moved to Hanoi, it took me months to get used to the traffic.",
+   "vi": "Khi chuyển đến Hà Nội, tôi mất mấy tháng mới quen với giao thông.",
+   "audio": "B1-70-ex-3.mp3"
+  },
+  {
+   "en": "I've decided to give up sugar, and I'm trying to avoid eating late at night.",
+   "vi": "Tôi đã quyết định bỏ đường, và đang cố tránh ăn khuya.",
+   "audio": "B1-70-ex-4.mp3"
+  },
+  {
+   "en": "Another point is that sleep affects your mood. Research shows that adults who sleep less than six hours a night feel more anxious, so doctors recommend going to bed at the same time every day.",
+   "vi": "Một ý nữa là giấc ngủ ảnh hưởng đến tâm trạng. Nghiên cứu cho thấy người lớn ngủ dưới sáu tiếng mỗi đêm hay lo âu hơn, nên bác sĩ khuyên đi ngủ vào cùng một giờ mỗi ngày.",
+   "audio": "B1-70-ex-5.mp3"
+  }
+ ]
+}

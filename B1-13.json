@@ -1,0 +1,74 @@
+{
+ "title": "Bài 13. Mệnh đề thời gian tương lai",
+ "vocabulary": [
+  {
+   "word": "as soon as",
+   "ipa": "/əz ˈsuːn əz/",
+   "meaning": "ngay khi",
+   "pos": "liên từ",
+   "audio": "B1-13-w-as-soon-as.mp3"
+  },
+  {
+   "word": "until",
+   "ipa": "/ənˈtɪl/",
+   "meaning": "cho đến khi",
+   "pos": "liên từ",
+   "audio": "B1-13-w-until.mp3"
+  },
+  {
+   "word": "apply",
+   "ipa": "/əˈplaɪ/",
+   "meaning": "nộp đơn, xin (apply for a visa, apply to a university)",
+   "pos": "động từ",
+   "audio": "B1-13-w-apply.mp3"
+  },
+  {
+   "word": "accept",
+   "ipa": "/əkˈsɛpt/",
+   "meaning": "chấp nhận, nhận (lời mời, hồ sơ)",
+   "pos": "động từ",
+   "audio": "B1-13-w-accept.mp3"
+  },
+  {
+   "word": "offer",
+   "ipa": "/ˈɔːfɚ/",
+   "meaning": "lời mời nhận học, nhận việc; đề nghị",
+   "pos": "danh từ, động từ",
+   "audio": "B1-13-w-offer.mp3"
+  },
+  {
+   "word": "scholarship",
+   "ipa": "/ˈskɑːlɚʃɪp/",
+   "meaning": "học bổng",
+   "pos": "danh từ",
+   "audio": "B1-13-w-scholarship.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'll email my parents as soon as I get the results.",
+   "vi": "Tôi sẽ email cho bố mẹ ngay khi nhận được kết quả.",
+   "audio": "B1-13-ex-1.mp3"
+  },
+  {
+   "en": "When the university accepts my application, I'll apply for a student visa.",
+   "vi": "Khi trường chấp nhận hồ sơ của tôi, tôi sẽ xin visa du học.",
+   "audio": "B1-13-ex-2.mp3"
+  },
+  {
+   "en": "I won't buy my plane ticket until I've received my visa.",
+   "vi": "Tôi sẽ không mua vé máy bay cho đến khi nhận được visa.",
+   "audio": "B1-13-ex-3.mp3"
+  },
+  {
+   "en": "Before I leave for Australia, I'm going to take an English course.",
+   "vi": "Trước khi sang Úc, tôi sẽ học một khóa tiếng Anh.",
+   "audio": "B1-13-ex-4.mp3"
+  },
+  {
+   "en": "After I accept the scholarship offer, I'll start looking for an apartment.",
+   "vi": "Sau khi nhận lời mời học bổng, tôi sẽ bắt đầu tìm căn hộ.",
+   "audio": "B1-13-ex-5.mp3"
+  }
+ ]
+}

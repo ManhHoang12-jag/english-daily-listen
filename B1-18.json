@@ -1,0 +1,74 @@
+{
+ "title": "Bài 18. Kỹ năng: đọc thông tin chương trình thạc sĩ",
+ "vocabulary": [
+  {
+   "word": "entry requirements",
+   "ipa": "/ˈɛntri rɪˈkwaɪɚmənts/",
+   "meaning": "điều kiện đầu vào",
+   "pos": "danh từ",
+   "audio": "B1-18-w-entry-requirements.mp3"
+  },
+  {
+   "word": "eligible",
+   "ipa": "/ˈɛlɪdʒəbəl/",
+   "meaning": "đủ điều kiện",
+   "pos": "tính từ",
+   "audio": "B1-18-w-eligible.mp3"
+  },
+  {
+   "word": "minimum",
+   "ipa": "/ˈmɪnəməm/",
+   "meaning": "tối thiểu, ít nhất",
+   "pos": "danh từ, tính từ",
+   "audio": "B1-18-w-minimum.mp3"
+  },
+  {
+   "word": "transcript",
+   "ipa": "/ˈtrænskrɪpt/",
+   "meaning": "bảng điểm",
+   "pos": "danh từ",
+   "audio": "B1-18-w-transcript.mp3"
+  },
+  {
+   "word": "reference",
+   "ipa": "/ˈrɛfərəns/",
+   "meaning": "thư giới thiệu; người giới thiệu",
+   "pos": "danh từ",
+   "audio": "B1-18-w-reference.mp3"
+  },
+  {
+   "word": "duration",
+   "ipa": "/dʊˈreɪʃən/",
+   "meaning": "thời gian kéo dài (của khóa học)",
+   "pos": "danh từ",
+   "audio": "B1-18-w-duration.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The program can be completed in twelve months full-time or twenty-four months part-time.",
+   "vi": "Chương trình có thể hoàn thành trong 12 tháng (học toàn thời gian) hoặc 24 tháng (bán thời gian).",
+   "audio": "B1-18-ex-1.mp3"
+  },
+  {
+   "en": "To be eligible, applicants must hold an undergraduate degree in science, geography, or a related subject.",
+   "vi": "Để đủ điều kiện, người nộp đơn phải có bằng cử nhân về khoa học, địa lý hoặc ngành liên quan.",
+   "audio": "B1-18-ex-2.mp3"
+  },
+  {
+   "en": "Incomplete applications will not be reviewed.",
+   "vi": "Hồ sơ không đầy đủ sẽ không được xem xét.",
+   "audio": "B1-18-ex-3.mp3"
+  },
+  {
+   "en": "Applications received after the deadline may be considered if places are still available.",
+   "vi": "Hồ sơ nhận sau hạn chót có thể được xem xét nếu vẫn còn chỗ.",
+   "audio": "B1-18-ex-4.mp3"
+  },
+  {
+   "en": "Ten scholarships of eight thousand dollars each are offered to international students with excellent academic results.",
+   "vi": "Mười suất học bổng, mỗi suất 8.000 đô la, được trao cho sinh viên quốc tế có kết quả học tập xuất sắc.",
+   "audio": "B1-18-ex-5.mp3"
+  }
+ ]
+}

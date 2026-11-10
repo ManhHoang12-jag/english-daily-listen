@@ -1,0 +1,81 @@
+{
+ "title": "Bài 13. Wish / if only với quá khứ hoàn thành",
+ "vocabulary": [
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡrɛt/",
+   "meaning": "hối tiếc; sự hối tiếc (regret + V-ing / regret that...)",
+   "pos": "động từ / danh từ",
+   "audio": "B2-13-w-regret.mp3"
+  },
+  {
+   "word": "wish",
+   "ipa": "/wɪʃ/",
+   "meaning": "ước, mong (điều trái thực tế)",
+   "pos": "động từ",
+   "audio": "B2-13-w-wish.mp3"
+  },
+  {
+   "word": "if only",
+   "ipa": "/ɪf ˈoʊnli/",
+   "meaning": "giá mà, phải chi",
+   "pos": "cụm liên từ",
+   "audio": "B2-13-w-if-only.mp3"
+  },
+  {
+   "word": "missed",
+   "ipa": "/mɪst/",
+   "meaning": "bị bỏ lỡ (a missed opportunity); đã bỏ lỡ",
+   "pos": "tính từ / động từ (V2, V3)",
+   "audio": "B2-13-w-missed.mp3"
+  },
+  {
+   "word": "opportunity",
+   "ipa": "/ˌɑpərˈtunəti/",
+   "meaning": "cơ hội",
+   "pos": "danh từ",
+   "audio": "B2-13-w-opportunity.mp3"
+  },
+  {
+   "word": "in hindsight",
+   "ipa": "/ɪn ˈhaɪndˌsaɪt/",
+   "meaning": "nhìn lại (sau khi sự việc đã xảy ra) thì thấy",
+   "pos": "cụm trạng từ",
+   "audio": "B2-13-w-in-hindsight.mp3"
+  },
+  {
+   "word": "lament",
+   "ipa": "/ləˈmɛnt/",
+   "meaning": "than tiếc, than thở (trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-13-w-lament.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I wish I had studied harder in college.",
+   "vi": "Tôi ước hồi đại học mình đã học chăm hơn.",
+   "audio": "B2-13-ex-1.mp3"
+  },
+  {
+   "en": "If only I hadn't missed that opportunity to work abroad!",
+   "vi": "Giá mà tôi đã không bỏ lỡ cơ hội làm việc ở nước ngoài đó!",
+   "audio": "B2-13-ex-2.mp3"
+  },
+  {
+   "en": "In hindsight, I regret not taking the scholarship.",
+   "vi": "Nhìn lại, tôi hối tiếc vì đã không nhận học bổng.",
+   "audio": "B2-13-ex-3.mp3"
+  },
+  {
+   "en": "I wish I spoke better English now, and I wish I had started learning it earlier.",
+   "vi": "Tôi ước bây giờ mình nói tiếng Anh giỏi hơn, và ước mình đã bắt đầu học sớm hơn.",
+   "audio": "B2-13-ex-4.mp3"
+  },
+  {
+   "en": "Many graduates lament that they didn't take their internships more seriously.",
+   "vi": "Nhiều sinh viên tốt nghiệp than tiếc rằng họ đã không coi trọng kỳ thực tập hơn.",
+   "audio": "B2-13-ex-5.mp3"
+  }
+ ]
+}

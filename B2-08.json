@@ -1,0 +1,81 @@
+{
+ "title": "Bài 08. Kỹ năng: đọc bài học thuật 450 từ (2 trang)",
+ "vocabulary": [
+  {
+   "word": "argue",
+   "ipa": "/ˈɑrɡju/",
+   "meaning": "lập luận, cho rằng (có lý lẽ)",
+   "pos": "động từ",
+   "audio": "B2-08-w-argue.mp3"
+  },
+  {
+   "word": "claim",
+   "ipa": "/kleɪm/",
+   "meaning": "khẳng định (chưa chắc đúng); lời khẳng định",
+   "pos": "động từ, danh từ",
+   "audio": "B2-08-w-claim.mp3"
+  },
+  {
+   "word": "support",
+   "ipa": "/səˈpɔrt/",
+   "meaning": "ủng hộ, chứng minh; sự ủng hộ, luận cứ",
+   "pos": "động từ, danh từ",
+   "audio": "B2-08-w-support.mp3"
+  },
+  {
+   "word": "counter",
+   "ipa": "/ˈkaʊntɚ/",
+   "meaning": "phản bác, đáp lại bằng ý ngược",
+   "pos": "động từ",
+   "audio": "B2-08-w-counter.mp3"
+  },
+  {
+   "word": "furthermore",
+   "ipa": "/ˈfɝðɚˌmɔr/",
+   "meaning": "hơn nữa, ngoài ra",
+   "pos": "trạng từ nối",
+   "audio": "B2-08-w-furthermore.mp3"
+  },
+  {
+   "word": "thus",
+   "ipa": "/ðʌs/",
+   "meaning": "vì vậy, như vậy",
+   "pos": "trạng từ nối",
+   "audio": "B2-08-w-thus.mp3"
+  },
+  {
+   "word": "hence",
+   "ipa": "/hɛns/",
+   "meaning": "do đó, vì thế",
+   "pos": "trạng từ nối",
+   "audio": "B2-08-w-hence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This article argues that the way students process information while taking notes matters more than the tool they use.",
+   "vi": "Bài viết này lập luận rằng cách sinh viên xử lý thông tin khi ghi chú quan trọng hơn công cụ họ dùng.",
+   "audio": "B2-08-ex-1.mp3"
+  },
+  {
+   "en": "Students who typed their notes wrote down far more words, but they tended to copy the lecture almost word for word.",
+   "vi": "Sinh viên đánh máy ghi được nhiều chữ hơn hẳn, nhưng họ có xu hướng chép bài giảng gần như từng chữ.",
+   "audio": "B2-08-ex-2.mp3"
+  },
+  {
+   "en": "Furthermore, typed notes often contained long passages that the students had never actually thought about.",
+   "vi": "Hơn nữa, ghi chú đánh máy thường chứa những đoạn dài mà sinh viên chưa bao giờ thật sự suy nghĩ đến.",
+   "audio": "B2-08-ex-3.mp3"
+  },
+  {
+   "en": "Critics, however, counter that the picture is more complicated.",
+   "vi": "Tuy nhiên, những người phản biện cho rằng bức tranh phức tạp hơn thế.",
+   "audio": "B2-08-ex-4.mp3"
+  },
+  {
+   "en": "Hence, rather than banning laptops, universities should teach students how to take notes.",
+   "vi": "Do đó, thay vì cấm máy tính xách tay, các trường đại học nên dạy sinh viên cách ghi chú.",
+   "audio": "B2-08-ex-5.mp3"
+  }
+ ]
+}

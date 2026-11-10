@@ -1,0 +1,95 @@
+{
+ "title": "Bài 61. Chủ đề: kinh tế",
+ "vocabulary": [
+  {
+   "word": "economy",
+   "ipa": "/ɪˈkɑnəmi/",
+   "meaning": "nền kinh tế",
+   "pos": "danh từ",
+   "audio": "B2-61-w-economy.mp3"
+  },
+  {
+   "word": "inflation",
+   "ipa": "/ɪnˈfleɪʃən/",
+   "meaning": "lạm phát",
+   "pos": "danh từ",
+   "audio": "B2-61-w-inflation.mp3"
+  },
+  {
+   "word": "recession",
+   "ipa": "/rɪˈsɛʃən/",
+   "meaning": "suy thoái kinh tế",
+   "pos": "danh từ",
+   "audio": "B2-61-w-recession.mp3"
+  },
+  {
+   "word": "growth",
+   "ipa": "/ɡroʊθ/",
+   "meaning": "sự tăng trưởng",
+   "pos": "danh từ (không đếm được)",
+   "audio": "B2-61-w-growth.mp3"
+  },
+  {
+   "word": "investment",
+   "ipa": "/ɪnˈvɛstmənt/",
+   "meaning": "sự đầu tư; khoản đầu tư",
+   "pos": "danh từ",
+   "audio": "B2-61-w-investment.mp3"
+  },
+  {
+   "word": "interest rate",
+   "ipa": "/ˈɪntrəst ˌreɪt/",
+   "meaning": "lãi suất",
+   "pos": "danh từ",
+   "audio": "B2-61-w-interest-rate.mp3"
+  },
+  {
+   "word": "GDP",
+   "ipa": "/ˌdʒiˌdiˈpi/",
+   "meaning": "tổng sản phẩm quốc nội (gross domestic product)",
+   "pos": "danh từ",
+   "audio": "B2-61-w-gdp.mp3"
+  },
+  {
+   "word": "supply and demand",
+   "ipa": "/səˈplaɪ ən dɪˈmænd/",
+   "meaning": "cung và cầu",
+   "pos": "cụm danh từ",
+   "audio": "B2-61-w-supply-and-demand.mp3"
+  },
+  {
+   "word": "consumer",
+   "ipa": "/kənˈsumɚ/",
+   "meaning": "người tiêu dùng",
+   "pos": "danh từ",
+   "audio": "B2-61-w-consumer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Inflation rose sharply last year, so the central bank raised interest rates twice.",
+   "vi": "Năm ngoái lạm phát tăng mạnh, nên ngân hàng trung ương đã tăng lãi suất hai lần.",
+   "audio": "B2-61-ex-1.mp3"
+  },
+  {
+   "en": "Higher interest rates make borrowing more expensive, which tends to slow down consumer spending.",
+   "vi": "Lãi suất cao hơn làm việc vay tiền đắt hơn, điều này thường làm chậm chi tiêu của người tiêu dùng.",
+   "audio": "B2-61-ex-2.mp3"
+  },
+  {
+   "en": "Vietnam's GDP grew by about seven percent, driven largely by exports and foreign investment.",
+   "vi": "GDP của Việt Nam tăng khoảng bảy phần trăm, chủ yếu nhờ xuất khẩu và đầu tư nước ngoài.",
+   "audio": "B2-61-ex-3.mp3"
+  },
+  {
+   "en": "Many economists fear that the economy could fall into a recession next year.",
+   "vi": "Nhiều nhà kinh tế lo rằng nền kinh tế có thể rơi vào suy thoái vào năm tới.",
+   "audio": "B2-61-ex-4.mp3"
+  },
+  {
+   "en": "When supply can't keep up with demand, prices usually go up.",
+   "vi": "Khi cung không theo kịp cầu, giá cả thường tăng lên.",
+   "audio": "B2-61-ex-5.mp3"
+  }
+ ]
+}

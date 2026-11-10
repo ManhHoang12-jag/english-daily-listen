@@ -1,0 +1,95 @@
+{
+ "title": "Bài 04. Chủ đề: đời sống học thuật sau đại học",
+ "vocabulary": [
+  {
+   "word": "seminar",
+   "ipa": "/ˈsemɪˌnɑr/",
+   "meaning": "buổi seminar, lớp thảo luận nhóm nhỏ",
+   "pos": "danh từ",
+   "audio": "B2-04-w-seminar.mp3"
+  },
+  {
+   "word": "dissertation",
+   "ipa": "/ˌdɪsərˈteɪʃən/",
+   "meaning": "luận văn (thạc sĩ), luận án",
+   "pos": "danh từ",
+   "audio": "B2-04-w-dissertation.mp3"
+  },
+  {
+   "word": "supervisor",
+   "ipa": "/ˈsupərˌvaɪzər/",
+   "meaning": "người hướng dẫn (luận văn); người giám sát",
+   "pos": "danh từ",
+   "audio": "B2-04-w-supervisor.mp3"
+  },
+  {
+   "word": "credit",
+   "ipa": "/ˈkredɪt/",
+   "meaning": "tín chỉ",
+   "pos": "danh từ",
+   "audio": "B2-04-w-credit.mp3"
+  },
+  {
+   "word": "assessment",
+   "ipa": "/əˈsesmənt/",
+   "meaning": "sự đánh giá, cách đánh giá",
+   "pos": "danh từ",
+   "audio": "B2-04-w-assessment.mp3"
+  },
+  {
+   "word": "plagiarism",
+   "ipa": "/ˈpleɪdʒəˌrɪzəm/",
+   "meaning": "đạo văn",
+   "pos": "danh từ",
+   "audio": "B2-04-w-plagiarism.mp3"
+  },
+  {
+   "word": "citation",
+   "ipa": "/saɪˈteɪʃən/",
+   "meaning": "trích dẫn, ghi nguồn",
+   "pos": "danh từ",
+   "audio": "B2-04-w-citation.mp3"
+  },
+  {
+   "word": "peer",
+   "ipa": "/pɪr/",
+   "meaning": "người ngang hàng, bạn cùng khóa",
+   "pos": "danh từ",
+   "audio": "B2-04-w-peer.mp3"
+  },
+  {
+   "word": "workload",
+   "ipa": "/ˈwɝkˌloʊd/",
+   "meaning": "khối lượng công việc, khối lượng học tập",
+   "pos": "danh từ",
+   "audio": "B2-04-w-workload.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The program is taught over two years, and students must earn sixty credits to graduate.",
+   "vi": "Chương trình được giảng dạy trong hai năm, và sinh viên phải tích lũy sáu mươi tín chỉ để tốt nghiệp.",
+   "audio": "B2-04-ex-1.mp3"
+  },
+  {
+   "en": "Most courses are delivered through weekly seminars, where you will be expected to present your ideas and respond to your peers.",
+   "vi": "Hầu hết các môn được dạy qua các buổi seminar hằng tuần, nơi bạn sẽ được yêu cầu trình bày ý kiến và phản hồi các bạn cùng khóa.",
+   "audio": "B2-04-ex-2.mp3"
+  },
+  {
+   "en": "In the second year, each student will be assigned a supervisor, who will guide you through your dissertation.",
+   "vi": "Năm thứ hai, mỗi sinh viên sẽ được phân công một người hướng dẫn, người sẽ dẫn dắt bạn trong suốt quá trình làm luận văn.",
+   "audio": "B2-04-ex-3.mp3"
+  },
+  {
+   "en": "All written work is checked for plagiarism, and every idea that is taken from another author must be acknowledged with a proper citation.",
+   "vi": "Mọi bài viết đều được kiểm tra đạo văn, và mọi ý tưởng lấy từ tác giả khác đều phải được ghi nhận bằng trích dẫn đúng quy cách.",
+   "audio": "B2-04-ex-4.mp3"
+  },
+  {
+   "en": "The workload is heavy, and assessment is based on essays, presentations and a final exam.",
+   "vi": "Khối lượng học tập nặng, và việc đánh giá dựa trên bài luận, bài thuyết trình và một bài thi cuối kỳ.",
+   "audio": "B2-04-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 116. Kỹ năng tích hợp: viết luận, báo cáo, thư trang trọng",
+ "vocabulary": [
+  {
+   "word": "criteria",
+   "ipa": "/kraɪˈtɪriə/",
+   "meaning": "các tiêu chí (số ít: criterion)",
+   "pos": "danh từ số nhiều",
+   "audio": "B2-116-w-criteria.mp3"
+  },
+  {
+   "word": "task achievement",
+   "ipa": "/ˈtæsk əˌtʃivmənt/",
+   "meaning": "mức độ hoàn thành nhiệm vụ của đề",
+   "pos": "danh từ",
+   "audio": "B2-116-w-task-achievement.mp3"
+  },
+  {
+   "word": "organization",
+   "ipa": "/ˌɔrɡənəˈzeɪʃən/",
+   "meaning": "cách tổ chức bài viết (Anh-Anh viết organisation)",
+   "pos": "danh từ",
+   "audio": "B2-116-w-organization.mp3"
+  },
+  {
+   "word": "lexical range",
+   "ipa": "/ˈlɛksɪkəl ˈreɪndʒ/",
+   "meaning": "độ phong phú của vốn từ",
+   "pos": "danh từ",
+   "audio": "B2-116-w-lexical-range.mp3"
+  },
+  {
+   "word": "grammatical accuracy",
+   "ipa": "/ɡrəˈmætɪkəl ˈækjərəsi/",
+   "meaning": "độ chính xác ngữ pháp",
+   "pos": "danh từ",
+   "audio": "B2-116-w-grammatical-accuracy.mp3"
+  },
+  {
+   "word": "self-assessment",
+   "ipa": "/ˌsɛlf əˈsɛsmənt/",
+   "meaning": "sự tự đánh giá, tự chấm",
+   "pos": "danh từ",
+   "audio": "B2-116-w-self-assessment.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The purpose of this report is to present the results of a recent survey on online lectures.",
+   "vi": "Mục đích của báo cáo này là trình bày kết quả của một khảo sát gần đây về bài giảng trực tuyến.",
+   "audio": "B2-116-ex-1.mp3"
+  },
+  {
+   "en": "Based on these findings, it is recommended that the faculty keep recorded lectures but combine them with weekly seminars.",
+   "vi": "Dựa trên các kết quả này, khoa nên giữ bài giảng ghi hình nhưng kết hợp với các buổi seminar hằng tuần.",
+   "audio": "B2-116-ex-2.mp3"
+  },
+  {
+   "en": "While online lectures offer greater flexibility, I would argue that they cannot fully replace face-to-face teaching.",
+   "vi": "Mặc dù bài giảng trực tuyến linh hoạt hơn, tôi cho rằng chúng không thể thay thế hoàn toàn việc dạy trực tiếp.",
+   "audio": "B2-116-ex-3.mp3"
+  },
+  {
+   "en": "Admittedly, recorded lectures save time for students who work full time; nevertheless, many of them feel isolated.",
+   "vi": "Phải thừa nhận rằng bài giảng ghi hình tiết kiệm thời gian cho sinh viên đi làm toàn thời gian; tuy vậy, nhiều người cảm thấy bị cô lập.",
+   "audio": "B2-116-ex-4.mp3"
+  },
+  {
+   "en": "I am writing with reference to the problems students have been experiencing with the online learning platform.",
+   "vi": "Tôi viết thư này liên quan đến những trục trặc mà sinh viên đang gặp phải với nền tảng học trực tuyến.",
+   "audio": "B2-116-ex-5.mp3"
+  }
+ ]
+}

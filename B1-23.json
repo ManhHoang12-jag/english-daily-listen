@@ -1,0 +1,74 @@
+{
+ "title": "Bài 23. Mệnh đề quan hệ với where, whose, when",
+ "vocabulary": [
+  {
+   "word": "office",
+   "ipa": "/ˈɔfɪs/",
+   "meaning": "văn phòng",
+   "pos": "danh từ",
+   "audio": "B1-23-w-office.mp3"
+  },
+  {
+   "word": "department",
+   "ipa": "/dɪˈpɑrtmənt/",
+   "meaning": "phòng, ban (trong công ty); khoa (ở trường)",
+   "pos": "danh từ",
+   "audio": "B1-23-w-department.mp3"
+  },
+  {
+   "word": "branch",
+   "ipa": "/bræntʃ/",
+   "meaning": "chi nhánh",
+   "pos": "danh từ",
+   "audio": "B1-23-w-branch.mp3"
+  },
+  {
+   "word": "headquarters",
+   "ipa": "/ˈhɛdˌkwɔrtɚz/",
+   "meaning": "trụ sở chính (luôn có s)",
+   "pos": "danh từ",
+   "audio": "B1-23-w-headquarters.mp3"
+  },
+  {
+   "word": "employee",
+   "ipa": "/ɪmˈplɔɪi/",
+   "meaning": "nhân viên, người làm thuê",
+   "pos": "danh từ",
+   "audio": "B1-23-w-employee.mp3"
+  },
+  {
+   "word": "employer",
+   "ipa": "/ɪmˈplɔɪɚ/",
+   "meaning": "chủ, người hoặc công ty thuê lao động",
+   "pos": "danh từ",
+   "audio": "B1-23-w-employer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This is the office where I work.",
+   "vi": "Đây là văn phòng nơi tôi làm việc.",
+   "audio": "B1-23-ex-1.mp3"
+  },
+  {
+   "en": "My employer is a company whose headquarters are in Singapore.",
+   "vi": "Chủ của tôi là một công ty có trụ sở chính ở Singapore.",
+   "audio": "B1-23-ex-2.mp3"
+  },
+  {
+   "en": "I work in a department whose manager is very friendly.",
+   "vi": "Tôi làm ở một phòng ban có người quản lý rất thân thiện.",
+   "audio": "B1-23-ex-3.mp3"
+  },
+  {
+   "en": "The company also has a branch in Da Nang where many new employees are trained.",
+   "vi": "Công ty còn có một chi nhánh ở Đà Nẵng, nơi nhiều nhân viên mới được đào tạo.",
+   "audio": "B1-23-ex-4.mp3"
+  },
+  {
+   "en": "Monday is the day when we have our team meeting.",
+   "vi": "Thứ Hai là ngày chúng tôi họp nhóm.",
+   "audio": "B1-23-ex-5.mp3"
+  }
+ ]
+}

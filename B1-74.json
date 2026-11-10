@@ -1,0 +1,88 @@
+{
+ "title": "Bài 74. Chủ đề: văn hóa và phong tục",
+ "vocabulary": [
+  {
+   "word": "custom",
+   "ipa": "/ˈkʌstəm/",
+   "meaning": "phong tục, tập quán",
+   "pos": "danh từ",
+   "audio": "B1-74-w-custom.mp3"
+  },
+  {
+   "word": "tradition",
+   "ipa": "/trəˈdɪʃən/",
+   "meaning": "truyền thống",
+   "pos": "danh từ",
+   "audio": "B1-74-w-tradition.mp3"
+  },
+  {
+   "word": "polite",
+   "ipa": "/pəˈlaɪt/",
+   "meaning": "lịch sự",
+   "pos": "tính từ",
+   "audio": "B1-74-w-polite.mp3"
+  },
+  {
+   "word": "rude",
+   "ipa": "/ruːd/",
+   "meaning": "bất lịch sự, thô lỗ",
+   "pos": "tính từ",
+   "audio": "B1-74-w-rude.mp3"
+  },
+  {
+   "word": "be supposed to",
+   "ipa": "/bi səˈpoʊst tə/",
+   "meaning": "theo lệ/quy định thì phải; lẽ ra phải (quá khứ)",
+   "pos": "cụm động từ",
+   "audio": "B1-74-w-be-supposed-to.mp3"
+  },
+  {
+   "word": "celebrate",
+   "ipa": "/ˈsɛləbreɪt/",
+   "meaning": "đón, ăn mừng, kỷ niệm",
+   "pos": "động từ",
+   "audio": "B1-74-w-celebrate.mp3"
+  },
+  {
+   "word": "festival",
+   "ipa": "/ˈfɛstəvəl/",
+   "meaning": "lễ hội",
+   "pos": "danh từ",
+   "audio": "B1-74-w-festival.mp3"
+  },
+  {
+   "word": "etiquette",
+   "ipa": "/ˈɛtɪkət/",
+   "meaning": "phép lịch sự, nghi thức xã giao",
+   "pos": "danh từ",
+   "audio": "B1-74-w-etiquette.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We celebrate the Lunar New Year in late January or February.",
+   "vi": "Chúng tôi đón Tết Nguyên đán vào cuối tháng Một hoặc tháng Hai.",
+   "audio": "B1-74-ex-1.mp3"
+  },
+  {
+   "en": "On the first day, it's common to visit relatives, and children get lucky money in red envelopes.",
+   "vi": "Vào ngày đầu tiên, người ta thường đi thăm họ hàng, và trẻ con được lì xì trong phong bao đỏ.",
+   "audio": "B1-74-ex-2.mp3"
+  },
+  {
+   "en": "You're supposed to wear new clothes and say only good things.",
+   "vi": "Theo lệ thì bạn nên mặc quần áo mới và chỉ nói điều tốt lành.",
+   "audio": "B1-74-ex-3.mp3"
+  },
+  {
+   "en": "It's rude to argue or break anything.",
+   "vi": "Cãi nhau hay làm vỡ đồ là điều không hay.",
+   "audio": "B1-74-ex-4.mp3"
+  },
+  {
+   "en": "In the West, New Year is one night of parties, whereas Tet lasts several days.",
+   "vi": "Ở phương Tây, năm mới là một đêm tiệc tùng, trong khi Tết kéo dài nhiều ngày.",
+   "audio": "B1-74-ex-5.mp3"
+  }
+ ]
+}

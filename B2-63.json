@@ -1,0 +1,74 @@
+{
+ "title": "Bài 63. Mạo từ nâng cao 1: khái quát hóa",
+ "vocabulary": [
+  {
+   "word": "the poor",
+   "ipa": "/ðə ˈpʊr/",
+   "meaning": "người nghèo (cả nhóm)",
+   "pos": "cụm danh từ (the + tính từ)",
+   "audio": "B2-63-w-the-poor.mp3"
+  },
+  {
+   "word": "the elderly",
+   "ipa": "/ði ˈɛldɚli/",
+   "meaning": "người cao tuổi (cả nhóm)",
+   "pos": "cụm danh từ (the + tính từ)",
+   "audio": "B2-63-w-the-elderly.mp3"
+  },
+  {
+   "word": "the unemployed",
+   "ipa": "/ði ˌʌnɪmˈplɔɪd/",
+   "meaning": "người thất nghiệp (cả nhóm)",
+   "pos": "cụm danh từ (the + tính từ)",
+   "audio": "B2-63-w-the-unemployed.mp3"
+  },
+  {
+   "word": "in general",
+   "ipa": "/ɪn ˈdʒɛnərəl/",
+   "meaning": "nói chung",
+   "pos": "cụm trạng từ",
+   "audio": "B2-63-w-in-general.mp3"
+  },
+  {
+   "word": "generic",
+   "ipa": "/dʒəˈnɛrɪk/",
+   "meaning": "chung, chỉ cả loại (generic reference: cách nói chung)",
+   "pos": "tính từ",
+   "audio": "B2-63-w-generic.mp3"
+  },
+  {
+   "word": "abstract",
+   "ipa": "/ˈæbstrækt/",
+   "meaning": "trừu tượng (abstract noun: danh từ trừu tượng)",
+   "pos": "tính từ",
+   "audio": "B2-63-w-abstract.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Inflation hurts the poor more than the rich, because they spend most of their income on food and housing.",
+   "vi": "Lạm phát gây hại cho người nghèo nhiều hơn người giàu, vì họ chi phần lớn thu nhập cho thực phẩm và nhà ở.",
+   "audio": "B2-63-ex-1.mp3"
+  },
+  {
+   "en": "The elderly are often the first to feel the effects of rising healthcare costs.",
+   "vi": "Người cao tuổi thường là những người đầu tiên chịu tác động của chi phí y tế tăng.",
+   "audio": "B2-63-ex-2.mp3"
+  },
+  {
+   "en": "The smartphone has changed the way people shop and pay for things.",
+   "vi": "Điện thoại thông minh đã thay đổi cách mọi người mua sắm và thanh toán.",
+   "audio": "B2-63-ex-3.mp3"
+  },
+  {
+   "en": "In general, unemployment rises during a recession.",
+   "vi": "Nói chung, thất nghiệp tăng trong thời kỳ suy thoái.",
+   "audio": "B2-63-ex-4.mp3"
+  },
+  {
+   "en": "Governments should do more to help the unemployed find new jobs.",
+   "vi": "Các chính phủ nên làm nhiều hơn để giúp người thất nghiệp tìm việc làm mới.",
+   "audio": "B2-63-ex-5.mp3"
+  }
+ ]
+}

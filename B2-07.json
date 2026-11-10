@@ -1,0 +1,81 @@
+{
+ "title": "Bài 07. Kỹ năng: ghi chú khi nghe và đọc",
+ "vocabulary": [
+  {
+   "word": "abbreviation",
+   "ipa": "/əˌbriviˈeɪʃən/",
+   "meaning": "chữ viết tắt",
+   "pos": "danh từ",
+   "audio": "B2-07-w-abbreviation.mp3"
+  },
+  {
+   "word": "symbol",
+   "ipa": "/ˈsɪmbəl/",
+   "meaning": "ký hiệu",
+   "pos": "danh từ",
+   "audio": "B2-07-w-symbol.mp3"
+  },
+  {
+   "word": "Cornell method",
+   "ipa": "/kɔrˈnɛl ˈmɛθəd/",
+   "meaning": "phương pháp ghi chú Cornell (cột ghi chú, cột gợi nhớ, ô tóm tắt)",
+   "pos": "cụm danh từ",
+   "audio": "B2-07-w-cornell-method.mp3"
+  },
+  {
+   "word": "mind map",
+   "ipa": "/ˈmaɪnd ˌmæp/",
+   "meaning": "sơ đồ tư duy",
+   "pos": "cụm danh từ",
+   "audio": "B2-07-w-mind-map.mp3"
+  },
+  {
+   "word": "summary",
+   "ipa": "/ˈsʌməri/",
+   "meaning": "bản tóm tắt",
+   "pos": "danh từ",
+   "audio": "B2-07-w-summary.mp3"
+  },
+  {
+   "word": "cue",
+   "ipa": "/kju/",
+   "meaning": "gợi ý, từ khóa gợi nhớ",
+   "pos": "danh từ",
+   "audio": "B2-07-w-cue.mp3"
+  },
+  {
+   "word": "condense",
+   "ipa": "/kənˈdɛns/",
+   "meaning": "rút gọn, cô đọng",
+   "pos": "động từ",
+   "audio": "B2-07-w-condense.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today I'd like to look at how sleep affects memory.",
+   "vi": "Hôm nay tôi muốn tìm hiểu giấc ngủ ảnh hưởng đến trí nhớ như thế nào.",
+   "audio": "B2-07-ex-1.mp3"
+  },
+  {
+   "en": "Consolidation, that is, the process of turning new information into long-term memories, happens mostly during deep sleep.",
+   "vi": "Củng cố trí nhớ, tức là quá trình biến thông tin mới thành ký ức dài hạn, diễn ra chủ yếu trong giấc ngủ sâu.",
+   "audio": "B2-07-ex-2.mp3"
+  },
+  {
+   "en": "In one experiment, students who slept for eight hours remembered more words the next morning than those who stayed awake.",
+   "vi": "Trong một thí nghiệm, sinh viên ngủ tám tiếng nhớ được nhiều từ hơn vào sáng hôm sau so với những người thức.",
+   "audio": "B2-07-ex-3.mp3"
+  },
+  {
+   "en": "Staying up all night before an exam gives you more hours of study, but it reduces how much you actually keep.",
+   "vi": "Thức trắng đêm trước kỳ thi cho bạn thêm giờ học, nhưng lại làm giảm lượng kiến thức bạn thật sự giữ lại.",
+   "audio": "B2-07-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, sleep is not wasted time; it is part of learning.",
+   "vi": "Tóm lại, ngủ không phải là phí thời gian; nó là một phần của việc học.",
+   "audio": "B2-07-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 17. Bị động hiện tại hoàn thành và với modal",
+ "vocabulary": [
+  {
+   "word": "announce",
+   "ipa": "/əˈnaʊns/",
+   "meaning": "thông báo, công bố",
+   "pos": "động từ",
+   "audio": "B1-17-w-announce.mp3"
+  },
+  {
+   "word": "cancel",
+   "ipa": "/ˈkænsəl/",
+   "meaning": "hủy (Mỹ: canceled; Anh: cancelled)",
+   "pos": "động từ",
+   "audio": "B1-17-w-cancel.mp3"
+  },
+  {
+   "word": "postpone",
+   "ipa": "/poʊstˈpoʊn/",
+   "meaning": "hoãn, dời lại",
+   "pos": "động từ",
+   "audio": "B1-17-w-postpone.mp3"
+  },
+  {
+   "word": "approve",
+   "ipa": "/əˈpruːv/",
+   "meaning": "duyệt, chấp thuận",
+   "pos": "động từ",
+   "audio": "B1-17-w-approve.mp3"
+  },
+  {
+   "word": "extend",
+   "ipa": "/ɪkˈstɛnd/",
+   "meaning": "gia hạn, kéo dài",
+   "pos": "động từ",
+   "audio": "B1-17-w-extend.mp3"
+  },
+  {
+   "word": "update",
+   "ipa": "/ʌpˈdeɪt/",
+   "meaning": "cập nhật",
+   "pos": "động từ, danh từ",
+   "audio": "B1-17-w-update.mp3"
+  },
+  {
+   "word": "notify",
+   "ipa": "/ˈnoʊtəfaɪ/",
+   "meaning": "báo tin (chính thức)",
+   "pos": "động từ",
+   "audio": "B1-17-w-notify.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The deadline for research proposals has been extended to May fifteenth.",
+   "vi": "Hạn nộp đề cương nghiên cứu đã được gia hạn đến ngày 15 tháng 5.",
+   "audio": "B1-17-ex-1.mp3"
+  },
+  {
+   "en": "Proposals must be submitted online.",
+   "vi": "Đề cương phải được nộp trực tuyến.",
+   "audio": "B1-17-ex-2.mp3"
+  },
+  {
+   "en": "The Saturday field trip has been canceled because of the weather.",
+   "vi": "Chuyến đi thực tế thứ Bảy đã bị hủy vì thời tiết.",
+   "audio": "B1-17-ex-3.mp3"
+  },
+  {
+   "en": "You will be notified by email when a new date is announced.",
+   "vi": "Bạn sẽ được báo qua email khi có ngày mới được công bố.",
+   "audio": "B1-17-ex-4.mp3"
+  },
+  {
+   "en": "Twelve scholarship applications have been approved.",
+   "vi": "Mười hai hồ sơ học bổng đã được duyệt.",
+   "audio": "B1-17-ex-5.mp3"
+  }
+ ]
+}

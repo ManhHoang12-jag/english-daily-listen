@@ -1,0 +1,74 @@
+{
+ "title": "Bài 09. Kỹ năng: viết câu chuyện 120–150 từ",
+ "vocabulary": [
+  {
+   "word": "at first",
+   "ipa": "/ət ˈfɝːst/",
+   "meaning": "lúc đầu (sau đó thay đổi)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-09-w-at-first.mp3"
+  },
+  {
+   "word": "meanwhile",
+   "ipa": "/ˈmiːnˌwaɪl/",
+   "meaning": "trong khi đó",
+   "pos": "trạng từ",
+   "audio": "B1-09-w-meanwhile.mp3"
+  },
+  {
+   "word": "just then",
+   "ipa": "/ˌdʒʌst ˈðɛn/",
+   "meaning": "đúng lúc đó",
+   "pos": "cụm trạng từ",
+   "audio": "B1-09-w-just-then.mp3"
+  },
+  {
+   "word": "all of a sudden",
+   "ipa": "/ˌɔːl əv ə ˈsʌdən/",
+   "meaning": "bỗng nhiên, đột nhiên",
+   "pos": "cụm trạng từ",
+   "audio": "B1-09-w-all-of-a-sudden.mp3"
+  },
+  {
+   "word": "to my surprise",
+   "ipa": "/tə maɪ sɚˈpraɪz/",
+   "meaning": "thật bất ngờ (với tôi) là",
+   "pos": "cụm trạng từ",
+   "audio": "B1-09-w-to-my-surprise.mp3"
+  },
+  {
+   "word": "luckily",
+   "ipa": "/ˈlʌkəli/",
+   "meaning": "may mắn là, may mà",
+   "pos": "trạng từ",
+   "audio": "B1-09-w-luckily.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At first, I thought I had walked into the wrong apartment.",
+   "vi": "Lúc đầu, tôi tưởng mình đã vào nhầm căn hộ.",
+   "audio": "B1-09-ex-1.mp3"
+  },
+  {
+   "en": "Then my sister jumped out from behind the sofa and shouted, \"Happy birthday!\"",
+   "vi": "Rồi em gái tôi nhảy ra từ sau ghế sofa và hét lên: \"Chúc mừng sinh nhật!\"",
+   "audio": "B1-09-ex-2.mp3"
+  },
+  {
+   "en": "Meanwhile, my family had secretly planned this party for a month.",
+   "vi": "Trong khi đó, gia đình tôi đã bí mật lên kế hoạch cho bữa tiệc này cả tháng.",
+   "audio": "B1-09-ex-3.mp3"
+  },
+  {
+   "en": "We were laughing at old photos when, all of a sudden, the lights went out.",
+   "vi": "Chúng tôi đang cười xem ảnh cũ thì bỗng nhiên đèn tắt phụt.",
+   "audio": "B1-09-ex-4.mp3"
+  },
+  {
+   "en": "Luckily, I hadn't eaten dinner yet!",
+   "vi": "May mà tôi chưa ăn tối!",
+   "audio": "B1-09-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 79. Kỹ năng: đọc lướt, đọc quét và đoán nghĩa từ",
+ "vocabulary": [
+  {
+   "word": "skim",
+   "ipa": "/skɪm/",
+   "meaning": "đọc lướt để nắm ý chính",
+   "pos": "động từ",
+   "audio": "B1-79-w-skim.mp3"
+  },
+  {
+   "word": "scan",
+   "ipa": "/skæn/",
+   "meaning": "đọc quét để tìm một chi tiết",
+   "pos": "động từ",
+   "audio": "B1-79-w-scan.mp3"
+  },
+  {
+   "word": "guess",
+   "ipa": "/ɡɛs/",
+   "meaning": "đoán",
+   "pos": "động từ / danh từ",
+   "audio": "B1-79-w-guess.mp3"
+  },
+  {
+   "word": "context",
+   "ipa": "/ˈkɑːntɛkst/",
+   "meaning": "ngữ cảnh",
+   "pos": "danh từ",
+   "audio": "B1-79-w-context.mp3"
+  },
+  {
+   "word": "clue",
+   "ipa": "/kluː/",
+   "meaning": "manh mối, gợi ý",
+   "pos": "danh từ",
+   "audio": "B1-79-w-clue.mp3"
+  },
+  {
+   "word": "meaning",
+   "ipa": "/ˈmiːnɪŋ/",
+   "meaning": "nghĩa",
+   "pos": "danh từ",
+   "audio": "B1-79-w-meaning.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At a digital detox retreat in the hills outside Da Lat, guests hand over their devices when they arrive.",
+   "vi": "Tại một khu nghỉ dưỡng \"cai nghiện điện thoại\" trên đồi ngoại ô Đà Lạt, khách giao lại thiết bị khi đến nơi.",
+   "audio": "B1-79-ex-1.mp3"
+  },
+  {
+   "en": "I felt restless and kept reaching for my pocket.",
+   "vi": "Tôi thấy bồn chồn và cứ đưa tay vào túi.",
+   "audio": "B1-79-ex-2.mp3"
+  },
+  {
+   "en": "By Sunday, however, most people say they feel calmer and sleep better.",
+   "vi": "Tuy nhiên, đến Chủ nhật, phần lớn mọi người nói họ thấy bình tĩnh hơn và ngủ ngon hơn.",
+   "audio": "B1-79-ex-3.mp3"
+  },
+  {
+   "en": "Last year, volunteers fixed more than six hundred items.",
+   "vi": "Năm ngoái, các tình nguyện viên đã sửa hơn sáu trăm món đồ.",
+   "audio": "B1-79-ex-4.mp3"
+  },
+  {
+   "en": "Repairs are free, but donations are welcome.",
+   "vi": "Sửa chữa miễn phí, nhưng khách được hoan nghênh đóng góp tự nguyện.",
+   "audio": "B1-79-ex-5.mp3"
+  }
+ ]
+}

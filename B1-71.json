@@ -1,0 +1,88 @@
+{
+ "title": "Bài 71. Chủ đề: các mối quan hệ",
+ "vocabulary": [
+  {
+   "word": "get on with",
+   "ipa": "/ɡɛt ˈɑːn wɪð/",
+   "meaning": "hợp với, quan hệ tốt với",
+   "pos": "cụm động từ",
+   "audio": "B1-71-w-get-on-with.mp3"
+  },
+  {
+   "word": "fall out with",
+   "ipa": "/fɔːl ˈaʊt wɪð/",
+   "meaning": "cãi nhau rồi giận, bất hòa với",
+   "pos": "cụm động từ",
+   "audio": "B1-71-w-fall-out-with.mp3"
+  },
+  {
+   "word": "make up",
+   "ipa": "/meɪk ˈʌp/",
+   "meaning": "làm lành",
+   "pos": "cụm động từ",
+   "audio": "B1-71-w-make-up.mp3"
+  },
+  {
+   "word": "look up to",
+   "ipa": "/lʊk ˈʌp tuː/",
+   "meaning": "kính trọng, ngưỡng mộ",
+   "pos": "cụm động từ",
+   "audio": "B1-71-w-look-up-to.mp3"
+  },
+  {
+   "word": "rely on",
+   "ipa": "/rɪˈlaɪ ɑːn/",
+   "meaning": "dựa vào, tin cậy vào",
+   "pos": "cụm động từ",
+   "audio": "B1-71-w-rely-on.mp3"
+  },
+  {
+   "word": "trust",
+   "ipa": "/trʌst/",
+   "meaning": "tin tưởng; lòng tin",
+   "pos": "động từ / danh từ",
+   "audio": "B1-71-w-trust.mp3"
+  },
+  {
+   "word": "argue",
+   "ipa": "/ˈɑːrɡjuː/",
+   "meaning": "cãi nhau, tranh cãi",
+   "pos": "động từ",
+   "audio": "B1-71-w-argue.mp3"
+  },
+  {
+   "word": "support",
+   "ipa": "/səˈpɔːrt/",
+   "meaning": "ủng hộ, giúp đỡ",
+   "pos": "động từ",
+   "audio": "B1-71-w-support.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I get on really well with my older sister.",
+   "vi": "Tôi rất hợp với chị gái.",
+   "audio": "B1-71-ex-1.mp3"
+  },
+  {
+   "en": "Minh fell out with his best friend over money last year.",
+   "vi": "Năm ngoái Minh giận bạn thân vì chuyện tiền bạc.",
+   "audio": "B1-71-ex-2.mp3"
+  },
+  {
+   "en": "They argued all evening, but they made up the next morning.",
+   "vi": "Họ cãi nhau cả buổi tối, nhưng sáng hôm sau đã làm lành.",
+   "audio": "B1-71-ex-3.mp3"
+  },
+  {
+   "en": "I've always looked up to my grandfather because he worked so hard for his family.",
+   "vi": "Tôi luôn kính trọng ông nội vì ông đã làm việc rất vất vả vì gia đình.",
+   "audio": "B1-71-ex-4.mp3"
+  },
+  {
+   "en": "You can always rely on Hoa. She always keeps her promises.",
+   "vi": "Bạn luôn có thể tin cậy vào Hoa. Cô ấy luôn giữ lời hứa.",
+   "audio": "B1-71-ex-5.mp3"
+  }
+ ]
+}

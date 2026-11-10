@@ -1,0 +1,74 @@
+{
+ "title": "Bài 89. Kỹ năng tích hợp: nói trải nghiệm, ý kiến và thảo luận",
+ "vocabulary": [
+  {
+   "word": "experience",
+   "ipa": "/ɪkˈspɪriəns/",
+   "meaning": "trải nghiệm; kinh nghiệm",
+   "pos": "danh từ",
+   "audio": "B1-89-w-experience.mp3"
+  },
+  {
+   "word": "reason",
+   "ipa": "/ˈriːzən/",
+   "meaning": "lý do",
+   "pos": "danh từ",
+   "audio": "B1-89-w-reason.mp3"
+  },
+  {
+   "word": "example",
+   "ipa": "/ɪɡˈzæmpəl/",
+   "meaning": "ví dụ",
+   "pos": "danh từ",
+   "audio": "B1-89-w-example.mp3"
+  },
+  {
+   "word": "interact",
+   "ipa": "/ˌɪntɚˈækt/",
+   "meaning": "tương tác, trao đổi qua lại",
+   "pos": "động từ",
+   "audio": "B1-89-w-interact.mp3"
+  },
+  {
+   "word": "turn-taking",
+   "ipa": "/ˈtɝːnˌteɪkɪŋ/",
+   "meaning": "luân phiên lượt nói trong hội thoại",
+   "pos": "danh từ",
+   "audio": "B1-89-w-turn-taking.mp3"
+  },
+  {
+   "word": "fluency",
+   "ipa": "/ˈfluːənsi/",
+   "meaning": "sự trôi chảy, lưu loát",
+   "pos": "danh từ",
+   "audio": "B1-89-w-fluency.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Well, I've been working as an accountant for about five years, and I really enjoy it because every day brings a new problem to solve.",
+   "vi": "À, tôi làm kế toán được khoảng năm năm rồi, và tôi rất thích công việc này vì ngày nào cũng có một vấn đề mới để giải quyết.",
+   "audio": "B1-89-ex-1.mp3"
+  },
+  {
+   "en": "I'd like to talk about a trip I took to Sapa three years ago, which was one of the best experiences of my life.",
+   "vi": "Tôi muốn kể về chuyến đi Sa Pa ba năm trước, đó là một trong những trải nghiệm tuyệt nhất đời tôi.",
+   "audio": "B1-89-ex-2.mp3"
+  },
+  {
+   "en": "In my opinion, young people should learn to cook, because it saves money and it's much healthier. For example, my brother started cooking last year, and he feels much better now.",
+   "vi": "Theo tôi, người trẻ nên học nấu ăn, vì nó tiết kiệm tiền và tốt cho sức khỏe hơn nhiều. Ví dụ, em trai tôi bắt đầu nấu ăn từ năm ngoái, và giờ thấy khỏe hơn hẳn.",
+   "audio": "B1-89-ex-3.mp3"
+  },
+  {
+   "en": "I see what you mean, but I'm not sure I agree. What do you think about the cost?",
+   "vi": "Tôi hiểu ý bạn, nhưng tôi không chắc là mình đồng ý. Bạn nghĩ sao về chi phí?",
+   "audio": "B1-89-ex-4.mp3"
+  },
+  {
+   "en": "Sorry, could you say that again? I didn't quite catch the last part.",
+   "vi": "Xin lỗi, bạn nói lại được không? Tôi chưa nghe rõ phần cuối.",
+   "audio": "B1-89-ex-5.mp3"
+  }
+ ]
+}

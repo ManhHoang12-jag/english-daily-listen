@@ -1,0 +1,74 @@
+{
+ "title": "Bài 42. Câu tường thuật: lời nói",
+ "vocabulary": [
+  {
+   "word": "mention",
+   "ipa": "/ˈmɛnʃən/",
+   "meaning": "nhắc đến, đề cập",
+   "pos": "động từ",
+   "audio": "B1-42-w-mention.mp3"
+  },
+  {
+   "word": "explain",
+   "ipa": "/ɪkˈspleɪn/",
+   "meaning": "giải thích (ôn B1 · Bài 27)",
+   "pos": "động từ",
+   "audio": "B1-42-w-explain.mp3"
+  },
+  {
+   "word": "reply",
+   "ipa": "/rɪˈplaɪ/",
+   "meaning": "đáp lại, trả lời",
+   "pos": "động từ",
+   "audio": "B1-42-w-reply.mp3"
+  },
+  {
+   "word": "announce",
+   "ipa": "/əˈnaʊns/",
+   "meaning": "thông báo (công khai) (ôn B1 · Bài 17)",
+   "pos": "động từ",
+   "audio": "B1-42-w-announce.mp3"
+  },
+  {
+   "word": "claim",
+   "ipa": "/kleɪm/",
+   "meaning": "khẳng định, cho rằng (có thể chưa chắc đúng)",
+   "pos": "động từ",
+   "audio": "B1-42-w-claim.mp3"
+  },
+  {
+   "word": "promise",
+   "ipa": "/ˈprɑmɪs/",
+   "meaning": "hứa",
+   "pos": "động từ",
+   "audio": "B1-42-w-promise.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She said that she was too tired to go out.",
+   "vi": "Cô ấy nói rằng cô ấy mệt quá không đi chơi được.",
+   "audio": "B1-42-ex-1.mp3"
+  },
+  {
+   "en": "He told me that he would pay back the money.",
+   "vi": "Anh ấy nói với tôi rằng anh ấy sẽ trả lại tiền.",
+   "audio": "B1-42-ex-2.mp3"
+  },
+  {
+   "en": "The manager announced that the office would close early on Friday.",
+   "vi": "Quản lý thông báo rằng văn phòng sẽ đóng cửa sớm vào thứ Sáu.",
+   "audio": "B1-42-ex-3.mp3"
+  },
+  {
+   "en": "My colleague mentioned that she was looking for a new job.",
+   "vi": "Đồng nghiệp của tôi có nhắc rằng cô ấy đang tìm việc mới.",
+   "audio": "B1-42-ex-4.mp3"
+  },
+  {
+   "en": "The company claimed that its app could detect fake news.",
+   "vi": "Công ty khẳng định ứng dụng của họ có thể phát hiện tin giả.",
+   "audio": "B1-42-ex-5.mp3"
+  }
+ ]
+}

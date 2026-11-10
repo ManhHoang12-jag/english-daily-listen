@@ -1,0 +1,74 @@
+{
+ "title": "Bài 58. Kỹ năng: nói đưa ý kiến có lý do và tranh luận",
+ "vocabulary": [
+  {
+   "word": "argue",
+   "ipa": "/ˈɑrɡjuː/",
+   "meaning": "lập luận (argue that); cãi nhau (argue with)",
+   "pos": "động từ",
+   "audio": "B1-58-w-argue.mp3"
+  },
+  {
+   "word": "point of view",
+   "ipa": "/ˌpɔɪnt əv ˈvjuː/",
+   "meaning": "quan điểm",
+   "pos": "cụm danh từ",
+   "audio": "B1-58-w-point-of-view.mp3"
+  },
+  {
+   "word": "partly agree",
+   "ipa": "/ˈpɑrtli əˈɡriː/",
+   "meaning": "đồng ý một phần",
+   "pos": "cụm động từ",
+   "audio": "B1-58-w-partly-agree.mp3"
+  },
+  {
+   "word": "exactly",
+   "ipa": "/ɪɡˈzæktli/",
+   "meaning": "chính xác, đúng vậy (đồng ý hoàn toàn)",
+   "pos": "trạng từ",
+   "audio": "B1-58-w-exactly.mp3"
+  },
+  {
+   "word": "I'm not convinced",
+   "ipa": "/aɪm nɑt kənˈvɪnst/",
+   "meaning": "tôi chưa bị thuyết phục, tôi chưa tin lắm",
+   "pos": "cụm câu",
+   "audio": "B1-58-w-i-m-not-convinced.mp3"
+  },
+  {
+   "word": "on balance",
+   "ipa": "/ɑn ˈbæləns/",
+   "meaning": "cân nhắc mọi mặt, xét cho cùng",
+   "pos": "cụm trạng từ",
+   "audio": "B1-58-w-on-balance.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "From my point of view, the city should close the center to cars on weekends.",
+   "vi": "Theo quan điểm của tôi, thành phố nên cấm ô tô vào trung tâm vào cuối tuần.",
+   "audio": "B1-58-ex-1.mp3"
+  },
+  {
+   "en": "I see your point, but many people need their cars to visit their families.",
+   "vi": "Tôi hiểu ý bạn, nhưng nhiều người cần ô tô để đi thăm gia đình.",
+   "audio": "B1-58-ex-2.mp3"
+  },
+  {
+   "en": "That may be true. However, if the buses ran more often, fewer people would need to drive.",
+   "vi": "Có thể đúng vậy. Tuy nhiên, nếu xe buýt chạy thường xuyên hơn, sẽ ít người phải lái xe hơn.",
+   "audio": "B1-58-ex-3.mp3"
+  },
+  {
+   "en": "I partly agree with you, but if the city closes the center, some shops might lose customers.",
+   "vi": "Tôi đồng ý một phần với bạn, nhưng nếu thành phố đóng cửa khu trung tâm, một số cửa hàng có thể mất khách.",
+   "audio": "B1-58-ex-4.mp3"
+  },
+  {
+   "en": "I'm not convinced that shops will lose customers. On balance, I think the benefits are greater than the costs.",
+   "vi": "Tôi chưa tin là cửa hàng sẽ mất khách. Cân nhắc mọi mặt, tôi nghĩ lợi ích lớn hơn chi phí.",
+   "audio": "B1-58-ex-5.mp3"
+  }
+ ]
+}

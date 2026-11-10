@@ -1,0 +1,81 @@
+{
+ "title": "Bài 28. Kỹ năng: nghe bài giảng khoa học và ghi chú quá trình",
+ "vocabulary": [
+  {
+   "word": "initially",
+   "ipa": "/ɪˈnɪʃəli/",
+   "meaning": "lúc đầu, ban đầu",
+   "pos": "trạng từ",
+   "audio": "B2-28-w-initially.mp3"
+  },
+  {
+   "word": "subsequently",
+   "ipa": "/ˈsʌbsɪkwəntli/",
+   "meaning": "sau đó (trang trọng)",
+   "pos": "trạng từ",
+   "audio": "B2-28-w-subsequently.mp3"
+  },
+  {
+   "word": "stage",
+   "ipa": "/steɪdʒ/",
+   "meaning": "giai đoạn",
+   "pos": "danh từ",
+   "audio": "B2-28-w-stage.mp3"
+  },
+  {
+   "word": "process",
+   "ipa": "/ˈprɑsɛs/",
+   "meaning": "quá trình",
+   "pos": "danh từ",
+   "audio": "B2-28-w-process.mp3"
+  },
+  {
+   "word": "cycle",
+   "ipa": "/ˈsaɪkəl/",
+   "meaning": "chu trình, vòng tuần hoàn",
+   "pos": "danh từ",
+   "audio": "B2-28-w-cycle.mp3"
+  },
+  {
+   "word": "result in",
+   "ipa": "/rɪˈzʌlt ɪn/",
+   "meaning": "dẫn đến, gây ra kết quả là",
+   "pos": "cụm động từ",
+   "audio": "B2-28-w-result-in.mp3"
+  },
+  {
+   "word": "transform",
+   "ipa": "/trænsˈfɔrm/",
+   "meaning": "biến đổi",
+   "pos": "động từ",
+   "audio": "B2-28-w-transform.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today we're looking at the rock cycle, the slow process by which rocks are formed, broken down and transformed into new types of rock. A cycle has no real beginning, but we'll start deep inside the Earth, with melted rock, or magma.",
+   "vi": "Hôm nay ta tìm hiểu vòng tuần hoàn của đá, quá trình chậm rãi trong đó đá được hình thành, bị phá vỡ và biến đổi thành loại đá mới. Chu trình không có điểm đầu thật sự, nhưng ta sẽ bắt đầu ở sâu trong lòng đất, với đá nóng chảy, hay magma.",
+   "audio": "B2-28-ex-1.mp3"
+  },
+  {
+   "en": "Initially, the magma rises toward the surface. Some of it cools slowly underground, and some erupts from volcanoes as lava. Either way, once the magma has cooled and become solid, we call it igneous rock.",
+   "vi": "Lúc đầu, magma dâng lên gần bề mặt. Một phần nguội chậm dưới lòng đất, một phần phun ra từ núi lửa thành dung nham. Dù theo cách nào, một khi magma đã nguội và đông cứng, ta gọi nó là đá magma.",
+   "audio": "B2-28-ex-2.mp3"
+  },
+  {
+   "en": "At this stage, weathering takes over. Wind and rain gradually break the rock into tiny pieces, called sediment. Rivers carry the sediment to lakes and the sea, where it settles in layers. Over millions of years, the layers are pressed together, and this results in sedimentary rock.",
+   "vi": "Ở giai đoạn này, phong hóa bắt đầu. Gió và mưa dần làm đá vỡ thành những mảnh nhỏ gọi là trầm tích. Sông mang trầm tích ra hồ và biển, nơi nó lắng thành từng lớp. Qua hàng triệu năm, các lớp bị nén lại, tạo thành đá trầm tích.",
+   "audio": "B2-28-ex-3.mp3"
+  },
+  {
+   "en": "Subsequently, some of this rock may be pushed deep underground by movements of the Earth's crust. Down there, it's exposed to enormous heat and pressure. It doesn't melt, but it's transformed into metamorphic rock. Marble, for example, is formed from limestone in this way.",
+   "vi": "Sau đó, một phần đá này có thể bị đẩy sâu xuống lòng đất do chuyển động của vỏ Trái Đất. Ở đó, nó chịu nhiệt độ và áp suất cực lớn. Nó không tan chảy, nhưng biến đổi thành đá biến chất. Ví dụ, đá cẩm thạch hình thành từ đá vôi theo cách này.",
+   "audio": "B2-28-ex-4.mp3"
+  },
+  {
+   "en": "Once this has happened, there are two possibilities. The rock may be pushed even deeper, where it melts and becomes magma again. Or it may be lifted back to the surface and broken down into sediment. Either way, the cycle starts over.",
+   "vi": "Một khi điều này đã xảy ra, có hai khả năng. Đá có thể bị đẩy sâu hơn, nơi nó tan chảy và lại thành magma. Hoặc nó được nâng lên bề mặt và bị phá vỡ thành trầm tích. Dù theo cách nào, chu trình lại bắt đầu.",
+   "audio": "B2-28-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 09. Chiến lược suy luận nghĩa từ",
+ "vocabulary": [
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝ/",
+   "meaning": "suy ra, suy luận (từ thông tin có sẵn)",
+   "pos": "động từ",
+   "audio": "B2-09-w-infer.mp3"
+  },
+  {
+   "word": "deduce",
+   "ipa": "/dɪˈdus/",
+   "meaning": "suy luận, suy ra (theo logic)",
+   "pos": "động từ",
+   "audio": "B2-09-w-deduce.mp3"
+  },
+  {
+   "word": "context clue",
+   "ipa": "/ˈkɑntɛkst ˌklu/",
+   "meaning": "manh mối ngữ cảnh",
+   "pos": "cụm danh từ",
+   "audio": "B2-09-w-context-clue.mp3"
+  },
+  {
+   "word": "definition",
+   "ipa": "/ˌdɛfəˈnɪʃən/",
+   "meaning": "định nghĩa",
+   "pos": "danh từ",
+   "audio": "B2-09-w-definition.mp3"
+  },
+  {
+   "word": "contrast",
+   "ipa": "/ˈkɑntræst/",
+   "meaning": "sự đối lập, tương phản",
+   "pos": "danh từ",
+   "audio": "B2-09-w-contrast.mp3"
+  },
+  {
+   "word": "synonym",
+   "ipa": "/ˈsɪnənɪm/",
+   "meaning": "từ đồng nghĩa",
+   "pos": "danh từ",
+   "audio": "B2-09-w-synonym.mp3"
+  },
+  {
+   "word": "word part",
+   "ipa": "/ˈwɝd ˌpɑrt/",
+   "meaning": "thành phần cấu tạo từ (tiền tố, gốc từ, hậu tố)",
+   "pos": "cụm danh từ",
+   "audio": "B2-09-w-word-part.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Many cities are now trying to mitigate the effects of heat waves, that is, to make them less severe.",
+   "vi": "Nhiều thành phố đang cố giảm nhẹ tác động của các đợt nắng nóng, tức là làm cho chúng bớt khắc nghiệt.",
+   "audio": "B2-09-ex-1.mp3"
+  },
+  {
+   "en": "Green space is scarce in older neighborhoods, whereas newer districts often have plenty of parks.",
+   "vi": "Không gian xanh khan hiếm ở các khu phố cũ, trong khi các quận mới thường có nhiều công viên.",
+   "audio": "B2-09-ex-2.mp3"
+  },
+  {
+   "en": "Some cities have introduced incentives, such as tax cuts and free trees, to encourage residents to plant greenery.",
+   "vi": "Một số thành phố đã đưa ra các biện pháp khuyến khích, như giảm thuế và tặng cây, để động viên người dân trồng cây xanh.",
+   "audio": "B2-09-ex-3.mp3"
+  },
+  {
+   "en": "Lan realized that her habits were detrimental to her grades and her health, harmful in ways she had not noticed.",
+   "vi": "Lan nhận ra thói quen của mình có hại cho điểm số và sức khỏe, có hại theo những cách cô chưa từng để ý.",
+   "audio": "B2-09-ex-4.mp3"
+  },
+  {
+   "en": "Some users misinterpret short messages, reading anger where none was intended.",
+   "vi": "Một số người dùng hiểu sai các tin nhắn ngắn, đọc ra sự giận dữ ở chỗ người viết không hề có ý đó.",
+   "audio": "B2-09-ex-5.mp3"
+  }
+ ]
+}

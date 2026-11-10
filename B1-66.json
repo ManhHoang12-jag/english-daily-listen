@@ -1,0 +1,74 @@
+{
+ "title": "Bài 66. Remember, forget, stop, try + V-ing / to V",
+ "vocabulary": [
+  {
+   "word": "remember",
+   "ipa": "/rɪˈmɛmbɚ/",
+   "meaning": "nhớ (to V: nhớ phải làm; V-ing: nhớ đã làm)",
+   "pos": "động từ",
+   "audio": "B1-66-w-remember.mp3"
+  },
+  {
+   "word": "forget",
+   "ipa": "/fɚˈɡɛt/",
+   "meaning": "quên (to V: quên làm; V-ing: quên chuyện đã qua)",
+   "pos": "động từ",
+   "audio": "B1-66-w-forget.mp3"
+  },
+  {
+   "word": "stop",
+   "ipa": "/stɑp/",
+   "meaning": "ngừng, thôi (V-ing); dừng lại để (to V)",
+   "pos": "động từ",
+   "audio": "B1-66-w-stop.mp3"
+  },
+  {
+   "word": "try",
+   "ipa": "/traɪ/",
+   "meaning": "cố gắng (to V); thử (V-ing)",
+   "pos": "động từ",
+   "audio": "B1-66-w-try.mp3"
+  },
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡrɛt/",
+   "meaning": "hối tiếc (+ V-ing)",
+   "pos": "động từ",
+   "audio": "B1-66-w-regret.mp3"
+  },
+  {
+   "word": "go on",
+   "ipa": "/ˌɡoʊ ˈɑn/",
+   "meaning": "tiếp tục (+ V-ing); chuyển sang làm (+ to V)",
+   "pos": "cụm động từ",
+   "audio": "B1-66-w-go-on.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I clearly remember locking the door before I left.",
+   "vi": "Tôi nhớ rõ là đã khóa cửa trước khi đi.",
+   "audio": "B1-66-ex-1.mp3"
+  },
+  {
+   "en": "Don't forget to call your grandmother on her birthday.",
+   "vi": "Đừng quên gọi điện cho bà vào ngày sinh nhật bà nhé.",
+   "audio": "B1-66-ex-2.mp3"
+  },
+  {
+   "en": "We stopped to buy some water on the way to the beach.",
+   "vi": "Chúng tôi dừng lại mua ít nước trên đường ra biển.",
+   "audio": "B1-66-ex-3.mp3"
+  },
+  {
+   "en": "If you can't sleep, try drinking a glass of warm milk.",
+   "vi": "Nếu bạn không ngủ được, thử uống một ly sữa ấm xem.",
+   "audio": "B1-66-ex-4.mp3"
+  },
+  {
+   "en": "I regret not studying harder when I was in school.",
+   "vi": "Tôi hối tiếc vì hồi đi học đã không học chăm hơn.",
+   "audio": "B1-66-ex-5.mp3"
+  }
+ ]
+}

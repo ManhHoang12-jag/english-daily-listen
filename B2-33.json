@@ -1,0 +1,81 @@
+{
+ "title": "Bài 33. Động từ tường thuật trong văn học thuật",
+ "vocabulary": [
+  {
+   "word": "argue",
+   "ipa": "/ˈɑrɡju/",
+   "meaning": "lập luận, cho rằng (argue that)",
+   "pos": "động từ",
+   "audio": "B2-33-w-argue.mp3"
+  },
+  {
+   "word": "claim",
+   "ipa": "/kleɪm/",
+   "meaning": "khẳng định (chưa chắc đúng); lời khẳng định",
+   "pos": "động từ / danh từ",
+   "audio": "B2-33-w-claim.mp3"
+  },
+  {
+   "word": "state",
+   "ipa": "/steɪt/",
+   "meaning": "nêu rõ, phát biểu (state that)",
+   "pos": "động từ",
+   "audio": "B2-33-w-state.mp3"
+  },
+  {
+   "word": "maintain",
+   "ipa": "/meɪnˈteɪn/",
+   "meaning": "giữ vững quan điểm rằng (maintain that)",
+   "pos": "động từ",
+   "audio": "B2-33-w-maintain.mp3"
+  },
+  {
+   "word": "acknowledge",
+   "ipa": "/əkˈnɑlɪdʒ/",
+   "meaning": "thừa nhận (acknowledge that)",
+   "pos": "động từ",
+   "audio": "B2-33-w-acknowledge.mp3"
+  },
+  {
+   "word": "contend",
+   "ipa": "/kənˈtɛnd/",
+   "meaning": "cho rằng, quả quyết (rất trang trọng)",
+   "pos": "động từ",
+   "audio": "B2-33-w-contend.mp3"
+  },
+  {
+   "word": "according to",
+   "ipa": "/əˈkɔrdɪŋ tu/",
+   "meaning": "theo (nguồn nào đó)",
+   "pos": "giới từ",
+   "audio": "B2-33-w-according-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Carter argues that remote work increases productivity for most office staff.",
+   "vi": "Carter lập luận rằng làm việc từ xa làm tăng năng suất của hầu hết nhân viên văn phòng.",
+   "audio": "B2-33-ex-1.mp3"
+  },
+  {
+   "en": "Nguyen claims that these benefits are often exaggerated.",
+   "vi": "Nguyen khẳng định rằng những lợi ích này thường bị thổi phồng.",
+   "audio": "B2-33-ex-2.mp3"
+  },
+  {
+   "en": "The report states that sixty percent of employees prefer a hybrid schedule.",
+   "vi": "Báo cáo nêu rằng sáu mươi phần trăm nhân viên thích lịch làm việc kết hợp.",
+   "audio": "B2-33-ex-3.mp3"
+  },
+  {
+   "en": "According to Lee, managers still find it difficult to evaluate remote staff.",
+   "vi": "Theo Lee, các nhà quản lý vẫn thấy khó đánh giá nhân viên làm từ xa.",
+   "audio": "B2-33-ex-4.mp3"
+  },
+  {
+   "en": "While Nguyen acknowledges that flexibility improves job satisfaction, she maintains that face-to-face contact is essential for new staff.",
+   "vi": "Dù Nguyen thừa nhận rằng sự linh hoạt làm tăng mức hài lòng với công việc, bà vẫn giữ quan điểm rằng gặp mặt trực tiếp là thiết yếu với nhân viên mới.",
+   "audio": "B2-33-ex-5.mp3"
+  }
+ ]
+}

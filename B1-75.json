@@ -1,0 +1,88 @@
+{
+ "title": "Bài 75. Chủ đề: du lịch gặp sự cố và phàn nàn",
+ "vocabulary": [
+  {
+   "word": "complaint",
+   "ipa": "/kəmˈpleɪnt/",
+   "meaning": "lời phàn nàn, đơn khiếu nại",
+   "pos": "danh từ",
+   "audio": "B1-75-w-complaint.mp3"
+  },
+  {
+   "word": "refund",
+   "ipa": "/ˈriːfʌnd/",
+   "meaning": "tiền hoàn lại",
+   "pos": "danh từ",
+   "audio": "B1-75-w-refund.mp3"
+  },
+  {
+   "word": "compensation",
+   "ipa": "/ˌkɑːmpənˈseɪʃən/",
+   "meaning": "tiền bồi thường",
+   "pos": "danh từ",
+   "audio": "B1-75-w-compensation.mp3"
+  },
+  {
+   "word": "delay",
+   "ipa": "/dɪˈleɪ/",
+   "meaning": "sự chậm trễ; làm trễ",
+   "pos": "danh từ / động từ",
+   "audio": "B1-75-w-delay.mp3"
+  },
+  {
+   "word": "lost luggage",
+   "ipa": "/ˌlɔːst ˈlʌɡɪdʒ/",
+   "meaning": "hành lý thất lạc",
+   "pos": "cụm danh từ",
+   "audio": "B1-75-w-lost-luggage.mp3"
+  },
+  {
+   "word": "apologize",
+   "ipa": "/əˈpɑːlədʒaɪz/",
+   "meaning": "xin lỗi (Anh-Anh viết apologise)",
+   "pos": "động từ",
+   "audio": "B1-75-w-apologize.mp3"
+  },
+  {
+   "word": "unacceptable",
+   "ipa": "/ˌʌnəkˈsɛptəbəl/",
+   "meaning": "không thể chấp nhận được",
+   "pos": "tính từ",
+   "audio": "B1-75-w-unacceptable.mp3"
+  },
+  {
+   "word": "disappointed",
+   "ipa": "/ˌdɪsəˈpɔɪntɪd/",
+   "meaning": "thất vọng",
+   "pos": "tính từ",
+   "audio": "B1-75-w-disappointed.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Excuse me. I'm afraid my luggage has been lost.",
+   "vi": "Xin lỗi. Tôi e là hành lý của tôi bị thất lạc rồi.",
+   "audio": "B1-75-ex-1.mp3"
+  },
+  {
+   "en": "Our flight was also delayed by four hours, and now this. I'm really disappointed.",
+   "vi": "Chuyến bay của chúng tôi cũng bị trễ bốn tiếng, giờ lại thêm chuyện này. Tôi thật sự thất vọng.",
+   "audio": "B1-75-ex-2.mp3"
+  },
+  {
+   "en": "I apologize for the delay. We'll find your bag and deliver it to your hotel.",
+   "vi": "Tôi xin lỗi vì sự chậm trễ. Chúng tôi sẽ tìm túi của anh và giao đến khách sạn.",
+   "audio": "B1-75-ex-3.mp3"
+  },
+  {
+   "en": "Could you tell me how long it will take? And do you know whether I can get compensation?",
+   "vi": "Anh có thể cho tôi biết sẽ mất bao lâu không? Và anh có biết tôi có được bồi thường không?",
+   "audio": "B1-75-ex-4.mp3"
+  },
+  {
+   "en": "To be honest, waiting four hours with no information was unacceptable.",
+   "vi": "Nói thật, chờ bốn tiếng mà không có thông tin gì là không thể chấp nhận được.",
+   "audio": "B1-75-ex-5.mp3"
+  }
+ ]
+}

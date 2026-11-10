@@ -1,0 +1,74 @@
+{
+ "title": "Bài 45. Tường thuật lời yêu cầu, mệnh lệnh, lời khuyên",
+ "vocabulary": [
+  {
+   "word": "advise",
+   "ipa": "/ədˈvaɪz/",
+   "meaning": "khuyên (advise sb to V); danh từ là advice",
+   "pos": "động từ",
+   "audio": "B1-45-w-advise.mp3"
+  },
+  {
+   "word": "remind",
+   "ipa": "/rɪˈmaɪnd/",
+   "meaning": "nhắc nhở (remind sb to V)",
+   "pos": "động từ",
+   "audio": "B1-45-w-remind.mp3"
+  },
+  {
+   "word": "warn",
+   "ipa": "/wɔrn/",
+   "meaning": "cảnh báo (warn sb not to V)",
+   "pos": "động từ",
+   "audio": "B1-45-w-warn.mp3"
+  },
+  {
+   "word": "order",
+   "ipa": "/ˈɔrdɚ/",
+   "meaning": "ra lệnh (order sb to V); cũng là danh từ: mệnh lệnh",
+   "pos": "động từ / danh từ",
+   "audio": "B1-45-w-order.mp3"
+  },
+  {
+   "word": "request",
+   "ipa": "/rɪˈkwɛst/",
+   "meaning": "yêu cầu, đề nghị (trang trọng); thường gặp: be requested to V",
+   "pos": "động từ / danh từ",
+   "audio": "B1-45-w-request.mp3"
+  },
+  {
+   "word": "instruction",
+   "ipa": "/ɪnˈstrʌkʃən/",
+   "meaning": "lời hướng dẫn, chỉ dẫn (thường số nhiều: instructions)",
+   "pos": "danh từ",
+   "audio": "B1-45-w-instruction.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She told me to take the medicine twice a day.",
+   "vi": "Bác sĩ bảo tôi uống thuốc ngày hai lần.",
+   "audio": "B1-45-ex-1.mp3"
+  },
+  {
+   "en": "She told me not to drink coffee in the evening.",
+   "vi": "Bác sĩ dặn tôi không uống cà phê vào buổi tối.",
+   "audio": "B1-45-ex-2.mp3"
+  },
+  {
+   "en": "She advised me to get more sleep.",
+   "vi": "Bác sĩ khuyên tôi ngủ nhiều hơn.",
+   "audio": "B1-45-ex-3.mp3"
+  },
+  {
+   "en": "She also warned me not to lift anything heavy for two weeks.",
+   "vi": "Bác sĩ còn cảnh báo tôi không được nhấc vật nặng trong hai tuần.",
+   "audio": "B1-45-ex-4.mp3"
+  },
+  {
+   "en": "She reminded me to drink plenty of water and asked me to come back the following week.",
+   "vi": "Bác sĩ nhắc tôi uống nhiều nước và đề nghị tôi tuần sau quay lại.",
+   "audio": "B1-45-ex-5.mp3"
+  }
+ ]
+}

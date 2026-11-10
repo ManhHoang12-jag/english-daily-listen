@@ -1,0 +1,74 @@
+{
+ "title": "Bài 42. Mệnh đề quan hệ mở rộng",
+ "vocabulary": [
+  {
+   "word": "most of whom",
+   "ipa": "/ˈmoʊst əv ˌhum/",
+   "meaning": "phần lớn trong số họ (trong mệnh đề quan hệ)",
+   "pos": "cụm đại từ quan hệ",
+   "audio": "B2-42-w-most-of-whom.mp3"
+  },
+  {
+   "word": "none of which",
+   "ipa": "/ˈnʌn əv ˌwɪtʃ/",
+   "meaning": "không cái nào trong số đó",
+   "pos": "cụm đại từ quan hệ",
+   "audio": "B2-42-w-none-of-which.mp3"
+  },
+  {
+   "word": "whatever",
+   "ipa": "/wʌtˈɛvɚ/",
+   "meaning": "bất cứ cái gì",
+   "pos": "đại từ / từ hạn định",
+   "audio": "B2-42-w-whatever.mp3"
+  },
+  {
+   "word": "whoever",
+   "ipa": "/huˈɛvɚ/",
+   "meaning": "bất cứ ai, người nào",
+   "pos": "đại từ",
+   "audio": "B2-42-w-whoever.mp3"
+  },
+  {
+   "word": "which means",
+   "ipa": "/wɪtʃ ˈminz/",
+   "meaning": "điều đó có nghĩa là (bình luận cả câu trước)",
+   "pos": "cụm từ nối",
+   "audio": "B2-42-w-which-means.mp3"
+  },
+  {
+   "word": "whereby",
+   "ipa": "/wɛrˈbaɪ/",
+   "meaning": "theo đó, nhờ đó (trang trọng, = by which)",
+   "pos": "trạng từ quan hệ",
+   "audio": "B2-42-w-whereby.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The research team includes twelve scientists, most of whom have worked abroad.",
+   "vi": "Nhóm nghiên cứu có mười hai nhà khoa học, phần lớn trong số họ từng làm việc ở nước ngoài.",
+   "audio": "B2-42-ex-1.mp3"
+  },
+  {
+   "en": "We tested three new methods, none of which produced reliable results.",
+   "vi": "Chúng tôi đã thử ba phương pháp mới, không phương pháp nào cho kết quả đáng tin cậy.",
+   "audio": "B2-42-ex-2.mp3"
+  },
+  {
+   "en": "The deadline has been moved forward, which means that we need to finish the survey this week.",
+   "vi": "Hạn chót đã bị đẩy sớm lên, điều đó có nghĩa là chúng tôi phải hoàn thành khảo sát trong tuần này.",
+   "audio": "B2-42-ex-3.mp3"
+  },
+  {
+   "en": "Whoever designed this questionnaire clearly understood the participants.",
+   "vi": "Người nào thiết kế bảng hỏi này rõ ràng đã hiểu những người tham gia.",
+   "audio": "B2-42-ex-4.mp3"
+  },
+  {
+   "en": "The university has introduced a program whereby students can borrow laptops for free.",
+   "vi": "Trường đại học đã triển khai một chương trình theo đó sinh viên có thể mượn máy tính xách tay miễn phí.",
+   "audio": "B2-42-ex-5.mp3"
+  }
+ ]
+}

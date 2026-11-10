@@ -1,0 +1,81 @@
+{
+ "title": "Bài 89. Kỹ năng: nghe cuộc họp và thái độ người nói",
+ "vocabulary": [
+  {
+   "word": "decision",
+   "ipa": "/dɪˈsɪʒən/",
+   "meaning": "quyết định (make / reach a decision)",
+   "pos": "danh từ",
+   "audio": "B2-89-w-decision.mp3"
+  },
+  {
+   "word": "action item",
+   "ipa": "/ˈækʃən ˌaɪtəm/",
+   "meaning": "việc cần làm được giao sau họp (giống action point)",
+   "pos": "danh từ",
+   "audio": "B2-89-w-action-item.mp3"
+  },
+  {
+   "word": "reluctant",
+   "ipa": "/rɪˈlʌktənt/",
+   "meaning": "miễn cưỡng, không muốn (be reluctant to + V)",
+   "pos": "tính từ",
+   "audio": "B2-89-w-reluctant.mp3"
+  },
+  {
+   "word": "enthusiastic",
+   "ipa": "/ɪnˌθuːziˈæstɪk/",
+   "meaning": "hào hứng, nhiệt tình (enthusiastic about + N)",
+   "pos": "tính từ",
+   "audio": "B2-89-w-enthusiastic.mp3"
+  },
+  {
+   "word": "hesitant",
+   "ipa": "/ˈhɛzɪtənt/",
+   "meaning": "do dự, ngập ngừng (hesitant about + N / to + V)",
+   "pos": "tính từ",
+   "audio": "B2-89-w-hesitant.mp3"
+  },
+  {
+   "word": "consensus",
+   "ipa": "/kənˈsɛnsəs/",
+   "meaning": "sự đồng thuận (reach a consensus)",
+   "pos": "danh từ",
+   "audio": "B2-89-w-consensus.mp3"
+  },
+  {
+   "word": "minutes",
+   "ipa": "/ˈmɪnɪts/",
+   "meaning": "biên bản cuộc họp (luôn số nhiều: take / send round the minutes)",
+   "pos": "danh từ",
+   "audio": "B2-89-w-minutes.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Basically, the payment page still crashes on older phones. We could fix it in time, I mean, it's possible, but it would be tight.",
+   "vi": "Tóm lại là trang thanh toán vẫn bị treo trên điện thoại đời cũ. Chúng ta có thể sửa kịp, ý tôi là có thể, nhưng sẽ rất sát.",
+   "audio": "B2-89-ex-1.mp3"
+  },
+  {
+   "en": "Well, I'm not sure that's quite realistic, to be honest. If the app crashes on day one, the reviews will be terrible.",
+   "vi": "Ừm, thật lòng tôi không chắc điều đó khả thi lắm. Nếu ứng dụng bị treo ngay ngày đầu, đánh giá sẽ rất tệ.",
+   "audio": "B2-89-ex-2.mp3"
+  },
+  {
+   "en": "I'm not thrilled about it, but OK. I'll talk to the agency.",
+   "vi": "Tôi không vui lắm về chuyện đó, nhưng thôi được. Tôi sẽ nói chuyện với công ty quảng cáo.",
+   "audio": "B2-89-ex-3.mp3"
+  },
+  {
+   "en": "Absolutely! Actually, I've been hoping we'd do that. I'll set it up this week.",
+   "vi": "Hoàn toàn đồng ý! Thật ra tôi vẫn mong chúng ta làm vậy. Tôi sẽ sắp xếp ngay trong tuần này.",
+   "audio": "B2-89-ex-4.mp3"
+  },
+  {
+   "en": "OK, so to sum up: the launch moves to June fifteenth, Leo contacts the agency, Raj organizes extra testing, and Sophie and Mark find a venue.",
+   "vi": "Được, tóm lại: ngày ra mắt dời sang 15 tháng Sáu, Leo liên hệ công ty quảng cáo, Raj tổ chức kiểm thử thêm, Sophie và Mark tìm địa điểm.",
+   "audio": "B2-89-ex-5.mp3"
+  }
+ ]
+}

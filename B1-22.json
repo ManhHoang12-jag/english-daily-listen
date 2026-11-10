@@ -1,0 +1,74 @@
+{
+ "title": "Bài 22. Mệnh đề quan hệ xác định: ôn và lược đại từ",
+ "vocabulary": [
+  {
+   "word": "position",
+   "ipa": "/pəˈzɪʃən/",
+   "meaning": "vị trí (công việc)",
+   "pos": "danh từ",
+   "audio": "B1-22-w-position.mp3"
+  },
+  {
+   "word": "candidate",
+   "ipa": "/ˈkændɪˌdeɪt/",
+   "meaning": "ứng viên",
+   "pos": "danh từ",
+   "audio": "B1-22-w-candidate.mp3"
+  },
+  {
+   "word": "company",
+   "ipa": "/ˈkʌmpəni/",
+   "meaning": "công ty",
+   "pos": "danh từ",
+   "audio": "B1-22-w-company.mp3"
+  },
+  {
+   "word": "role",
+   "ipa": "/roʊl/",
+   "meaning": "vai trò, vị trí công việc",
+   "pos": "danh từ",
+   "audio": "B1-22-w-role.mp3"
+  },
+  {
+   "word": "team",
+   "ipa": "/tim/",
+   "meaning": "nhóm, đội",
+   "pos": "danh từ",
+   "audio": "B1-22-w-team.mp3"
+  },
+  {
+   "word": "job offer",
+   "ipa": "/ˈdʒɑb ˌɔfɚ/",
+   "meaning": "lời mời làm việc, thư mời nhận việc",
+   "pos": "cụm danh từ",
+   "audio": "B1-22-w-job-offer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The position I applied for is in the marketing team.",
+   "vi": "Vị trí tôi nộp đơn thuộc nhóm marketing.",
+   "audio": "B1-22-ex-1.mp3"
+  },
+  {
+   "en": "The other candidate who got a second interview had ten years of experience.",
+   "vi": "Ứng viên còn lại được phỏng vấn vòng hai có mười năm kinh nghiệm.",
+   "audio": "B1-22-ex-2.mp3"
+  },
+  {
+   "en": "A receptionist is a person who welcomes visitors.",
+   "vi": "Lễ tân là người đón tiếp khách.",
+   "audio": "B1-22-ex-3.mp3"
+  },
+  {
+   "en": "This is the job offer that I received last week.",
+   "vi": "Đây là lời mời làm việc tôi nhận được tuần trước.",
+   "audio": "B1-22-ex-4.mp3"
+  },
+  {
+   "en": "The role she wanted went to someone from another team.",
+   "vi": "Vai trò cô ấy muốn lại thuộc về một người ở nhóm khác.",
+   "audio": "B1-22-ex-5.mp3"
+  }
+ ]
+}

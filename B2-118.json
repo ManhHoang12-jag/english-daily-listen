@@ -1,0 +1,81 @@
+{
+ "title": "Bài 118. Kỹ năng tích hợp: nghe và đọc cùng chủ đề",
+ "vocabulary": [
+  {
+   "word": "integrate",
+   "ipa": "/ˈɪntəˌɡreɪt/",
+   "meaning": "kết hợp, lồng ghép (thông tin từ nhiều nguồn)",
+   "pos": "động từ",
+   "audio": "B2-118-w-integrate.mp3"
+  },
+  {
+   "word": "compare",
+   "ipa": "/kəmˈpɛr/",
+   "meaning": "so sánh",
+   "pos": "động từ",
+   "audio": "B2-118-w-compare.mp3"
+  },
+  {
+   "word": "lecture",
+   "ipa": "/ˈlɛktʃɚ/",
+   "meaning": "bài giảng",
+   "pos": "danh từ",
+   "audio": "B2-118-w-lecture.mp3"
+  },
+  {
+   "word": "article",
+   "ipa": "/ˈɑrtɪkəl/",
+   "meaning": "bài báo",
+   "pos": "danh từ",
+   "audio": "B2-118-w-article.mp3"
+  },
+  {
+   "word": "consistent with",
+   "ipa": "/kənˈsɪstənt wɪθ/",
+   "meaning": "thống nhất với, phù hợp với",
+   "pos": "cụm tính từ",
+   "audio": "B2-118-w-consistent-with.mp3"
+  },
+  {
+   "word": "challenge",
+   "ipa": "/ˈtʃælɪndʒ/",
+   "meaning": "đặt nghi vấn, phản bác (challenge a claim); thách thức",
+   "pos": "động từ / danh từ",
+   "audio": "B2-118-w-challenge.mp3"
+  },
+  {
+   "word": "synthesis",
+   "ipa": "/ˈsɪnθəsɪs/",
+   "meaning": "sự tổng hợp (từ nhiều nguồn)",
+   "pos": "danh từ",
+   "audio": "B2-118-w-synthesis.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today I want to look at a question many employers are asking: does working from home make people more or less productive?",
+   "vi": "Hôm nay tôi muốn xem xét câu hỏi nhiều chủ doanh nghiệp đang đặt ra: làm việc tại nhà khiến người ta năng suất hơn hay kém đi?",
+   "audio": "B2-118-ex-1.mp3"
+  },
+  {
+   "en": "Several large studies have found that employees who work from home two or three days a week are just as productive as their colleagues in the office.",
+   "vi": "Nhiều nghiên cứu lớn cho thấy nhân viên làm việc tại nhà hai hoặc ba ngày mỗi tuần năng suất không kém đồng nghiệp ở văn phòng.",
+   "audio": "B2-118-ex-2.mp3"
+  },
+  {
+   "en": "However, fully remote teams seem to struggle with new ideas, and junior staff miss out on the informal learning that happens in an office.",
+   "vi": "Tuy nhiên, các nhóm làm từ xa hoàn toàn có vẻ gặp khó khăn với ý tưởng mới, và nhân viên trẻ bỏ lỡ việc học hỏi không chính thức diễn ra ở văn phòng.",
+   "audio": "B2-118-ex-3.mp3"
+  },
+  {
+   "en": "Now, a word of caution: many impressive figures in the media come from surveys in which workers rate their own productivity, and people tend to rate themselves generously.",
+   "vi": "Giờ là một lời cảnh báo: nhiều con số ấn tượng trên báo chí đến từ khảo sát mà người lao động tự chấm năng suất của mình, và người ta thường tự chấm khá rộng tay.",
+   "audio": "B2-118-ex-4.mp3"
+  },
+  {
+   "en": "So, to sum up, a hybrid model seems to offer the best balance, and the key takeaway is to ask how productivity was actually measured.",
+   "vi": "Tóm lại, mô hình kết hợp có vẻ mang lại sự cân bằng tốt nhất, và điều cốt lõi cần nhớ là hãy hỏi năng suất thực sự được đo như thế nào.",
+   "audio": "B2-118-ex-5.mp3"
+  }
+ ]
+}

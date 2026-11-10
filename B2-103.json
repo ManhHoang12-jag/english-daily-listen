@@ -1,0 +1,81 @@
+{
+ "title": "Bài 103. Thức giả định (subjunctive)",
+ "vocabulary": [
+  {
+   "word": "it is essential that",
+   "ipa": "/ɪt ɪz ɪˈsɛnʃəl ðæt/",
+   "meaning": "điều thiết yếu là, nhất thiết phải (+ S + V nguyên mẫu)",
+   "pos": "cụm cố định",
+   "audio": "B2-103-w-it-is-essential-that.mp3"
+  },
+  {
+   "word": "it is vital",
+   "ipa": "/ɪt ɪz ˈvaɪtəl/",
+   "meaning": "điều cực kỳ quan trọng là (it is vital that + S + V)",
+   "pos": "cụm cố định",
+   "audio": "B2-103-w-it-is-vital.mp3"
+  },
+  {
+   "word": "demand",
+   "ipa": "/dɪˈmænd/",
+   "meaning": "yêu cầu, đòi hỏi (demand that + S + V)",
+   "pos": "động từ",
+   "audio": "B2-103-w-demand.mp3"
+  },
+  {
+   "word": "propose",
+   "ipa": "/prəˈpoʊz/",
+   "meaning": "đề xuất (propose that + S + V; propose + V-ing)",
+   "pos": "động từ",
+   "audio": "B2-103-w-propose.mp3"
+  },
+  {
+   "word": "stipulate",
+   "ipa": "/ˈstɪpjəˌleɪt/",
+   "meaning": "quy định rõ (trong hợp đồng, luật)",
+   "pos": "động từ",
+   "audio": "B2-103-w-stipulate.mp3"
+  },
+  {
+   "word": "mandatory",
+   "ipa": "/ˈmændəˌtɔri/",
+   "meaning": "bắt buộc",
+   "pos": "tính từ",
+   "audio": "B2-103-w-mandatory.mp3"
+  },
+  {
+   "word": "recommend that",
+   "ipa": "/ˌrɛkəˈmɛnd ðæt/",
+   "meaning": "khuyến nghị rằng (+ S + V nguyên mẫu)",
+   "pos": "động từ + that",
+   "audio": "B2-103-w-recommend-that.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We recommend that the company introduce a flexible working policy from January.",
+   "vi": "Chúng tôi khuyến nghị công ty áp dụng chính sách làm việc linh hoạt từ tháng Một.",
+   "audio": "B2-103-ex-1.mp3"
+  },
+  {
+   "en": "It is essential that every manager receive training before the policy starts.",
+   "vi": "Điều thiết yếu là mọi quản lý phải được đào tạo trước khi chính sách bắt đầu.",
+   "audio": "B2-103-ex-2.mp3"
+  },
+  {
+   "en": "It is vital that no employee be required to answer emails after seven in the evening.",
+   "vi": "Điều cực kỳ quan trọng là không nhân viên nào bị yêu cầu trả lời email sau bảy giờ tối.",
+   "audio": "B2-103-ex-3.mp3"
+  },
+  {
+   "en": "We also propose that the HR department review the policy after six months.",
+   "vi": "Chúng tôi cũng đề xuất phòng nhân sự xem xét lại chính sách sau sáu tháng.",
+   "audio": "B2-103-ex-4.mp3"
+  },
+  {
+   "en": "The union has demanded that overtime be paid at the full rate.",
+   "vi": "Công đoàn đã yêu cầu giờ làm thêm phải được trả đủ mức lương.",
+   "audio": "B2-103-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 19. Kỹ năng: viết bài luận thảo luận (discussion essay)",
+ "vocabulary": [
+  {
+   "word": "some people argue",
+   "ipa": "/sʌm ˈpipəl ˈɑrɡju/",
+   "meaning": "một số người cho rằng (giới thiệu quan điểm thứ nhất)",
+   "pos": "cụm câu",
+   "audio": "B2-19-w-some-people-argue.mp3"
+  },
+  {
+   "word": "others believe",
+   "ipa": "/ˈʌðɚz bɪˈliv/",
+   "meaning": "những người khác tin rằng (giới thiệu quan điểm đối lập)",
+   "pos": "cụm câu",
+   "audio": "B2-19-w-others-believe.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi (đối lập hai ý trong một câu)",
+   "pos": "liên từ",
+   "audio": "B2-19-w-while.mp3"
+  },
+  {
+   "word": "in my view",
+   "ipa": "/ɪn maɪ ˈvju/",
+   "meaning": "theo quan điểm của tôi (trang trọng hơn I think)",
+   "pos": "cụm từ",
+   "audio": "B2-19-w-in-my-view.mp3"
+  },
+  {
+   "word": "it is undeniable",
+   "ipa": "/ɪt ɪz ˌʌndɪˈnaɪəbəl/",
+   "meaning": "không thể phủ nhận (rằng)",
+   "pos": "cụm câu",
+   "audio": "B2-19-w-it-is-undeniable.mp3"
+  },
+  {
+   "word": "balance",
+   "ipa": "/ˈbæləns/",
+   "meaning": "sự cân bằng; strike a balance: dung hòa hai phía",
+   "pos": "danh từ / động từ",
+   "audio": "B2-19-w-balance.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Some people argue that they make society safer, while others believe they are a serious threat to privacy.",
+   "vi": "Một số người cho rằng chúng (camera) làm xã hội an toàn hơn, trong khi những người khác tin rằng chúng là mối đe dọa nghiêm trọng đối với quyền riêng tư.",
+   "audio": "B2-19-ex-1.mp3"
+  },
+  {
+   "en": "It is undeniable that some missing children and wanted criminals have been found this way.",
+   "vi": "Không thể phủ nhận rằng một số trẻ em mất tích và tội phạm bị truy nã đã được tìm thấy theo cách này.",
+   "audio": "B2-19-ex-2.mp3"
+  },
+  {
+   "en": "On the other hand, critics believe that constant surveillance changes the relationship between citizens and the state.",
+   "vi": "Mặt khác, những người phản đối tin rằng sự giám sát liên tục làm thay đổi mối quan hệ giữa công dân và nhà nước.",
+   "audio": "B2-19-ex-3.mp3"
+  },
+  {
+   "en": "Although the technology is improving, it still makes mistakes.",
+   "vi": "Mặc dù công nghệ đang được cải thiện, nó vẫn mắc lỗi.",
+   "audio": "B2-19-ex-4.mp3"
+  },
+  {
+   "en": "In my view, both sides raise valid points, but at present the risks outweigh the benefits.",
+   "vi": "Theo tôi, cả hai phía đều có lý lẽ xác đáng, nhưng hiện nay rủi ro lớn hơn lợi ích.",
+   "audio": "B2-19-ex-5.mp3"
+  }
+ ]
+}

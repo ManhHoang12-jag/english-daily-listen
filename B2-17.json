@@ -1,0 +1,74 @@
+{
+ "title": "Bài 17. Kỹ năng: thảo luận tình huống đạo đức",
+ "vocabulary": [
+  {
+   "word": "perspective",
+   "ipa": "/pərˈspɛktɪv/",
+   "meaning": "góc nhìn, quan điểm (from a ... perspective)",
+   "pos": "danh từ",
+   "audio": "B2-17-w-perspective.mp3"
+  },
+  {
+   "word": "weigh up",
+   "ipa": "/ˌweɪ ˈʌp/",
+   "meaning": "cân nhắc (ưu nhược điểm, các lựa chọn)",
+   "pos": "cụm động từ",
+   "audio": "B2-17-w-weigh-up.mp3"
+  },
+  {
+   "word": "raise a question",
+   "ipa": "/ˈreɪz ə ˈkwɛstʃən/",
+   "meaning": "đặt ra một câu hỏi, vấn đề",
+   "pos": "cụm động từ",
+   "audio": "B2-17-w-raise-a-question.mp3"
+  },
+  {
+   "word": "valid point",
+   "ipa": "/ˈvælɪd ˈpɔɪnt/",
+   "meaning": "ý kiến hợp lý, có cơ sở",
+   "pos": "cụm danh từ",
+   "audio": "B2-17-w-valid-point.mp3"
+  },
+  {
+   "word": "reach a conclusion",
+   "ipa": "/ˈritʃ ə kənˈkluʒən/",
+   "meaning": "đi đến kết luận",
+   "pos": "cụm động từ",
+   "audio": "B2-17-w-reach-a-conclusion.mp3"
+  },
+  {
+   "word": "take into account",
+   "ipa": "/ˈteɪk ˌɪntu əˈkaʊnt/",
+   "meaning": "tính đến, xem xét đến",
+   "pos": "cụm động từ",
+   "audio": "B2-17-w-take-into-account.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "On the one hand, cheating is unfair to the other students. On the other hand, Linh might lose her closest friend.",
+   "vi": "Một mặt, gian lận là bất công với các sinh viên khác. Mặt khác, Linh có thể mất người bạn thân nhất.",
+   "audio": "B2-17-ex-1.mp3"
+  },
+  {
+   "en": "I think it depends on how much he copied and whether he has done it before.",
+   "vi": "Tôi nghĩ việc này phụ thuộc vào anh ấy đã chép bao nhiêu và trước đây đã từng làm vậy chưa.",
+   "audio": "B2-17-ex-2.mp3"
+  },
+  {
+   "en": "That's a valid point, but we also need to take into account the university's rules.",
+   "vi": "Đó là một ý hợp lý, nhưng chúng ta cũng cần tính đến quy định của trường.",
+   "audio": "B2-17-ex-3.mp3"
+  },
+  {
+   "en": "That raises the question of whether loyalty to a friend is more important than honesty.",
+   "vi": "Điều đó đặt ra câu hỏi liệu lòng trung thành với bạn bè có quan trọng hơn sự trung thực không.",
+   "audio": "B2-17-ex-4.mp3"
+  },
+  {
+   "en": "Let's weigh up both options before we try to reach a conclusion.",
+   "vi": "Hãy cân nhắc cả hai lựa chọn trước khi cố đi đến kết luận.",
+   "audio": "B2-17-ex-5.mp3"
+  }
+ ]
+}

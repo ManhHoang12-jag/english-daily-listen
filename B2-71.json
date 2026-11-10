@@ -1,0 +1,116 @@
+{
+ "title": "Bài 71. Cấu tạo từ: tiền tố phủ định",
+ "vocabulary": [
+  {
+   "word": "unreliable",
+   "ipa": "/ˌʌnrɪˈlaɪəbəl/",
+   "meaning": "không đáng tin cậy",
+   "pos": "tính từ",
+   "audio": "B2-71-w-unreliable.mp3"
+  },
+  {
+   "word": "inaccurate",
+   "ipa": "/ɪnˈækjərət/",
+   "meaning": "không chính xác",
+   "pos": "tính từ",
+   "audio": "B2-71-w-inaccurate.mp3"
+  },
+  {
+   "word": "impractical",
+   "ipa": "/ɪmˈpræktɪkəl/",
+   "meaning": "không thực tế, khó thực hiện",
+   "pos": "tính từ",
+   "audio": "B2-71-w-impractical.mp3"
+  },
+  {
+   "word": "irrelevant",
+   "ipa": "/ɪˈrɛləvənt/",
+   "meaning": "không liên quan",
+   "pos": "tính từ",
+   "audio": "B2-71-w-irrelevant.mp3"
+  },
+  {
+   "word": "illogical",
+   "ipa": "/ɪˈlɑdʒɪkəl/",
+   "meaning": "phi logic, vô lý",
+   "pos": "tính từ",
+   "audio": "B2-71-w-illogical.mp3"
+  },
+  {
+   "word": "disadvantage",
+   "ipa": "/ˌdɪsədˈvæntɪdʒ/",
+   "meaning": "bất lợi, nhược điểm",
+   "pos": "danh từ",
+   "audio": "B2-71-w-disadvantage.mp3"
+  },
+  {
+   "word": "misinterpret",
+   "ipa": "/ˌmɪsɪnˈtɝprət/",
+   "meaning": "hiểu sai, diễn giải sai",
+   "pos": "động từ",
+   "audio": "B2-71-w-misinterpret.mp3"
+  },
+  {
+   "word": "non-profit",
+   "ipa": "/ˌnɑnˈprɑfɪt/",
+   "meaning": "phi lợi nhuận; tổ chức phi lợi nhuận",
+   "pos": "tính từ / danh từ",
+   "audio": "B2-71-w-non-profit.mp3"
+  },
+  {
+   "word": "irregular",
+   "ipa": "/ɪˈrɛɡjəlɚ/",
+   "meaning": "không đều đặn; bất quy tắc",
+   "pos": "tính từ",
+   "audio": "B2-71-w-irregular.mp3"
+  },
+  {
+   "word": "immature",
+   "ipa": "/ˌɪməˈtʃʊr/",
+   "meaning": "chưa chín chắn, non nớt",
+   "pos": "tính từ",
+   "audio": "B2-71-w-immature.mp3"
+  },
+  {
+   "word": "inconsistent",
+   "ipa": "/ˌɪnkənˈsɪstənt/",
+   "meaning": "không nhất quán, mâu thuẫn",
+   "pos": "tính từ",
+   "audio": "B2-71-w-inconsistent.mp3"
+  },
+  {
+   "word": "unprecedented",
+   "ipa": "/ʌnˈprɛsəˌdɛntɪd/",
+   "meaning": "chưa từng có tiền lệ",
+   "pos": "tính từ",
+   "audio": "B2-71-w-unprecedented.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The figures in the old report turned out to be inaccurate and inconsistent, so we couldn't rely on them.",
+   "vi": "Số liệu trong báo cáo cũ hóa ra không chính xác và không nhất quán, nên chúng tôi không thể dựa vào chúng.",
+   "audio": "B2-71-ex-1.mp3"
+  },
+  {
+   "en": "Moving the whole team overseas at such short notice would be completely impractical.",
+   "vi": "Chuyển cả nhóm ra nước ngoài trong thời gian gấp như vậy là hoàn toàn không thực tế.",
+   "audio": "B2-71-ex-2.mp3"
+  },
+  {
+   "en": "Please don't misinterpret my silence as agreement; I simply need more time to think.",
+   "vi": "Xin đừng hiểu sai sự im lặng của tôi là đồng ý; tôi chỉ cần thêm thời gian suy nghĩ.",
+   "audio": "B2-71-ex-3.mp3"
+  },
+  {
+   "en": "The pandemic caused unprecedented disruption to global supply chains.",
+   "vi": "Đại dịch gây ra sự gián đoạn chưa từng có đối với chuỗi cung ứng toàn cầu.",
+   "audio": "B2-71-ex-4.mp3"
+  },
+  {
+   "en": "She works for a non-profit organization that helps people with irregular incomes manage their money.",
+   "vi": "Cô ấy làm cho một tổ chức phi lợi nhuận giúp những người có thu nhập không đều quản lý tiền.",
+   "audio": "B2-71-ex-5.mp3"
+  }
+ ]
+}

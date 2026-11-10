@@ -1,0 +1,81 @@
+{
+ "title": "Bài 01. Kiểm tra đầu vào B2: hệ thống thì và thể",
+ "vocabulary": [
+  {
+   "word": "aspect",
+   "ipa": "/ˈæspekt/",
+   "meaning": "khía cạnh; thể (ngữ pháp)",
+   "pos": "danh từ",
+   "audio": "B2-01-w-aspect.mp3"
+  },
+  {
+   "word": "ongoing",
+   "ipa": "/ˈɑnˌɡoʊɪŋ/",
+   "meaning": "đang diễn ra, chưa kết thúc",
+   "pos": "tính từ",
+   "audio": "B2-01-w-ongoing.mp3"
+  },
+  {
+   "word": "completed",
+   "ipa": "/kəmˈplitɪd/",
+   "meaning": "đã hoàn thành",
+   "pos": "tính từ / động từ (V2, V3)",
+   "audio": "B2-01-w-completed.mp3"
+  },
+  {
+   "word": "temporary",
+   "ipa": "/ˈtempəˌreri/",
+   "meaning": "tạm thời",
+   "pos": "tính từ",
+   "audio": "B2-01-w-temporary.mp3"
+  },
+  {
+   "word": "permanent",
+   "ipa": "/ˈpɝmənənt/",
+   "meaning": "lâu dài, cố định",
+   "pos": "tính từ",
+   "audio": "B2-01-w-permanent.mp3"
+  },
+  {
+   "word": "background",
+   "ipa": "/ˈbækɡraʊnd/",
+   "meaning": "bối cảnh; lý lịch, xuất thân",
+   "pos": "danh từ",
+   "audio": "B2-01-w-background.mp3"
+  },
+  {
+   "word": "diagnostic",
+   "ipa": "/ˌdaɪəɡˈnɑstɪk/",
+   "meaning": "(để) chẩn đoán",
+   "pos": "tính từ",
+   "audio": "B2-01-w-diagnostic.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have worked there for six years, but this month I am working on a temporary project in Hanoi, so I am staying with my cousin.",
+   "vi": "Tôi đã làm ở đó sáu năm, nhưng tháng này tôi đang làm một dự án tạm thời ở Hà Nội, nên tôi đang ở nhờ nhà chị họ.",
+   "audio": "B2-01-ex-1.mp3"
+  },
+  {
+   "en": "Last year, while I was preparing a report late at night, I suddenly decided to apply for a master's program in finance.",
+   "vi": "Năm ngoái, khi đang chuẩn bị một bản báo cáo lúc đêm muộn, tôi bỗng quyết định nộp đơn vào một chương trình thạc sĩ tài chính.",
+   "audio": "B2-01-ex-2.mp3"
+  },
+  {
+   "en": "Before that, I had never thought seriously about further study.",
+   "vi": "Trước đó, tôi chưa bao giờ nghĩ nghiêm túc đến việc học tiếp.",
+   "audio": "B2-01-ex-3.mp3"
+  },
+  {
+   "en": "Since then, I have been studying English every evening, and I have completed the whole intermediate course.",
+   "vi": "Từ đó đến nay, tối nào tôi cũng học tiếng Anh, và tôi đã học xong toàn bộ khóa trung cấp.",
+   "audio": "B2-01-ex-4.mp3"
+  },
+  {
+   "en": "By this time next year, I will be studying at a university instead of working in an office.",
+   "vi": "Giờ này năm sau, tôi sẽ đang học ở trường đại học thay vì làm việc trong văn phòng.",
+   "audio": "B2-01-ex-5.mp3"
+  }
+ ]
+}

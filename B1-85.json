@@ -1,0 +1,74 @@
+{
+ "title": "Bài 85. Tổng ôn: mệnh đề quan hệ và liên từ",
+ "vocabulary": [
+  {
+   "word": "complex sentence",
+   "ipa": "/ˈkɑːmplɛks ˈsɛntəns/",
+   "meaning": "câu phức (có mệnh đề chính và mệnh đề phụ)",
+   "pos": "cụm danh từ",
+   "audio": "B1-85-w-complex-sentence.mp3"
+  },
+  {
+   "word": "clause",
+   "ipa": "/klɔːz/",
+   "meaning": "mệnh đề (phần câu có chủ ngữ và động từ)",
+   "pos": "danh từ",
+   "audio": "B1-85-w-clause.mp3"
+  },
+  {
+   "word": "link",
+   "ipa": "/lɪŋk/",
+   "meaning": "nối, liên kết; mối liên hệ",
+   "pos": "động từ / danh từ",
+   "audio": "B1-85-w-link.mp3"
+  },
+  {
+   "word": "connect",
+   "ipa": "/kəˈnɛkt/",
+   "meaning": "kết nối, nối với nhau",
+   "pos": "động từ",
+   "audio": "B1-85-w-connect.mp3"
+  },
+  {
+   "word": "combine",
+   "ipa": "/kəmˈbaɪn/",
+   "meaning": "ghép, kết hợp",
+   "pos": "động từ",
+   "audio": "B1-85-w-combine.mp3"
+  },
+  {
+   "word": "structure",
+   "ipa": "/ˈstrʌktʃɚ/",
+   "meaning": "cấu trúc",
+   "pos": "danh từ",
+   "audio": "B1-85-w-structure.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Our office, which is near West Lake, is in an old building where there used to be a printing shop.",
+   "vi": "Văn phòng của chúng tôi, nằm gần Hồ Tây, ở trong một tòa nhà cũ nơi trước đây từng có một xưởng in.",
+   "audio": "B1-85-ex-1.mp3"
+  },
+  {
+   "en": "Although the building is old, it is bright and comfortable.",
+   "vi": "Mặc dù tòa nhà đã cũ, nó vẫn sáng sủa và thoải mái.",
+   "audio": "B1-85-ex-2.mp3"
+  },
+  {
+   "en": "My manager, whose ideas are always creative, encourages us to try new things.",
+   "vi": "Quản lý của tôi, người luôn có ý tưởng sáng tạo, khuyến khích chúng tôi thử những điều mới.",
+   "audio": "B1-85-ex-3.mp3"
+  },
+  {
+   "en": "Last year she sent me on a course in Singapore so that I could learn more about user design.",
+   "vi": "Năm ngoái chị ấy cử tôi đi học một khóa ở Singapore để tôi có thể học thêm về thiết kế cho người dùng.",
+   "audio": "B1-85-ex-4.mp3"
+  },
+  {
+   "en": "Despite the long hours, I enjoyed every day of it.",
+   "vi": "Dù phải làm việc nhiều giờ, tôi vẫn thích từng ngày của khóa học.",
+   "audio": "B1-85-ex-5.mp3"
+  }
+ ]
+}

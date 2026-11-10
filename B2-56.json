@@ -1,0 +1,74 @@
+{
+ "title": "Bài 56. Ngôn ngữ thuyết trình: chuyển ý, nhấn mạnh, slide",
+ "vocabulary": [
+  {
+   "word": "draw attention to",
+   "ipa": "/ˌdrɔ əˈtɛnʃən tu/",
+   "meaning": "thu hút, hướng sự chú ý đến",
+   "pos": "cụm động từ",
+   "audio": "B2-56-w-draw-attention-to.mp3"
+  },
+  {
+   "word": "as you can see",
+   "ipa": "/æz ju kən ˈsi/",
+   "meaning": "như các bạn có thể thấy",
+   "pos": "cụm từ",
+   "audio": "B2-56-w-as-you-can-see.mp3"
+  },
+  {
+   "word": "turning to",
+   "ipa": "/ˈtɝnɪŋ tu/",
+   "meaning": "chuyển sang (ý, phần tiếp theo)",
+   "pos": "cụm từ",
+   "audio": "B2-56-w-turning-to.mp3"
+  },
+  {
+   "word": "this brings me to",
+   "ipa": "/ˌðɪs ˈbrɪŋz mi tu/",
+   "meaning": "điều này đưa tôi đến (ý tiếp theo)",
+   "pos": "cụm từ",
+   "audio": "B2-56-w-this-brings-me-to.mp3"
+  },
+  {
+   "word": "key point",
+   "ipa": "/ˈki ˌpɔɪnt/",
+   "meaning": "ý chính, điểm mấu chốt",
+   "pos": "danh từ",
+   "audio": "B2-56-w-key-point.mp3"
+  },
+  {
+   "word": "visual",
+   "ipa": "/ˈvɪʒuəl/",
+   "meaning": "hình ảnh minh họa (slide, biểu đồ, ảnh); thuộc về thị giác",
+   "pos": "danh từ / tính từ",
+   "audio": "B2-56-w-visual.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This slide shows how online grocery sales have changed over the past five years.",
+   "vi": "Slide này cho thấy doanh số mua thực phẩm trực tuyến đã thay đổi thế nào trong năm năm qua.",
+   "audio": "B2-56-ex-1.mp3"
+  },
+  {
+   "en": "As you can see from this chart, sales rose sharply at first and then remained stable.",
+   "vi": "Như các bạn thấy trên biểu đồ này, doanh số lúc đầu tăng mạnh rồi giữ ổn định.",
+   "audio": "B2-56-ex-2.mp3"
+  },
+  {
+   "en": "I'd like to draw your attention to the red line, which shows sales in small towns.",
+   "vi": "Tôi muốn các bạn chú ý đến đường màu đỏ, thể hiện doanh số ở các thị trấn nhỏ.",
+   "audio": "B2-56-ex-3.mp3"
+  },
+  {
+   "en": "What's really striking is that sales in small towns doubled in just two years.",
+   "vi": "Điều thực sự đáng chú ý là doanh số ở các thị trấn nhỏ đã tăng gấp đôi chỉ trong hai năm.",
+   "audio": "B2-56-ex-4.mp3"
+  },
+  {
+   "en": "This brings me to my key point: it wasn't until delivery became cheaper that people in small towns started buying online.",
+   "vi": "Điều này đưa tôi đến ý chính: phải đến khi phí giao hàng rẻ hơn thì người dân ở các thị trấn nhỏ mới bắt đầu mua trực tuyến.",
+   "audio": "B2-56-ex-5.mp3"
+  }
+ ]
+}

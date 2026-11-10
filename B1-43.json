@@ -1,0 +1,74 @@
+{
+ "title": "Bài 43. Tường thuật: đại từ, thời gian, nơi chốn",
+ "vocabulary": [
+  {
+   "word": "the day before",
+   "ipa": "/ðə ˈdeɪ bɪˈfɔr/",
+   "meaning": "hôm trước (thay cho yesterday khi tường thuật)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-43-w-the-day-before.mp3"
+  },
+  {
+   "word": "the following day",
+   "ipa": "/ðə ˈfɑloʊɪŋ ˈdeɪ/",
+   "meaning": "ngày hôm sau (thay cho tomorrow khi tường thuật)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-43-w-the-following-day.mp3"
+  },
+  {
+   "word": "that day",
+   "ipa": "/ðæt ˈdeɪ/",
+   "meaning": "hôm đó (thay cho today khi tường thuật)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-43-w-that-day.mp3"
+  },
+  {
+   "word": "then",
+   "ipa": "/ðɛn/",
+   "meaning": "lúc đó, khi ấy (thay cho now khi tường thuật)",
+   "pos": "trạng từ",
+   "audio": "B1-43-w-then.mp3"
+  },
+  {
+   "word": "there",
+   "ipa": "/ðɛr/",
+   "meaning": "ở đó (thay cho here khi tường thuật)",
+   "pos": "trạng từ",
+   "audio": "B1-43-w-there.mp3"
+  },
+  {
+   "word": "still true",
+   "ipa": "/ˈstɪl ˈtru/",
+   "meaning": "vẫn còn đúng",
+   "pos": "cụm tính từ",
+   "audio": "B1-43-w-still-true.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hi Lan, it's Mark. I'm really sorry, but I can't come to the meeting today. I missed my flight yesterday, so I'm still in Da Nang. I'll fly back tomorrow morning.",
+   "vi": "Chào Lan, Mark đây. Mình thật sự xin lỗi, hôm nay mình không đến họp được. Hôm qua mình lỡ chuyến bay nên vẫn còn ở Đà Nẵng. Sáng mai mình sẽ bay về.",
+   "audio": "B1-43-ex-1.mp3"
+  },
+  {
+   "en": "Mark said he couldn't come to the meeting that day.",
+   "vi": "Mark nói anh ấy không thể đến cuộc họp hôm đó.",
+   "audio": "B1-43-ex-2.mp3"
+  },
+  {
+   "en": "He said he had missed his flight the day before.",
+   "vi": "Anh ấy nói anh ấy đã lỡ chuyến bay hôm trước.",
+   "audio": "B1-43-ex-3.mp3"
+  },
+  {
+   "en": "He said he would fly back the following morning.",
+   "vi": "Anh ấy nói sáng hôm sau anh ấy sẽ bay về.",
+   "audio": "B1-43-ex-4.mp3"
+  },
+  {
+   "en": "He said the meeting room is on the fifth floor.",
+   "vi": "Anh ấy nói phòng họp ở tầng năm.",
+   "audio": "B1-43-ex-5.mp3"
+  }
+ ]
+}

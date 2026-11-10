@@ -1,0 +1,81 @@
+{
+ "title": "Bài 24. Bị động nâng cao: tiếp diễn, nguyên mẫu, V-ing",
+ "vocabulary": [
+  {
+   "word": "is being tested",
+   "ipa": "/ɪz ˈbiɪŋ ˈtɛstɪd/",
+   "meaning": "đang được thử nghiệm (mẫu is/are being + V3)",
+   "pos": "cụm động từ bị động",
+   "audio": "B2-24-w-is-being-tested.mp3"
+  },
+  {
+   "word": "needs to be",
+   "ipa": "/ˈnidz tə bi/",
+   "meaning": "cần được (+ V3): needs to be checked",
+   "pos": "cấu trúc",
+   "audio": "B2-24-w-needs-to-be.mp3"
+  },
+  {
+   "word": "being interrupted",
+   "ipa": "/ˈbiɪŋ ˌɪntəˈrʌptɪd/",
+   "meaning": "bị ngắt lời (mẫu being + V3: I hate being interrupted)",
+   "pos": "V-ing bị động",
+   "audio": "B2-24-w-being-interrupted.mp3"
+  },
+  {
+   "word": "monitor",
+   "ipa": "/ˈmɑnətɚ/",
+   "meaning": "theo dõi, giám sát (liên tục)",
+   "pos": "động từ",
+   "audio": "B2-24-w-monitor.mp3"
+  },
+  {
+   "word": "conduct",
+   "ipa": "/kənˈdʌkt/",
+   "meaning": "tiến hành (conduct a study / an experiment)",
+   "pos": "động từ",
+   "audio": "B2-24-w-conduct.mp3"
+  },
+  {
+   "word": "measure",
+   "ipa": "/ˈmɛʒɚ/",
+   "meaning": "đo, đo lường",
+   "pos": "động từ",
+   "audio": "B2-24-w-measure.mp3"
+  },
+  {
+   "word": "verify",
+   "ipa": "/ˈvɛrəˌfaɪ/",
+   "meaning": "kiểm chứng, xác minh",
+   "pos": "động từ",
+   "audio": "B2-24-w-verify.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Each volunteer is being monitored for eight nights in our sleep laboratory.",
+   "vi": "Mỗi tình nguyện viên đang được theo dõi trong tám đêm tại phòng thí nghiệm giấc ngủ của chúng tôi.",
+   "audio": "B2-24-ex-1.mp3"
+  },
+  {
+   "en": "A technical problem occurred while the samples were being measured.",
+   "vi": "Một sự cố kỹ thuật đã xảy ra trong khi các mẫu đang được đo.",
+   "audio": "B2-24-ex-2.mp3"
+  },
+  {
+   "en": "All results need to be verified by a second team before they can be published.",
+   "vi": "Tất cả kết quả cần được một nhóm thứ hai kiểm chứng trước khi có thể công bố.",
+   "audio": "B2-24-ex-3.mp3"
+  },
+  {
+   "en": "Many volunteers dislike being woken up in the middle of the night.",
+   "vi": "Nhiều tình nguyện viên không thích bị đánh thức vào lúc nửa đêm.",
+   "audio": "B2-24-ex-4.mp3"
+  },
+  {
+   "en": "By the end of June, all the data will have been collected.",
+   "vi": "Đến cuối tháng Sáu, toàn bộ dữ liệu sẽ được thu thập xong.",
+   "audio": "B2-24-ex-5.mp3"
+  }
+ ]
+}

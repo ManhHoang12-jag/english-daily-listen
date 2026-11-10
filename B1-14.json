@@ -1,0 +1,95 @@
+{
+ "title": "Bài 14. Chủ đề: giáo dục và du học",
+ "vocabulary": [
+  {
+   "word": "degree",
+   "ipa": "/dɪˈɡriː/",
+   "meaning": "bằng đại học, sau đại học",
+   "pos": "danh từ",
+   "audio": "B1-14-w-degree.mp3"
+  },
+  {
+   "word": "undergraduate",
+   "ipa": "/ˌʌndɚˈɡrædʒuət/",
+   "meaning": "(sinh viên, bậc) đại học",
+   "pos": "danh từ, tính từ",
+   "audio": "B1-14-w-undergraduate.mp3"
+  },
+  {
+   "word": "postgraduate",
+   "ipa": "/ˌpoʊstˈɡrædʒuət/",
+   "meaning": "(học viên, bậc) sau đại học",
+   "pos": "danh từ, tính từ",
+   "audio": "B1-14-w-postgraduate.mp3"
+  },
+  {
+   "word": "tuition fee",
+   "ipa": "/tuˈɪʃən fiː/",
+   "meaning": "học phí (thường dùng số nhiều: tuition fees)",
+   "pos": "danh từ",
+   "audio": "B1-14-w-tuition-fee.mp3"
+  },
+  {
+   "word": "module",
+   "ipa": "/ˈmɑːdʒuːl/",
+   "meaning": "học phần, môn học",
+   "pos": "danh từ",
+   "audio": "B1-14-w-module.mp3"
+  },
+  {
+   "word": "assignment",
+   "ipa": "/əˈsaɪnmənt/",
+   "meaning": "bài tập lớn, tiểu luận phải nộp",
+   "pos": "danh từ",
+   "audio": "B1-14-w-assignment.mp3"
+  },
+  {
+   "word": "lecturer",
+   "ipa": "/ˈlɛktʃərɚ/",
+   "meaning": "giảng viên đại học",
+   "pos": "danh từ",
+   "audio": "B1-14-w-lecturer.mp3"
+  },
+  {
+   "word": "tutor",
+   "ipa": "/ˈtuːtɚ/",
+   "meaning": "giảng viên hướng dẫn nhóm nhỏ; gia sư",
+   "pos": "danh từ",
+   "audio": "B1-14-w-tutor.mp3"
+  },
+  {
+   "word": "qualification",
+   "ipa": "/ˌkwɑːləfɪˈkeɪʃən/",
+   "meaning": "bằng cấp, chứng chỉ",
+   "pos": "danh từ",
+   "audio": "B1-14-w-qualification.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Tuition fees in the UK are much higher than in Vietnam.",
+   "vi": "Học phí ở Anh cao hơn nhiều so với ở Việt Nam.",
+   "audio": "B1-14-ex-1.mp3"
+  },
+  {
+   "en": "In the UK, a master's degree usually takes one year, whereas in Vietnam it often takes two.",
+   "vi": "Ở Anh, bằng thạc sĩ thường mất một năm, trong khi ở Việt Nam thường mất hai năm.",
+   "audio": "B1-14-ex-2.mp3"
+  },
+  {
+   "en": "Students in Australia write more assignments than students in Vietnam.",
+   "vi": "Sinh viên ở Úc viết nhiều bài tập lớn hơn sinh viên ở Việt Nam.",
+   "audio": "B1-14-ex-3.mp3"
+  },
+  {
+   "en": "Lecturers in the US aren't as formal as lecturers here.",
+   "vi": "Giảng viên ở Mỹ không trang trọng bằng giảng viên ở đây.",
+   "audio": "B1-14-ex-4.mp3"
+  },
+  {
+   "en": "My tutor was the most helpful person in my first year abroad.",
+   "vi": "Gia sư hướng dẫn của tôi là người giúp tôi nhiều nhất trong năm đầu ở nước ngoài.",
+   "audio": "B1-14-ex-5.mp3"
+  }
+ ]
+}

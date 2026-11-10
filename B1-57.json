@@ -1,0 +1,74 @@
+{
+ "title": "Bài 57. Kỹ năng: viết đoạn văn ý kiến 100–150 từ",
+ "vocabulary": [
+  {
+   "word": "firstly",
+   "ipa": "/ˈfɝstli/",
+   "meaning": "thứ nhất, trước hết",
+   "pos": "trạng từ",
+   "audio": "B1-57-w-firstly.mp3"
+  },
+  {
+   "word": "in addition",
+   "ipa": "/ɪn əˈdɪʃən/",
+   "meaning": "ngoài ra, thêm vào đó",
+   "pos": "cụm trạng từ",
+   "audio": "B1-57-w-in-addition.mp3"
+  },
+  {
+   "word": "for instance",
+   "ipa": "/fɚ ˈɪnstəns/",
+   "meaning": "ví dụ (= for example)",
+   "pos": "cụm trạng từ",
+   "audio": "B1-57-w-for-instance.mp3"
+  },
+  {
+   "word": "in conclusion",
+   "ipa": "/ɪn kənˈkluːʒən/",
+   "meaning": "tóm lại, kết luận lại",
+   "pos": "cụm trạng từ",
+   "audio": "B1-57-w-in-conclusion.mp3"
+  },
+  {
+   "word": "personally",
+   "ipa": "/ˈpɝsənəli/",
+   "meaning": "về phần tôi, theo cá nhân tôi",
+   "pos": "trạng từ",
+   "audio": "B1-57-w-personally.mp3"
+  },
+  {
+   "word": "I strongly believe",
+   "ipa": "/aɪ ˈstrɔŋli bɪˈliːv/",
+   "meaning": "tôi tin chắc rằng",
+   "pos": "cụm câu",
+   "audio": "B1-57-w-i-strongly-believe.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I strongly believe that supermarkets should stop giving out free plastic bags.",
+   "vi": "Tôi tin chắc rằng các siêu thị nên ngừng phát túi nhựa miễn phí.",
+   "audio": "B1-57-ex-1.mp3"
+  },
+  {
+   "en": "Firstly, plastic bags cause serious pollution.",
+   "vi": "Thứ nhất, túi nhựa gây ô nhiễm nghiêm trọng.",
+   "audio": "B1-57-ex-2.mp3"
+  },
+  {
+   "en": "In addition, there are cheap and easy alternatives.",
+   "vi": "Ngoài ra, có những lựa chọn thay thế rẻ và dễ dàng.",
+   "audio": "B1-57-ex-3.mp3"
+  },
+  {
+   "en": "For instance, my family keeps two cloth bags in the car, so we never need plastic ones when we go shopping.",
+   "vi": "Ví dụ, gia đình tôi để hai chiếc túi vải trong ô tô, nên chúng tôi không bao giờ cần túi nhựa khi đi mua sắm.",
+   "audio": "B1-57-ex-4.mp3"
+  },
+  {
+   "en": "In conclusion, ending free plastic bags would protect the environment without making our lives much harder.",
+   "vi": "Tóm lại, việc chấm dứt túi nhựa miễn phí sẽ bảo vệ môi trường mà không làm cuộc sống của chúng ta khó khăn hơn nhiều.",
+   "audio": "B1-57-ex-5.mp3"
+  }
+ ]
+}

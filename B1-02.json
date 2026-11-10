@@ -1,0 +1,88 @@
+{
+ "title": "Bài 02. Quá khứ hoàn thành: dạng và nghĩa",
+ "vocabulary": [
+  {
+   "word": "already",
+   "ipa": "/ɔːlˈrɛdi/",
+   "meaning": "đã ... rồi (đứng giữa had và V3)",
+   "pos": "trạng từ",
+   "audio": "B1-02-w-already.mp3"
+  },
+  {
+   "word": "arrive",
+   "ipa": "/əˈraɪv/",
+   "meaning": "đến nơi (arrive at + nơi nhỏ, arrive in + thành phố)",
+   "pos": "động từ",
+   "audio": "B1-02-w-arrive.mp3"
+  },
+  {
+   "word": "leave",
+   "ipa": "/liːv/",
+   "meaning": "rời đi; để lại, để quên (left, left)",
+   "pos": "động từ",
+   "audio": "B1-02-w-leave.mp3"
+  },
+  {
+   "word": "miss",
+   "ipa": "/mɪs/",
+   "meaning": "lỡ (tàu, xe, cuộc họp); nhớ (ai đó)",
+   "pos": "động từ",
+   "audio": "B1-02-w-miss.mp3"
+  },
+  {
+   "word": "lock",
+   "ipa": "/lɑːk/",
+   "meaning": "khóa (cửa, xe)",
+   "pos": "động từ",
+   "audio": "B1-02-w-lock.mp3"
+  },
+  {
+   "word": "notice",
+   "ipa": "/ˈnoʊtɪs/",
+   "meaning": "để ý thấy, nhận thấy",
+   "pos": "động từ",
+   "audio": "B1-02-w-notice.mp3"
+  },
+  {
+   "word": "discover",
+   "ipa": "/dɪˈskʌvɚ/",
+   "meaning": "phát hiện ra",
+   "pos": "động từ",
+   "audio": "B1-02-w-discover.mp3"
+  },
+  {
+   "word": "by then",
+   "ipa": "/ˌbaɪ ˈðɛn/",
+   "meaning": "đến lúc đó",
+   "pos": "cụm trạng từ",
+   "audio": "B1-02-w-by-then.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "When he arrived at the station, the train had already left.",
+   "vi": "Khi anh ấy đến nhà ga thì tàu đã chạy mất rồi.",
+   "audio": "B1-02-ex-1.mp3"
+  },
+  {
+   "en": "He took a taxi to the office, but by then the meeting had started.",
+   "vi": "Anh ấy đi taxi đến công ty, nhưng đến lúc đó cuộc họp đã bắt đầu rồi.",
+   "audio": "B1-02-ex-2.mp3"
+  },
+  {
+   "en": "He discovered that he hadn't locked the front door.",
+   "vi": "Anh ấy phát hiện ra mình đã không khóa cửa trước.",
+   "audio": "B1-02-ex-3.mp3"
+  },
+  {
+   "en": "His wallet was on the kitchen table, exactly where he had left it.",
+   "vi": "Cái ví nằm trên bàn bếp, đúng chỗ anh ấy đã để quên nó.",
+   "audio": "B1-02-ex-4.mp3"
+  },
+  {
+   "en": "Had you checked the table before you left? No, I hadn't.",
+   "vi": "Trước khi đi anh có kiểm tra cái bàn không? Không.",
+   "audio": "B1-02-ex-5.mp3"
+  }
+ ]
+}

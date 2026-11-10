@@ -1,0 +1,81 @@
+{
+ "title": "Bài 06. Kỹ năng: nghe bài giảng và cấu trúc bài giảng",
+ "vocabulary": [
+  {
+   "word": "lecture",
+   "ipa": "/ˈlektʃər/",
+   "meaning": "bài giảng",
+   "pos": "danh từ",
+   "audio": "B2-06-w-lecture.mp3"
+  },
+  {
+   "word": "outline",
+   "ipa": "/ˈaʊtˌlaɪn/",
+   "meaning": "dàn ý; phác thảo",
+   "pos": "danh từ / động từ",
+   "audio": "B2-06-w-outline.mp3"
+  },
+  {
+   "word": "moving on",
+   "ipa": "/ˌmuvɪŋ ˈɑn/",
+   "meaning": "chuyển sang (phần tiếp theo)",
+   "pos": "cụm từ báo hiệu",
+   "audio": "B2-06-w-moving-on.mp3"
+  },
+  {
+   "word": "to illustrate",
+   "ipa": "/tə ˈɪləˌstreɪt/",
+   "meaning": "để minh họa",
+   "pos": "cụm từ báo hiệu",
+   "audio": "B2-06-w-to-illustrate.mp3"
+  },
+  {
+   "word": "digress",
+   "ipa": "/daɪˈɡres/",
+   "meaning": "lạc đề, nói ra ngoài lề",
+   "pos": "động từ",
+   "audio": "B2-06-w-digress.mp3"
+  },
+  {
+   "word": "recap",
+   "ipa": "/ˈriˌkæp/",
+   "meaning": "tóm tắt lại, nhắc lại ý chính",
+   "pos": "động từ / danh từ",
+   "audio": "B2-06-w-recap.mp3"
+  },
+  {
+   "word": "key concept",
+   "ipa": "/ˌki ˈkɑnsept/",
+   "meaning": "khái niệm then chốt",
+   "pos": "cụm danh từ",
+   "audio": "B2-06-w-key-concept.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, everyone. Today I'd like to talk about why we forget what we learn. Here's a quick outline. First, I'll introduce the key concept of the forgetting curve. Then we'll look at two causes of forgetting, and finally, at two ways to remember more.",
+   "vi": "Chào cả lớp. Hôm nay tôi muốn nói về lý do chúng ta quên những gì đã học. Dàn ý nhanh như sau. Trước hết, tôi giới thiệu khái niệm then chốt: đường cong quên lãng. Sau đó là hai nguyên nhân gây quên, và cuối cùng là hai cách để nhớ nhiều hơn.",
+   "audio": "B2-06-ex-1.mp3"
+  },
+  {
+   "en": "Let's start with the forgetting curve. In the eighteen eighties, the German researcher Hermann Ebbinghaus tested his own memory. He found that we lose most new information within a day or two. The key point is this: forgetting is fastest right after learning.",
+   "vi": "Hãy bắt đầu với đường cong quên lãng. Vào thập niên 1880, nhà nghiên cứu người Đức Hermann Ebbinghaus đã tự kiểm tra trí nhớ của mình. Ông thấy rằng chúng ta mất phần lớn thông tin mới trong vòng một hai ngày. Ý chính là: ta quên nhanh nhất ngay sau khi học.",
+   "audio": "B2-06-ex-2.mp3"
+  },
+  {
+   "en": "To illustrate, imagine you learn twenty new words on Monday. By Wednesday, you may remember only eight. Now, let me digress for a moment. As a student, I once tried to learn a whole textbook in one night. It didn't work! Anyway, back to the main point.",
+   "vi": "Để minh họa, hãy hình dung bạn học hai mươi từ mới vào thứ Hai. Đến thứ Tư, có thể bạn chỉ còn nhớ tám từ. Giờ cho tôi lạc đề một chút. Hồi còn là sinh viên, có lần tôi cố học cả cuốn giáo trình trong một đêm. Không ăn thua! Thôi, quay lại ý chính.",
+   "audio": "B2-06-ex-3.mp3"
+  },
+  {
+   "en": "Moving on to the causes of forgetting. There are two main factors. The first is interference: new information gets mixed up with old information. The second is lack of use: if we never recall a memory, it gradually fades.",
+   "vi": "Chuyển sang nguyên nhân gây quên. Có hai yếu tố chính. Thứ nhất là sự nhiễu: thông tin mới bị lẫn với thông tin cũ. Thứ hai là không dùng đến: nếu ta không bao giờ gợi lại một ký ức, nó sẽ dần mờ đi.",
+   "audio": "B2-06-ex-4.mp3"
+  },
+  {
+   "en": "So, what can we do? First, review new material after one day, then after a week. Second, test yourself instead of just rereading your notes. To sum up, forgetting is natural, but spaced review and self-testing can slow it down. Next week, we'll recap today's key concept and look at sleep.",
+   "vi": "Vậy ta làm được gì? Một, ôn tài liệu mới sau một ngày, rồi sau một tuần. Hai, tự kiểm tra thay vì chỉ đọc lại ghi chép. Tóm lại, quên là tự nhiên, nhưng ôn giãn cách và tự kiểm tra có thể làm chậm việc quên. Tuần sau, ta sẽ nhắc lại khái niệm chính hôm nay và tìm hiểu về giấc ngủ.",
+   "audio": "B2-06-ex-5.mp3"
+  }
+ ]
+}

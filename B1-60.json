@@ -1,0 +1,67 @@
+{
+ "title": "Bài 60. Ôn tập và kiểm tra B1-6",
+ "vocabulary": [
+  {
+   "word": "pollution",
+   "ipa": "/pəˈluːʃən/",
+   "meaning": "sự ô nhiễm (ôn B1 · Bài 51)",
+   "pos": "danh từ",
+   "audio": "B1-60-w-pollution.mp3"
+  },
+  {
+   "word": "although",
+   "ipa": "/ɔlˈðoʊ/",
+   "meaning": "mặc dù (+ mệnh đề) (ôn B1 · Bài 52)",
+   "pos": "liên từ",
+   "audio": "B1-60-w-although.mp3"
+  },
+  {
+   "word": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "meaning": "bất chấp, mặc dù (+ danh từ/V-ing) (ôn B1 · Bài 53)",
+   "pos": "giới từ",
+   "audio": "B1-60-w-despite.mp3"
+  },
+  {
+   "word": "therefore",
+   "ipa": "/ˈðɛrfɔr/",
+   "meaning": "vì vậy, do đó (ôn B1 · Bài 55)",
+   "pos": "trạng từ",
+   "audio": "B1-60-w-therefore.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvɪdəns/",
+   "meaning": "bằng chứng (ôn B1 · Bài 59)",
+   "pos": "danh từ",
+   "audio": "B1-60-w-evidence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The main street was closed to cars from eight in the morning until eight in the evening so that people could walk and cycle safely.",
+   "vi": "Con phố chính cấm ô tô từ tám giờ sáng đến tám giờ tối để mọi người có thể đi bộ và đạp xe an toàn.",
+   "audio": "B1-60-ex-1.mp3"
+  },
+  {
+   "en": "Despite the rain, thousands of people joined the event.",
+   "vi": "Bất chấp trời mưa, hàng nghìn người đã tham gia sự kiện.",
+   "audio": "B1-60-ex-2.mp3"
+  },
+  {
+   "en": "According to the city's environment office, air pollution in the center fell by about a quarter during the day. As a result, the sky was clearer than usual.",
+   "vi": "Theo phòng môi trường thành phố, ô nhiễm không khí ở trung tâm giảm khoảng một phần tư trong ngày hôm đó. Kết quả là bầu trời trong hơn bình thường.",
+   "audio": "B1-60-ex-3.mp3"
+  },
+  {
+   "en": "Although the city has built new bike lanes, many people still drive to work.",
+   "vi": "Mặc dù thành phố đã xây làn xe đạp mới, nhiều người vẫn lái xe đi làm.",
+   "audio": "B1-60-ex-4.mp3"
+  },
+  {
+   "en": "Neither the shop owners nor the mayor wants to cancel the event next year.",
+   "vi": "Cả các chủ cửa hàng lẫn thị trưởng đều không muốn hủy sự kiện vào năm sau.",
+   "audio": "B1-60-ex-5.mp3"
+  }
+ ]
+}

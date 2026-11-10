@@ -1,0 +1,81 @@
+{
+ "title": "Bài 98. Kỹ năng: viết bài đánh giá (review) 180–250 từ",
+ "vocabulary": [
+  {
+   "word": "gripping",
+   "ipa": "/ˈɡrɪpɪŋ/",
+   "meaning": "cuốn hút, hấp dẫn đến mức không rời được",
+   "pos": "tính từ",
+   "audio": "B2-98-w-gripping.mp3"
+  },
+  {
+   "word": "well-structured",
+   "ipa": "/ˌwɛl ˈstrʌktʃɚd/",
+   "meaning": "có bố cục, cấu trúc tốt",
+   "pos": "tính từ",
+   "audio": "B2-98-w-well-structured.mp3"
+  },
+  {
+   "word": "disappointing",
+   "ipa": "/ˌdɪsəˈpɔɪntɪŋ/",
+   "meaning": "đáng thất vọng",
+   "pos": "tính từ",
+   "audio": "B2-98-w-disappointing.mp3"
+  },
+  {
+   "word": "worth",
+   "ipa": "/wɝːθ/",
+   "meaning": "đáng (giá), đáng để (+ N / V-ing)",
+   "pos": "tính từ / giới từ",
+   "audio": "B2-98-w-worth.mp3"
+  },
+  {
+   "word": "highly recommend",
+   "ipa": "/ˌhaɪli ˌrɛkəˈmɛnd/",
+   "meaning": "rất khuyên dùng, rất khuyến khích",
+   "pos": "cụm động từ (collocation)",
+   "audio": "B2-98-w-highly-recommend.mp3"
+  },
+  {
+   "word": "fall short",
+   "ipa": "/ˌfɔːl ˈʃɔːrt/",
+   "meaning": "không đạt (kỳ vọng, mục tiêu); fall short of + N",
+   "pos": "cụm động từ",
+   "audio": "B2-98-w-fall-short.mp3"
+  },
+  {
+   "word": "on the whole",
+   "ipa": "/ˌɑːn ðə ˈhoʊl/",
+   "meaning": "nhìn chung, xét tổng thể",
+   "pos": "cụm trạng từ",
+   "audio": "B2-98-w-on-the-whole.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "On the whole, it was a rewarding experience, although it did not live up to every promise on its website.",
+   "vi": "Nhìn chung, đó là một trải nghiệm đáng giá, dù khóa học không đáp ứng được mọi lời hứa trên trang web.",
+   "audio": "B2-98-ex-1.mp3"
+  },
+  {
+   "en": "The course is well-structured: each week builds on the previous one, and the short videos never last more than ten minutes.",
+   "vi": "Khóa học có bố cục tốt: mỗi tuần dựa trên tuần trước, và các video ngắn không bao giờ dài quá mười phút.",
+   "audio": "B2-98-ex-2.mp3"
+  },
+  {
+   "en": "What I appreciated most was the weekly project, because it forced me to apply the theory instead of just watching.",
+   "vi": "Điều tôi đánh giá cao nhất là dự án hằng tuần, vì nó buộc tôi áp dụng lý thuyết thay vì chỉ xem.",
+   "audio": "B2-98-ex-3.mp3"
+  },
+  {
+   "en": "Second, the final module on visualization felt rushed, which was fairly disappointing after such a strong start.",
+   "vi": "Thứ hai, phần cuối về trực quan hóa dữ liệu có vẻ vội vàng, điều đó khá đáng thất vọng sau một khởi đầu tốt như vậy.",
+   "audio": "B2-98-ex-4.mp3"
+  },
+  {
+   "en": "For complete beginners who are motivated to study on their own, I would highly recommend it.",
+   "vi": "Với người mới bắt đầu hoàn toàn và có động lực tự học, tôi rất khuyên dùng khóa này.",
+   "audio": "B2-98-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 50. Ôn tập và kiểm tra B2-5",
+ "vocabulary": [
+  {
+   "word": "whom",
+   "ipa": "/hum/",
+   "meaning": "người mà (tân ngữ, sau giới từ) (ôn B2 · Bài 41)",
+   "pos": "đại từ quan hệ",
+   "audio": "B2-50-w-whom.mp3"
+  },
+  {
+   "word": "whereby",
+   "ipa": "/wɛrˈbaɪ/",
+   "meaning": "nhờ đó, theo đó (= by which) (ôn B2 · Bài 42)",
+   "pos": "trạng từ quan hệ",
+   "audio": "B2-50-w-whereby.mp3"
+  },
+  {
+   "word": "simultaneously",
+   "ipa": "/ˌsaɪməlˈteɪniəsli/",
+   "meaning": "đồng thời, cùng lúc (ôn B2 · Bài 44)",
+   "pos": "trạng từ",
+   "audio": "B2-50-w-simultaneously.mp3"
+  },
+  {
+   "word": "thereby",
+   "ipa": "/ðɛrˈbaɪ/",
+   "meaning": "nhờ đó, do đó (+ V-ing) (ôn B2 · Bài 45)",
+   "pos": "trạng từ",
+   "audio": "B2-50-w-thereby.mp3"
+  },
+  {
+   "word": "inequality",
+   "ipa": "/ˌɪnɪˈkwɑləti/",
+   "meaning": "sự bất bình đẳng (ôn B2 · Bài 46)",
+   "pos": "danh từ",
+   "audio": "B2-50-w-inequality.mp3"
+  },
+  {
+   "word": "admittedly",
+   "ipa": "/ədˈmɪtɪdli/",
+   "meaning": "phải thừa nhận rằng (ôn B2 · Bài 48)",
+   "pos": "trạng từ",
+   "audio": "B2-50-w-admittedly.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Over the past three decades, millions of young people, most of whom were looking for better-paid work, have moved to cities such as Hanoi and Ho Chi Minh City.",
+   "vi": "Trong ba thập kỷ qua, hàng triệu người trẻ, phần lớn trong số họ đi tìm việc lương cao hơn, đã chuyển đến các thành phố như Hà Nội và Thành phố Hồ Chí Minh.",
+   "audio": "B2-50-ex-1.mp3"
+  },
+  {
+   "en": "Having left their villages, many of them find jobs in factories or delivery services, which means that their families back home receive a steady income.",
+   "vi": "Sau khi rời làng quê, nhiều người tìm được việc trong nhà máy hoặc dịch vụ giao hàng, nhờ vậy gia đình ở quê có thu nhập đều đặn.",
+   "audio": "B2-50-ex-2.mp3"
+  },
+  {
+   "en": "However, the cities to which they move are not always ready for them.",
+   "vi": "Tuy nhiên, những thành phố mà họ chuyển đến không phải lúc nào cũng sẵn sàng đón họ.",
+   "audio": "B2-50-ex-3.mp3"
+  },
+  {
+   "en": "Migrants living in rented rooms may not have access to local schools or health care.",
+   "vi": "Người di cư sống trong phòng trọ có thể không được tiếp cận trường học và dịch vụ y tế địa phương.",
+   "audio": "B2-50-ex-4.mp3"
+  },
+  {
+   "en": "Faced with these costs, some parents leave their children with grandparents, resulting in a generation of children who grow up apart from their parents.",
+   "vi": "Trước những chi phí này, một số cha mẹ gửi con cho ông bà, dẫn đến cả một thế hệ trẻ em lớn lên xa cha mẹ.",
+   "audio": "B2-50-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 72. Cụm động từ: giao tiếp và cảm xúc",
+ "vocabulary": [
+  {
+   "word": "bring up",
+   "ipa": "/brɪŋ ˈʌp/",
+   "meaning": "nêu ra, nhắc đến (chủ đề)",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-bring-up.mp3"
+  },
+  {
+   "word": "point out",
+   "ipa": "/pɔɪnt ˈaʊt/",
+   "meaning": "chỉ ra",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-point-out.mp3"
+  },
+  {
+   "word": "turn down",
+   "ipa": "/tɝːn ˈdaʊn/",
+   "meaning": "từ chối (lời mời, đề nghị)",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-turn-down.mp3"
+  },
+  {
+   "word": "put off",
+   "ipa": "/pʊt ˈɔːf/",
+   "meaning": "hoãn lại",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-put-off.mp3"
+  },
+  {
+   "word": "come up with",
+   "ipa": "/kʌm ˈʌp wɪð/",
+   "meaning": "nghĩ ra (ý tưởng, giải pháp)",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-come-up-with.mp3"
+  },
+  {
+   "word": "calm down",
+   "ipa": "/kɑːm ˈdaʊn/",
+   "meaning": "bình tĩnh lại; làm ai bình tĩnh",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-calm-down.mp3"
+  },
+  {
+   "word": "cheer up",
+   "ipa": "/tʃɪr ˈʌp/",
+   "meaning": "vui lên; làm ai vui lên",
+   "pos": "cụm động từ",
+   "audio": "B1-72-w-cheer-up.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I didn't want to bring up the topic of money, but my sister brought it up anyway.",
+   "vi": "Tôi không muốn nhắc đến chuyện tiền bạc, nhưng chị tôi vẫn cứ nhắc.",
+   "audio": "B1-72-ex-1.mp3"
+  },
+  {
+   "en": "My manager pointed out a few mistakes in my report.",
+   "vi": "Quản lý của tôi đã chỉ ra vài lỗi trong báo cáo của tôi.",
+   "audio": "B1-72-ex-2.mp3"
+  },
+  {
+   "en": "She was offered a job in Singapore, but she turned it down.",
+   "vi": "Cô ấy được mời làm việc ở Singapore, nhưng cô ấy đã từ chối.",
+   "audio": "B1-72-ex-3.mp3"
+  },
+  {
+   "en": "We've had to put off the trip until next month because of the weather.",
+   "vi": "Chúng tôi đã phải hoãn chuyến đi đến tháng sau vì thời tiết.",
+   "audio": "B1-72-ex-4.mp3"
+  },
+  {
+   "en": "We need to come up with a better plan before Friday.",
+   "vi": "Chúng ta cần nghĩ ra một kế hoạch tốt hơn trước thứ Sáu.",
+   "audio": "B1-72-ex-5.mp3"
+  }
+ ]
+}

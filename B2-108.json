@@ -1,0 +1,81 @@
+{
+ "title": "Bài 108. Kỹ năng: nghe bài giảng dài 12–15 phút",
+ "vocabulary": [
+  {
+   "word": "extended",
+   "ipa": "/ɪkˈstɛndɪd/",
+   "meaning": "dài, kéo dài (an extended lecture, an extended period)",
+   "pos": "tính từ",
+   "audio": "B2-108-w-extended.mp3"
+  },
+  {
+   "word": "digression",
+   "ipa": "/daɪˈɡrɛʃən/",
+   "meaning": "đoạn lạc đề",
+   "pos": "danh từ",
+   "audio": "B2-108-w-digression.mp3"
+  },
+  {
+   "word": "example",
+   "ipa": "/ɪɡˈzæmpəl/",
+   "meaning": "ví dụ minh họa (Take X, for example)",
+   "pos": "danh từ",
+   "audio": "B2-108-w-example.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvɪdəns/",
+   "meaning": "bằng chứng (không đếm được: a piece of evidence)",
+   "pos": "danh từ",
+   "audio": "B2-108-w-evidence.mp3"
+  },
+  {
+   "word": "summary",
+   "ipa": "/ˈsʌməri/",
+   "meaning": "bản tóm tắt (To sum up..., In summary...)",
+   "pos": "danh từ",
+   "audio": "B2-108-w-summary.mp3"
+  },
+  {
+   "word": "implication",
+   "ipa": "/ˌɪmplɪˈkeɪʃən/",
+   "meaning": "hệ quả, tác động (về sau); hàm ý",
+   "pos": "danh từ",
+   "audio": "B2-108-w-implication.mp3"
+  },
+  {
+   "word": "key takeaway",
+   "ipa": "/ˈki ˈteɪkəˌweɪ/",
+   "meaning": "điều quan trọng nhất cần nhớ",
+   "pos": "cụm danh từ",
+   "audio": "B2-108-w-key-takeaway.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, everyone. Today we're looking at the urban heat island. I'll start by explaining what it is, then I'll look at three causes, and finally I'll consider what cities can do about it.",
+   "vi": "Đoạn 1: chào, nêu chủ đề đảo nhiệt đô thị và bản đồ ba phần: định nghĩa, ba nguyên nhân, giải pháp.",
+   "audio": "B2-108-ex-1.mp3"
+  },
+  {
+   "en": "So, the first cause is the surfaces we build with. Asphalt and dark roofs absorb the sun's heat during the day and release it slowly at night. The evidence here is clear: satellite images show that the hottest areas match the largest parking lots.",
+   "vi": "Đoạn 2: nguyên nhân 1 là bề mặt tối màu hấp thụ nhiệt mặt trời ban ngày, tỏa ra ban đêm; bằng chứng là ảnh vệ tinh.",
+   "audio": "B2-108-ex-2.mp3"
+  },
+  {
+   "en": "Actually, this reminds me of my first summer as a student in Phoenix. I used to walk to the park at midnight just to sit under the trees. Anyway, I'm getting off track. The second cause is the lack of trees, which cool the air with shade and water from their leaves.",
+   "vi": "Đoạn 3: lạc đề (chuyện mùa hè ở Phoenix), rồi quay lại: nguyên nhân 2 là thiếu cây xanh.",
+   "audio": "B2-108-ex-3.mp3"
+  },
+  {
+   "en": "The third cause is waste heat. Take Hanoi in June, for example. When millions of air conditioners run at the same time, they make the streets even hotter, so people use even more air conditioning. It's a vicious circle.",
+   "vi": "Đoạn 4: nguyên nhân 3 là nhiệt thải; ví dụ Hà Nội tháng Sáu: máy lạnh làm phố nóng hơn, người ta lại bật máy lạnh nhiều hơn, thành vòng luẩn quẩn.",
+   "audio": "B2-108-ex-4.mp3"
+  },
+  {
+   "en": "So what are the implications? Heat is a health risk, especially for older people, and the hottest neighborhoods tend to be the poorest ones. If there's one key takeaway from today, it's this: planting trees is one of the cheapest ways to cool a city.",
+   "vi": "Đoạn 5: hệ quả: nguy hiểm cho sức khỏe người già, khu nghèo nóng nhất. Điều cần nhớ nhất: trồng cây là cách rẻ nhất để làm mát thành phố.",
+   "audio": "B2-108-ex-5.mp3"
+  }
+ ]
+}

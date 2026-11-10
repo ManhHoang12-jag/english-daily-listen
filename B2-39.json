@@ -1,0 +1,81 @@
+{
+ "title": "Bài 39. Kỹ năng: nghe thảo luận về kết quả nghiên cứu",
+ "vocabulary": [
+  {
+   "word": "findings",
+   "ipa": "/ˈfaɪndɪŋz/",
+   "meaning": "những phát hiện, kết quả nghiên cứu (ôn Bài 37)",
+   "pos": "danh từ số nhiều",
+   "audio": "B2-39-w-findings.mp3"
+  },
+  {
+   "word": "interpretation",
+   "ipa": "/ɪnˌtɝprɪˈteɪʃən/",
+   "meaning": "cách hiểu, cách diễn giải",
+   "pos": "danh từ",
+   "audio": "B2-39-w-interpretation.mp3"
+  },
+  {
+   "word": "disagree",
+   "ipa": "/ˌdɪsəˈɡri/",
+   "meaning": "không đồng ý, bất đồng (disagree with sb / on sth)",
+   "pos": "động từ",
+   "audio": "B2-39-w-disagree.mp3"
+  },
+  {
+   "word": "evidence suggests",
+   "ipa": "/ˈɛvɪdəns səɡˈdʒɛsts/",
+   "meaning": "bằng chứng cho thấy (thận trọng)",
+   "pos": "cụm từ",
+   "audio": "B2-39-w-evidence-suggests.mp3"
+  },
+  {
+   "word": "I'd question",
+   "ipa": "/aɪd ˈkwɛstʃən/",
+   "meaning": "tôi hơi nghi ngờ, tôi muốn đặt lại vấn đề (bất đồng lịch sự)",
+   "pos": "cụm từ",
+   "audio": "B2-39-w-i-d-question.mp3"
+  },
+  {
+   "word": "tentative",
+   "ipa": "/ˈtɛntətɪv/",
+   "meaning": "tạm thời, chưa chắc chắn",
+   "pos": "tính từ",
+   "audio": "B2-39-w-tentative.mp3"
+  },
+  {
+   "word": "robust",
+   "ipa": "/roʊˈbʌst/",
+   "meaning": "vững, đáng tin (kết quả); khỏe, chắc",
+   "pos": "tính từ",
+   "audio": "B2-39-w-robust.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Okay, let's get started. We're here to discuss the findings from our note-taking study. To recap, students who took notes by hand scored about fifteen percent higher on the follow-up test than those who typed. David, what's your interpretation?",
+   "vi": "Được rồi, bắt đầu nhé. Chúng ta ở đây để thảo luận kết quả nghiên cứu về cách ghi chép. Tóm lại, sinh viên ghi chép bằng tay đạt điểm cao hơn khoảng mười lăm phần trăm trong bài kiểm tra sau đó so với những người đánh máy. David, anh hiểu kết quả này thế nào?",
+   "audio": "B2-39-ex-1.mp3"
+  },
+  {
+   "en": "I think the evidence suggests that writing by hand forces students to process information. You can't write down every word, so you have to summarize. To me, that's the most likely explanation, and the results are fairly robust. We saw the same pattern in all three groups.",
+   "vi": "Tôi nghĩ bằng chứng cho thấy viết tay buộc sinh viên phải xử lý thông tin. Bạn không thể chép lại từng chữ, nên phải tóm tắt. Với tôi, đó là cách giải thích hợp lý nhất, và kết quả khá vững: chúng tôi thấy cùng một xu hướng ở cả ba nhóm.",
+   "audio": "B2-39-ex-2.mp3"
+  },
+  {
+   "en": "I'd question that a little. I don't disagree with the numbers, but I'm not sure they tell us why. The students who chose to write by hand might simply have been more motivated. We didn't assign them randomly, so I'd say our conclusions have to be tentative.",
+   "vi": "Tôi hơi nghi ngờ điều đó. Tôi không phản đối số liệu, nhưng tôi không chắc chúng cho ta biết lý do. Những sinh viên chọn viết tay có thể đơn giản là có động lực hơn. Chúng ta không phân nhóm ngẫu nhiên, nên tôi cho rằng kết luận phải mang tính tạm thời.",
+   "audio": "B2-39-ex-3.mp3"
+  },
+  {
+   "en": "That's a fair point, and I'll admit the design wasn't perfect. Still, in the second phase we did assign students randomly, and the gap was smaller, but it was still there.",
+   "vi": "Ý đó hợp lý, và tôi thừa nhận thiết kế chưa hoàn hảo. Dù vậy, ở giai đoạn hai chúng ta đã phân nhóm ngẫu nhiên, và khoảng cách nhỏ hơn nhưng vẫn còn.",
+   "audio": "B2-39-ex-4.mp3"
+  },
+  {
+   "en": "So it sounds like we agree that handwriting seems to help, but we disagree on how strong the effect is. Priya, you'd want a larger randomized study first? Exactly. Until then, I'd describe the effect as promising rather than proven.",
+   "vi": "Vậy có vẻ chúng ta đồng ý rằng viết tay dường như có ích, nhưng bất đồng về mức độ mạnh của hiệu quả. Priya, chị muốn có một nghiên cứu ngẫu nhiên lớn hơn trước đã? Đúng vậy. Cho đến lúc đó, tôi sẽ mô tả hiệu quả này là đầy hứa hẹn chứ chưa được chứng minh.",
+   "audio": "B2-39-ex-5.mp3"
+  }
+ ]
+}

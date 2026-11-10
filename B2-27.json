@@ -1,0 +1,81 @@
+{
+ "title": "Bài 27. Kỹ năng: đọc bài khoa học phổ thông 550 từ (2 trang)",
+ "vocabulary": [
+  {
+   "word": "researchers",
+   "ipa": "/ˈrisɝtʃɚz/",
+   "meaning": "các nhà nghiên cứu",
+   "pos": "danh từ",
+   "audio": "B2-27-w-researchers.mp3"
+  },
+  {
+   "word": "suggest",
+   "ipa": "/səˈdʒɛst/",
+   "meaning": "gợi ý, cho thấy (chưa chắc chắn)",
+   "pos": "động từ",
+   "audio": "B2-27-w-suggest.mp3"
+  },
+  {
+   "word": "indicate",
+   "ipa": "/ˈɪndɪˌkeɪt/",
+   "meaning": "chỉ ra, cho thấy",
+   "pos": "động từ",
+   "audio": "B2-27-w-indicate.mp3"
+  },
+  {
+   "word": "correlation",
+   "ipa": "/ˌkɔrəˈleɪʃən/",
+   "meaning": "mối tương quan",
+   "pos": "danh từ",
+   "audio": "B2-27-w-correlation.mp3"
+  },
+  {
+   "word": "cause",
+   "ipa": "/kɔz/",
+   "meaning": "nguyên nhân; gây ra",
+   "pos": "danh từ / động từ",
+   "audio": "B2-27-w-cause.mp3"
+  },
+  {
+   "word": "reveal",
+   "ipa": "/rɪˈvil/",
+   "meaning": "tiết lộ, cho thấy",
+   "pos": "động từ",
+   "audio": "B2-27-w-reveal.mp3"
+  },
+  {
+   "word": "phenomenon",
+   "ipa": "/fəˈnɑməˌnɑn/",
+   "meaning": "hiện tượng (số nhiều: phenomena)",
+   "pos": "danh từ",
+   "audio": "B2-27-w-phenomenon.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Contagious yawning is a phenomenon that has puzzled scientists for decades.",
+   "vi": "Ngáp lây là một hiện tượng đã làm các nhà khoa học bối rối suốt nhiều thập kỷ.",
+   "audio": "B2-27-ex-1.mp3"
+  },
+  {
+   "en": "For a long time, it was widely believed that we yawn to bring more oxygen into the brain.",
+   "vi": "Trong một thời gian dài, nhiều người tin rằng chúng ta ngáp để đưa thêm oxy lên não.",
+   "audio": "B2-27-ex-2.mp3"
+  },
+  {
+   "en": "These findings indicate that temperature plays a role, although they do not explain why yawns spread from one person to another.",
+   "vi": "Những phát hiện này chỉ ra rằng nhiệt độ có vai trò, dù chúng không giải thích được vì sao cái ngáp lan từ người này sang người khác.",
+   "audio": "B2-27-ex-3.mp3"
+  },
+  {
+   "en": "Several studies have revealed a correlation between contagious yawning and social closeness.",
+   "vi": "Một số nghiên cứu đã cho thấy mối tương quan giữa ngáp lây và mức độ gần gũi xã hội.",
+   "audio": "B2-27-ex-4.mp3"
+  },
+  {
+   "en": "However, the researchers are careful to point out that a correlation does not prove a cause.",
+   "vi": "Tuy nhiên, các nhà nghiên cứu thận trọng chỉ ra rằng mối tương quan không chứng minh nguyên nhân.",
+   "audio": "B2-27-ex-5.mp3"
+  }
+ ]
+}

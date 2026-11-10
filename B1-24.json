@@ -1,0 +1,74 @@
+{
+ "title": "Bài 24. Mệnh đề quan hệ không xác định",
+ "vocabulary": [
+  {
+   "word": "founder",
+   "ipa": "/ˈfaʊndɚ/",
+   "meaning": "người sáng lập",
+   "pos": "danh từ",
+   "audio": "B1-24-w-founder.mp3"
+  },
+  {
+   "word": "headquartered",
+   "ipa": "/ˈhɛdˌkwɔrtɚd/",
+   "meaning": "có trụ sở chính (be headquartered in + nơi)",
+   "pos": "tính từ",
+   "audio": "B1-24-w-headquartered.mp3"
+  },
+  {
+   "word": "well-known",
+   "ipa": "/ˌwɛlˈnoʊn/",
+   "meaning": "nổi tiếng, được nhiều người biết",
+   "pos": "tính từ",
+   "audio": "B1-24-w-well-known.mp3"
+  },
+  {
+   "word": "successful",
+   "ipa": "/səkˈsɛsfəl/",
+   "meaning": "thành công",
+   "pos": "tính từ",
+   "audio": "B1-24-w-successful.mp3"
+  },
+  {
+   "word": "competitive",
+   "ipa": "/kəmˈpɛtətɪv/",
+   "meaning": "cạnh tranh, có tính cạnh tranh cao",
+   "pos": "tính từ",
+   "audio": "B1-24-w-competitive.mp3"
+  },
+  {
+   "word": "reputation",
+   "ipa": "/ˌrɛpjəˈteɪʃən/",
+   "meaning": "danh tiếng, tiếng tăm (have a good reputation)",
+   "pos": "danh từ",
+   "audio": "B1-24-w-reputation.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Green Leaf Tea, which was founded in two thousand five, is a well-known tea company in Vietnam.",
+   "vi": "Green Leaf Tea, được thành lập năm 2005, là một công ty trà nổi tiếng ở Việt Nam.",
+   "audio": "B1-24-ex-1.mp3"
+  },
+  {
+   "en": "It is headquartered in Da Lat, where the weather is cool all year.",
+   "vi": "Công ty có trụ sở chính ở Đà Lạt, nơi thời tiết mát mẻ quanh năm.",
+   "audio": "B1-24-ex-2.mp3"
+  },
+  {
+   "en": "Its founder is Tran Thi Hoa, whose parents owned a small tea farm.",
+   "vi": "Người sáng lập là bà Trần Thị Hoa, bố mẹ bà có một đồi chè nhỏ.",
+   "audio": "B1-24-ex-3.mp3"
+  },
+  {
+   "en": "Its jasmine tea, which has an excellent reputation, is exported to Japan and Korea.",
+   "vi": "Trà nhài của công ty, vốn rất có tiếng, được xuất khẩu sang Nhật Bản và Hàn Quốc.",
+   "audio": "B1-24-ex-4.mp3"
+  },
+  {
+   "en": "The tea market is very competitive, which means the company has to keep improving its products.",
+   "vi": "Thị trường trà cạnh tranh rất gay gắt, điều đó có nghĩa là công ty phải liên tục cải tiến sản phẩm.",
+   "audio": "B1-24-ex-5.mp3"
+  }
+ ]
+}

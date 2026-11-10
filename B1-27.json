@@ -1,0 +1,74 @@
+{
+ "title": "Bài 27. Câu hỏi gián tiếp",
+ "vocabulary": [
+  {
+   "word": "whether",
+   "ipa": "/ˈwɛðɚ/",
+   "meaning": "liệu... (có... không)",
+   "pos": "liên từ",
+   "audio": "B1-27-w-whether.mp3"
+  },
+  {
+   "word": "wonder",
+   "ipa": "/ˈwʌndɚ/",
+   "meaning": "tự hỏi, muốn biết",
+   "pos": "động từ",
+   "audio": "B1-27-w-wonder.mp3"
+  },
+  {
+   "word": "available",
+   "ipa": "/əˈveɪləbəl/",
+   "meaning": "có sẵn; rảnh, có mặt",
+   "pos": "tính từ",
+   "audio": "B1-27-w-available.mp3"
+  },
+  {
+   "word": "opening hours",
+   "ipa": "/ˈoʊpənɪŋ ˌaʊɚz/",
+   "meaning": "giờ mở cửa",
+   "pos": "cụm danh từ",
+   "audio": "B1-27-w-opening-hours.mp3"
+  },
+  {
+   "word": "be able to",
+   "ipa": "/bi ˈeɪbəl tə/",
+   "meaning": "có thể (dùng ở mọi thì)",
+   "pos": "cụm động từ",
+   "audio": "B1-27-w-be-able-to.mp3"
+  },
+  {
+   "word": "explain",
+   "ipa": "/ɪkˈspleɪn/",
+   "meaning": "giải thích",
+   "pos": "động từ",
+   "audio": "B1-27-w-explain.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Could you tell me what time the library closes today?",
+   "vi": "Bạn có thể cho tôi biết hôm nay thư viện đóng cửa lúc mấy giờ không?",
+   "audio": "B1-27-ex-1.mp3"
+  },
+  {
+   "en": "Do you know if the manager is available this afternoon?",
+   "vi": "Bạn có biết chiều nay quản lý có rảnh không?",
+   "audio": "B1-27-ex-2.mp3"
+  },
+  {
+   "en": "Could you tell me what your opening hours are on Sundays?",
+   "vi": "Bạn có thể cho tôi biết giờ mở cửa của bên bạn vào Chủ nhật không?",
+   "audio": "B1-27-ex-3.mp3"
+  },
+  {
+   "en": "I was wondering whether you could explain the next step of the process.",
+   "vi": "Tôi muốn hỏi liệu anh/chị có thể giải thích bước tiếp theo của quy trình không.",
+   "audio": "B1-27-ex-4.mp3"
+  },
+  {
+   "en": "Do you know whether I'll be able to change my appointment?",
+   "vi": "Bạn có biết liệu tôi có thể đổi lịch hẹn được không?",
+   "audio": "B1-27-ex-5.mp3"
+  }
+ ]
+}

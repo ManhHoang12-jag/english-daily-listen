@@ -1,0 +1,81 @@
+{
+ "title": "Bài 102. Cấu trúc giả định: It's time, would rather, as if",
+ "vocabulary": [
+  {
+   "word": "it's high time",
+   "ipa": "/ɪts ˌhaɪ ˈtaɪm/",
+   "meaning": "đã đến lúc (lẽ ra phải làm từ trước)",
+   "pos": "cụm câu (+ S + V-ed)",
+   "audio": "B2-102-w-it-s-high-time.mp3"
+  },
+  {
+   "word": "would rather",
+   "ipa": "/wʊd ˈræðɚ/",
+   "meaning": "thích… hơn, muốn… hơn",
+   "pos": "trợ động từ (+ V / + S + V-ed)",
+   "audio": "B2-102-w-would-rather.mp3"
+  },
+  {
+   "word": "as if",
+   "ipa": "/əz ˈɪf/",
+   "meaning": "như thể là",
+   "pos": "liên từ",
+   "audio": "B2-102-w-as-if.mp3"
+  },
+  {
+   "word": "as though",
+   "ipa": "/əz ˈðoʊ/",
+   "meaning": "như thể là (= as if, hơi trang trọng)",
+   "pos": "liên từ",
+   "audio": "B2-102-w-as-though.mp3"
+  },
+  {
+   "word": "had better",
+   "ipa": "/hæd ˈbɛtɚ/",
+   "meaning": "nên (kẻo có hậu quả)",
+   "pos": "trợ động từ (+ V nguyên thể)",
+   "audio": "B2-102-w-had-better.mp3"
+  },
+  {
+   "word": "preferably",
+   "ipa": "/ˈprɛfərəbli/",
+   "meaning": "tốt nhất là, nếu được thì",
+   "pos": "trạng từ",
+   "audio": "B2-102-w-preferably.mp3"
+  },
+  {
+   "word": "pretend",
+   "ipa": "/prɪˈtɛnd/",
+   "meaning": "giả vờ",
+   "pos": "động từ",
+   "audio": "B2-102-w-pretend.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It's high time we updated the booking system; customers keep complaining.",
+   "vi": "Đã đến lúc (lẽ ra phải từ lâu) chúng ta cập nhật hệ thống đặt chỗ; khách hàng cứ phàn nàn mãi.",
+   "audio": "B2-102-ex-1.mp3"
+  },
+  {
+   "en": "I'd rather you didn't share the draft with the client just yet.",
+   "vi": "Tôi mong anh tạm thời đừng gửi bản nháp cho khách hàng.",
+   "audio": "B2-102-ex-2.mp3"
+  },
+  {
+   "en": "He talks as if he knew everything about the project, but he only joined last week.",
+   "vi": "Anh ta nói cứ như thể biết hết mọi thứ về dự án, nhưng anh ta mới vào tuần trước.",
+   "audio": "B2-102-ex-3.mp3"
+  },
+  {
+   "en": "You'd better back up your files before the update.",
+   "vi": "Bạn nên sao lưu tệp trước khi cập nhật, kẻo mất dữ liệu.",
+   "audio": "B2-102-ex-4.mp3"
+  },
+  {
+   "en": "I'd rather we met on Thursday, preferably in the morning.",
+   "vi": "Tôi muốn chúng ta gặp vào thứ Năm hơn, tốt nhất là buổi sáng.",
+   "audio": "B2-102-ex-5.mp3"
+  }
+ ]
+}

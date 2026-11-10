@@ -1,0 +1,81 @@
+{
+ "title": "Bài 91. Chủ đề: cuộc họp",
+ "vocabulary": [
+  {
+   "word": "chair",
+   "ipa": "/tʃɛr/",
+   "meaning": "người chủ trì cuộc họp; chủ trì (to chair a meeting)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-91-w-chair.mp3"
+  },
+  {
+   "word": "agenda item",
+   "ipa": "/əˈdʒɛndə ˈaɪtəm/",
+   "meaning": "một mục trong chương trình họp",
+   "pos": "cụm danh từ",
+   "audio": "B2-91-w-agenda-item.mp3"
+  },
+  {
+   "word": "come in here",
+   "ipa": "/kʌm ɪn hɪr/",
+   "meaning": "chen vào phát biểu (Could I just come in here?)",
+   "pos": "cụm động từ",
+   "audio": "B2-91-w-come-in-here.mp3"
+  },
+  {
+   "word": "move on",
+   "ipa": "/ˌmuv ˈɑn/",
+   "meaning": "chuyển sang (mục, chủ đề khác)",
+   "pos": "cụm động từ",
+   "audio": "B2-91-w-move-on.mp3"
+  },
+  {
+   "word": "take on this",
+   "ipa": "/ˈteɪk ɑn ðɪs/",
+   "meaning": "quan điểm về việc này (What's your take on this?)",
+   "pos": "cụm danh từ",
+   "audio": "B2-91-w-take-on-this.mp3"
+  },
+  {
+   "word": "wrap up",
+   "ipa": "/ˌræp ˈʌp/",
+   "meaning": "kết thúc, chốt lại (cuộc họp, buổi thảo luận)",
+   "pos": "cụm động từ",
+   "audio": "B2-91-w-wrap-up.mp3"
+  },
+  {
+   "word": "any other business",
+   "ipa": "/ˈɛni ˈʌðər ˈbɪznəs/",
+   "meaning": "việc khác (mục cuối chương trình họp, viết tắt AOB)",
+   "pos": "cụm danh từ",
+   "audio": "B2-91-w-any-other-business.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Right, everyone's here, so shall we get started?",
+   "vi": "Được rồi, mọi người đã đến đủ, chúng ta bắt đầu nhé?",
+   "audio": "B2-91-ex-1.mp3"
+  },
+  {
+   "en": "Sorry to interrupt, but are we talking about this year or next year?",
+   "vi": "Xin lỗi đã ngắt lời, nhưng chúng ta đang nói về năm nay hay năm sau?",
+   "audio": "B2-91-ex-2.mp3"
+  },
+  {
+   "en": "Linh, what's your take on this?",
+   "vi": "Linh, bạn nghĩ sao về việc này?",
+   "audio": "B2-91-ex-3.mp3"
+  },
+  {
+   "en": "Could I just come in here? I think the budget is a bit tight.",
+   "vi": "Cho tôi chen vào một chút được không? Tôi nghĩ ngân sách hơi eo hẹp.",
+   "audio": "B2-91-ex-4.mp3"
+  },
+  {
+   "en": "Let's move on to the next agenda item: the training budget.",
+   "vi": "Chúng ta chuyển sang mục tiếp theo của chương trình: ngân sách đào tạo.",
+   "audio": "B2-91-ex-5.mp3"
+  }
+ ]
+}

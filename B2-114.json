@@ -1,0 +1,74 @@
+{
+ "title": "Bài 114. Tổng ôn từ vựng: cấu tạo từ và collocation",
+ "vocabulary": [
+  {
+   "word": "word family",
+   "ipa": "/ˈwɝd ˌfæməli/",
+   "meaning": "họ từ (các từ cùng gốc: rely, reliable, reliance)",
+   "pos": "cụm danh từ",
+   "audio": "B2-114-w-word-family.mp3"
+  },
+  {
+   "word": "collocation",
+   "ipa": "/ˌkɑləˈkeɪʃən/",
+   "meaning": "cụm từ kết hợp tự nhiên (conduct research, heavy rain)",
+   "pos": "danh từ",
+   "audio": "B2-114-w-collocation.mp3"
+  },
+  {
+   "word": "idiom",
+   "ipa": "/ˈɪdiəm/",
+   "meaning": "thành ngữ",
+   "pos": "danh từ",
+   "audio": "B2-114-w-idiom.mp3"
+  },
+  {
+   "word": "phrasal verb",
+   "ipa": "/ˈfreɪzəl ˈvɝb/",
+   "meaning": "cụm động từ (động từ + tiểu từ: rule out, stem from)",
+   "pos": "cụm danh từ",
+   "audio": "B2-114-w-phrasal-verb.mp3"
+  },
+  {
+   "word": "precision",
+   "ipa": "/prɪˈsɪʒən/",
+   "meaning": "độ chính xác (dùng đúng từ, đúng nghĩa)",
+   "pos": "danh từ",
+   "audio": "B2-114-w-precision.mp3"
+  },
+  {
+   "word": "range",
+   "ipa": "/reɪndʒ/",
+   "meaning": "độ đa dạng, phạm vi (a wide range of = nhiều loại)",
+   "pos": "danh từ",
+   "audio": "B2-114-w-range.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The study draws on data collected from more than three thousand households.",
+   "vi": "Nghiên cứu dựa trên dữ liệu thu thập từ hơn ba nghìn hộ gia đình.",
+   "audio": "B2-114-ex-1.mp3"
+  },
+  {
+   "en": "Rising sea levels pose a serious threat to coastal communities in the Mekong Delta.",
+   "vi": "Mực nước biển dâng gây ra mối đe dọa nghiêm trọng cho các cộng đồng ven biển ở đồng bằng sông Cửu Long.",
+   "audio": "B2-114-ex-2.mp3"
+  },
+  {
+   "en": "The sharp increase in housing costs has had a significant impact on young families.",
+   "vi": "Việc chi phí nhà ở tăng mạnh đã có tác động đáng kể đến các gia đình trẻ.",
+   "audio": "B2-114-ex-3.mp3"
+  },
+  {
+   "en": "Many of these problems stem from a lack of reliable information.",
+   "vi": "Nhiều vấn đề trong số này bắt nguồn từ việc thiếu thông tin đáng tin cậy.",
+   "audio": "B2-114-ex-4.mp3"
+  },
+  {
+   "en": "When I started the job, it was a steep learning curve, but I soon got the hang of it.",
+   "vi": "Khi mới bắt đầu công việc, tôi phải học rất nhiều thứ trong thời gian ngắn, nhưng tôi sớm quen việc.",
+   "audio": "B2-114-ex-5.mp3"
+  }
+ ]
+}

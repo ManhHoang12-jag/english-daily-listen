@@ -1,0 +1,88 @@
+{
+ "title": "Bài 77. Cấu tạo từ B1: hậu tố và tiền tố cơ bản",
+ "vocabulary": [
+  {
+   "word": "decision",
+   "ipa": "/dɪˈsɪʒən/",
+   "meaning": "quyết định (danh từ; động từ: decide)",
+   "pos": "danh từ",
+   "audio": "B1-77-w-decision.mp3"
+  },
+  {
+   "word": "development",
+   "ipa": "/dɪˈvɛləpmənt/",
+   "meaning": "sự phát triển (động từ: develop)",
+   "pos": "danh từ",
+   "audio": "B1-77-w-development.mp3"
+  },
+  {
+   "word": "happiness",
+   "ipa": "/ˈhæpinəs/",
+   "meaning": "hạnh phúc, niềm vui (tính từ: happy)",
+   "pos": "danh từ",
+   "audio": "B1-77-w-happiness.mp3"
+  },
+  {
+   "word": "useful",
+   "ipa": "/ˈjuːsfəl/",
+   "meaning": "hữu ích, có ích",
+   "pos": "tính từ",
+   "audio": "B1-77-w-useful.mp3"
+  },
+  {
+   "word": "useless",
+   "ipa": "/ˈjuːsləs/",
+   "meaning": "vô dụng, không có ích",
+   "pos": "tính từ",
+   "audio": "B1-77-w-useless.mp3"
+  },
+  {
+   "word": "disagree",
+   "ipa": "/ˌdɪsəˈɡriː/",
+   "meaning": "không đồng ý (disagree with + người/ý kiến)",
+   "pos": "động từ",
+   "audio": "B1-77-w-disagree.mp3"
+  },
+  {
+   "word": "uncomfortable",
+   "ipa": "/ʌnˈkʌmftɚbəl/",
+   "meaning": "không thoải mái, khó chịu",
+   "pos": "tính từ",
+   "audio": "B1-77-w-uncomfortable.mp3"
+  },
+  {
+   "word": "careless",
+   "ipa": "/ˈkɛrləs/",
+   "meaning": "bất cẩn, không cẩn thận",
+   "pos": "tính từ",
+   "audio": "B1-77-w-careless.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Moving to a new city was the biggest decision of my life.",
+   "vi": "Chuyển đến một thành phố mới là quyết định lớn nhất đời tôi.",
+   "audio": "B1-77-ex-1.mp3"
+  },
+  {
+   "en": "At first, everything felt uncomfortable: my apartment was small, and the bed was hard.",
+   "vi": "Lúc đầu, mọi thứ đều khiến tôi thấy không thoải mái: căn hộ nhỏ, giường thì cứng.",
+   "audio": "B1-77-ex-2.mp3"
+  },
+  {
+   "en": "My phone was almost useless because I didn't have a local phone number.",
+   "vi": "Điện thoại của tôi gần như vô dụng vì tôi không có số điện thoại ở đó.",
+   "audio": "B1-77-ex-3.mp3"
+  },
+  {
+   "en": "My manager gave me useful advice, and I joined a training program for my professional development.",
+   "vi": "Quản lý cho tôi lời khuyên hữu ích, và tôi tham gia một chương trình đào tạo để phát triển nghề nghiệp.",
+   "audio": "B1-77-ex-4.mp3"
+  },
+  {
+   "en": "Now I understand that happiness doesn't come from a perfect place.",
+   "vi": "Giờ tôi hiểu rằng hạnh phúc không đến từ một nơi hoàn hảo.",
+   "audio": "B1-77-ex-5.mp3"
+  }
+ ]
+}

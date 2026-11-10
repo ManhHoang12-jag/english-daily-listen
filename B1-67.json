@@ -1,0 +1,81 @@
+{
+ "title": "Bài 67. Make, let, allow, be allowed to",
+ "vocabulary": [
+  {
+   "word": "allow",
+   "ipa": "/əˈlaʊ/",
+   "meaning": "cho phép (allow sb to do)",
+   "pos": "động từ",
+   "audio": "B1-67-w-allow.mp3"
+  },
+  {
+   "word": "permit",
+   "ipa": "/pɚˈmɪt/",
+   "meaning": "cho phép (trang trọng)",
+   "pos": "động từ",
+   "audio": "B1-67-w-permit.mp3"
+  },
+  {
+   "word": "let",
+   "ipa": "/lɛt/",
+   "meaning": "để cho, cho phép (let sb do)",
+   "pos": "động từ",
+   "audio": "B1-67-w-let.mp3"
+  },
+  {
+   "word": "make",
+   "ipa": "/meɪk/",
+   "meaning": "bắt (ai) làm (make sb do)",
+   "pos": "động từ",
+   "audio": "B1-67-w-make.mp3"
+  },
+  {
+   "word": "be allowed to",
+   "ipa": "/bi əˈlaʊd tə/",
+   "meaning": "được phép",
+   "pos": "cụm động từ",
+   "audio": "B1-67-w-be-allowed-to.mp3"
+  },
+  {
+   "word": "ban",
+   "ipa": "/bæn/",
+   "meaning": "cấm (chính thức); lệnh cấm",
+   "pos": "động từ / danh từ",
+   "audio": "B1-67-w-ban.mp3"
+  },
+  {
+   "word": "rule",
+   "ipa": "/rul/",
+   "meaning": "quy định, luật lệ",
+   "pos": "danh từ",
+   "audio": "B1-67-w-rule.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My parents made me do my homework before dinner.",
+   "vi": "Bố mẹ tôi bắt tôi làm bài tập trước bữa tối.",
+   "audio": "B1-67-ex-1.mp3"
+  },
+  {
+   "en": "My boss lets us work from home on Fridays.",
+   "vi": "Sếp tôi cho chúng tôi làm việc ở nhà vào thứ Sáu.",
+   "audio": "B1-67-ex-2.mp3"
+  },
+  {
+   "en": "The school doesn't allow students to use their phones in class.",
+   "vi": "Nhà trường không cho học sinh dùng điện thoại trong giờ học.",
+   "audio": "B1-67-ex-3.mp3"
+  },
+  {
+   "en": "Visitors aren't allowed to take photos inside the museum.",
+   "vi": "Khách tham quan không được phép chụp ảnh trong bảo tàng.",
+   "audio": "B1-67-ex-4.mp3"
+  },
+  {
+   "en": "At my old school, we were made to wear a uniform every day.",
+   "vi": "Ở trường cũ, chúng tôi bị bắt mặc đồng phục mỗi ngày.",
+   "audio": "B1-67-ex-5.mp3"
+  }
+ ]
+}

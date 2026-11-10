@@ -1,0 +1,74 @@
+{
+ "title": "Bài 63. Suy đoán với dạng tiếp diễn và mô tả tranh",
+ "vocabulary": [
+  {
+   "word": "look as if",
+   "ipa": "/ˈlʊk əz ɪf/",
+   "meaning": "trông như thể, có vẻ như (+ mệnh đề)",
+   "pos": "cụm động từ",
+   "audio": "B1-63-w-look-as-if.mp3"
+  },
+  {
+   "word": "seem",
+   "ipa": "/sim/",
+   "meaning": "có vẻ, dường như",
+   "pos": "động từ",
+   "audio": "B1-63-w-seem.mp3"
+  },
+  {
+   "word": "appear",
+   "ipa": "/əˈpɪr/",
+   "meaning": "có vẻ (trang trọng hơn seem); xuất hiện",
+   "pos": "động từ",
+   "audio": "B1-63-w-appear.mp3"
+  },
+  {
+   "word": "apparently",
+   "ipa": "/əˈpɛrəntli/",
+   "meaning": "nghe nói là, theo như người ta nói",
+   "pos": "trạng từ",
+   "audio": "B1-63-w-apparently.mp3"
+  },
+  {
+   "word": "background",
+   "ipa": "/ˈbækˌɡraʊnd/",
+   "meaning": "phía sau, hậu cảnh (ôn A2 · Bài 78)",
+   "pos": "danh từ",
+   "audio": "B1-63-w-background.mp3"
+  },
+  {
+   "word": "foreground",
+   "ipa": "/ˈfɔrˌɡraʊnd/",
+   "meaning": "phía trước, tiền cảnh (ôn A2 · Bài 78)",
+   "pos": "danh từ",
+   "audio": "B1-63-w-foreground.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "In the foreground, a woman is holding an umbrella, so it might be raining.",
+   "vi": "Phía trước, một người phụ nữ đang cầm ô, nên có thể trời đang mưa.",
+   "audio": "B1-63-ex-1.mp3"
+  },
+  {
+   "en": "The man in the background keeps looking at his watch. He must be waiting for someone.",
+   "vi": "Người đàn ông phía sau cứ nhìn đồng hồ. Chắc hẳn anh ấy đang đợi ai đó.",
+   "audio": "B1-63-ex-2.mp3"
+  },
+  {
+   "en": "They can't be swimming. The lake is completely frozen.",
+   "vi": "Họ không thể nào đang bơi được. Mặt hồ đóng băng hoàn toàn.",
+   "audio": "B1-63-ex-3.mp3"
+  },
+  {
+   "en": "It looks as if they're having a birthday party.",
+   "vi": "Trông như là họ đang tổ chức tiệc sinh nhật.",
+   "audio": "B1-63-ex-4.mp3"
+  },
+  {
+   "en": "The little boy seems to be looking for his parents.",
+   "vi": "Cậu bé có vẻ đang tìm bố mẹ.",
+   "audio": "B1-63-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "title": "Bài 35. Mô tả số liệu: xu hướng",
+ "vocabulary": [
+  {
+   "word": "rise",
+   "ipa": "/raɪz/",
+   "meaning": "tăng (rose, risen); sự tăng (a rise in)",
+   "pos": "động từ / danh từ",
+   "audio": "B2-35-w-rise.mp3"
+  },
+  {
+   "word": "decline",
+   "ipa": "/dɪˈklaɪn/",
+   "meaning": "giảm; sự sụt giảm (a decline in)",
+   "pos": "động từ / danh từ",
+   "audio": "B2-35-w-decline.mp3"
+  },
+  {
+   "word": "fluctuate",
+   "ipa": "/ˈflʌktʃuˌeɪt/",
+   "meaning": "dao động, lên xuống thất thường",
+   "pos": "động từ",
+   "audio": "B2-35-w-fluctuate.mp3"
+  },
+  {
+   "word": "remain stable",
+   "ipa": "/rɪˈmeɪn ˈsteɪbəl/",
+   "meaning": "giữ ổn định, không đổi",
+   "pos": "cụm động từ",
+   "audio": "B2-35-w-remain-stable.mp3"
+  },
+  {
+   "word": "peak",
+   "ipa": "/pik/",
+   "meaning": "đạt đỉnh; đỉnh, mức cao nhất",
+   "pos": "động từ / danh từ",
+   "audio": "B2-35-w-peak.mp3"
+  },
+  {
+   "word": "sharply",
+   "ipa": "/ˈʃɑrpli/",
+   "meaning": "mạnh, đột ngột",
+   "pos": "trạng từ",
+   "audio": "B2-35-w-sharply.mp3"
+  },
+  {
+   "word": "gradually",
+   "ipa": "/ˈɡrædʒuəli/",
+   "meaning": "dần dần, từ từ",
+   "pos": "trạng từ",
+   "audio": "B2-35-w-gradually.mp3"
+  },
+  {
+   "word": "slightly",
+   "ipa": "/ˈslaɪtli/",
+   "meaning": "nhẹ, một chút",
+   "pos": "trạng từ",
+   "audio": "B2-35-w-slightly.mp3"
+  },
+  {
+   "word": "steady",
+   "ipa": "/ˈstɛdi/",
+   "meaning": "đều đặn, ổn định (trạng từ: steadily)",
+   "pos": "tính từ",
+   "audio": "B2-35-w-steady.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The number of visitors rose sharply between March and July.",
+   "vi": "Số khách tham quan tăng mạnh từ tháng Ba đến tháng Bảy.",
+   "audio": "B2-35-ex-1.mp3"
+  },
+  {
+   "en": "Sales declined gradually over the next three months.",
+   "vi": "Doanh số giảm dần trong ba tháng tiếp theo.",
+   "audio": "B2-35-ex-2.mp3"
+  },
+  {
+   "en": "Fuel prices fluctuated throughout the year.",
+   "vi": "Giá nhiên liệu lên xuống thất thường suốt cả năm.",
+   "audio": "B2-35-ex-3.mp3"
+  },
+  {
+   "en": "After that, the figure remained stable at around two thousand.",
+   "vi": "Sau đó, con số giữ ổn định ở mức khoảng hai nghìn.",
+   "audio": "B2-35-ex-4.mp3"
+  },
+  {
+   "en": "Online orders peaked in December at about nine thousand.",
+   "vi": "Đơn hàng trực tuyến đạt đỉnh vào tháng Mười Hai, ở mức khoảng chín nghìn.",
+   "audio": "B2-35-ex-5.mp3"
+  }
+ ]
+}

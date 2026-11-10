@@ -1,0 +1,74 @@
+{
+ "title": "Bài 53. Despite / in spite of",
+ "vocabulary": [
+  {
+   "word": "despite",
+   "ipa": "/dɪˈspaɪt/",
+   "meaning": "mặc dù, bất chấp (+ danh từ / V-ing)",
+   "pos": "giới từ",
+   "audio": "B1-53-w-despite.mp3"
+  },
+  {
+   "word": "in spite of",
+   "ipa": "/ɪn ˈspaɪt əv/",
+   "meaning": "mặc dù, bất chấp (= despite)",
+   "pos": "giới từ",
+   "audio": "B1-53-w-in-spite-of.mp3"
+  },
+  {
+   "word": "the fact that",
+   "ipa": "/ðə ˈfækt ðæt/",
+   "meaning": "việc rằng, sự thật là (+ mệnh đề)",
+   "pos": "cụm từ",
+   "audio": "B1-53-w-the-fact-that.mp3"
+  },
+  {
+   "word": "effort",
+   "ipa": "/ˈɛfɚt/",
+   "meaning": "sự cố gắng, nỗ lực",
+   "pos": "danh từ",
+   "audio": "B1-53-w-effort.mp3"
+  },
+  {
+   "word": "difficulty",
+   "ipa": "/ˈdɪfɪkəlti/",
+   "meaning": "khó khăn",
+   "pos": "danh từ",
+   "audio": "B1-53-w-difficulty.mp3"
+  },
+  {
+   "word": "nevertheless",
+   "ipa": "/ˌnɛvɚðəˈlɛs/",
+   "meaning": "tuy vậy, dù vậy (trang trọng)",
+   "pos": "trạng từ liên kết",
+   "audio": "B1-53-w-nevertheless.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Despite the heavy rain, the volunteers cleaned the whole beach.",
+   "vi": "Mặc dù mưa to, các tình nguyện viên đã dọn sạch cả bãi biển.",
+   "audio": "B1-53-ex-1.mp3"
+  },
+  {
+   "en": "In spite of feeling tired, she finished the report before midnight.",
+   "vi": "Mặc dù cảm thấy mệt, cô ấy đã hoàn thành báo cáo trước nửa đêm.",
+   "audio": "B1-53-ex-2.mp3"
+  },
+  {
+   "en": "Despite the fact that he had little experience, he got the job.",
+   "vi": "Mặc dù anh ấy có ít kinh nghiệm, anh ấy vẫn được nhận vào làm.",
+   "audio": "B1-53-ex-3.mp3"
+  },
+  {
+   "en": "Despite many difficulties, the small company kept growing.",
+   "vi": "Bất chấp nhiều khó khăn, công ty nhỏ vẫn tiếp tục phát triển.",
+   "audio": "B1-53-ex-4.mp3"
+  },
+  {
+   "en": "The team made a huge effort. Nevertheless, they lost the final.",
+   "vi": "Cả đội đã nỗ lực rất nhiều. Dù vậy, họ vẫn thua trận chung kết.",
+   "audio": "B1-53-ex-5.mp3"
+  }
+ ]
+}

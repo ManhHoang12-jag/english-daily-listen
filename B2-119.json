@@ -1,0 +1,74 @@
+{
+ "title": "Bài 119. Tự đánh giá theo CEFR B2",
+ "vocabulary": [
+  {
+   "word": "can-do statement",
+   "ipa": "/ˈkæn du ˌsteɪtmənt/",
+   "meaning": "câu mô tả năng lực dạng \"tôi có thể...\"",
+   "pos": "danh từ",
+   "audio": "B2-119-w-can-do-statement.mp3"
+  },
+  {
+   "word": "descriptor",
+   "ipa": "/dɪˈskrɪptɚ/",
+   "meaning": "mô tả năng lực (trong khung CEFR)",
+   "pos": "danh từ",
+   "audio": "B2-119-w-descriptor.mp3"
+  },
+  {
+   "word": "strength",
+   "ipa": "/strɛŋkθ/",
+   "meaning": "điểm mạnh",
+   "pos": "danh từ",
+   "audio": "B2-119-w-strength.mp3"
+  },
+  {
+   "word": "gap",
+   "ipa": "/ɡæp/",
+   "meaning": "lỗ hổng, chỗ còn thiếu (kiến thức, kỹ năng)",
+   "pos": "danh từ",
+   "audio": "B2-119-w-gap.mp3"
+  },
+  {
+   "word": "action plan",
+   "ipa": "/ˈækʃən ˌplæn/",
+   "meaning": "kế hoạch hành động",
+   "pos": "danh từ",
+   "audio": "B2-119-w-action-plan.mp3"
+  },
+  {
+   "word": "target",
+   "ipa": "/ˈtɑrɡɪt/",
+   "meaning": "mục tiêu (cụ thể, đo được)",
+   "pos": "danh từ",
+   "audio": "B2-119-w-target.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I can follow the main ideas of a long lecture, as long as the topic is reasonably familiar and the structure is clear.",
+   "vi": "Tôi theo dõi được ý chính của một bài giảng dài, miễn là chủ đề tương đối quen thuộc và bố cục rõ ràng.",
+   "audio": "B2-119-ex-1.mp3"
+  },
+  {
+   "en": "One of my main strengths is reading: I can usually work out the writer's attitude, even when it isn't stated directly.",
+   "vi": "Một trong những điểm mạnh chính của tôi là đọc: tôi thường nhận ra thái độ của tác giả, kể cả khi nó không được nói thẳng.",
+   "audio": "B2-119-ex-2.mp3"
+  },
+  {
+   "en": "My biggest gap is speaking spontaneously, because I still need time to plan what I'm going to say.",
+   "vi": "Lỗ hổng lớn nhất của tôi là nói ứng biến, vì tôi vẫn cần thời gian để chuẩn bị điều mình sắp nói.",
+   "audio": "B2-119-ex-3.mp3"
+  },
+  {
+   "en": "My target for this week is to record a three-minute talk every day and count my long pauses.",
+   "vi": "Mục tiêu tuần này của tôi là mỗi ngày ghi âm một bài nói ba phút và đếm số lần ngừng lâu.",
+   "audio": "B2-119-ex-4.mp3"
+  },
+  {
+   "en": "If my score hasn't improved by Sunday, I'll go back to the review lessons and redo the exercises.",
+   "vi": "Nếu đến Chủ nhật điểm của tôi vẫn chưa cải thiện, tôi sẽ quay lại các bài ôn tập và làm lại bài tập.",
+   "audio": "B2-119-ex-5.mp3"
+  }
+ ]
+}

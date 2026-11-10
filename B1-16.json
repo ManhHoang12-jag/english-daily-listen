@@ -1,0 +1,74 @@
+{
+ "title": "Bài 16. Câu bị động quá khứ đơn",
+ "vocabulary": [
+  {
+   "word": "found",
+   "ipa": "/faʊnd/",
+   "meaning": "thành lập (found – founded – founded)",
+   "pos": "động từ",
+   "audio": "B1-16-w-found.mp3"
+  },
+  {
+   "word": "invent",
+   "ipa": "/ɪnˈvɛnt/",
+   "meaning": "phát minh",
+   "pos": "động từ",
+   "audio": "B1-16-w-invent.mp3"
+  },
+  {
+   "word": "design",
+   "ipa": "/dɪˈzaɪn/",
+   "meaning": "thiết kế; bản thiết kế",
+   "pos": "động từ, danh từ",
+   "audio": "B1-16-w-design.mp3"
+  },
+  {
+   "word": "establish",
+   "ipa": "/ɪˈstæblɪʃ/",
+   "meaning": "thành lập, lập nên",
+   "pos": "động từ",
+   "audio": "B1-16-w-establish.mp3"
+  },
+  {
+   "word": "century",
+   "ipa": "/ˈsɛntʃəri/",
+   "meaning": "thế kỷ",
+   "pos": "danh từ",
+   "audio": "B1-16-w-century.mp3"
+  },
+  {
+   "word": "university",
+   "ipa": "/ˌjuːnəˈvɝːsəti/",
+   "meaning": "trường đại học",
+   "pos": "danh từ",
+   "audio": "B1-16-w-university.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The Temple of Literature was built in ten seventy.",
+   "vi": "Văn Miếu được xây dựng năm 1070.",
+   "audio": "B1-16-ex-1.mp3"
+  },
+  {
+   "en": "In ten seventy-six, the Imperial Academy was established inside the temple.",
+   "vi": "Năm 1076, Quốc Tử Giám được lập bên trong Văn Miếu.",
+   "audio": "B1-16-ex-2.mp3"
+  },
+  {
+   "en": "At first, only the sons of the royal family were taught there.",
+   "vi": "Lúc đầu, chỉ con trai trong hoàng tộc mới được dạy ở đó.",
+   "audio": "B1-16-ex-3.mp3"
+  },
+  {
+   "en": "The names of successful scholars were carved on stone steles.",
+   "vi": "Tên của những người đỗ đạt được khắc trên bia đá.",
+   "audio": "B1-16-ex-4.mp3"
+  },
+  {
+   "en": "The telephone was invented by Alexander Graham Bell.",
+   "vi": "Điện thoại được phát minh bởi Alexander Graham Bell.",
+   "audio": "B1-16-ex-5.mp3"
+  }
+ ]
+}

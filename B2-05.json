@@ -1,0 +1,116 @@
+{
+ "title": "Bài 05. Từ vựng học thuật cốt lõi 1",
+ "vocabulary": [
+  {
+   "word": "analyze",
+   "ipa": "/ˈænəˌlaɪz/",
+   "meaning": "phân tích (Anh-Anh viết analyse)",
+   "pos": "động từ",
+   "audio": "B2-05-w-analyze.mp3"
+  },
+  {
+   "word": "approach",
+   "ipa": "/əˈproʊtʃ/",
+   "meaning": "cách tiếp cận; tiếp cận",
+   "pos": "danh từ / động từ",
+   "audio": "B2-05-w-approach.mp3"
+  },
+  {
+   "word": "concept",
+   "ipa": "/ˈkɑnsept/",
+   "meaning": "khái niệm",
+   "pos": "danh từ",
+   "audio": "B2-05-w-concept.mp3"
+  },
+  {
+   "word": "data",
+   "ipa": "/ˈdeɪtə/",
+   "meaning": "dữ liệu",
+   "pos": "danh từ",
+   "audio": "B2-05-w-data.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈevɪdəns/",
+   "meaning": "bằng chứng",
+   "pos": "danh từ (không đếm được)",
+   "audio": "B2-05-w-evidence.mp3"
+  },
+  {
+   "word": "factor",
+   "ipa": "/ˈfæktər/",
+   "meaning": "yếu tố, nhân tố",
+   "pos": "danh từ",
+   "audio": "B2-05-w-factor.mp3"
+  },
+  {
+   "word": "interpret",
+   "ipa": "/ɪnˈtɝprɪt/",
+   "meaning": "diễn giải, hiểu (theo một cách)",
+   "pos": "động từ",
+   "audio": "B2-05-w-interpret.mp3"
+  },
+  {
+   "word": "method",
+   "ipa": "/ˈmeθəd/",
+   "meaning": "phương pháp",
+   "pos": "danh từ",
+   "audio": "B2-05-w-method.mp3"
+  },
+  {
+   "word": "principle",
+   "ipa": "/ˈprɪnsəpəl/",
+   "meaning": "nguyên tắc, nguyên lý",
+   "pos": "danh từ",
+   "audio": "B2-05-w-principle.mp3"
+  },
+  {
+   "word": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "meaning": "đáng kể, quan trọng",
+   "pos": "tính từ",
+   "audio": "B2-05-w-significant.mp3"
+  },
+  {
+   "word": "theory",
+   "ipa": "/ˈθɪri/",
+   "meaning": "lý thuyết, giả thuyết",
+   "pos": "danh từ",
+   "audio": "B2-05-w-theory.mp3"
+  },
+  {
+   "word": "vary",
+   "ipa": "/ˈveri/",
+   "meaning": "khác nhau, thay đổi",
+   "pos": "động từ",
+   "audio": "B2-05-w-vary.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "To answer this question, we took a mixed approach and combined two methods.",
+   "vi": "Để trả lời câu hỏi này, chúng tôi chọn cách tiếp cận kết hợp và dùng hai phương pháp.",
+   "audio": "B2-05-ex-1.mp3"
+  },
+  {
+   "en": "Then we interviewed thirty of them to understand how they interpreted their own progress.",
+   "vi": "Sau đó chúng tôi phỏng vấn ba mươi người trong số họ để hiểu họ diễn giải sự tiến bộ của chính mình như thế nào.",
+   "audio": "B2-05-ex-2.mp3"
+  },
+  {
+   "en": "When we analyzed the data, we found that progress varied widely, even among learners with similar backgrounds.",
+   "vi": "Khi phân tích dữ liệu, chúng tôi thấy sự tiến bộ khác nhau rất nhiều, kể cả giữa những người học có xuất thân tương tự.",
+   "audio": "B2-05-ex-3.mp3"
+  },
+  {
+   "en": "The most significant factor was not age or talent but regular practice.",
+   "vi": "Yếu tố quan trọng nhất không phải tuổi tác hay năng khiếu mà là luyện tập đều đặn.",
+   "audio": "B2-05-ex-4.mp3"
+  },
+  {
+   "en": "This evidence supports an old theory of memory, and the concept behind it is simple.",
+   "vi": "Bằng chứng này ủng hộ một lý thuyết cũ về trí nhớ, và khái niệm đằng sau nó rất đơn giản.",
+   "audio": "B2-05-ex-5.mp3"
+  }
+ ]
+}

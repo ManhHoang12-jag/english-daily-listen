@@ -1,0 +1,81 @@
+{
+ "title": "Bài 69. Kỹ năng: tóm tắt và diễn đạt lại (paraphrase)",
+ "vocabulary": [
+  {
+   "word": "paraphrase",
+   "ipa": "/ˈpɛrəˌfreɪz/",
+   "meaning": "diễn đạt lại bằng lời của mình",
+   "pos": "động từ / danh từ",
+   "audio": "B2-69-w-paraphrase.mp3"
+  },
+  {
+   "word": "synonym",
+   "ipa": "/ˈsɪnəˌnɪm/",
+   "meaning": "từ đồng nghĩa",
+   "pos": "danh từ",
+   "audio": "B2-69-w-synonym.mp3"
+  },
+  {
+   "word": "restructure",
+   "ipa": "/riˈstrʌktʃɚ/",
+   "meaning": "cấu trúc lại, sắp xếp lại",
+   "pos": "động từ",
+   "audio": "B2-69-w-restructure.mp3"
+  },
+  {
+   "word": "summarize",
+   "ipa": "/ˈsʌməˌraɪz/",
+   "meaning": "tóm tắt (Anh-Anh viết summarise)",
+   "pos": "động từ",
+   "audio": "B2-69-w-summarize.mp3"
+  },
+  {
+   "word": "cite",
+   "ipa": "/saɪt/",
+   "meaning": "trích dẫn, dẫn nguồn",
+   "pos": "động từ",
+   "audio": "B2-69-w-cite.mp3"
+  },
+  {
+   "word": "in other words",
+   "ipa": "/ɪn ˈʌðɚ ˌwɝdz/",
+   "meaning": "nói cách khác",
+   "pos": "cụm từ nối",
+   "audio": "B2-69-w-in-other-words.mp3"
+  },
+  {
+   "word": "original",
+   "ipa": "/əˈrɪdʒənəl/",
+   "meaning": "bản gốc; nguyên bản, ban đầu",
+   "pos": "danh từ / tính từ",
+   "audio": "B2-69-w-original.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Rising housing costs have forced many young people to delay starting a family.",
+   "vi": "Giá nhà tăng cao đã buộc nhiều người trẻ phải hoãn việc lập gia đình.",
+   "audio": "B2-69-ex-1.mp3"
+  },
+  {
+   "en": "Many young people are putting off having children because housing has become so expensive.",
+   "vi": "Nhiều người trẻ đang trì hoãn việc có con vì nhà ở đã trở nên quá đắt.",
+   "audio": "B2-69-ex-2.mp3"
+  },
+  {
+   "en": "Many young adults have been forced to postpone starting a family because of rising housing costs.",
+   "vi": "Nhiều người trẻ đã buộc phải hoãn việc lập gia đình vì giá nhà tăng.",
+   "audio": "B2-69-ex-3.mp3"
+  },
+  {
+   "en": "According to Nguyen, the increasing cost of housing has made many young adults postpone having children.",
+   "vi": "Theo Nguyen, chi phí nhà ở ngày càng tăng đã khiến nhiều người trẻ trì hoãn việc sinh con.",
+   "audio": "B2-69-ex-4.mp3"
+  },
+  {
+   "en": "In other words, remote work saves time and money, but it can leave employees feeling isolated.",
+   "vi": "Nói cách khác, làm việc từ xa tiết kiệm thời gian và tiền bạc, nhưng có thể khiến nhân viên thấy cô lập.",
+   "audio": "B2-69-ex-5.mp3"
+  }
+ ]
+}

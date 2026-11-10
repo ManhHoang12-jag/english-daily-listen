@@ -1,0 +1,74 @@
+{
+ "title": "Bài 11. Ôn các cách nói tương lai",
+ "vocabulary": [
+  {
+   "word": "intend",
+   "ipa": "/ɪnˈtɛnd/",
+   "meaning": "dự định, có ý định (intend to + V)",
+   "pos": "động từ",
+   "audio": "B1-11-w-intend.mp3"
+  },
+  {
+   "word": "plan",
+   "ipa": "/plæn/",
+   "meaning": "kế hoạch; lên kế hoạch (plan to + V)",
+   "pos": "danh từ, động từ",
+   "audio": "B1-11-w-plan.mp3"
+  },
+  {
+   "word": "timetable",
+   "ipa": "/ˈtaɪmˌteɪbəl/",
+   "meaning": "thời khóa biểu, lịch chạy (tàu, xe)",
+   "pos": "danh từ",
+   "audio": "B1-11-w-timetable.mp3"
+  },
+  {
+   "word": "deadline",
+   "ipa": "/ˈdɛdlaɪn/",
+   "meaning": "hạn chót",
+   "pos": "danh từ",
+   "audio": "B1-11-w-deadline.mp3"
+  },
+  {
+   "word": "semester",
+   "ipa": "/səˈmɛstɚ/",
+   "meaning": "học kỳ",
+   "pos": "danh từ",
+   "audio": "B1-11-w-semester.mp3"
+  },
+  {
+   "word": "enroll",
+   "ipa": "/ɪnˈroʊl/",
+   "meaning": "đăng ký học, ghi danh (enroll in; cách viết Anh: enrol)",
+   "pos": "động từ",
+   "audio": "B1-11-w-enroll.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The new semester starts on September fifth.",
+   "vi": "Học kỳ mới bắt đầu vào ngày năm tháng Chín.",
+   "audio": "B1-11-ex-1.mp3"
+  },
+  {
+   "en": "I'm going to enroll in an evening English course next month.",
+   "vi": "Tháng sau tôi định đăng ký một khóa tiếng Anh buổi tối.",
+   "audio": "B1-11-ex-2.mp3"
+  },
+  {
+   "en": "I'm meeting my tutor on Friday afternoon to talk about my study plan.",
+   "vi": "Chiều thứ Sáu tôi có hẹn gặp gia sư để bàn về kế hoạch học tập.",
+   "audio": "B1-11-ex-3.mp3"
+  },
+  {
+   "en": "The deadline is tomorrow? OK, I'll finish the report tonight.",
+   "vi": "Hạn chót là ngày mai à? Được, tối nay tôi sẽ làm xong báo cáo.",
+   "audio": "B1-11-ex-4.mp3"
+  },
+  {
+   "en": "I intend to take the final exam in June, and I think it will be hard.",
+   "vi": "Tôi dự định thi cuối kỳ vào tháng Sáu, và tôi nghĩ bài thi sẽ khó.",
+   "audio": "B1-11-ex-5.mp3"
+  }
+ ]
+}

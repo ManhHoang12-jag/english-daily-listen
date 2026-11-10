@@ -1,0 +1,81 @@
+{
+ "title": "Bài 49. Kỹ năng: tranh luận (debating)",
+ "vocabulary": [
+  {
+   "word": "motion",
+   "ipa": "/ˈmoʊʃən/",
+   "meaning": "kiến nghị, vấn đề đem ra tranh luận (This house believes that...)",
+   "pos": "danh từ",
+   "audio": "B2-49-w-motion.mp3"
+  },
+  {
+   "word": "rebuttal",
+   "ipa": "/rɪˈbʌtəl/",
+   "meaning": "lời phản bác, phần phản bác",
+   "pos": "danh từ",
+   "audio": "B2-49-w-rebuttal.mp3"
+  },
+  {
+   "word": "with respect",
+   "ipa": "/wɪð rɪˈspɛkt/",
+   "meaning": "xin phép (không đồng ý), với tất cả sự tôn trọng",
+   "pos": "cụm từ",
+   "audio": "B2-49-w-with-respect.mp3"
+  },
+  {
+   "word": "fair point",
+   "ipa": "/ˌfɛr ˈpɔɪnt/",
+   "meaning": "ý hợp lý, ý đúng",
+   "pos": "cụm danh từ",
+   "audio": "B2-49-w-fair-point.mp3"
+  },
+  {
+   "word": "I'd argue",
+   "ipa": "/aɪd ˈɑrɡju/",
+   "meaning": "tôi cho rằng (= I would argue, nói mềm hơn)",
+   "pos": "cụm từ",
+   "audio": "B2-49-w-i-d-argue.mp3"
+  },
+  {
+   "word": "concede",
+   "ipa": "/kənˈsid/",
+   "meaning": "thừa nhận (một ý của đối phương), nhượng bộ",
+   "pos": "động từ",
+   "audio": "B2-49-w-concede.mp3"
+  },
+  {
+   "word": "counter",
+   "ipa": "/ˈkaʊntɚ/",
+   "meaning": "phản bác, đáp trả (một lập luận)",
+   "pos": "động từ",
+   "audio": "B2-49-w-counter.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The motion before us today is that university education should be free for everyone, and I'd argue that it is the fairest way to improve social mobility.",
+   "vi": "Kiến nghị hôm nay là giáo dục đại học nên miễn phí cho mọi người, và tôi cho rằng đó là cách công bằng nhất để tăng cơ hội thăng tiến xã hội.",
+   "audio": "B2-49-ex-1.mp3"
+  },
+  {
+   "en": "I take your point that free tuition would cost a great deal, but the cost of wasted talent is far higher.",
+   "vi": "Tôi hiểu ý bạn rằng miễn học phí sẽ tốn rất nhiều tiền, nhưng cái giá của việc lãng phí tài năng còn cao hơn nhiều.",
+   "audio": "B2-49-ex-2.mp3"
+  },
+  {
+   "en": "That's a fair point; however, it ignores the students who drop out because they cannot afford the fees.",
+   "vi": "Đó là một ý hợp lý; tuy nhiên, nó bỏ qua những sinh viên phải bỏ học vì không đủ tiền đóng học phí.",
+   "audio": "B2-49-ex-3.mp3"
+  },
+  {
+   "en": "With respect, I'd argue that my opponent has confused a short-term expense with a long-term investment.",
+   "vi": "Xin phép được nói thẳng, tôi cho rằng đối phương đã nhầm một khoản chi ngắn hạn với một khoản đầu tư dài hạn.",
+   "audio": "B2-49-ex-4.mp3"
+  },
+  {
+   "en": "I'll concede that some graduates never use their degrees, but that is not a reason to deny everyone else the chance.",
+   "vi": "Tôi thừa nhận rằng một số người tốt nghiệp không bao giờ dùng đến tấm bằng, nhưng đó không phải lý do để tước cơ hội của tất cả những người khác.",
+   "audio": "B2-49-ex-5.mp3"
+  }
+ ]
+}

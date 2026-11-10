@@ -1,0 +1,81 @@
+{
+ "title": "Bài 73. Cụm động từ: học tập và công việc",
+ "vocabulary": [
+  {
+   "word": "carry out",
+   "ipa": "/ˌkæri ˈaʊt/",
+   "meaning": "thực hiện, tiến hành (khảo sát, nghiên cứu, kế hoạch)",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-carry-out.mp3"
+  },
+  {
+   "word": "find out",
+   "ipa": "/ˌfaɪnd ˈaʊt/",
+   "meaning": "tìm ra, biết được (thông tin)",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-find-out.mp3"
+  },
+  {
+   "word": "hand in",
+   "ipa": "/ˌhænd ˈɪn/",
+   "meaning": "nộp (bài, báo cáo, đơn)",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-hand-in.mp3"
+  },
+  {
+   "word": "catch up with",
+   "ipa": "/ˌkætʃ ˈʌp wɪð/",
+   "meaning": "đuổi kịp (sau khi bị tụt lại)",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-catch-up-with.mp3"
+  },
+  {
+   "word": "keep up with",
+   "ipa": "/ˌkiːp ˈʌp wɪð/",
+   "meaning": "theo kịp, không để bị tụt lại",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-keep-up-with.mp3"
+  },
+  {
+   "word": "take on",
+   "ipa": "/ˌteɪk ˈɑːn/",
+   "meaning": "nhận thêm (việc, trách nhiệm); tuyển (người)",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-take-on.mp3"
+  },
+  {
+   "word": "work out",
+   "ipa": "/ˌwɝːk ˈaʊt/",
+   "meaning": "tìm ra cách giải quyết, tính ra; tập thể dục",
+   "pos": "cụm động từ",
+   "audio": "B1-73-w-work-out.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Last year, my manager asked me to take on a new project.",
+   "vi": "Năm ngoái, quản lý giao cho tôi nhận một dự án mới.",
+   "audio": "B1-73-ex-1.mp3"
+  },
+  {
+   "en": "We wanted to find out why customers stopped using our app.",
+   "vi": "Chúng tôi muốn tìm ra lý do khách hàng ngừng dùng ứng dụng.",
+   "audio": "B1-73-ex-2.mp3"
+  },
+  {
+   "en": "First, our team carried out a survey of two hundred users.",
+   "vi": "Đầu tiên, nhóm tôi tiến hành khảo sát hai trăm người dùng.",
+   "audio": "B1-73-ex-3.mp3"
+  },
+  {
+   "en": "I had to keep up with my normal work. Then I was sick for a week, so I had to catch up with the others.",
+   "vi": "Tôi phải theo kịp việc thường ngày. Rồi tôi ốm một tuần, nên phải đuổi kịp mọi người.",
+   "audio": "B1-73-ex-4.mp3"
+  },
+  {
+   "en": "In the end, we worked out the main problem and handed in our report two days early.",
+   "vi": "Cuối cùng, chúng tôi tìm ra vấn đề chính và nộp báo cáo sớm hai ngày.",
+   "audio": "B1-73-ex-5.mp3"
+  }
+ ]
+}

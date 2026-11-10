@@ -1,0 +1,74 @@
+{
+ "title": "Bài 86. Lỗi thường gặp của người Việt ở B1",
+ "vocabulary": [
+  {
+   "word": "error",
+   "ipa": "/ˈɛrɚ/",
+   "meaning": "lỗi, sai sót",
+   "pos": "danh từ",
+   "audio": "B1-86-w-error.mp3"
+  },
+  {
+   "word": "correct",
+   "ipa": "/kəˈrɛkt/",
+   "meaning": "sửa (lỗi); đúng, chính xác",
+   "pos": "động từ / tính từ",
+   "audio": "B1-86-w-correct.mp3"
+  },
+  {
+   "word": "article",
+   "ipa": "/ˈɑːrtɪkəl/",
+   "meaning": "mạo từ (a, an, the); bài báo",
+   "pos": "danh từ",
+   "audio": "B1-86-w-article.mp3"
+  },
+  {
+   "word": "plural",
+   "ipa": "/ˈplʊrəl/",
+   "meaning": "số nhiều; dạng số nhiều",
+   "pos": "danh từ / tính từ",
+   "audio": "B1-86-w-plural.mp3"
+  },
+  {
+   "word": "agreement",
+   "ipa": "/əˈɡriːmənt/",
+   "meaning": "sự hòa hợp (chủ ngữ – động từ); sự đồng ý",
+   "pos": "danh từ",
+   "audio": "B1-86-w-agreement.mp3"
+  },
+  {
+   "word": "preposition",
+   "ipa": "/ˌprɛpəˈzɪʃən/",
+   "meaning": "giới từ (in, on, at, to...)",
+   "pos": "danh từ",
+   "audio": "B1-86-w-preposition.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My sister is a nurse, and she works at a hospital in the city center.",
+   "vi": "Chị tôi là y tá, và chị ấy làm việc ở một bệnh viện ở trung tâm thành phố.",
+   "audio": "B1-86-ex-1.mp3"
+  },
+  {
+   "en": "Could you give me some information about the course?",
+   "vi": "Bạn có thể cho tôi một ít thông tin về khóa học không?",
+   "audio": "B1-86-ex-2.mp3"
+  },
+  {
+   "en": "One of my colleagues lives near the airport.",
+   "vi": "Một đồng nghiệp của tôi sống gần sân bay.",
+   "audio": "B1-86-ex-3.mp3"
+  },
+  {
+   "en": "I'm really worried about the exam because I haven't finished my homework.",
+   "vi": "Tôi thực sự lo về kỳ thi vì tôi chưa làm xong bài tập.",
+   "audio": "B1-86-ex-4.mp3"
+  },
+  {
+   "en": "She bought a beautiful old Italian table for her new apartment.",
+   "vi": "Cô ấy mua một cái bàn Ý cổ rất đẹp cho căn hộ mới.",
+   "audio": "B1-86-ex-5.mp3"
+  }
+ ]
+}

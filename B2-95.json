@@ -1,0 +1,88 @@
+{
+ "title": "Bài 95. Thành ngữ trong ngữ cảnh 1: công việc và học tập",
+ "vocabulary": [
+  {
+   "word": "learn the ropes",
+   "ipa": "/ˌlɜrn ðə ˈroʊps/",
+   "meaning": "học những điều cơ bản của công việc mới",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-learn-the-ropes.mp3"
+  },
+  {
+   "word": "steep learning curve",
+   "ipa": "/ˌstip ˈlɜrnɪŋ ˌkɜrv/",
+   "meaning": "giai đoạn phải học rất nhiều trong thời gian ngắn",
+   "pos": "thành ngữ (danh từ)",
+   "audio": "B2-95-w-steep-learning-curve.mp3"
+  },
+  {
+   "word": "cut corners",
+   "ipa": "/ˌkʌt ˈkɔrnərz/",
+   "meaning": "làm ẩu, bỏ bớt bước để nhanh hoặc rẻ hơn",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-cut-corners.mp3"
+  },
+  {
+   "word": "get the hang of",
+   "ipa": "/ˌɡɛt ðə ˈhæŋ əv/",
+   "meaning": "bắt đầu quen tay, làm được (việc gì)",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-get-the-hang-of.mp3"
+  },
+  {
+   "word": "on the same page",
+   "ipa": "/ɑn ðə ˌseɪm ˈpeɪdʒ/",
+   "meaning": "cùng hiểu, thống nhất với nhau",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-on-the-same-page.mp3"
+  },
+  {
+   "word": "back to square one",
+   "ipa": "/ˌbæk tə ˌskwɛr ˈwʌn/",
+   "meaning": "quay lại vạch xuất phát, phải làm lại từ đầu",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-back-to-square-one.mp3"
+  },
+  {
+   "word": "hit the books",
+   "ipa": "/ˌhɪt ðə ˈbʊks/",
+   "meaning": "học hành chăm chỉ (thân mật)",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-hit-the-books.mp3"
+  },
+  {
+   "word": "call it a day",
+   "ipa": "/ˌkɔl ɪt ə ˈdeɪ/",
+   "meaning": "dừng làm việc, nghỉ cho hôm nay",
+   "pos": "thành ngữ",
+   "audio": "B2-95-w-call-it-a-day.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Honestly, it's a steep learning curve.",
+   "vi": "Thật lòng mà nói, phải học rất nhiều thứ mới trong thời gian ngắn.",
+   "audio": "B2-95-ex-1.mp3"
+  },
+  {
+   "en": "Everyone needs a few weeks to learn the ropes.",
+   "vi": "Ai cũng cần vài tuần để nắm được những điều cơ bản của công việc.",
+   "audio": "B2-95-ex-2.mp3"
+  },
+  {
+   "en": "I'm starting to get the hang of the reporting system.",
+   "vi": "Tôi bắt đầu quen với hệ thống báo cáo rồi.",
+   "audio": "B2-95-ex-3.mp3"
+  },
+  {
+   "en": "Just don't cut corners to finish faster.",
+   "vi": "Chỉ cần đừng làm ẩu để xong nhanh hơn.",
+   "audio": "B2-95-ex-4.mp3"
+  },
+  {
+   "en": "I want to make sure we're all on the same page about the deadlines.",
+   "vi": "Tôi muốn chắc chắn rằng tất cả chúng ta đều hiểu giống nhau về các hạn chót.",
+   "audio": "B2-95-ex-5.mp3"
+  }
+ ]
+}

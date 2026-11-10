@@ -1,0 +1,74 @@
+{
+ "title": "Bài 100. Ôn tập và kiểm tra B2-10",
+ "vocabulary": [
+  {
+   "word": "wrap up",
+   "ipa": "/ˌræp ˈʌp/",
+   "meaning": "kết thúc, tổng kết (cuộc họp) (ôn B2 · Bài 91)",
+   "pos": "cụm động từ",
+   "audio": "B2-100-w-wrap-up.mp3"
+  },
+  {
+   "word": "meet halfway",
+   "ipa": "/ˌmiːt ˌhæfˈweɪ/",
+   "meaning": "nhượng bộ mỗi bên một nửa (ôn B2 · Bài 94)",
+   "pos": "thành ngữ",
+   "audio": "B2-100-w-meet-halfway.mp3"
+  },
+  {
+   "word": "on the same page",
+   "ipa": "/ˌɑːn ðə ˌseɪm ˈpeɪdʒ/",
+   "meaning": "cùng hiểu, thống nhất (ôn B2 · Bài 95)",
+   "pos": "thành ngữ",
+   "audio": "B2-100-w-on-the-same-page.mp3"
+  },
+  {
+   "word": "rule out",
+   "ipa": "/ˌruːl ˈaʊt/",
+   "meaning": "loại trừ (khả năng) (ôn B2 · Bài 97)",
+   "pos": "cụm động từ",
+   "audio": "B2-100-w-rule-out.mp3"
+  },
+  {
+   "word": "highly recommend",
+   "ipa": "/ˌhaɪli ˌrɛkəˈmɛnd/",
+   "meaning": "rất khuyên dùng (ôn B2 · Bài 98)",
+   "pos": "collocation",
+   "audio": "B2-100-w-highly-recommend.mp3"
+  },
+  {
+   "word": "undermine",
+   "ipa": "/ˌʌndɚˈmaɪn/",
+   "meaning": "làm suy yếu dần (ôn B2 · Bài 99)",
+   "pos": "động từ",
+   "audio": "B2-100-w-undermine.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Sorry to interrupt, but could I just come in here?",
+   "vi": "Xin lỗi đã ngắt lời, nhưng cho tôi nói một chút được không?",
+   "audio": "B2-100-ex-1.mp3"
+  },
+  {
+   "en": "We'd be willing to lower the price, provided that you sign a two-year contract.",
+   "vi": "Chúng tôi sẵn sàng giảm giá, với điều kiện anh ký hợp đồng hai năm.",
+   "audio": "B2-100-ex-2.mp3"
+  },
+  {
+   "en": "We can't go that high, but we could meet you halfway.",
+   "vi": "Chúng tôi không thể trả cao đến vậy, nhưng có thể mỗi bên nhường một nửa.",
+   "audio": "B2-100-ex-3.mp3"
+  },
+  {
+   "en": "On the first morning, I was on edge, but a short game helped us break the ice.",
+   "vi": "Buổi sáng đầu tiên tôi khá căng thẳng, nhưng một trò chơi ngắn giúp chúng tôi phá vỡ sự ngượng ngùng.",
+   "audio": "B2-100-ex-4.mp3"
+  },
+  {
+   "en": "It was the practice sessions that taught me the most.",
+   "vi": "Chính các buổi thực hành dạy tôi nhiều nhất.",
+   "audio": "B2-100-ex-5.mp3"
+  }
+ ]
+}

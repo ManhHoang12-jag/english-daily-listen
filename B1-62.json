@@ -1,0 +1,74 @@
+{
+ "title": "Bài 62. Modal suy đoán hiện tại: must, might, can't",
+ "vocabulary": [
+  {
+   "word": "must be",
+   "ipa": "/ˈmʌst bi/",
+   "meaning": "chắc hẳn là (gần như chắc chắn)",
+   "pos": "cụm modal",
+   "audio": "B1-62-w-must-be.mp3"
+  },
+  {
+   "word": "can't be",
+   "ipa": "/ˈkænt bi/",
+   "meaning": "không thể nào là (chắc chắn không)",
+   "pos": "cụm modal",
+   "audio": "B1-62-w-can-t-be.mp3"
+  },
+  {
+   "word": "might be",
+   "ipa": "/ˈmaɪt bi/",
+   "meaning": "có thể là",
+   "pos": "cụm modal",
+   "audio": "B1-62-w-might-be.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvɪdəns/",
+   "meaning": "bằng chứng",
+   "pos": "danh từ (không đếm được)",
+   "audio": "B1-62-w-evidence.mp3"
+  },
+  {
+   "word": "probably",
+   "ipa": "/ˈprɑbəbli/",
+   "meaning": "có lẽ, chắc là",
+   "pos": "trạng từ",
+   "audio": "B1-62-w-probably.mp3"
+  },
+  {
+   "word": "certain",
+   "ipa": "/ˈsɝtən/",
+   "meaning": "chắc chắn",
+   "pos": "tính từ",
+   "audio": "B1-62-w-certain.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She's been working for twelve hours. She must be exhausted.",
+   "vi": "Cô ấy đã làm việc mười hai tiếng rồi. Chắc hẳn cô ấy kiệt sức.",
+   "audio": "B1-62-ex-1.mp3"
+  },
+  {
+   "en": "That can't be Tom. He's on vacation in Spain.",
+   "vi": "Đó không thể là Tom được. Anh ấy đang đi nghỉ ở Tây Ban Nha.",
+   "audio": "B1-62-ex-2.mp3"
+  },
+  {
+   "en": "He isn't answering his phone. He might be in a meeting.",
+   "vi": "Anh ấy không nghe máy. Có thể anh ấy đang họp.",
+   "audio": "B1-62-ex-3.mp3"
+  },
+  {
+   "en": "You've just had a huge pizza. You can't be hungry again!",
+   "vi": "Bạn vừa ăn hết một cái pizza to. Không thể nào bạn lại đói nữa!",
+   "audio": "B1-62-ex-4.mp3"
+  },
+  {
+   "en": "I'm not certain, but she's probably his sister. They look very similar.",
+   "vi": "Tôi không chắc, nhưng có lẽ cô ấy là chị gái anh ấy. Họ trông rất giống nhau.",
+   "audio": "B1-62-ex-5.mp3"
+  }
+ ]
+}

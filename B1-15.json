@@ -1,0 +1,74 @@
+{
+ "title": "Bài 15. Câu bị động hiện tại đơn",
+ "vocabulary": [
+  {
+   "word": "submit",
+   "ipa": "/səbˈmɪt/",
+   "meaning": "nộp (hồ sơ, bài, đơn)",
+   "pos": "động từ",
+   "audio": "B1-15-w-submit.mp3"
+  },
+  {
+   "word": "review",
+   "ipa": "/rɪˈvjuː/",
+   "meaning": "xem xét, duyệt; sự xem xét",
+   "pos": "động từ, danh từ",
+   "audio": "B1-15-w-review.mp3"
+  },
+  {
+   "word": "require",
+   "ipa": "/rɪˈkwaɪɚ/",
+   "meaning": "yêu cầu, đòi hỏi (be required = bắt buộc)",
+   "pos": "động từ",
+   "audio": "B1-15-w-require.mp3"
+  },
+  {
+   "word": "select",
+   "ipa": "/səˈlɛkt/",
+   "meaning": "chọn, tuyển chọn",
+   "pos": "động từ",
+   "audio": "B1-15-w-select.mp3"
+  },
+  {
+   "word": "process",
+   "ipa": "/ˈprɑːsɛs/",
+   "meaning": "quy trình; xử lý",
+   "pos": "danh từ, động từ",
+   "audio": "B1-15-w-process.mp3"
+  },
+  {
+   "word": "application form",
+   "ipa": "/ˌæplɪˈkeɪʃən fɔːrm/",
+   "meaning": "mẫu đơn đăng ký",
+   "pos": "danh từ",
+   "audio": "B1-15-w-application-form.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The application form is completed online.",
+   "vi": "Mẫu đơn đăng ký được điền trực tuyến.",
+   "audio": "B1-15-ex-1.mp3"
+  },
+  {
+   "en": "All applications are reviewed by two lecturers.",
+   "vi": "Mọi hồ sơ đều được hai giảng viên xem xét.",
+   "audio": "B1-15-ex-2.mp3"
+  },
+  {
+   "en": "An English certificate is required for all international students.",
+   "vi": "Tất cả sinh viên quốc tế đều phải có chứng chỉ tiếng Anh.",
+   "audio": "B1-15-ex-3.mp3"
+  },
+  {
+   "en": "About fifty students are selected each year.",
+   "vi": "Mỗi năm có khoảng năm mươi sinh viên được chọn.",
+   "audio": "B1-15-ex-4.mp3"
+  },
+  {
+   "en": "Late applications are not accepted.",
+   "vi": "Hồ sơ nộp muộn không được chấp nhận.",
+   "audio": "B1-15-ex-5.mp3"
+  }
+ ]
+}

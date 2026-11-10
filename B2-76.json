@@ -1,0 +1,116 @@
+{
+ "title": "Bài 76. Collocations: tính từ + danh từ, trạng từ + tính từ",
+ "vocabulary": [
+  {
+   "word": "significant increase",
+   "ipa": "/sɪɡˈnɪfɪkənt ˈɪnˌkris/",
+   "meaning": "sự tăng đáng kể (in sth)",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-significant-increase.mp3"
+  },
+  {
+   "word": "major factor",
+   "ipa": "/ˈmeɪdʒər ˈfæktər/",
+   "meaning": "yếu tố chính (in sth)",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-major-factor.mp3"
+  },
+  {
+   "word": "key issue",
+   "ipa": "/ki ˈɪʃu/",
+   "meaning": "vấn đề then chốt",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-key-issue.mp3"
+  },
+  {
+   "word": "growing concern",
+   "ipa": "/ˈɡroʊɪŋ kənˈsərn/",
+   "meaning": "mối lo ngại ngày càng tăng (about/over sth)",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-growing-concern.mp3"
+  },
+  {
+   "word": "highly likely",
+   "ipa": "/ˈhaɪli ˈlaɪkli/",
+   "meaning": "rất có khả năng",
+   "pos": "trạng từ + tính từ",
+   "audio": "B2-76-w-highly-likely.mp3"
+  },
+  {
+   "word": "widely accepted",
+   "ipa": "/ˈwaɪdli ækˈsɛptɪd/",
+   "meaning": "được chấp nhận rộng rãi",
+   "pos": "trạng từ + tính từ",
+   "audio": "B2-76-w-widely-accepted.mp3"
+  },
+  {
+   "word": "deeply concerned",
+   "ipa": "/ˈdipli kənˈsərnd/",
+   "meaning": "hết sức lo ngại (about sth)",
+   "pos": "trạng từ + tính từ",
+   "audio": "B2-76-w-deeply-concerned.mp3"
+  },
+  {
+   "word": "fully aware",
+   "ipa": "/ˈfʊli əˈwɛr/",
+   "meaning": "hoàn toàn nhận thức (of sth / that...)",
+   "pos": "trạng từ + tính từ",
+   "audio": "B2-76-w-fully-aware.mp3"
+  },
+  {
+   "word": "strongly recommend",
+   "ipa": "/ˈstrɔŋli ˌrɛkəˈmɛnd/",
+   "meaning": "rất khuyến nghị",
+   "pos": "trạng từ + động từ",
+   "audio": "B2-76-w-strongly-recommend.mp3"
+  },
+  {
+   "word": "heavily dependent",
+   "ipa": "/ˈhɛvəli dɪˈpɛndənt/",
+   "meaning": "phụ thuộc nặng nề (on sth)",
+   "pos": "trạng từ + tính từ",
+   "audio": "B2-76-w-heavily-dependent.mp3"
+  },
+  {
+   "word": "vast majority",
+   "ipa": "/væst məˈdʒɔrəti/",
+   "meaning": "đại đa số (the vast majority of)",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-vast-majority.mp3"
+  },
+  {
+   "word": "clear evidence",
+   "ipa": "/klɪr ˈɛvədəns/",
+   "meaning": "bằng chứng rõ ràng (of sth / that...)",
+   "pos": "tính từ + danh từ",
+   "audio": "B2-76-w-clear-evidence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "There has been a significant increase in the number of people working from home.",
+   "vi": "Số người làm việc tại nhà đã tăng đáng kể.",
+   "audio": "B2-76-ex-1.mp3"
+  },
+  {
+   "en": "The vast majority of employees say they prefer it, and the idea is now widely accepted among experts.",
+   "vi": "Đại đa số nhân viên nói họ thích cách này, và ý tưởng này nay được giới chuyên gia chấp nhận rộng rãi.",
+   "audio": "B2-76-ex-2.mp3"
+  },
+  {
+   "en": "There is clear evidence that remote workers sleep more, but we are fully aware that this is not true for everyone.",
+   "vi": "Có bằng chứng rõ ràng rằng người làm từ xa ngủ nhiều hơn, nhưng chúng tôi hoàn toàn nhận thức rằng điều này không đúng với tất cả.",
+   "audio": "B2-76-ex-3.mp3"
+  },
+  {
+   "en": "It is highly likely that hybrid work will become the norm.",
+   "vi": "Rất có khả năng làm việc kết hợp sẽ trở thành chuẩn mực.",
+   "audio": "B2-76-ex-4.mp3"
+  },
+  {
+   "en": "Many small cafés are heavily dependent on office workers, and their owners are deeply concerned.",
+   "vi": "Nhiều quán cà phê nhỏ phụ thuộc nặng nề vào dân văn phòng, và chủ quán hết sức lo ngại.",
+   "audio": "B2-76-ex-5.mp3"
+  }
+ ]
+}

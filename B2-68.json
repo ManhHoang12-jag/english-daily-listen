@@ -1,0 +1,81 @@
+{
+ "title": "Bài 68. Kỹ năng: viết bài luận vấn đề – giải pháp",
+ "vocabulary": [
+  {
+   "word": "tackle",
+   "ipa": "/ˈtækəl/",
+   "meaning": "bắt tay giải quyết (vấn đề khó)",
+   "pos": "động từ",
+   "audio": "B2-68-w-tackle.mp3"
+  },
+  {
+   "word": "address",
+   "ipa": "/əˈdrɛs/",
+   "meaning": "xử lý, giải quyết (vấn đề); nói đến",
+   "pos": "động từ",
+   "audio": "B2-68-w-address.mp3"
+  },
+  {
+   "word": "measure",
+   "ipa": "/ˈmɛʒɚ/",
+   "meaning": "biện pháp (take measures: áp dụng biện pháp)",
+   "pos": "danh từ",
+   "audio": "B2-68-w-measure.mp3"
+  },
+  {
+   "word": "root cause",
+   "ipa": "/ˈrut ˌkɔz/",
+   "meaning": "nguyên nhân gốc rễ",
+   "pos": "cụm danh từ",
+   "audio": "B2-68-w-root-cause.mp3"
+  },
+  {
+   "word": "solution",
+   "ipa": "/səˈluʃən/",
+   "meaning": "giải pháp (a solution to a problem)",
+   "pos": "danh từ",
+   "audio": "B2-68-w-solution.mp3"
+  },
+  {
+   "word": "implement",
+   "ipa": "/ˈɪmpləˌmɛnt/",
+   "meaning": "thực hiện, triển khai (kế hoạch, chính sách)",
+   "pos": "động từ",
+   "audio": "B2-68-w-implement.mp3"
+  },
+  {
+   "word": "effective",
+   "ipa": "/ɪˈfɛktɪv/",
+   "meaning": "hiệu quả, có tác dụng",
+   "pos": "tính từ",
+   "audio": "B2-68-w-effective.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Every day, commuters lose hours in traffic, which leads to a loss of productivity and a rise in air pollution.",
+   "vi": "Mỗi ngày, người đi làm mất hàng giờ vì kẹt xe, dẫn đến giảm năng suất và gia tăng ô nhiễm không khí.",
+   "audio": "B2-68-ex-1.mp3"
+  },
+  {
+   "en": "This essay will examine the root causes of the problem and suggest several measures to tackle it.",
+   "vi": "Bài luận này sẽ xem xét các nguyên nhân gốc rễ của vấn đề và đề xuất một số biện pháp để giải quyết nó.",
+   "audio": "B2-68-ex-2.mp3"
+  },
+  {
+   "en": "Investment in metro lines and bus lanes should be prioritized, because a fast, affordable network is the most effective way to reduce car use.",
+   "vi": "Cần ưu tiên đầu tư vào tuyến tàu điện và làn xe buýt, vì một mạng lưới nhanh, giá rẻ là cách hiệu quả nhất để giảm sử dụng ô tô.",
+   "audio": "B2-68-ex-3.mp3"
+  },
+  {
+   "en": "If drivers had to pay to enter the center, many would switch to public transportation.",
+   "vi": "Nếu tài xế phải trả tiền để vào trung tâm, nhiều người sẽ chuyển sang phương tiện công cộng.",
+   "audio": "B2-68-ex-4.mp3"
+  },
+  {
+   "en": "If the authorities address these root causes rather than simply building more roads, our cities will become cleaner and more livable.",
+   "vi": "Nếu chính quyền giải quyết những nguyên nhân gốc rễ này thay vì chỉ xây thêm đường, thành phố của chúng ta sẽ sạch hơn và đáng sống hơn.",
+   "audio": "B2-68-ex-5.mp3"
+  }
+ ]
+}

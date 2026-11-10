@@ -1,0 +1,74 @@
+{
+ "title": "Bài 84. Tổng ôn: tường thuật và câu hỏi gián tiếp",
+ "vocabulary": [
+  {
+   "word": "report back",
+   "ipa": "/rɪˌpɔːrt ˈbæk/",
+   "meaning": "báo cáo lại, thuật lại (cho nhóm, cấp trên)",
+   "pos": "cụm động từ",
+   "audio": "B1-84-w-report-back.mp3"
+  },
+  {
+   "word": "pass on",
+   "ipa": "/ˌpæs ˈɑːn/",
+   "meaning": "chuyển (lời nhắn, thông tin) cho người khác",
+   "pos": "cụm động từ",
+   "audio": "B1-84-w-pass-on.mp3"
+  },
+  {
+   "word": "quote",
+   "ipa": "/kwoʊt/",
+   "meaning": "trích dẫn nguyên văn",
+   "pos": "động từ",
+   "audio": "B1-84-w-quote.mp3"
+  },
+  {
+   "word": "exact words",
+   "ipa": "/ɪɡˌzækt ˈwɝːdz/",
+   "meaning": "lời nói nguyên văn",
+   "pos": "cụm danh từ",
+   "audio": "B1-84-w-exact-words.mp3"
+  },
+  {
+   "word": "tell apart",
+   "ipa": "/ˌtɛl əˈpɑːrt/",
+   "meaning": "phân biệt (hai người, hai vật giống nhau)",
+   "pos": "cụm động từ",
+   "audio": "B1-84-w-tell-apart.mp3"
+  },
+  {
+   "word": "confirm",
+   "ipa": "/kənˈfɝːm/",
+   "meaning": "xác nhận",
+   "pos": "động từ",
+   "audio": "B1-84-w-confirm.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Lan said that the deadline had been moved to Friday.",
+   "vi": "Chị Lan nói rằng hạn chót đã được dời sang thứ Sáu.",
+   "audio": "B1-84-ex-1.mp3"
+  },
+  {
+   "en": "She asked us to send her our reports by Thursday.",
+   "vi": "Chị ấy yêu cầu chúng tôi gửi báo cáo cho chị trước thứ Năm.",
+   "audio": "B1-84-ex-2.mp3"
+  },
+  {
+   "en": "She told us not to share the figures outside the team.",
+   "vi": "Chị ấy dặn chúng tôi không chia sẻ số liệu ra ngoài nhóm.",
+   "audio": "B1-84-ex-3.mp3"
+  },
+  {
+   "en": "Tom asked whether the client would visit the following week.",
+   "vi": "Tom hỏi liệu khách hàng có đến vào tuần sau đó không.",
+   "audio": "B1-84-ex-4.mp3"
+  },
+  {
+   "en": "Could you confirm when the next meeting is?",
+   "vi": "Anh có thể xác nhận khi nào là buổi họp tiếp theo không?",
+   "audio": "B1-84-ex-5.mp3"
+  }
+ ]
+}

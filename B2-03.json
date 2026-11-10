@@ -1,0 +1,81 @@
+{
+ "title": "Bài 03. Tương lai hoàn thành và tương lai hoàn thành tiếp diễn",
+ "vocabulary": [
+  {
+   "word": "by then",
+   "ipa": "/baɪ ˈðen/",
+   "meaning": "đến lúc đó",
+   "pos": "cụm trạng từ",
+   "audio": "B2-03-w-by-then.mp3"
+  },
+  {
+   "word": "by the end of",
+   "ipa": "/baɪ ði ˈend əv/",
+   "meaning": "đến cuối (năm, khóa học...), chậm nhất là cuối...",
+   "pos": "cụm giới từ",
+   "audio": "B2-03-w-by-the-end-of.mp3"
+  },
+  {
+   "word": "milestone",
+   "ipa": "/ˈmaɪlˌstoʊn/",
+   "meaning": "cột mốc quan trọng",
+   "pos": "danh từ",
+   "audio": "B2-03-w-milestone.mp3"
+  },
+  {
+   "word": "accomplish",
+   "ipa": "/əˈkɑmplɪʃ/",
+   "meaning": "đạt được, hoàn thành (mục tiêu lớn)",
+   "pos": "động từ",
+   "audio": "B2-03-w-accomplish.mp3"
+  },
+  {
+   "word": "complete",
+   "ipa": "/kəmˈplit/",
+   "meaning": "hoàn thành, làm xong",
+   "pos": "động từ",
+   "audio": "B2-03-w-complete.mp3"
+  },
+  {
+   "word": "in five years' time",
+   "ipa": "/ɪn ˌfaɪv ˌjɪrz ˈtaɪm/",
+   "meaning": "năm năm nữa (mẫu chung: in X years' time = X năm nữa)",
+   "pos": "cụm trạng từ",
+   "audio": "B2-03-w-in-five-years-time.mp3"
+  },
+  {
+   "word": "timeline",
+   "ipa": "/ˈtaɪmˌlaɪn/",
+   "meaning": "lộ trình, mốc thời gian",
+   "pos": "danh từ",
+   "audio": "B2-03-w-timeline.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "By the end of this year, I will have completed my application.",
+   "vi": "Đến cuối năm nay, tôi sẽ hoàn thành hồ sơ xin học.",
+   "audio": "B2-03-ex-1.mp3"
+  },
+  {
+   "en": "By the time I start the program next fall, I will have been studying English for three years.",
+   "vi": "Đến lúc tôi bắt đầu chương trình vào mùa thu tới, tôi sẽ học tiếng Anh được ba năm.",
+   "audio": "B2-03-ex-2.mp3"
+  },
+  {
+   "en": "In two years' time, I will have earned my master's degree.",
+   "vi": "Hai năm nữa, tôi sẽ có bằng thạc sĩ.",
+   "audio": "B2-03-ex-3.mp3"
+  },
+  {
+   "en": "By then, I will have been working in finance for almost a decade.",
+   "vi": "Đến lúc đó, tôi sẽ làm trong ngành tài chính được gần mười năm.",
+   "audio": "B2-03-ex-4.mp3"
+  },
+  {
+   "en": "My biggest milestone is to lead a research team, and I hope I will have accomplished that in five years' time.",
+   "vi": "Cột mốc lớn nhất của tôi là dẫn dắt một nhóm nghiên cứu, và tôi hy vọng sẽ đạt được điều đó trong năm năm nữa.",
+   "audio": "B2-03-ex-5.mp3"
+  }
+ ]
+}

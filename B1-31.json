@@ -1,0 +1,74 @@
+{
+ "title": "Bài 31. Ôn điều kiện 0/1 và giới thiệu loại 2",
+ "vocabulary": [
+  {
+   "word": "imagine",
+   "ipa": "/ɪˈmædʒɪn/",
+   "meaning": "tưởng tượng",
+   "pos": "động từ",
+   "audio": "B1-31-w-imagine.mp3"
+  },
+  {
+   "word": "situation",
+   "ipa": "/ˌsɪtʃuˈeɪʃən/",
+   "meaning": "tình huống, hoàn cảnh",
+   "pos": "danh từ",
+   "audio": "B1-31-w-situation.mp3"
+  },
+  {
+   "word": "possible",
+   "ipa": "/ˈpɑːsəbəl/",
+   "meaning": "có thể xảy ra, khả thi",
+   "pos": "tính từ",
+   "audio": "B1-31-w-possible.mp3"
+  },
+  {
+   "word": "unlikely",
+   "ipa": "/ʌnˈlaɪkli/",
+   "meaning": "khó xảy ra, không chắc sẽ xảy ra",
+   "pos": "tính từ",
+   "audio": "B1-31-w-unlikely.mp3"
+  },
+  {
+   "word": "real",
+   "ipa": "/ˈriːəl/",
+   "meaning": "thật, có thật",
+   "pos": "tính từ",
+   "audio": "B1-31-w-real.mp3"
+  },
+  {
+   "word": "unreal",
+   "ipa": "/ʌnˈriːəl/",
+   "meaning": "không có thật, chỉ là tưởng tượng",
+   "pos": "tính từ",
+   "audio": "B1-31-w-unreal.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I drink coffee in the evening, I can't sleep.",
+   "vi": "Hễ uống cà phê buổi tối là tôi không ngủ được.",
+   "audio": "B1-31-ex-1.mp3"
+  },
+  {
+   "en": "If it rains tomorrow, we'll have the meeting online.",
+   "vi": "Nếu mai trời mưa, chúng ta sẽ họp trực tuyến.",
+   "audio": "B1-31-ex-2.mp3"
+  },
+  {
+   "en": "If I get the job, I'll move to Da Nang.",
+   "vi": "Nếu được nhận việc, tôi sẽ chuyển vào Đà Nẵng.",
+   "audio": "B1-31-ex-3.mp3"
+  },
+  {
+   "en": "If I had more money, I would buy a bigger apartment.",
+   "vi": "Nếu có nhiều tiền hơn, tôi sẽ mua căn hộ rộng hơn.",
+   "audio": "B1-31-ex-4.mp3"
+  },
+  {
+   "en": "Imagine you lived by the sea. Would you swim every day?",
+   "vi": "Hãy tưởng tượng bạn sống ở gần biển. Bạn có bơi mỗi ngày không?",
+   "audio": "B1-31-ex-5.mp3"
+  }
+ ]
+}

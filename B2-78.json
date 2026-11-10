@@ -1,0 +1,74 @@
+{
+ "title": "Bài 78. Kỹ năng: dùng từ điển và xây dựng sổ từ vựng",
+ "vocabulary": [
+  {
+   "word": "entry",
+   "ipa": "/ˈɛntri/",
+   "meaning": "mục từ (trong từ điển)",
+   "pos": "danh từ",
+   "audio": "B2-78-w-entry.mp3"
+  },
+  {
+   "word": "collocation dictionary",
+   "ipa": "/ˌkɑləˈkeɪʃən ˈdɪkʃəˌnɛri/",
+   "meaning": "từ điển kết hợp từ (collocation)",
+   "pos": "cụm danh từ",
+   "audio": "B2-78-w-collocation-dictionary.mp3"
+  },
+  {
+   "word": "register label",
+   "ipa": "/ˈrɛdʒɪstər ˈleɪbəl/",
+   "meaning": "nhãn văn phong (formal, informal...)",
+   "pos": "cụm danh từ",
+   "audio": "B2-78-w-register-label.mp3"
+  },
+  {
+   "word": "usage note",
+   "ipa": "/ˈjusɪdʒ noʊt/",
+   "meaning": "ghi chú cách dùng (trong từ điển)",
+   "pos": "cụm danh từ",
+   "audio": "B2-78-w-usage-note.mp3"
+  },
+  {
+   "word": "corpus",
+   "ipa": "/ˈkɔrpəs/",
+   "meaning": "kho ngữ liệu, kho văn bản thật (số nhiều: corpora)",
+   "pos": "danh từ",
+   "audio": "B2-78-w-corpus.mp3"
+  },
+  {
+   "word": "example sentence",
+   "ipa": "/ɪɡˈzæmpəl ˈsɛntəns/",
+   "meaning": "câu ví dụ, câu minh họa",
+   "pos": "cụm danh từ",
+   "audio": "B2-78-w-example-sentence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "A good learner's dictionary tells you far more than the meaning of a word.",
+   "vi": "Một cuốn từ điển learner's tốt cho bạn biết nhiều hơn hẳn nghĩa của một từ.",
+   "audio": "B2-78-ex-1.mp3"
+  },
+  {
+   "en": "Each entry shows the part of speech, the pronunciation, and whether a noun is countable or uncountable.",
+   "vi": "Mỗi mục từ cho biết loại từ, cách phát âm, và danh từ đó đếm được hay không đếm được.",
+   "audio": "B2-78-ex-2.mp3"
+  },
+  {
+   "en": "Read the example sentences carefully: they come from a corpus, a huge collection of real texts.",
+   "vi": "Hãy đọc kỹ các câu ví dụ: chúng được lấy từ một corpus, tức một kho rất lớn văn bản thật.",
+   "audio": "B2-78-ex-3.mp3"
+  },
+  {
+   "en": "Look for register labels such as formal or informal, because a word that sounds fine in a text message may be wrong in an essay.",
+   "vi": "Hãy để ý nhãn văn phong như trang trọng hay thân mật, vì một từ nghe ổn trong tin nhắn có thể sai trong bài luận.",
+   "audio": "B2-78-ex-4.mp3"
+  },
+  {
+   "en": "If you want to sound natural, check a collocation dictionary to see which verbs and adjectives go with a noun.",
+   "vi": "Nếu muốn nói tự nhiên, hãy tra từ điển collocation để xem động từ và tính từ nào đi với một danh từ.",
+   "audio": "B2-78-ex-5.mp3"
+  }
+ ]
+}

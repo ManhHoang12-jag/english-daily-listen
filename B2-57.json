@@ -1,0 +1,81 @@
+{
+ "title": "Bài 57. Kỹ năng: thuyết trình 4–5 phút",
+ "vocabulary": [
+  {
+   "word": "rehearse",
+   "ipa": "/rɪˈhɝs/",
+   "meaning": "tập dượt",
+   "pos": "động từ",
+   "audio": "B2-57-w-rehearse.mp3"
+  },
+  {
+   "word": "pace",
+   "ipa": "/peɪs/",
+   "meaning": "tốc độ, nhịp (nói)",
+   "pos": "danh từ",
+   "audio": "B2-57-w-pace.mp3"
+  },
+  {
+   "word": "eye contact",
+   "ipa": "/ˈaɪ ˌkɑntækt/",
+   "meaning": "giao tiếp bằng mắt",
+   "pos": "danh từ",
+   "audio": "B2-57-w-eye-contact.mp3"
+  },
+  {
+   "word": "pause",
+   "ipa": "/pɔz/",
+   "meaning": "ngắt, dừng; khoảng lặng",
+   "pos": "động từ / danh từ",
+   "audio": "B2-57-w-pause.mp3"
+  },
+  {
+   "word": "stress",
+   "ipa": "/strɛs/",
+   "meaning": "trọng âm; nhấn mạnh",
+   "pos": "danh từ / động từ",
+   "audio": "B2-57-w-stress.mp3"
+  },
+  {
+   "word": "deliver",
+   "ipa": "/dɪˈlɪvɚ/",
+   "meaning": "trình bày, thực hiện (bài nói)",
+   "pos": "động từ",
+   "audio": "B2-57-w-deliver.mp3"
+  },
+  {
+   "word": "feedback",
+   "ipa": "/ˈfidˌbæk/",
+   "meaning": "nhận xét, góp ý",
+   "pos": "danh từ",
+   "audio": "B2-57-w-feedback.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Imagine standing at a bus stop on a summer afternoon, with no shade at all.",
+   "vi": "Hãy tưởng tượng bạn đứng ở trạm xe buýt vào một buổi chiều mùa hè, không có chút bóng râm nào.",
+   "audio": "B2-57-ex-1.mp3"
+  },
+  {
+   "en": "For millions of people in cities like Hanoi, this isn't imagination; it's everyday life.",
+   "vi": "Với hàng triệu người ở những thành phố như Hà Nội, đây không phải tưởng tượng; đó là cuộc sống hằng ngày.",
+   "audio": "B2-57-ex-2.mp3"
+  },
+  {
+   "en": "I'll be covering three points: what trees actually do for a city, why so many cities are losing them, and what we can do about it.",
+   "vi": "Tôi sẽ trình bày ba ý: cây xanh thực sự làm gì cho một thành phố, vì sao nhiều thành phố đang mất dần cây, và chúng ta có thể làm gì.",
+   "audio": "B2-57-ex-3.mp3"
+  },
+  {
+   "en": "And it wasn't until they were gone that people started to notice the heat.",
+   "vi": "Và phải đến khi cây không còn nữa thì người ta mới bắt đầu để ý đến cái nóng.",
+   "audio": "B2-57-ex-4.mp3"
+  },
+  {
+   "en": "Never before have our cities needed shade as much as they do today.",
+   "vi": "Chưa bao giờ các thành phố của chúng ta cần bóng mát nhiều như hôm nay.",
+   "audio": "B2-57-ex-5.mp3"
+  }
+ ]
+}

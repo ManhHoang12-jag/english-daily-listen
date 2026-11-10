@@ -1,0 +1,81 @@
+{
+ "title": "Bài 107. Kỹ năng: đọc tổng hợp nhiều nguồn",
+ "vocabulary": [
+  {
+   "word": "synthesize",
+   "ipa": "/ˈsɪnθəˌsaɪz/",
+   "meaning": "tổng hợp (thông tin từ nhiều nguồn thành một bức tranh); Anh-Anh viết synthesise",
+   "pos": "động từ",
+   "audio": "B2-107-w-synthesize.mp3"
+  },
+  {
+   "word": "source",
+   "ipa": "/sɔrs/",
+   "meaning": "nguồn (thông tin, tài liệu)",
+   "pos": "danh từ",
+   "audio": "B2-107-w-source.mp3"
+  },
+  {
+   "word": "consistent",
+   "ipa": "/kənˈsɪstənt/",
+   "meaning": "nhất quán, phù hợp (consistent with)",
+   "pos": "tính từ",
+   "audio": "B2-107-w-consistent.mp3"
+  },
+  {
+   "word": "contradict",
+   "ipa": "/ˌkɑntrəˈdɪkt/",
+   "meaning": "mâu thuẫn với, nói ngược lại",
+   "pos": "động từ",
+   "audio": "B2-107-w-contradict.mp3"
+  },
+  {
+   "word": "in line with",
+   "ipa": "/ɪn ˈlaɪn wɪð/",
+   "meaning": "phù hợp với, đúng như",
+   "pos": "cụm giới từ",
+   "audio": "B2-107-w-in-line-with.mp3"
+  },
+  {
+   "word": "whereas",
+   "ipa": "/wɛrˈæz/",
+   "meaning": "trong khi (đối lập hai vế)",
+   "pos": "liên từ",
+   "audio": "B2-107-w-whereas.mp3"
+  },
+  {
+   "word": "overall picture",
+   "ipa": "/ˌoʊvɚˈɔl ˈpɪktʃɚ/",
+   "meaning": "bức tranh chung, cái nhìn tổng thể",
+   "pos": "cụm danh từ",
+   "audio": "B2-107-w-overall-picture.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Of the forty companies, thirty-five have decided to keep the new schedule.",
+   "vi": "Trong bốn mươi công ty, ba mươi lăm công ty đã quyết định giữ lịch làm việc mới.",
+   "audio": "B2-107-ex-1.mp3"
+  },
+  {
+   "en": "First, the companies volunteered to take part, so they were likely to be firms that expected the change to work.",
+   "vi": "Thứ nhất, các công ty tự nguyện tham gia, nên nhiều khả năng đó là những công ty vốn tin thay đổi sẽ hiệu quả.",
+   "audio": "B2-107-ex-2.mp3"
+  },
+  {
+   "en": "It is hard to see how a hospital, a school or a factory could cut a fifth of its working hours without hiring more staff.",
+   "vi": "Khó mà thấy được một bệnh viện, trường học hay nhà máy có thể cắt một phần năm giờ làm mà không thuê thêm người.",
+   "audio": "B2-107-ex-3.mp3"
+  },
+  {
+   "en": "Office workers were the most enthusiastic, whereas only a third of workers in healthcare and retail supported the idea.",
+   "vi": "Nhân viên văn phòng hào hứng nhất, trong khi chỉ một phần ba người làm trong y tế và bán lẻ ủng hộ ý tưởng này.",
+   "audio": "B2-107-ex-4.mp3"
+  },
+  {
+   "en": "Many of them worried that their workload would simply be squeezed into four longer days.",
+   "vi": "Nhiều người trong số đó lo rằng khối lượng công việc chỉ bị dồn vào bốn ngày dài hơn.",
+   "audio": "B2-107-ex-5.mp3"
+  }
+ ]
+}

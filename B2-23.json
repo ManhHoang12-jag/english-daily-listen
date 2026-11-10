@@ -1,0 +1,95 @@
+{
+ "title": "Bài 23. Chủ đề: khoa học và khám phá",
+ "vocabulary": [
+  {
+   "word": "experiment",
+   "ipa": "/ɪkˈspɛrəmənt/",
+   "meaning": "thí nghiệm (carry out / do an experiment)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-experiment.mp3"
+  },
+  {
+   "word": "hypothesis",
+   "ipa": "/haɪˈpɑθəsɪs/",
+   "meaning": "giả thuyết (số nhiều: hypotheses)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-hypothesis.mp3"
+  },
+  {
+   "word": "breakthrough",
+   "ipa": "/ˈbreɪkˌθru/",
+   "meaning": "bước đột phá",
+   "pos": "danh từ",
+   "audio": "B2-23-w-breakthrough.mp3"
+  },
+  {
+   "word": "discovery",
+   "ipa": "/dɪˈskʌvəri/",
+   "meaning": "sự khám phá, phát hiện (make a discovery)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-discovery.mp3"
+  },
+  {
+   "word": "laboratory",
+   "ipa": "/ˈlæbrəˌtɔri/",
+   "meaning": "phòng thí nghiệm (thường nói lab)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-laboratory.mp3"
+  },
+  {
+   "word": "sample",
+   "ipa": "/ˈsæmpəl/",
+   "meaning": "mẫu (để kiểm tra, phân tích)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-sample.mp3"
+  },
+  {
+   "word": "observe",
+   "ipa": "/əbˈzɝv/",
+   "meaning": "quan sát",
+   "pos": "động từ",
+   "audio": "B2-23-w-observe.mp3"
+  },
+  {
+   "word": "prove",
+   "ipa": "/pruv/",
+   "meaning": "chứng minh (prove that...)",
+   "pos": "động từ",
+   "audio": "B2-23-w-prove.mp3"
+  },
+  {
+   "word": "findings",
+   "ipa": "/ˈfaɪndɪŋz/",
+   "meaning": "kết quả nghiên cứu (luôn số nhiều)",
+   "pos": "danh từ",
+   "audio": "B2-23-w-findings.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "He noticed that one of his bacteria samples had been contaminated by a mold.",
+   "vi": "Ông nhận thấy một trong các mẫu vi khuẩn của mình đã bị nhiễm nấm mốc.",
+   "audio": "B2-23-ex-1.mp3"
+  },
+  {
+   "en": "Fleming observed this carefully and formed a hypothesis.",
+   "vi": "Fleming quan sát hiện tượng này cẩn thận và đưa ra một giả thuyết.",
+   "audio": "B2-23-ex-2.mp3"
+  },
+  {
+   "en": "Experiments were carried out, and his findings were published the following year.",
+   "vi": "Các thí nghiệm được tiến hành, và kết quả nghiên cứu của ông được công bố vào năm sau.",
+   "audio": "B2-23-ex-3.mp3"
+  },
+  {
+   "en": "Fleming could not prove that it would work inside the human body.",
+   "vi": "Fleming không thể chứng minh rằng nó sẽ có tác dụng bên trong cơ thể người.",
+   "audio": "B2-23-ex-4.mp3"
+  },
+  {
+   "en": "The real breakthrough came more than ten years later, when a team at Oxford tested it on patients.",
+   "vi": "Bước đột phá thực sự đến hơn mười năm sau, khi một nhóm ở Oxford thử nghiệm nó trên bệnh nhân.",
+   "audio": "B2-23-ex-5.mp3"
+  }
+ ]
+}

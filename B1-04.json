@@ -1,0 +1,88 @@
+{
+ "title": "Bài 04. Thì kể chuyện tổng hợp",
+ "vocabulary": [
+  {
+   "word": "background",
+   "ipa": "/ˈbækɡraʊnd/",
+   "meaning": "bối cảnh; phông nền",
+   "pos": "danh từ",
+   "audio": "B1-04-w-background.mp3"
+  },
+  {
+   "word": "atmosphere",
+   "ipa": "/ˈætməsfɪr/",
+   "meaning": "bầu không khí",
+   "pos": "danh từ",
+   "audio": "B1-04-w-atmosphere.mp3"
+  },
+  {
+   "word": "crowded",
+   "ipa": "/ˈkraʊdɪd/",
+   "meaning": "đông đúc, chật người",
+   "pos": "tính từ",
+   "audio": "B1-04-w-crowded.mp3"
+  },
+  {
+   "word": "frightened",
+   "ipa": "/ˈfraɪtənd/",
+   "meaning": "hoảng sợ",
+   "pos": "tính từ",
+   "audio": "B1-04-w-frightened.mp3"
+  },
+  {
+   "word": "shocked",
+   "ipa": "/ʃɑːkt/",
+   "meaning": "bị sốc, choáng",
+   "pos": "tính từ",
+   "audio": "B1-04-w-shocked.mp3"
+  },
+  {
+   "word": "amazed",
+   "ipa": "/əˈmeɪzd/",
+   "meaning": "kinh ngạc, thán phục",
+   "pos": "tính từ",
+   "audio": "B1-04-w-amazed.mp3"
+  },
+  {
+   "word": "turn out",
+   "ipa": "/ˌtɝn ˈaʊt/",
+   "meaning": "hóa ra (là)",
+   "pos": "cụm động từ",
+   "audio": "B1-04-w-turn-out.mp3"
+  },
+  {
+   "word": "it turned out that",
+   "ipa": "/ɪt ˌtɝnd ˈaʊt ðət/",
+   "meaning": "hóa ra là, thì ra",
+   "pos": "cụm từ",
+   "audio": "B1-04-w-it-turned-out-that.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It was a hot Saturday evening in Bangkok. The night market was crowded, and the atmosphere was wonderful. Music was playing, people were laughing, and my sister and I were looking for cheap souvenirs.",
+   "vi": "Đó là một tối thứ Bảy nóng nực ở Bangkok. Chợ đêm đông nghịt, không khí thật tuyệt. Nhạc đang chơi, mọi người cười nói, và tôi với em gái đang tìm quà lưu niệm rẻ.",
+   "audio": "B1-04-ex-1.mp3"
+  },
+  {
+   "en": "We were walking past a fruit stall when I suddenly realized that my sister wasn't next to me. I looked everywhere, but I couldn't see her. I was really frightened, because she had never been abroad before.",
+   "vi": "Chúng tôi đang đi qua một sạp trái cây thì tôi chợt nhận ra em gái không còn ở cạnh mình. Tôi tìm khắp nơi nhưng không thấy. Tôi thật sự hoảng sợ, vì trước đó em ấy chưa từng ra nước ngoài.",
+   "audio": "B1-04-ex-2.mp3"
+  },
+  {
+   "en": "I tried to call her, but my phone battery had died an hour earlier. So I went to a security guard and explained the problem. He asked me what my sister was wearing and called his colleagues on the radio.",
+   "vi": "Tôi định gọi cho em, nhưng điện thoại đã hết pin từ một tiếng trước. Vậy là tôi đến chỗ một nhân viên bảo vệ và trình bày sự việc. Anh ấy hỏi em gái tôi mặc gì rồi gọi bộ đàm cho đồng nghiệp.",
+   "audio": "B1-04-ex-3.mp3"
+  },
+  {
+   "en": "Twenty minutes later, I heard someone call my name. I turned around, and there she was, smiling and holding two bags. It turned out that she had stopped to buy a dress and hadn't noticed that I had walked on.",
+   "vi": "Hai mươi phút sau, tôi nghe có người gọi tên mình. Tôi quay lại, và em ấy ở đó, cười tươi, tay xách hai cái túi. Hóa ra em đã dừng lại mua một chiếc váy và không để ý là tôi đã đi tiếp.",
+   "audio": "B1-04-ex-4.mp3"
+  },
+  {
+   "en": "I was shocked that she was so calm, but mostly I was relieved. In the end, we both laughed about it, and I was amazed by how kind everyone at the market had been.",
+   "vi": "Tôi sốc vì em bình thản đến thế, nhưng chủ yếu là thấy nhẹ nhõm. Cuối cùng, cả hai chị em cùng bật cười, và tôi thật sự cảm kích vì mọi người ở chợ đã tốt bụng đến vậy.",
+   "audio": "B1-04-ex-5.mp3"
+  }
+ ]
+}

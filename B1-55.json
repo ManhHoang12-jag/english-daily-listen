@@ -1,0 +1,81 @@
+{
+ "title": "Bài 55. Nguyên nhân và kết quả",
+ "vocabulary": [
+  {
+   "word": "due to",
+   "ipa": "/ˈduː tuː/",
+   "meaning": "do, bởi vì (+ danh từ)",
+   "pos": "giới từ",
+   "audio": "B1-55-w-due-to.mp3"
+  },
+  {
+   "word": "as a result",
+   "ipa": "/æz ə rɪˈzʌlt/",
+   "meaning": "kết quả là, vì vậy",
+   "pos": "cụm trạng từ",
+   "audio": "B1-55-w-as-a-result.mp3"
+  },
+  {
+   "word": "therefore",
+   "ipa": "/ˈðɛrfɔr/",
+   "meaning": "vì vậy, do đó (trang trọng)",
+   "pos": "trạng từ",
+   "audio": "B1-55-w-therefore.mp3"
+  },
+  {
+   "word": "cause",
+   "ipa": "/kɔz/",
+   "meaning": "gây ra; nguyên nhân",
+   "pos": "động từ / danh từ",
+   "audio": "B1-55-w-cause.mp3"
+  },
+  {
+   "word": "effect",
+   "ipa": "/ɪˈfɛkt/",
+   "meaning": "tác động, ảnh hưởng (effect on)",
+   "pos": "danh từ",
+   "audio": "B1-55-w-effect.mp3"
+  },
+  {
+   "word": "lead to",
+   "ipa": "/ˈliːd tuː/",
+   "meaning": "dẫn đến",
+   "pos": "cụm động từ",
+   "audio": "B1-55-w-lead-to.mp3"
+  },
+  {
+   "word": "consequence",
+   "ipa": "/ˈkɑnsəkwɛns/",
+   "meaning": "hậu quả",
+   "pos": "danh từ",
+   "audio": "B1-55-w-consequence.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Many families stay indoors because the air is so polluted.",
+   "vi": "Nhiều gia đình ở trong nhà vì không khí quá ô nhiễm.",
+   "audio": "B1-55-ex-1.mp3"
+  },
+  {
+   "en": "As there are more cars every year, the air in our city is getting worse.",
+   "vi": "Vì mỗi năm lại có thêm nhiều xe, không khí ở thành phố chúng tôi ngày càng tệ hơn.",
+   "audio": "B1-55-ex-2.mp3"
+  },
+  {
+   "en": "Several schools closed due to the heavy smog.",
+   "vi": "Nhiều trường học đóng cửa do khói bụi dày đặc.",
+   "audio": "B1-55-ex-3.mp3"
+  },
+  {
+   "en": "The factory poured chemicals into the river. Therefore, the water is no longer safe to drink.",
+   "vi": "Nhà máy đổ hóa chất xuống sông. Vì vậy, nước không còn an toàn để uống nữa.",
+   "audio": "B1-55-ex-4.mp3"
+  },
+  {
+   "en": "Plastic bags block the drains. As a result, the streets flood after heavy rain.",
+   "vi": "Túi ni lông làm tắc cống. Kết quả là đường phố bị ngập sau mưa lớn.",
+   "audio": "B1-55-ex-5.mp3"
+  }
+ ]
+}

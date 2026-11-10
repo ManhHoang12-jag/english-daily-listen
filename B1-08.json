@@ -1,0 +1,74 @@
+{
+ "title": "Bài 08. Kỹ năng: đọc câu chuyện 250–300 từ",
+ "vocabulary": [
+  {
+   "word": "plot",
+   "ipa": "/plɑːt/",
+   "meaning": "cốt truyện",
+   "pos": "danh từ",
+   "audio": "B1-08-w-plot.mp3"
+  },
+  {
+   "word": "character",
+   "ipa": "/ˈkɛrəktɚ/",
+   "meaning": "nhân vật",
+   "pos": "danh từ",
+   "audio": "B1-08-w-character.mp3"
+  },
+  {
+   "word": "twist",
+   "ipa": "/twɪst/",
+   "meaning": "tình tiết bất ngờ",
+   "pos": "danh từ",
+   "audio": "B1-08-w-twist.mp3"
+  },
+  {
+   "word": "reaction",
+   "ipa": "/riˈækʃən/",
+   "meaning": "phản ứng",
+   "pos": "danh từ",
+   "audio": "B1-08-w-reaction.mp3"
+  },
+  {
+   "word": "mood",
+   "ipa": "/muːd/",
+   "meaning": "tâm trạng; không khí (của truyện)",
+   "pos": "danh từ",
+   "audio": "B1-08-w-mood.mp3"
+  },
+  {
+   "word": "ending",
+   "ipa": "/ˈɛndɪŋ/",
+   "meaning": "cái kết",
+   "pos": "danh từ",
+   "audio": "B1-08-w-ending.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Minh had never traveled abroad before, so he was nervous when his plane landed in Tokyo.",
+   "vi": "Minh chưa từng đi nước ngoài trước đó, nên anh ấy hồi hộp khi máy bay hạ cánh ở Tokyo.",
+   "audio": "B1-08-ex-1.mp3"
+  },
+  {
+   "en": "While he was waiting at the baggage belt, he noticed a black suitcase that looked exactly like his.",
+   "vi": "Trong lúc đang đợi ở băng chuyền hành lý, anh ấy để ý thấy một chiếc vali đen trông y hệt vali của mình.",
+   "audio": "B1-08-ex-2.mp3"
+  },
+  {
+   "en": "His heart sank. He had taken someone else's bag!",
+   "vi": "Tim anh ấy chùng xuống. Anh đã lấy nhầm túi của người khác!",
+   "audio": "B1-08-ex-3.mp3"
+  },
+  {
+   "en": "It turned out that he was a travel photographer.",
+   "vi": "Hóa ra ông ấy là một nhiếp ảnh gia du lịch.",
+   "audio": "B1-08-ex-4.mp3"
+  },
+  {
+   "en": "Minh was so relieved that he almost cried.",
+   "vi": "Minh nhẹ nhõm đến mức suýt khóc.",
+   "audio": "B1-08-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 115. Lỗi thường gặp của người Việt ở B2",
+ "vocabulary": [
+  {
+   "word": "run-on",
+   "ipa": "/ˈrʌnˌɑn/",
+   "meaning": "câu dính liền (hai mệnh đề độc lập viết liền, không dấu câu, không liên từ)",
+   "pos": "danh từ / tính từ (a run-on sentence)",
+   "audio": "B2-115-w-run-on.mp3"
+  },
+  {
+   "word": "comma splice",
+   "ipa": "/ˈkɑmə ˌsplaɪs/",
+   "meaning": "lỗi nối hai mệnh đề độc lập chỉ bằng dấu phẩy",
+   "pos": "danh từ",
+   "audio": "B2-115-w-comma-splice.mp3"
+  },
+  {
+   "word": "word choice",
+   "ipa": "/ˈwɝd ˌtʃɔɪs/",
+   "meaning": "cách chọn từ",
+   "pos": "danh từ",
+   "audio": "B2-115-w-word-choice.mp3"
+  },
+  {
+   "word": "literal translation",
+   "ipa": "/ˈlɪtərəl trænsˈleɪʃən/",
+   "meaning": "dịch sát từng chữ",
+   "pos": "danh từ",
+   "audio": "B2-115-w-literal-translation.mp3"
+  },
+  {
+   "word": "overuse",
+   "ipa": "/ˌoʊvɚˈjuz/",
+   "meaning": "dùng quá nhiều, lạm dụng (overuse a word)",
+   "pos": "động từ / danh từ",
+   "audio": "B2-115-w-overuse.mp3"
+  },
+  {
+   "word": "register mismatch",
+   "ipa": "/ˈrɛdʒɪstɚ ˈmɪsˌmætʃ/",
+   "meaning": "lệch văn phong (dùng từ thân mật trong văn trang trọng hoặc ngược lại)",
+   "pos": "danh từ",
+   "audio": "B2-115-w-register-mismatch.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The survey was small, so its findings should be treated with caution.",
+   "vi": "Khảo sát có quy mô nhỏ, nên kết quả cần được xem xét thận trọng.",
+   "audio": "B2-115-ex-1.mp3"
+  },
+  {
+   "en": "Research shows that the elderly in rural areas have limited access to health care.",
+   "vi": "Nghiên cứu cho thấy người cao tuổi ở nông thôn ít được tiếp cận dịch vụ y tế.",
+   "audio": "B2-115-ex-2.mp3"
+  },
+  {
+   "en": "Technology has advanced rapidly in recent years, and it has changed the way we work.",
+   "vi": "Công nghệ phát triển mạnh mẽ trong những năm gần đây và đã thay đổi cách chúng ta làm việc.",
+   "audio": "B2-115-ex-3.mp3"
+  },
+  {
+   "en": "The number of online learners has risen considerably, and many of them are highly motivated.",
+   "vi": "Số người học trực tuyến đã tăng đáng kể, và nhiều người trong số họ có động lực rất cao.",
+   "audio": "B2-115-ex-4.mp3"
+  },
+  {
+   "en": "I would be grateful if you could send me further details about the course.",
+   "vi": "Tôi rất biết ơn nếu ông/bà có thể gửi cho tôi thêm thông tin chi tiết về khóa học.",
+   "audio": "B2-115-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 111. Tổng ôn: điều kiện, wish, tiếc nuối",
+ "vocabulary": [
+  {
+   "word": "hypothetical",
+   "ipa": "/ˌhaɪpəˈθɛtɪkəl/",
+   "meaning": "giả định, không có thật",
+   "pos": "tính từ",
+   "audio": "B2-111-w-hypothetical.mp3"
+  },
+  {
+   "word": "counterfactual",
+   "ipa": "/ˌkaʊntɚˈfæktʃuəl/",
+   "meaning": "trái với sự thật (nói về điều đã không xảy ra)",
+   "pos": "tính từ",
+   "audio": "B2-111-w-counterfactual.mp3"
+  },
+  {
+   "word": "regret",
+   "ipa": "/rɪˈɡrɛt/",
+   "meaning": "hối tiếc; sự hối tiếc",
+   "pos": "động từ / danh từ",
+   "audio": "B2-111-w-regret.mp3"
+  },
+  {
+   "word": "condition",
+   "ipa": "/kənˈdɪʃən/",
+   "meaning": "điều kiện",
+   "pos": "danh từ",
+   "audio": "B2-111-w-condition.mp3"
+  },
+  {
+   "word": "scenario",
+   "ipa": "/sɪˈnɛrioʊ/",
+   "meaning": "kịch bản, tình huống có thể xảy ra",
+   "pos": "danh từ",
+   "audio": "B2-111-w-scenario.mp3"
+  },
+  {
+   "word": "alternative",
+   "ipa": "/ɔlˈtɝnətɪv/",
+   "meaning": "phương án khác, lựa chọn thay thế",
+   "pos": "danh từ / tính từ",
+   "audio": "B2-111-w-alternative.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If the company had invested in training, it wouldn't be losing so many staff now.",
+   "vi": "Nếu công ty đã đầu tư vào đào tạo thì giờ đã không mất nhiều nhân viên như vậy.",
+   "audio": "B2-111-ex-1.mp3"
+  },
+  {
+   "en": "Had I known about the scholarship, I would have applied for it last year.",
+   "vi": "Giá mà tôi biết về học bổng đó, tôi đã nộp đơn từ năm ngoái rồi.",
+   "audio": "B2-111-ex-2.mp3"
+  },
+  {
+   "en": "You can borrow my car, provided that you return it by Sunday evening.",
+   "vi": "Bạn có thể mượn xe của tôi, miễn là bạn trả lại trước tối Chủ nhật.",
+   "audio": "B2-111-ex-3.mp3"
+  },
+  {
+   "en": "I wish I had taken the job in Singapore. In hindsight, it was a great opportunity.",
+   "vi": "Ước gì tôi đã nhận công việc ở Singapore. Nhìn lại thì đó là một cơ hội tuyệt vời.",
+   "audio": "B2-111-ex-4.mp3"
+  },
+  {
+   "en": "In the worst-case scenario, we will have to delay the launch unless we find an alternative supplier.",
+   "vi": "Trong tình huống xấu nhất, chúng ta sẽ phải hoãn ra mắt trừ khi tìm được nhà cung cấp khác.",
+   "audio": "B2-111-ex-5.mp3"
+  }
+ ]
+}

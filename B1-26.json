@@ -1,0 +1,81 @@
+{
+ "title": "Bài 26. Have something done / get something done",
+ "vocabulary": [
+  {
+   "word": "repair",
+   "ipa": "/rɪˈpɛr/",
+   "meaning": "sửa chữa",
+   "pos": "động từ",
+   "audio": "B1-26-w-repair.mp3"
+  },
+  {
+   "word": "check",
+   "ipa": "/tʃɛk/",
+   "meaning": "kiểm tra",
+   "pos": "động từ",
+   "audio": "B1-26-w-check.mp3"
+  },
+  {
+   "word": "cut",
+   "ipa": "/kʌt/",
+   "meaning": "cắt (cut – cut – cut)",
+   "pos": "động từ",
+   "audio": "B1-26-w-cut.mp3"
+  },
+  {
+   "word": "deliver",
+   "ipa": "/dɪˈlɪvɚ/",
+   "meaning": "giao (hàng), chuyển đến",
+   "pos": "động từ",
+   "audio": "B1-26-w-deliver.mp3"
+  },
+  {
+   "word": "translate",
+   "ipa": "/trænzˈleɪt/",
+   "meaning": "dịch (sang ngôn ngữ khác)",
+   "pos": "động từ",
+   "audio": "B1-26-w-translate.mp3"
+  },
+  {
+   "word": "print",
+   "ipa": "/prɪnt/",
+   "meaning": "in (tài liệu, ảnh)",
+   "pos": "động từ",
+   "audio": "B1-26-w-print.mp3"
+  },
+  {
+   "word": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "meaning": "cài đặt, lắp đặt",
+   "pos": "động từ",
+   "audio": "B1-26-w-install.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I had my CV checked by a friend who works as a manager.",
+   "vi": "Tôi đã nhờ một người bạn làm quản lý kiểm tra CV của mình.",
+   "audio": "B1-26-ex-1.mp3"
+  },
+  {
+   "en": "We're getting the air conditioner repaired tomorrow morning.",
+   "vi": "Sáng mai chúng tôi sẽ cho thợ đến sửa máy lạnh.",
+   "audio": "B1-26-ex-2.mp3"
+  },
+  {
+   "en": "Where do you usually get your hair cut?",
+   "vi": "Bạn thường cắt tóc ở đâu?",
+   "audio": "B1-26-ex-3.mp3"
+  },
+  {
+   "en": "I'm going to have my documents translated into English for my application.",
+   "vi": "Tôi sẽ đem giấy tờ đi dịch sang tiếng Anh cho hồ sơ ứng tuyển.",
+   "audio": "B1-26-ex-4.mp3"
+  },
+  {
+   "en": "She had the new software installed on all the office computers last week.",
+   "vi": "Tuần trước cô ấy đã cho người cài phần mềm mới lên tất cả máy tính văn phòng.",
+   "audio": "B1-26-ex-5.mp3"
+  }
+ ]
+}

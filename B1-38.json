@@ -1,0 +1,74 @@
+{
+ "title": "Bài 38. Kỹ năng: nói thảo luận và đưa lời khuyên",
+ "vocabulary": [
+  {
+   "word": "solution",
+   "ipa": "/səˈluʃən/",
+   "meaning": "giải pháp, cách giải quyết",
+   "pos": "danh từ",
+   "audio": "B1-38-w-solution.mp3"
+  },
+  {
+   "word": "suggestion",
+   "ipa": "/səɡˈdʒɛstʃən/",
+   "meaning": "lời gợi ý, đề xuất",
+   "pos": "danh từ",
+   "audio": "B1-38-w-suggestion.mp3"
+  },
+  {
+   "word": "on the other hand",
+   "ipa": "/ɑn ði ˈʌðɚ ˈhænd/",
+   "meaning": "mặt khác",
+   "pos": "cụm từ nối",
+   "audio": "B1-38-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "that's a good point",
+   "ipa": "/ˈðæts ə ˈɡʊd ˈpɔɪnt/",
+   "meaning": "ý đó hay đấy, bạn nói có lý",
+   "pos": "cụm câu",
+   "audio": "B1-38-w-that-s-a-good-point.mp3"
+  },
+  {
+   "word": "compromise",
+   "ipa": "/ˈkɑmprəˌmaɪz/",
+   "meaning": "sự dung hòa, thỏa hiệp (mỗi bên nhường một chút)",
+   "pos": "danh từ",
+   "audio": "B1-38-w-compromise.mp3"
+  },
+  {
+   "word": "decide",
+   "ipa": "/dɪˈsaɪd/",
+   "meaning": "quyết định",
+   "pos": "động từ",
+   "audio": "B1-38-w-decide.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I were you, I'd make a monthly budget and write down every expense.",
+   "vi": "Nếu tôi là bạn, tôi sẽ lập ngân sách hằng tháng và ghi lại mọi khoản chi.",
+   "audio": "B1-38-ex-1.mp3"
+  },
+  {
+   "en": "Why don't you cook at home instead of eating out every day?",
+   "vi": "Sao bạn không nấu ăn ở nhà thay vì ngày nào cũng ăn ngoài?",
+   "audio": "B1-38-ex-2.mp3"
+  },
+  {
+   "en": "That's a good point, but on the other hand, cooking every day takes a lot of time.",
+   "vi": "Ý đó hay, nhưng mặt khác, nấu ăn mỗi ngày tốn nhiều thời gian.",
+   "audio": "B1-38-ex-3.mp3"
+  },
+  {
+   "en": "I don't think that's a good solution. If I got a second job, I'd be exhausted all the time.",
+   "vi": "Tôi không nghĩ đó là giải pháp hay. Nếu tôi làm thêm việc thứ hai, lúc nào tôi cũng kiệt sức.",
+   "audio": "B1-38-ex-4.mp3"
+  },
+  {
+   "en": "How about a compromise? You cook at home on weekdays and eat out on weekends.",
+   "vi": "Hay mình dung hòa nhé? Bạn nấu ở nhà các ngày trong tuần và ăn ngoài cuối tuần.",
+   "audio": "B1-38-ex-5.mp3"
+  }
+ ]
+}

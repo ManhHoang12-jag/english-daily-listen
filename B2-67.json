@@ -1,0 +1,81 @@
+{
+ "title": "Bài 67. Kỹ năng: nghe tranh luận về toàn cầu hóa",
+ "vocabulary": [
+  {
+   "word": "proponent",
+   "ipa": "/prəˈpoʊnənt/",
+   "meaning": "người ủng hộ, người đề xuất (một ý tưởng, chính sách)",
+   "pos": "danh từ",
+   "audio": "B2-67-w-proponent.mp3"
+  },
+  {
+   "word": "critic",
+   "ipa": "/ˈkrɪtɪk/",
+   "meaning": "người phê phán, người chỉ trích; nhà phê bình",
+   "pos": "danh từ",
+   "audio": "B2-67-w-critic.mp3"
+  },
+  {
+   "word": "benefit",
+   "ipa": "/ˈbɛnəfɪt/",
+   "meaning": "lợi ích; có lợi cho",
+   "pos": "danh từ / động từ",
+   "audio": "B2-67-w-benefit.mp3"
+  },
+  {
+   "word": "drawback",
+   "ipa": "/ˈdrɔˌbæk/",
+   "meaning": "mặt hạn chế, điểm bất lợi",
+   "pos": "danh từ",
+   "audio": "B2-67-w-drawback.mp3"
+  },
+  {
+   "word": "evidence",
+   "ipa": "/ˈɛvədəns/",
+   "meaning": "bằng chứng (không đếm được: some evidence, a piece of evidence)",
+   "pos": "danh từ",
+   "audio": "B2-67-w-evidence.mp3"
+  },
+  {
+   "word": "rebut",
+   "ipa": "/rɪˈbʌt/",
+   "meaning": "phản bác (đưa lập luận chống lại)",
+   "pos": "động từ",
+   "audio": "B2-67-w-rebut.mp3"
+  },
+  {
+   "word": "on balance",
+   "ipa": "/ɑn ˈbæləns/",
+   "meaning": "xét mọi mặt, cân nhắc tất cả",
+   "pos": "cụm trạng từ",
+   "audio": "B2-67-w-on-balance.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good evening and welcome to tonight's debate. The motion is that globalization has done more good than harm. Speaking for the motion is Maria Lopez, a trade economist and a long-time proponent of open markets. Speaking against it is David Chen, a labor researcher and one of globalization's best-known critics. Maria, you have the floor.",
+   "vi": "Kiến nghị: toàn cầu hóa lợi nhiều hơn hại. Maria ủng hộ; David phản đối.",
+   "audio": "B2-67-ex-1.mp3"
+  },
+  {
+   "en": "Thank you. My central claim is simple: open trade has lifted more people out of poverty than any aid program in history. Look at the evidence. Since the early nineties, the share of the world's population living in extreme poverty has fallen from over a third to under ten percent, mostly in countries that opened up to trade, such as China and Vietnam. A second benefit is lower prices for phones, clothes and medicine.",
+   "vi": "Maria: thương mại giúp nhiều người thoát nghèo nhất; tỷ lệ nghèo cùng cực giảm mạnh; hàng hóa rẻ hơn.",
+   "audio": "B2-67-ex-2.mp3"
+  },
+  {
+   "en": "I don't deny that trade has created wealth. My point is that the costs have been shared very unfairly. The first drawback is job losses: when factories moved abroad, whole towns lost their main employer. Second, long supply chains are fragile. During the pandemic, a single closed port could leave shelves empty on the other side of the world. And finally, local traditions struggle when the same brands are everywhere.",
+   "vi": "David: cái giá bị chia không công bằng – mất việc, chuỗi cung ứng dễ đứt gãy, văn hóa địa phương bị lấn át.",
+   "audio": "B2-67-ex-3.mp3"
+  },
+  {
+   "en": "Let me rebut those points. David says factories moved abroad, but research suggests that most manufacturing jobs in rich countries were lost to automation, not to trade. If we closed our borders tomorrow, those jobs would not come back. As for supply chains, the answer is to diversify suppliers, not to abandon trade. And Korean dramas and Vietnamese food are popular worldwide because of globalization.",
+   "vi": "Maria phản bác: việc làm mất chủ yếu vì tự động hóa; cần đa dạng nhà cung cấp; văn hóa lan tỏa hai chiều.",
+   "audio": "B2-67-ex-4.mp3"
+  },
+  {
+   "en": "Maria's figures on automation are fair, but they miss the human story. Governments did far too little to retrain the workers who lost out. So globalization is not the problem; unmanaged globalization is. Thank you both. So, on balance, our speakers agree that trade has brought real benefits, but they disagree about who has paid the price.",
+   "vi": "David: số liệu đúng nhưng bỏ qua con người. Kết luận: hai bên đồng ý về lợi ích, bất đồng về ai chịu thiệt.",
+   "audio": "B2-67-ex-5.mp3"
+  }
+ ]
+}

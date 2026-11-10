@@ -1,0 +1,81 @@
+{
+ "title": "Bài 109. Kỹ năng: thảo luận nhóm học thuật (seminar)",
+ "vocabulary": [
+  {
+   "word": "seminar",
+   "ipa": "/ˈsɛməˌnɑr/",
+   "meaning": "buổi thảo luận nhóm học thuật, xêmina",
+   "pos": "danh từ",
+   "audio": "B2-109-w-seminar.mp3"
+  },
+  {
+   "word": "contribute",
+   "ipa": "/kənˈtrɪbjut/",
+   "meaning": "đóng góp (ý kiến, công sức); contribute to a discussion",
+   "pos": "động từ",
+   "audio": "B2-109-w-contribute.mp3"
+  },
+  {
+   "word": "building on",
+   "ipa": "/ˈbɪldɪŋ ɑn/",
+   "meaning": "dựa trên, phát triển tiếp (ý của người khác): Building on what X said, ...",
+   "pos": "cụm từ",
+   "audio": "B2-109-w-building-on.mp3"
+  },
+  {
+   "word": "as the author points out",
+   "ipa": "/æz ði ˈɔθɚ ˌpɔɪnts ˈaʊt/",
+   "meaning": "như tác giả đã chỉ ra; thay the author bằng tên người viết hoặc người nói: As Lindqvist points out, As Minh points out (mẫu chung: as X points out)",
+   "pos": "cụm từ",
+   "audio": "B2-109-w-as-the-author-points-out.mp3"
+  },
+  {
+   "word": "to add to that",
+   "ipa": "/tu ˈæd tu ˈðæt/",
+   "meaning": "thêm vào ý đó (bổ sung cùng hướng với người trước)",
+   "pos": "cụm từ",
+   "audio": "B2-109-w-to-add-to-that.mp3"
+  },
+  {
+   "word": "I'd challenge",
+   "ipa": "/aɪd ˈtʃælɪndʒ/",
+   "meaning": "tôi xin phản biện, tôi muốn chất vấn (một ý): I'd challenge that / the idea that...",
+   "pos": "cụm từ",
+   "audio": "B2-109-w-i-d-challenge.mp3"
+  },
+  {
+   "word": "elaborate",
+   "ipa": "/ɪˈlæbəˌreɪt/",
+   "meaning": "nói rõ thêm, trình bày chi tiết hơn (elaborate on something)",
+   "pos": "động từ",
+   "audio": "B2-109-w-elaborate.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "As Lindqvist points out, half of the home workers asked to return to the office because they felt isolated.",
+   "vi": "Như Lindqvist đã chỉ ra, một nửa số người làm ở nhà xin quay lại văn phòng vì họ thấy cô lập.",
+   "audio": "B2-109-ex-1.mp3"
+  },
+  {
+   "en": "Building on what Minh said, I think the type of job may matter more than where people work.",
+   "vi": "Phát triển tiếp ý của Minh, tôi nghĩ loại công việc có thể quan trọng hơn nơi người ta làm việc.",
+   "audio": "B2-109-ex-2.mp3"
+  },
+  {
+   "en": "To add to that, the study only looked at call-center work, which is unusually easy to measure.",
+   "vi": "Thêm vào ý đó, nghiên cứu chỉ xem xét công việc tổng đài, vốn dễ đo lường hơn hẳn các công việc khác.",
+   "audio": "B2-109-ex-3.mp3"
+  },
+  {
+   "en": "I'd challenge that slightly. The survey suggests that remote teams collaborate less, not that they produce less.",
+   "vi": "Tôi xin phản biện ý đó một chút. Khảo sát cho thấy các nhóm làm từ xa hợp tác ít hơn, chứ không phải làm ra ít hơn.",
+   "audio": "B2-109-ex-4.mp3"
+  },
+  {
+   "en": "Could you elaborate on what you mean by productivity? Are we talking about output or the quality of ideas?",
+   "vi": "Bạn có thể nói rõ hơn ý bạn về năng suất không? Chúng ta đang nói về sản lượng hay chất lượng ý tưởng?",
+   "audio": "B2-109-ex-5.mp3"
+  }
+ ]
+}

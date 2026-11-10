@@ -1,0 +1,81 @@
+{
+ "title": "Bài 37. Kỹ năng: đọc tóm tắt và báo cáo nghiên cứu",
+ "vocabulary": [
+  {
+   "word": "abstract",
+   "ipa": "/ˈæbstrækt/",
+   "meaning": "bản tóm tắt (đầu bài nghiên cứu); trừu tượng (tính từ)",
+   "pos": "danh từ / tính từ",
+   "audio": "B2-37-w-abstract.mp3"
+  },
+  {
+   "word": "aim",
+   "ipa": "/eɪm/",
+   "meaning": "mục đích; nhằm (aim to V)",
+   "pos": "danh từ / động từ",
+   "audio": "B2-37-w-aim.mp3"
+  },
+  {
+   "word": "findings",
+   "ipa": "/ˈfaɪndɪŋz/",
+   "meaning": "những phát hiện, kết quả nghiên cứu",
+   "pos": "danh từ số nhiều",
+   "audio": "B2-37-w-findings.mp3"
+  },
+  {
+   "word": "conclude",
+   "ipa": "/kənˈklud/",
+   "meaning": "kết luận (conclude that...)",
+   "pos": "động từ",
+   "audio": "B2-37-w-conclude.mp3"
+  },
+  {
+   "word": "implication",
+   "ipa": "/ˌɪmplɪˈkeɪʃən/",
+   "meaning": "hàm ý, hệ quả (implications for = hệ quả đối với)",
+   "pos": "danh từ",
+   "audio": "B2-37-w-implication.mp3"
+  },
+  {
+   "word": "further research",
+   "ipa": "/ˈfɝðɚ ˈrisɝtʃ/",
+   "meaning": "nghiên cứu thêm, nghiên cứu tiếp theo",
+   "pos": "cụm danh từ",
+   "audio": "B2-37-w-further-research.mp3"
+  },
+  {
+   "word": "significant",
+   "ipa": "/sɪɡˈnɪfɪkənt/",
+   "meaning": "đáng kể; (thống kê) có ý nghĩa, khó do ngẫu nhiên",
+   "pos": "tính từ",
+   "audio": "B2-37-w-significant.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This study aimed to examine whether smartphone use before bed affects sleep quality among university students. More than four hundred participants completed an online questionnaire, and sixty of them wore sleep trackers for two weeks.",
+   "vi": "Nghiên cứu này nhằm xem xét liệu dùng điện thoại trước khi ngủ có ảnh hưởng đến chất lượng giấc ngủ của sinh viên đại học không. Hơn bốn trăm người tham gia trả lời bảng hỏi trực tuyến, và sáu mươi người trong số đó đeo thiết bị theo dõi giấc ngủ trong hai tuần.",
+   "audio": "B2-37-ex-1.mp3"
+  },
+  {
+   "en": "No significant relationship was found between the amount of green space and hospital visits for anxiety. However, the quality of parks appeared to matter more than their size.",
+   "vi": "Không tìm thấy mối liên hệ có ý nghĩa thống kê giữa diện tích không gian xanh và số lần đi viện vì lo âu. Tuy nhiên, chất lượng công viên có vẻ quan trọng hơn kích thước.",
+   "audio": "B2-37-ex-2.mp3"
+  },
+  {
+   "en": "Of the one hundred and twenty learners who began the study, ninety-eight completed all eight weeks. Learners who used the app every day remembered, on average, thirty percent more words on the final test than those who used it once a week. This difference was statistically significant. Interestingly, the time spent on each session made little difference: ten minutes a day worked as well as thirty.",
+   "vi": "Trong số một trăm hai mươi người bắt đầu nghiên cứu, chín mươi tám người hoàn thành đủ tám tuần. Người dùng ứng dụng mỗi ngày nhớ trung bình nhiều hơn ba mươi phần trăm số từ trong bài kiểm tra cuối so với người dùng mỗi tuần một lần. Khác biệt này có ý nghĩa thống kê. Điều thú vị là thời lượng mỗi buổi gần như không ảnh hưởng: mười phút mỗi ngày hiệu quả ngang ba mươi phút.",
+   "audio": "B2-37-ex-3.mp3"
+  },
+  {
+   "en": "These findings support the claim that regular practice matters more than long study sessions. However, several limitations should be acknowledged. The sample consisted mainly of university students, so the results may not apply to older learners. In addition, the test only measured recognition, not whether learners could use the words in speech.",
+   "vi": "Những phát hiện này ủng hộ nhận định rằng luyện đều đặn quan trọng hơn học các buổi dài. Tuy nhiên, cần thừa nhận một số hạn chế. Mẫu chủ yếu là sinh viên đại học, nên kết quả có thể không áp dụng cho người học lớn tuổi. Ngoài ra, bài kiểm tra chỉ đo khả năng nhận ra từ, không đo việc người học có dùng được từ khi nói hay không.",
+   "audio": "B2-37-ex-4.mp3"
+  },
+  {
+   "en": "We conclude that short daily sessions are an effective way to learn vocabulary. One practical implication is that teachers could set ten-minute daily tasks instead of a weekly word list. Further research should examine whether these gains last beyond the end of the course.",
+   "vi": "Chúng tôi kết luận rằng các buổi học ngắn hằng ngày là cách học từ vựng hiệu quả. Một hàm ý thực tế là giáo viên có thể giao bài mười phút mỗi ngày thay vì một danh sách từ mỗi tuần. Nghiên cứu tiếp theo nên xem xét liệu kết quả này có duy trì sau khi khóa học kết thúc không.",
+   "audio": "B2-37-ex-5.mp3"
+  }
+ ]
+}

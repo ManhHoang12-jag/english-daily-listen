@@ -1,0 +1,74 @@
+{
+ "title": "Bài 49. Kỹ năng: tóm tắt và thuật lại tin",
+ "vocabulary": [
+  {
+   "word": "summary",
+   "ipa": "/ˈsʌməri/",
+   "meaning": "bản tóm tắt",
+   "pos": "danh từ",
+   "audio": "B1-49-w-summary.mp3"
+  },
+  {
+   "word": "summarize",
+   "ipa": "/ˈsʌməraɪz/",
+   "meaning": "tóm tắt (Anh-Anh viết summarise)",
+   "pos": "động từ",
+   "audio": "B1-49-w-summarize.mp3"
+  },
+  {
+   "word": "in short",
+   "ipa": "/ɪn ˈʃɔːrt/",
+   "meaning": "tóm lại, nói ngắn gọn",
+   "pos": "cụm trạng từ",
+   "audio": "B1-49-w-in-short.mp3"
+  },
+  {
+   "word": "key point",
+   "ipa": "/ˈkiː ˌpɔɪnt/",
+   "meaning": "ý chính, điểm quan trọng",
+   "pos": "danh từ",
+   "audio": "B1-49-w-key-point.mp3"
+  },
+  {
+   "word": "paraphrase",
+   "ipa": "/ˈpærəfreɪz/",
+   "meaning": "diễn đạt lại bằng lời khác",
+   "pos": "động từ / danh từ",
+   "audio": "B1-49-w-paraphrase.mp3"
+  },
+  {
+   "word": "overall",
+   "ipa": "/ˌoʊvɚˈɔːl/",
+   "meaning": "nhìn chung, tổng thể",
+   "pos": "trạng từ / tính từ",
+   "audio": "B1-49-w-overall.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "During the trial, the number of passengers rose by forty percent, and traffic in the city center fell by around fifteen percent at rush hour.",
+   "vi": "Trong thời gian thử nghiệm, số hành khách tăng bốn mươi phần trăm, và giao thông ở trung tâm thành phố giảm khoảng mười lăm phần trăm vào giờ cao điểm.",
+   "audio": "B1-49-ex-1.mp3"
+  },
+  {
+   "en": "Mayor Linda Shaw said that the results were better than expected.",
+   "vi": "Thị trưởng Linda Shaw nói rằng kết quả tốt hơn dự kiến.",
+   "audio": "B1-49-ex-2.mp3"
+  },
+  {
+   "en": "Bus drivers claimed that the buses were often too crowded.",
+   "vi": "Các tài xế xe buýt cho rằng xe buýt thường quá đông.",
+   "audio": "B1-49-ex-3.mp3"
+  },
+  {
+   "en": "Some council members warned that the city could not afford to continue the program for long.",
+   "vi": "Một số thành viên hội đồng cảnh báo rằng thành phố không đủ tiền để duy trì chương trình lâu dài.",
+   "audio": "B1-49-ex-4.mp3"
+  },
+  {
+   "en": "Overall, the program has clear benefits, but its future is still uncertain.",
+   "vi": "Nhìn chung, chương trình có lợi ích rõ ràng, nhưng tương lai của nó vẫn chưa chắc chắn.",
+   "audio": "B1-49-ex-5.mp3"
+  }
+ ]
+}

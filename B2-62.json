@@ -1,0 +1,88 @@
+{
+ "title": "Bài 62. Chủ đề: toàn cầu hóa",
+ "vocabulary": [
+  {
+   "word": "globalization",
+   "ipa": "/ˌɡloʊbələˈzeɪʃən/",
+   "meaning": "toàn cầu hóa (Anh-Anh: globalisation)",
+   "pos": "danh từ",
+   "audio": "B2-62-w-globalization.mp3"
+  },
+  {
+   "word": "trade",
+   "ipa": "/treɪd/",
+   "meaning": "thương mại; buôn bán",
+   "pos": "danh từ / động từ",
+   "audio": "B2-62-w-trade.mp3"
+  },
+  {
+   "word": "multinational",
+   "ipa": "/ˌmʌltiˈnæʃənəl/",
+   "meaning": "đa quốc gia; công ty đa quốc gia",
+   "pos": "tính từ / danh từ",
+   "audio": "B2-62-w-multinational.mp3"
+  },
+  {
+   "word": "outsourcing",
+   "ipa": "/ˈaʊtˌsɔrsɪŋ/",
+   "meaning": "thuê ngoài (giao việc cho công ty khác, thường ở nước khác)",
+   "pos": "danh từ",
+   "audio": "B2-62-w-outsourcing.mp3"
+  },
+  {
+   "word": "supply chain",
+   "ipa": "/səˈplaɪ ˌtʃeɪn/",
+   "meaning": "chuỗi cung ứng",
+   "pos": "danh từ",
+   "audio": "B2-62-w-supply-chain.mp3"
+  },
+  {
+   "word": "tariff",
+   "ipa": "/ˈtærɪf/",
+   "meaning": "thuế quan (đánh vào hàng nhập khẩu)",
+   "pos": "danh từ",
+   "audio": "B2-62-w-tariff.mp3"
+  },
+  {
+   "word": "interdependence",
+   "ipa": "/ˌɪntɚdɪˈpɛndəns/",
+   "meaning": "sự phụ thuộc lẫn nhau",
+   "pos": "danh từ",
+   "audio": "B2-62-w-interdependence.mp3"
+  },
+  {
+   "word": "local economy",
+   "ipa": "/ˈloʊkəl ɪˈkɑnəmi/",
+   "meaning": "kinh tế địa phương",
+   "pos": "cụm danh từ",
+   "audio": "B2-62-w-local-economy.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Attracted by cheap labor and stable policies, many multinationals have moved their factories to Vietnam.",
+   "vi": "Bị thu hút bởi lao động giá rẻ và chính sách ổn định, nhiều công ty đa quốc gia đã chuyển nhà máy sang Việt Nam.",
+   "audio": "B2-62-ex-1.mp3"
+  },
+  {
+   "en": "Higher tariffs raise the cost of imported goods, which often leads to higher prices for consumers.",
+   "vi": "Thuế quan cao hơn làm tăng chi phí hàng nhập khẩu, điều này thường dẫn đến giá cao hơn cho người tiêu dùng.",
+   "audio": "B2-62-ex-2.mp3"
+  },
+  {
+   "en": "Faced with rising wages at home, the company decided to outsource production to Southeast Asia.",
+   "vi": "Đối mặt với lương tăng ở trong nước, công ty quyết định thuê ngoài việc sản xuất sang Đông Nam Á.",
+   "audio": "B2-62-ex-3.mp3"
+  },
+  {
+   "en": "The pandemic disrupted global supply chains, resulting in shortages of everything from computer chips to furniture.",
+   "vi": "Đại dịch làm đứt gãy các chuỗi cung ứng toàn cầu, dẫn đến thiếu hụt mọi thứ, từ chip máy tính đến đồ nội thất.",
+   "audio": "B2-62-ex-4.mp3"
+  },
+  {
+   "en": "Small family businesses often struggle to compete with multinationals, which can weaken the local economy.",
+   "vi": "Các doanh nghiệp gia đình nhỏ thường khó cạnh tranh với các công ty đa quốc gia, điều này có thể làm suy yếu kinh tế địa phương.",
+   "audio": "B2-62-ex-5.mp3"
+  }
+ ]
+}

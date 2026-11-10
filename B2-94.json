@@ -1,0 +1,81 @@
+{
+ "title": "Bài 94. Đàm phán 2: nhượng bộ và chốt thỏa thuận",
+ "vocabulary": [
+  {
+   "word": "compromise",
+   "ipa": "/ˈkɑmprəˌmaɪz/",
+   "meaning": "sự thỏa hiệp; thỏa hiệp",
+   "pos": "danh từ / động từ",
+   "audio": "B2-94-w-compromise.mp3"
+  },
+  {
+   "word": "meet halfway",
+   "ipa": "/ˌmit ˌhæfˈweɪ/",
+   "meaning": "nhường nhau mỗi bên một nửa (meet someone halfway)",
+   "pos": "cụm động từ",
+   "audio": "B2-94-w-meet-halfway.mp3"
+  },
+  {
+   "word": "concession",
+   "ipa": "/kənˈsɛʃən/",
+   "meaning": "sự nhượng bộ (make a concession)",
+   "pos": "danh từ",
+   "audio": "B2-94-w-concession.mp3"
+  },
+  {
+   "word": "deal",
+   "ipa": "/dil/",
+   "meaning": "thỏa thuận, giao kèo (We have a deal.)",
+   "pos": "danh từ",
+   "audio": "B2-94-w-deal.mp3"
+  },
+  {
+   "word": "agreement",
+   "ipa": "/əˈɡrimənt/",
+   "meaning": "sự thống nhất; bản thỏa thuận (sign an agreement)",
+   "pos": "danh từ",
+   "audio": "B2-94-w-agreement.mp3"
+  },
+  {
+   "word": "non-negotiable",
+   "ipa": "/ˌnɑn nɪˈɡoʊʃiəbəl/",
+   "meaning": "không thể thương lượng",
+   "pos": "tính từ",
+   "audio": "B2-94-w-non-negotiable.mp3"
+  },
+  {
+   "word": "finalize",
+   "ipa": "/ˈfaɪnəˌlaɪz/",
+   "meaning": "hoàn tất, chốt (chi tiết, thỏa thuận); Anh-Anh: finalise",
+   "pos": "động từ",
+   "audio": "B2-94-w-finalize.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We can't go up to two thousand dollars, but we could meet you halfway at fifteen hundred.",
+   "vi": "Chúng tôi không thể lên tới hai nghìn đô, nhưng có thể nhường nhau ở mức một nghìn năm trăm.",
+   "audio": "B2-94-ex-1.mp3"
+  },
+  {
+   "en": "I appreciate the offer, but that's not quite what we had in mind.",
+   "vi": "Tôi cảm ơn lời đề nghị, nhưng đó chưa hẳn là điều chúng tôi nghĩ tới.",
+   "audio": "B2-94-ex-2.mp3"
+  },
+  {
+   "en": "I'm afraid the start date is non-negotiable, but we're flexible on everything else.",
+   "vi": "Tôi e rằng ngày bắt đầu là không thể thương lượng, nhưng chúng tôi linh hoạt ở mọi điểm khác.",
+   "audio": "B2-94-ex-3.mp3"
+  },
+  {
+   "en": "If you make that concession on the deadline, I think we have a deal.",
+   "vi": "Nếu bên anh nhượng bộ về hạn chót, tôi nghĩ chúng ta đã thỏa thuận xong.",
+   "audio": "B2-94-ex-4.mp3"
+  },
+  {
+   "en": "Let me summarize what we've agreed so far.",
+   "vi": "Để tôi tóm tắt những gì chúng ta đã thống nhất đến giờ.",
+   "audio": "B2-94-ex-5.mp3"
+  }
+ ]
+}

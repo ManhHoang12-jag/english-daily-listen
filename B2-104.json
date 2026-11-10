@@ -1,0 +1,81 @@
+{
+ "title": "Bài 104. Nhấn mạnh, tỉnh lược và thay thế",
+ "vocabulary": [
+  {
+   "word": "do so",
+   "ipa": "/ˈdu soʊ/",
+   "meaning": "làm vậy, làm như thế (thay cả cụm động từ, trang trọng)",
+   "pos": "cụm thay thế",
+   "audio": "B2-104-w-do-so.mp3"
+  },
+  {
+   "word": "I hope not",
+   "ipa": "/aɪ ˈhoʊp nɑt/",
+   "meaning": "tôi mong là không",
+   "pos": "câu trả lời ngắn",
+   "audio": "B2-104-w-i-hope-not.mp3"
+  },
+  {
+   "word": "I suppose so",
+   "ipa": "/aɪ səˈpoʊz soʊ/",
+   "meaning": "chắc vậy, có lẽ thế (đồng ý không hào hứng lắm)",
+   "pos": "câu trả lời ngắn",
+   "audio": "B2-104-w-i-suppose-so.mp3"
+  },
+  {
+   "word": "one",
+   "ipa": "/wʌn/",
+   "meaning": "cái, chiếc (thay danh từ đếm được số ít: a new one)",
+   "pos": "đại từ thay thế",
+   "audio": "B2-104-w-one.mp3"
+  },
+  {
+   "word": "ones",
+   "ipa": "/wʌnz/",
+   "meaning": "những cái (thay danh từ đếm được số nhiều: the cheaper ones)",
+   "pos": "đại từ thay thế",
+   "audio": "B2-104-w-ones.mp3"
+  },
+  {
+   "word": "ellipsis",
+   "ipa": "/ɪˈlɪpsɪs/",
+   "meaning": "tỉnh lược, lược bỏ phần đã rõ",
+   "pos": "danh từ (thuật ngữ)",
+   "audio": "B2-104-w-ellipsis.mp3"
+  },
+  {
+   "word": "substitute",
+   "ipa": "/ˈsʌbstəˌtut/",
+   "meaning": "thay thế; từ thay thế",
+   "pos": "động từ, danh từ",
+   "audio": "B2-104-w-substitute.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I wanted to buy the cheaper ones, but my manager didn't.",
+   "vi": "Tôi muốn mua những cái rẻ hơn, nhưng quản lý của tôi thì không.",
+   "audio": "B2-104-ex-1.mp3"
+  },
+  {
+   "en": "She thought they would break quickly; I didn't think so.",
+   "vi": "Cô ấy nghĩ chúng sẽ nhanh hỏng; tôi thì không nghĩ vậy.",
+   "audio": "B2-104-ex-2.mp3"
+  },
+  {
+   "en": "I did warn her about this!",
+   "vi": "Tôi đã cảnh báo cô ấy về chuyện này rồi mà!",
+   "audio": "B2-104-ex-3.mp3"
+  },
+  {
+   "en": "Fortunately, the supplier agreed to replace it and did so within three days.",
+   "vi": "May là nhà cung cấp đồng ý thay và đã thay trong vòng ba ngày.",
+   "audio": "B2-104-ex-4.mp3"
+  },
+  {
+   "en": "Will this happen again? I hope not.",
+   "vi": "Chuyện này có xảy ra nữa không? Tôi mong là không.",
+   "audio": "B2-104-ex-5.mp3"
+  }
+ ]
+}

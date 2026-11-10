@@ -1,0 +1,81 @@
+{
+ "title": "Bài 25. Bị động tường thuật",
+ "vocabulary": [
+  {
+   "word": "it is believed",
+   "ipa": "/ɪt ɪz bɪˈlivd/",
+   "meaning": "người ta tin rằng",
+   "pos": "cấu trúc",
+   "audio": "B2-25-w-it-is-believed.mp3"
+  },
+  {
+   "word": "is thought to",
+   "ipa": "/ɪz ˈθɔt tə/",
+   "meaning": "được cho là, người ta nghĩ là",
+   "pos": "cấu trúc",
+   "audio": "B2-25-w-is-thought-to.mp3"
+  },
+  {
+   "word": "is reported to",
+   "ipa": "/ɪz rɪˈpɔrtɪd tə/",
+   "meaning": "có tin là, được đưa tin là",
+   "pos": "cấu trúc",
+   "audio": "B2-25-w-is-reported-to.mp3"
+  },
+  {
+   "word": "allegedly",
+   "ipa": "/əˈlɛdʒɪdli/",
+   "meaning": "theo cáo buộc, nghe nói là (chưa chứng minh)",
+   "pos": "trạng từ",
+   "audio": "B2-25-w-allegedly.mp3"
+  },
+  {
+   "word": "widely",
+   "ipa": "/ˈwaɪdli/",
+   "meaning": "rộng rãi, phổ biến",
+   "pos": "trạng từ",
+   "audio": "B2-25-w-widely.mp3"
+  },
+  {
+   "word": "estimated",
+   "ipa": "/ˈɛstəˌmeɪtɪd/",
+   "meaning": "được ước tính",
+   "pos": "tính từ / V3",
+   "audio": "B2-25-w-estimated.mp3"
+  },
+  {
+   "word": "presumed",
+   "ipa": "/prɪˈzumd/",
+   "meaning": "được cho là, được mặc định là",
+   "pos": "tính từ / V3",
+   "audio": "B2-25-w-presumed.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It is widely believed that the new vaccine will be available by the end of next year.",
+   "vi": "Nhiều người tin rằng vắc-xin mới sẽ có vào cuối năm sau.",
+   "audio": "B2-25-ex-1.mp3"
+  },
+  {
+   "en": "The meteorite is thought to have fallen about fifty thousand years ago.",
+   "vi": "Thiên thạch được cho là đã rơi xuống khoảng năm mươi nghìn năm trước.",
+   "audio": "B2-25-ex-2.mp3"
+  },
+  {
+   "en": "The company is reported to be testing a cheaper battery for electric cars.",
+   "vi": "Có tin công ty đang thử nghiệm một loại pin rẻ hơn cho ô tô điện.",
+   "audio": "B2-25-ex-3.mp3"
+  },
+  {
+   "en": "It is estimated that around two million people in the region suffer from the condition.",
+   "vi": "Ước tính khoảng hai triệu người trong vùng mắc bệnh này.",
+   "audio": "B2-25-ex-4.mp3"
+  },
+  {
+   "en": "The results were allegedly changed before publication, and the original notebook is presumed to have been destroyed.",
+   "vi": "Kết quả bị cáo buộc là đã bị sửa trước khi công bố, và cuốn sổ ghi chép gốc được cho là đã bị tiêu hủy.",
+   "audio": "B2-25-ex-5.mp3"
+  }
+ ]
+}

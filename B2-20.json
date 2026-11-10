@@ -1,0 +1,74 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra B2-2",
+ "vocabulary": [
+  {
+   "word": "consequence",
+   "ipa": "/ˈkɑnsəkwɛns/",
+   "meaning": "hậu quả, hệ quả (ôn B2 · Bài 11)",
+   "pos": "danh từ",
+   "audio": "B2-20-w-consequence.mp3"
+  },
+  {
+   "word": "opportunity",
+   "ipa": "/ˌɑpɚˈtunəti/",
+   "meaning": "cơ hội (ôn B2 · Bài 13)",
+   "pos": "danh từ",
+   "audio": "B2-20-w-opportunity.mp3"
+  },
+  {
+   "word": "provided that",
+   "ipa": "/prəˈvaɪdɪd ðæt/",
+   "meaning": "với điều kiện là (ôn B2 · Bài 14)",
+   "pos": "liên từ",
+   "audio": "B2-20-w-provided-that.mp3"
+  },
+  {
+   "word": "responsibility",
+   "ipa": "/rɪˌspɑnsəˈbɪləti/",
+   "meaning": "trách nhiệm (ôn B2 · Bài 15)",
+   "pos": "danh từ",
+   "audio": "B2-20-w-responsibility.mp3"
+  },
+  {
+   "word": "dilemma",
+   "ipa": "/dɪˈlɛmə/",
+   "meaning": "tình thế khó xử, tiến thoái lưỡng nan (ôn B2 · Bài 16)",
+   "pos": "danh từ",
+   "audio": "B2-20-w-dilemma.mp3"
+  },
+  {
+   "word": "perspective",
+   "ipa": "/pərˈspɛktɪv/",
+   "meaning": "góc nhìn, quan điểm (ôn B2 · Bài 17)",
+   "pos": "danh từ",
+   "audio": "B2-20-w-perspective.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If I had reported it at the start, the company wouldn't have lost so much money.",
+   "vi": "Nếu tôi báo cáo việc đó ngay từ đầu, công ty đã không mất nhiều tiền đến vậy.",
+   "audio": "B2-20-ex-1.mp3"
+  },
+  {
+   "en": "If I hadn't learned that lesson, I wouldn't be the manager I am today.",
+   "vi": "Nếu tôi không học được bài học đó, hôm nay tôi đã không phải là người quản lý như bây giờ.",
+   "audio": "B2-20-ex-2.mp3"
+  },
+  {
+   "en": "I wish I hadn't been so afraid.",
+   "vi": "Giá mà lúc đó tôi đã không sợ hãi đến thế.",
+   "audio": "B2-20-ex-3.mp3"
+  },
+  {
+   "en": "Anyone can report a problem anonymously, provided that they give evidence.",
+   "vi": "Bất kỳ ai cũng có thể báo cáo vấn đề mà không cần nêu tên, với điều kiện là họ đưa ra bằng chứng.",
+   "audio": "B2-20-ex-4.mp3"
+  },
+  {
+   "en": "In hindsight, I should have spoken up immediately.",
+   "vi": "Nhìn lại, lẽ ra tôi phải lên tiếng ngay lập tức.",
+   "audio": "B2-20-ex-5.mp3"
+  }
+ ]
+}
