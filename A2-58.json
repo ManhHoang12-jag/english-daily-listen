@@ -1,0 +1,81 @@
+{
+ "title": "Bài 58. Chủ đề: ăn uống lành mạnh",
+ "vocabulary": [
+  {
+   "word": "healthy",
+   "ipa": "/ˈhelθi/",
+   "meaning": "khỏe mạnh; tốt cho sức khỏe",
+   "pos": "tính từ",
+   "audio": "A2-58-w-healthy.mp3"
+  },
+  {
+   "word": "junk food",
+   "ipa": "/ˈdʒʌŋk fuːd/",
+   "meaning": "đồ ăn vặt, đồ ăn nhanh không tốt cho sức khỏe",
+   "pos": "danh từ không đếm được",
+   "audio": "A2-58-w-junk-food.mp3"
+  },
+  {
+   "word": "diet",
+   "ipa": "/ˈdaɪət/",
+   "meaning": "chế độ ăn",
+   "pos": "danh từ",
+   "audio": "A2-58-w-diet.mp3"
+  },
+  {
+   "word": "vegetarian",
+   "ipa": "/ˌvedʒəˈteriən/",
+   "meaning": "người ăn chay; chay",
+   "pos": "danh từ / tính từ",
+   "audio": "A2-58-w-vegetarian.mp3"
+  },
+  {
+   "word": "portion",
+   "ipa": "/ˈpɔːrʃən/",
+   "meaning": "khẩu phần, suất ăn",
+   "pos": "danh từ",
+   "audio": "A2-58-w-portion.mp3"
+  },
+  {
+   "word": "fat",
+   "ipa": "/fæt/",
+   "meaning": "chất béo; béo",
+   "pos": "danh từ / tính từ",
+   "audio": "A2-58-w-fat.mp3"
+  },
+  {
+   "word": "vitamin",
+   "ipa": "/ˈvaɪtəmɪn/",
+   "meaning": "vitamin",
+   "pos": "danh từ",
+   "audio": "A2-58-w-vitamin.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I used to eat junk food three or four times a week.",
+   "vi": "Trước đây tôi thường ăn đồ ăn vặt ba bốn lần một tuần.",
+   "audio": "A2-58-ex-1.mp3"
+  },
+  {
+   "en": "I drank too much coffee with sugar.",
+   "vi": "Tôi uống quá nhiều cà phê có đường.",
+   "audio": "A2-58-ex-2.mp3"
+  },
+  {
+   "en": "I didn't eat enough fruit or vegetables.",
+   "vi": "Tôi không ăn đủ trái cây hay rau.",
+   "audio": "A2-58-ex-3.mp3"
+  },
+  {
+   "en": "Now I'm a vegetarian, so I don't eat meat or fish.",
+   "vi": "Bây giờ tôi ăn chay nên tôi không ăn thịt hay cá.",
+   "audio": "A2-58-ex-4.mp3"
+  },
+  {
+   "en": "You should eat smaller portions and less fat.",
+   "vi": "Bạn nên ăn khẩu phần nhỏ hơn và ít chất béo hơn.",
+   "audio": "A2-58-ex-5.mp3"
+  }
+ ]
+}

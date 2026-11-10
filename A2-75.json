@@ -1,0 +1,81 @@
+{
+ "title": "Bài 75. Chủ đề: môi trường và đời sống đô thị",
+ "vocabulary": [
+  {
+   "word": "pollution",
+   "ipa": "/pəˈluːʃən/",
+   "meaning": "sự ô nhiễm",
+   "pos": "danh từ (không đếm được)",
+   "audio": "A2-75-w-pollution.mp3"
+  },
+  {
+   "word": "recycle",
+   "ipa": "/riˈsaɪkəl/",
+   "meaning": "tái chế",
+   "pos": "động từ",
+   "audio": "A2-75-w-recycle.mp3"
+  },
+  {
+   "word": "rubbish",
+   "ipa": "/ˈrʌbɪʃ/",
+   "meaning": "rác (từ của người Anh; người Mỹ hay nói trash)",
+   "pos": "danh từ (không đếm được)",
+   "audio": "A2-75-w-rubbish.mp3"
+  },
+  {
+   "word": "plastic",
+   "ipa": "/ˈplæstɪk/",
+   "meaning": "nhựa, ni lông",
+   "pos": "danh từ, tính từ",
+   "audio": "A2-75-w-plastic.mp3"
+  },
+  {
+   "word": "energy",
+   "ipa": "/ˈɛnɚdʒi/",
+   "meaning": "năng lượng",
+   "pos": "danh từ (không đếm được)",
+   "audio": "A2-75-w-energy.mp3"
+  },
+  {
+   "word": "environment",
+   "ipa": "/ɪnˈvaɪrənmənt/",
+   "meaning": "môi trường",
+   "pos": "danh từ",
+   "audio": "A2-75-w-environment.mp3"
+  },
+  {
+   "word": "protect",
+   "ipa": "/prəˈtɛkt/",
+   "meaning": "bảo vệ",
+   "pos": "động từ",
+   "audio": "A2-75-w-protect.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "People use too much plastic, and there is rubbish everywhere.",
+   "vi": "Người ta dùng quá nhiều nhựa, và rác ở khắp nơi.",
+   "audio": "A2-75-ex-1.mp3"
+  },
+  {
+   "en": "We shouldn't use plastic bags.",
+   "vi": "Chúng ta không nên dùng túi ni lông.",
+   "audio": "A2-75-ex-2.mp3"
+  },
+  {
+   "en": "We must recycle bottles and paper.",
+   "vi": "Chúng ta phải tái chế chai lọ và giấy.",
+   "audio": "A2-75-ex-3.mp3"
+  },
+  {
+   "en": "If everyone does a little, the environment will be cleaner.",
+   "vi": "Nếu mỗi người làm một chút, môi trường sẽ sạch hơn.",
+   "audio": "A2-75-ex-4.mp3"
+  },
+  {
+   "en": "We must protect the environment for our children.",
+   "vi": "Chúng ta phải bảo vệ môi trường cho con cháu mình.",
+   "audio": "A2-75-ex-5.mp3"
+  }
+ ]
+}

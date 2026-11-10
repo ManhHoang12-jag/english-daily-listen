@@ -1,0 +1,60 @@
+{
+ "title": "Bài 53. Diễn đạt khi không biết từ",
+ "vocabulary": [
+  {
+   "word": "kind of",
+   "ipa": "/ˈkaɪnd əv/",
+   "meaning": "một loại (a kind of + danh từ)",
+   "pos": "cụm danh từ",
+   "audio": "A2-53-w-kind-of.mp3"
+  },
+  {
+   "word": "used for",
+   "ipa": "/ˈjuːzd fər/",
+   "meaning": "được dùng để (+ V-ing)",
+   "pos": "cụm",
+   "audio": "A2-53-w-used-for.mp3"
+  },
+  {
+   "word": "place where",
+   "ipa": "/ˈpleɪs wer/",
+   "meaning": "nơi mà, chỗ mà (+ câu)",
+   "pos": "cụm",
+   "audio": "A2-53-w-place-where.mp3"
+  },
+  {
+   "word": "stuff",
+   "ipa": "/stʌf/",
+   "meaning": "thứ, đồ, chất (không đếm được)",
+   "pos": "danh từ",
+   "audio": "A2-53-w-stuff.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I don't know the English word, but it's a kind of fruit.",
+   "vi": "Tôi không biết từ tiếng Anh, nhưng nó là một loại trái cây.",
+   "audio": "A2-53-ex-1.mp3"
+  },
+  {
+   "en": "It's a thing which you use for opening bottles.",
+   "vi": "Nó là một cái dùng để mở chai.",
+   "audio": "A2-53-ex-2.mp3"
+  },
+  {
+   "en": "It's a place where you can buy medicine.",
+   "vi": "Đó là nơi bạn có thể mua thuốc.",
+   "audio": "A2-53-ex-3.mp3"
+  },
+  {
+   "en": "It's used for keeping food cold.",
+   "vi": "Nó dùng để giữ thức ăn lạnh.",
+   "audio": "A2-53-ex-4.mp3"
+  },
+  {
+   "en": "It's sweet stuff that you put in your coffee.",
+   "vi": "Nó là thứ ngọt ngọt bạn cho vào cà phê.",
+   "audio": "A2-53-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "title": "Bài 69. Kỹ năng: viết tin nhắn mời, xin lỗi, trả lời",
+ "vocabulary": [
+  {
+   "word": "apologize",
+   "ipa": "/əˈpɑːlədʒaɪz/",
+   "meaning": "xin lỗi (trang trọng)",
+   "pos": "động từ",
+   "audio": "A2-69-w-apologize.mp3"
+  },
+  {
+   "word": "invitation",
+   "ipa": "/ˌɪnvɪˈteɪʃən/",
+   "meaning": "lời mời, thiệp mời",
+   "pos": "danh từ",
+   "audio": "A2-69-w-invitation.mp3"
+  },
+  {
+   "word": "confirm",
+   "ipa": "/kənˈfɝːm/",
+   "meaning": "xác nhận",
+   "pos": "động từ",
+   "audio": "A2-69-w-confirm.mp3"
+  },
+  {
+   "word": "instead",
+   "ipa": "/ɪnˈsted/",
+   "meaning": "thay vào đó, thay vì vậy",
+   "pos": "trạng từ",
+   "audio": "A2-69-w-instead.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm sorry, but I can't come on Saturday because I'm visiting my parents.",
+   "vi": "Mình xin lỗi, mình không đến được hôm thứ Bảy vì mình về thăm bố mẹ.",
+   "audio": "A2-69-ex-1.mp3"
+  },
+  {
+   "en": "Why don't we have lunch on Sunday instead?",
+   "vi": "Hay là mình ăn trưa vào Chủ nhật nhé?",
+   "audio": "A2-69-ex-2.mp3"
+  },
+  {
+   "en": "I apologize for missing the meeting this morning.",
+   "vi": "Tôi xin lỗi vì đã vắng cuộc họp sáng nay.",
+   "audio": "A2-69-ex-3.mp3"
+  },
+  {
+   "en": "I'm writing to confirm our plan.",
+   "vi": "Mình nhắn để xác nhận kế hoạch của chúng ta.",
+   "audio": "A2-69-ex-4.mp3"
+  },
+  {
+   "en": "We're meeting at the station at seven on Friday.",
+   "vi": "Chúng ta gặp nhau ở nhà ga lúc bảy giờ thứ Sáu.",
+   "audio": "A2-69-ex-5.mp3"
+  }
+ ]
+}

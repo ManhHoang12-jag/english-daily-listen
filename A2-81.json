@@ -1,0 +1,67 @@
+{
+ "title": "Bài 81. Tổng ôn: chọn thì đúng",
+ "vocabulary": [
+  {
+   "word": "at the moment",
+   "ipa": "/æt ðə ˈmoʊmənt/",
+   "meaning": "lúc này (ôn A1 · Bài 42)",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A2-81-w-at-the-moment.mp3"
+  },
+  {
+   "word": "ago",
+   "ipa": "/əˈɡoʊ/",
+   "meaning": "cách đây (ôn A1 · Bài 44)",
+   "pos": "trạng từ",
+   "audio": "A2-81-w-ago.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi (ôn A2 · Bài 05)",
+   "pos": "liên từ",
+   "audio": "A2-81-w-while.mp3"
+  },
+  {
+   "word": "yet",
+   "ipa": "/jet/",
+   "meaning": "chưa (phủ định), chưa? (câu hỏi) (ôn A2 · Bài 14)",
+   "pos": "trạng từ",
+   "audio": "A2-81-w-yet.mp3"
+  },
+  {
+   "word": "since",
+   "ipa": "/sɪns/",
+   "meaning": "từ (mốc thời gian) đến nay (ôn A2 · Bài 15)",
+   "pos": "giới từ",
+   "audio": "A2-81-w-since.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I usually walk to work, but today I'm taking the bus.",
+   "vi": "Tôi thường đi bộ đi làm, nhưng hôm nay tôi đi xe buýt.",
+   "audio": "A2-81-ex-1.mp3"
+  },
+  {
+   "en": "I was walking home when it started to rain.",
+   "vi": "Tôi đang đi bộ về nhà thì trời bắt đầu mưa.",
+   "audio": "A2-81-ex-2.mp3"
+  },
+  {
+   "en": "I've been to Hue twice. I went there last year.",
+   "vi": "Tôi đã đến Huế hai lần. Tôi đến đó năm ngoái.",
+   "audio": "A2-81-ex-3.mp3"
+  },
+  {
+   "en": "She has worked here since 2019.",
+   "vi": "Cô ấy làm việc ở đây từ năm 2019 (đến giờ).",
+   "audio": "A2-81-ex-4.mp3"
+  },
+  {
+   "en": "Have you finished your report yet? Yes, I finished it an hour ago.",
+   "vi": "Bạn đã làm xong báo cáo chưa? Rồi, tôi làm xong cách đây một tiếng.",
+   "audio": "A2-81-ex-5.mp3"
+  }
+ ]
+}

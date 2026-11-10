@@ -1,0 +1,88 @@
+{
+ "title": "Bài 67. Tính từ -ed và -ing",
+ "vocabulary": [
+  {
+   "word": "boring",
+   "ipa": "/ˈbɔːrɪŋ/",
+   "meaning": "nhàm chán (gây chán)",
+   "pos": "tính từ",
+   "audio": "A2-67-w-boring.mp3"
+  },
+  {
+   "word": "interesting",
+   "ipa": "/ˈɪntrəstɪŋ/",
+   "meaning": "thú vị, hay",
+   "pos": "tính từ",
+   "audio": "A2-67-w-interesting.mp3"
+  },
+  {
+   "word": "exciting",
+   "ipa": "/ɪkˈsaɪtɪŋ/",
+   "meaning": "hấp dẫn, sôi động, làm háo hức",
+   "pos": "tính từ",
+   "audio": "A2-67-w-exciting.mp3"
+  },
+  {
+   "word": "tiring",
+   "ipa": "/ˈtaɪərɪŋ/",
+   "meaning": "gây mệt mỏi",
+   "pos": "tính từ",
+   "audio": "A2-67-w-tiring.mp3"
+  },
+  {
+   "word": "surprised",
+   "ipa": "/sɚˈpraɪzd/",
+   "meaning": "ngạc nhiên (người cảm thấy)",
+   "pos": "tính từ",
+   "audio": "A2-67-w-surprised.mp3"
+  },
+  {
+   "word": "surprising",
+   "ipa": "/sɚˈpraɪzɪŋ/",
+   "meaning": "đáng ngạc nhiên, bất ngờ",
+   "pos": "tính từ",
+   "audio": "A2-67-w-surprising.mp3"
+  },
+  {
+   "word": "confused",
+   "ipa": "/kənˈfjuːzd/",
+   "meaning": "bối rối, không hiểu (người cảm thấy)",
+   "pos": "tính từ",
+   "audio": "A2-67-w-confused.mp3"
+  },
+  {
+   "word": "confusing",
+   "ipa": "/kənˈfjuːzɪŋ/",
+   "meaning": "khó hiểu, gây rối",
+   "pos": "tính từ",
+   "audio": "A2-67-w-confusing.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The movie was boring, so I was bored.",
+   "vi": "Bộ phim nhàm chán nên tôi thấy chán.",
+   "audio": "A2-67-ex-1.mp3"
+  },
+  {
+   "en": "Her job is very tiring, so she's always tired in the evening.",
+   "vi": "Công việc của cô ấy rất mệt nên buổi tối cô ấy luôn mệt mỏi.",
+   "audio": "A2-67-ex-2.mp3"
+  },
+  {
+   "en": "The end of the match was surprising. Everyone was surprised.",
+   "vi": "Phần cuối trận đấu thật bất ngờ. Ai cũng ngạc nhiên.",
+   "audio": "A2-67-ex-3.mp3"
+  },
+  {
+   "en": "The map was confusing, and we were confused.",
+   "vi": "Tấm bản đồ khó hiểu và chúng tôi thấy bối rối.",
+   "audio": "A2-67-ex-4.mp3"
+  },
+  {
+   "en": "Are you excited about the trip? Yes, it's going to be exciting!",
+   "vi": "Bạn có háo hức về chuyến đi không? Có, chắc chắn sẽ rất vui!",
+   "audio": "A2-67-ex-5.mp3"
+  }
+ ]
+}

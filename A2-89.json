@@ -1,0 +1,60 @@
+{
+ "title": "Bài 89. Luyện thi Nói 2: thảo luận và đưa ý kiến",
+ "vocabulary": [
+  {
+   "word": "in my opinion",
+   "ipa": "/ɪn maɪ əˈpɪnjən/",
+   "meaning": "theo ý kiến của tôi",
+   "pos": "cụm từ",
+   "audio": "A2-89-w-in-my-opinion.mp3"
+  },
+  {
+   "word": "disagree",
+   "ipa": "/ˌdɪsəˈɡriː/",
+   "meaning": "không đồng ý",
+   "pos": "động từ",
+   "audio": "A2-89-w-disagree.mp3"
+  },
+  {
+   "word": "I'm not sure",
+   "ipa": "/aɪm ˌnɑːt ˈʃʊr/",
+   "meaning": "tôi không chắc",
+   "pos": "cụm câu",
+   "audio": "A2-89-w-i-m-not-sure.mp3"
+  },
+  {
+   "word": "what about",
+   "ipa": "/ˌwʌt əˈbaʊt/",
+   "meaning": "thế còn... thì sao? (gợi ý)",
+   "pos": "cụm từ",
+   "audio": "A2-89-w-what-about.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I think a book is a good idea because Lan loves reading.",
+   "vi": "Tôi nghĩ một cuốn sách là ý hay vì Lan rất thích đọc sách.",
+   "audio": "A2-89-ex-1.mp3"
+  },
+  {
+   "en": "I'm not sure. She has a lot of books already.",
+   "vi": "Tôi không chắc. Cô ấy có nhiều sách rồi.",
+   "audio": "A2-89-ex-2.mp3"
+  },
+  {
+   "en": "What about a watch? She's always late!",
+   "vi": "Thế còn một chiếc đồng hồ thì sao? Cô ấy lúc nào cũng đến muộn!",
+   "audio": "A2-89-ex-3.mp3"
+  },
+  {
+   "en": "I disagree because a watch is too expensive for us.",
+   "vi": "Tôi không đồng ý vì đồng hồ quá đắt với chúng ta.",
+   "audio": "A2-89-ex-4.mp3"
+  },
+  {
+   "en": "In my opinion, a plant is the best present.",
+   "vi": "Theo tôi, một chậu cây là món quà tốt nhất.",
+   "audio": "A2-89-ex-5.mp3"
+  }
+ ]
+}

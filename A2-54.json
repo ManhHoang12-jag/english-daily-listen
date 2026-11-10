@@ -1,0 +1,67 @@
+{
+ "title": "Bài 54. Used to: thói quen trong quá khứ",
+ "vocabulary": [
+  {
+   "word": "used to",
+   "ipa": "/ˈjuːstə/",
+   "meaning": "ngày xưa thường, từng (+ V nguyên mẫu)",
+   "pos": "cụm động từ",
+   "audio": "A2-54-w-used-to.mp3"
+  },
+  {
+   "word": "childhood",
+   "ipa": "/ˈtʃaɪldhʊd/",
+   "meaning": "tuổi thơ, thời thơ ấu",
+   "pos": "danh từ",
+   "audio": "A2-54-w-childhood.mp3"
+  },
+  {
+   "word": "countryside",
+   "ipa": "/ˈkʌntriˌsaɪd/",
+   "meaning": "nông thôn, vùng quê",
+   "pos": "danh từ",
+   "audio": "A2-54-w-countryside.mp3"
+  },
+  {
+   "word": "grow up",
+   "ipa": "/ˌɡroʊ ˈʌp/",
+   "meaning": "lớn lên, trưởng thành (quá khứ: grew up)",
+   "pos": "cụm động từ",
+   "audio": "A2-54-w-grow-up.mp3"
+  },
+  {
+   "word": "anymore",
+   "ipa": "/ˌeniˈmɔr/",
+   "meaning": "không còn ... nữa (cuối câu phủ định)",
+   "pos": "trạng từ",
+   "audio": "A2-54-w-anymore.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I grew up in the countryside.",
+   "vi": "Tôi lớn lên ở nông thôn.",
+   "audio": "A2-54-ex-1.mp3"
+  },
+  {
+   "en": "When I was a child, I used to walk to school every day.",
+   "vi": "Hồi nhỏ, ngày nào tôi cũng đi bộ đến trường.",
+   "audio": "A2-54-ex-2.mp3"
+  },
+  {
+   "en": "We didn't use to have a car.",
+   "vi": "Ngày xưa nhà tôi không có ô tô.",
+   "audio": "A2-54-ex-3.mp3"
+  },
+  {
+   "en": "Did you use to play football? Yes, I did.",
+   "vi": "Ngày xưa bạn có hay chơi bóng đá không? Có.",
+   "audio": "A2-54-ex-4.mp3"
+  },
+  {
+   "en": "My father used to smoke, but he doesn't smoke anymore.",
+   "vi": "Bố tôi từng hút thuốc, nhưng bây giờ ông không hút nữa.",
+   "audio": "A2-54-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Bài 06. Trạng từ chỉ cách thức",
+ "vocabulary": [
+  {
+   "word": "quickly",
+   "ipa": "/ˈkwɪkli/",
+   "meaning": "nhanh, một cách nhanh chóng",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-quickly.mp3"
+  },
+  {
+   "word": "slowly",
+   "ipa": "/ˈsloʊli/",
+   "meaning": "chậm, một cách chậm rãi",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-slowly.mp3"
+  },
+  {
+   "word": "carefully",
+   "ipa": "/ˈkerfəli/",
+   "meaning": "cẩn thận",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-carefully.mp3"
+  },
+  {
+   "word": "quietly",
+   "ipa": "/ˈkwaɪətli/",
+   "meaning": "yên lặng, khẽ",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-quietly.mp3"
+  },
+  {
+   "word": "loudly",
+   "ipa": "/ˈlaʊdli/",
+   "meaning": "to, ầm ĩ",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-loudly.mp3"
+  },
+  {
+   "word": "badly",
+   "ipa": "/ˈbædli/",
+   "meaning": "tệ, kém",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-badly.mp3"
+  },
+  {
+   "word": "easily",
+   "ipa": "/ˈiːzəli/",
+   "meaning": "dễ dàng",
+   "pos": "trạng từ",
+   "audio": "A2-06-w-easily.mp3"
+  },
+  {
+   "word": "hard",
+   "ipa": "/hɑːrd/",
+   "meaning": "chăm chỉ, vất vả (trạng từ); khó, cứng (tính từ)",
+   "pos": "trạng từ, tính từ",
+   "audio": "A2-06-w-hard.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She drives carefully.",
+   "vi": "Cô ấy lái xe cẩn thận.",
+   "audio": "A2-06-ex-1.mp3"
+  },
+  {
+   "en": "My son eats very quickly.",
+   "vi": "Con trai tôi ăn rất nhanh.",
+   "audio": "A2-06-ex-2.mp3"
+  },
+  {
+   "en": "Can you speak slowly, please?",
+   "vi": "Bạn có thể nói chậm được không?",
+   "audio": "A2-06-ex-3.mp3"
+  },
+  {
+   "en": "My father works hard, and he speaks English well.",
+   "vi": "Bố tôi làm việc chăm chỉ, và ông nói tiếng Anh giỏi.",
+   "audio": "A2-06-ex-4.mp3"
+  },
+  {
+   "en": "The children were playing quietly in their room.",
+   "vi": "Bọn trẻ đang chơi yên lặng trong phòng.",
+   "audio": "A2-06-ex-5.mp3"
+  }
+ ]
+}

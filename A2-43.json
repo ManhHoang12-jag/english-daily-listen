@@ -1,0 +1,60 @@
+{
+ "title": "Bài 43. Điều kiện loại 1 với unless và modal",
+ "vocabulary": [
+  {
+   "word": "unless",
+   "ipa": "/ənˈlɛs/",
+   "meaning": "trừ khi, nếu không",
+   "pos": "liên từ",
+   "audio": "A2-43-w-unless.mp3"
+  },
+  {
+   "word": "promotion",
+   "ipa": "/prəˈmoʊʃən/",
+   "meaning": "sự thăng chức",
+   "pos": "danh từ",
+   "audio": "A2-43-w-promotion.mp3"
+  },
+  {
+   "word": "salary",
+   "ipa": "/ˈsæləri/",
+   "meaning": "tiền lương (theo tháng, năm)",
+   "pos": "danh từ",
+   "audio": "A2-43-w-salary.mp3"
+  },
+  {
+   "word": "warn",
+   "ipa": "/wɔːrn/",
+   "meaning": "cảnh báo, nhắc trước",
+   "pos": "động từ",
+   "audio": "A2-43-w-warn.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If you're tired, you should rest.",
+   "vi": "Nếu bạn mệt thì bạn nên nghỉ ngơi.",
+   "audio": "A2-43-ex-1.mp3"
+  },
+  {
+   "en": "If you work hard, you might get a promotion.",
+   "vi": "Nếu bạn làm việc chăm chỉ, bạn có thể được thăng chức.",
+   "audio": "A2-43-ex-2.mp3"
+  },
+  {
+   "en": "You'll miss the deadline unless you start now.",
+   "vi": "Bạn sẽ trễ hạn chót trừ khi bạn bắt đầu ngay bây giờ.",
+   "audio": "A2-43-ex-3.mp3"
+  },
+  {
+   "en": "When I get my salary, I'll buy a new phone.",
+   "vi": "Khi nhận lương, tôi sẽ mua một chiếc điện thoại mới.",
+   "audio": "A2-43-ex-4.mp3"
+  },
+  {
+   "en": "You can't enter the factory unless you wear a helmet.",
+   "vi": "Bạn không được vào nhà máy trừ khi bạn đội mũ bảo hộ.",
+   "audio": "A2-43-ex-5.mp3"
+  }
+ ]
+}

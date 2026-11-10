@@ -1,0 +1,67 @@
+{
+ "title": "Bài 19. Kỹ năng: nghe thông báo ở sân bay, nhà ga",
+ "vocabulary": [
+  {
+   "word": "departure",
+   "ipa": "/dɪˈpɑːrtʃər/",
+   "meaning": "sự khởi hành, giờ đi",
+   "pos": "danh từ",
+   "audio": "A2-19-w-departure.mp3"
+  },
+  {
+   "word": "arrival",
+   "ipa": "/əˈraɪvəl/",
+   "meaning": "sự đến, giờ đến",
+   "pos": "danh từ",
+   "audio": "A2-19-w-arrival.mp3"
+  },
+  {
+   "word": "delayed",
+   "ipa": "/dɪˈleɪd/",
+   "meaning": "bị hoãn, bị trễ",
+   "pos": "tính từ / động từ V3",
+   "audio": "A2-19-w-delayed.mp3"
+  },
+  {
+   "word": "cancelled",
+   "ipa": "/ˈkænsəld/",
+   "meaning": "bị hủy",
+   "pos": "tính từ / động từ V3",
+   "audio": "A2-19-w-cancelled.mp3"
+  },
+  {
+   "word": "boarding",
+   "ipa": "/ˈbɔːrdɪŋ/",
+   "meaning": "việc lên máy bay, lên tàu",
+   "pos": "danh từ / động từ -ing",
+   "audio": "A2-19-w-boarding.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Flight two twenty to Da Nang is now boarding at gate fourteen.",
+   "vi": "Chuyến bay 220 đi Đà Nẵng đang cho hành khách lên máy bay ở cửa số 14.",
+   "audio": "A2-19-ex-1.mp3"
+  },
+  {
+   "en": "The eight forty train to Hue has been delayed. It is now leaving at nine fifteen from platform two.",
+   "vi": "Chuyến tàu 8 giờ 40 đi Huế bị hoãn. Bây giờ tàu sẽ chạy lúc 9 giờ 15 từ sân ga số 2.",
+   "audio": "A2-19-ex-2.mp3"
+  },
+  {
+   "en": "We're sorry. Flight three oh five to Bangkok has been cancelled. There is a storm in Bangkok. Please go to the ticket office.",
+   "vi": "Chúng tôi xin lỗi. Chuyến bay 305 đi Bangkok đã bị hủy. Ở Bangkok đang có bão. Vui lòng đến quầy vé.",
+   "audio": "A2-19-ex-3.mp3"
+  },
+  {
+   "en": "Flight one sixty from Hanoi has been delayed. The new arrival time is eleven fifty.",
+   "vi": "Chuyến bay 160 từ Hà Nội bị hoãn. Giờ đến mới là 11 giờ 50.",
+   "audio": "A2-19-ex-4.mp3"
+  },
+  {
+   "en": "This is the last call for passengers on flight five thirteen to Seoul. Departure is at ten thirty. Please go to gate eight now.",
+   "vi": "Đây là lần gọi cuối cùng cho hành khách chuyến bay 513 đi Seoul. Giờ khởi hành là 10 giờ 30. Vui lòng đến cửa số 8 ngay.",
+   "audio": "A2-19-ex-5.mp3"
+  }
+ ]
+}

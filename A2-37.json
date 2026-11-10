@@ -1,0 +1,88 @@
+{
+ "title": "Bài 37. Dịch vụ: ngân hàng",
+ "vocabulary": [
+  {
+   "word": "account",
+   "ipa": "/əˈkaʊnt/",
+   "meaning": "tài khoản",
+   "pos": "danh từ",
+   "audio": "A2-37-w-account.mp3"
+  },
+  {
+   "word": "deposit",
+   "ipa": "/dɪˈpɑːzɪt/",
+   "meaning": "gửi tiền vào (tài khoản)",
+   "pos": "động từ",
+   "audio": "A2-37-w-deposit.mp3"
+  },
+  {
+   "word": "withdraw",
+   "ipa": "/wɪðˈdrɔː/",
+   "meaning": "rút (tiền)",
+   "pos": "động từ",
+   "audio": "A2-37-w-withdraw.mp3"
+  },
+  {
+   "word": "transfer",
+   "ipa": "/trænsˈfɝː/",
+   "meaning": "chuyển (tiền, khoản)",
+   "pos": "động từ",
+   "audio": "A2-37-w-transfer.mp3"
+  },
+  {
+   "word": "exchange rate",
+   "ipa": "/ɪksˈtʃeɪndʒ ˌreɪt/",
+   "meaning": "tỉ giá",
+   "pos": "danh từ",
+   "audio": "A2-37-w-exchange-rate.mp3"
+  },
+  {
+   "word": "ID card",
+   "ipa": "/ˌaɪˈdiː ˌkɑːrd/",
+   "meaning": "thẻ căn cước",
+   "pos": "danh từ",
+   "audio": "A2-37-w-id-card.mp3"
+  },
+  {
+   "word": "counter",
+   "ipa": "/ˈkaʊntər/",
+   "meaning": "quầy (giao dịch)",
+   "pos": "danh từ",
+   "audio": "A2-37-w-counter.mp3"
+  },
+  {
+   "word": "fee",
+   "ipa": "/fiː/",
+   "meaning": "phí, lệ phí",
+   "pos": "danh từ",
+   "audio": "A2-37-w-fee.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like to open an account, please.",
+   "vi": "Tôi muốn mở một tài khoản.",
+   "audio": "A2-37-ex-1.mp3"
+  },
+  {
+   "en": "I'd also like to deposit two hundred dollars.",
+   "vi": "Tôi cũng muốn gửi vào 200 đô la.",
+   "audio": "A2-37-ex-2.mp3"
+  },
+  {
+   "en": "Could I withdraw a hundred dollars from my account?",
+   "vi": "Tôi có thể rút 100 đô la từ tài khoản của tôi không?",
+   "audio": "A2-37-ex-3.mp3"
+  },
+  {
+   "en": "I'd like to transfer fifty dollars to my sister's account.",
+   "vi": "Tôi muốn chuyển 50 đô la vào tài khoản của em gái tôi.",
+   "audio": "A2-37-ex-4.mp3"
+  },
+  {
+   "en": "How much is the fee? It's two dollars.",
+   "vi": "Phí là bao nhiêu? 2 đô la.",
+   "audio": "A2-37-ex-5.mp3"
+  }
+ ]
+}

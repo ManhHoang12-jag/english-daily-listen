@@ -1,0 +1,67 @@
+{
+ "title": "Bài 58. Kỹ năng: nghe hội thoại và thông báo ngắn",
+ "vocabulary": [
+  {
+   "word": "platform",
+   "ipa": "/ˈplætfɔːrm/",
+   "meaning": "sân ga (chỗ lên tàu)",
+   "pos": "danh từ",
+   "audio": "A1-58-w-platform.mp3"
+  },
+  {
+   "word": "gate",
+   "ipa": "/ɡeɪt/",
+   "meaning": "cửa ra máy bay; cổng",
+   "pos": "danh từ",
+   "audio": "A1-58-w-gate.mp3"
+  },
+  {
+   "word": "flight",
+   "ipa": "/flaɪt/",
+   "meaning": "chuyến bay",
+   "pos": "danh từ",
+   "audio": "A1-58-w-flight.mp3"
+  },
+  {
+   "word": "announcement",
+   "ipa": "/əˈnaʊnsmənt/",
+   "meaning": "thông báo",
+   "pos": "danh từ",
+   "audio": "A1-58-w-announcement.mp3"
+  },
+  {
+   "word": "passenger",
+   "ipa": "/ˈpæsɪndʒər/",
+   "meaning": "hành khách",
+   "pos": "danh từ",
+   "audio": "A1-58-w-passenger.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The train to Hue leaves from platform three at nine fifteen.",
+   "vi": "Tàu đi Huế khởi hành từ sân ga số 3 lúc 9 giờ 15.",
+   "audio": "A1-58-ex-1.mp3"
+  },
+  {
+   "en": "This is an announcement for passengers on flight two forty-five. Please go to gate twelve now.",
+   "vi": "Đây là thông báo cho hành khách chuyến bay 245. Vui lòng đến cửa số 12 ngay bây giờ.",
+   "audio": "A1-58-ex-2.mp3"
+  },
+  {
+   "en": "How much are these shoes? They're forty dollars.",
+   "vi": "Đôi giày này giá bao nhiêu? 40 đô la.",
+   "audio": "A1-58-ex-3.mp3"
+  },
+  {
+   "en": "When is the meeting? It's on Thursday, May third.",
+   "vi": "Cuộc họp khi nào? Vào thứ Năm, ngày 3 tháng 5.",
+   "audio": "A1-58-ex-4.mp3"
+  },
+  {
+   "en": "The pharmacy is next to the bank, opposite the park.",
+   "vi": "Hiệu thuốc ở cạnh ngân hàng, đối diện công viên.",
+   "audio": "A1-58-ex-5.mp3"
+  }
+ ]
+}

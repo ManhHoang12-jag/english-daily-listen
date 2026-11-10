@@ -1,0 +1,102 @@
+{
+ "title": "Bài 31. Đồ ăn và đồ uống",
+ "vocabulary": [
+  {
+   "word": "bread",
+   "ipa": "/brɛd/",
+   "meaning": "bánh mì",
+   "pos": "danh từ",
+   "audio": "A1-31-w-bread.mp3"
+  },
+  {
+   "word": "egg",
+   "ipa": "/ɛɡ/",
+   "meaning": "quả trứng",
+   "pos": "danh từ",
+   "audio": "A1-31-w-egg.mp3"
+  },
+  {
+   "word": "chicken",
+   "ipa": "/ˈtʃɪkɪn/",
+   "meaning": "thịt gà; con gà",
+   "pos": "danh từ",
+   "audio": "A1-31-w-chicken.mp3"
+  },
+  {
+   "word": "fish",
+   "ipa": "/fɪʃ/",
+   "meaning": "cá",
+   "pos": "danh từ",
+   "audio": "A1-31-w-fish.mp3"
+  },
+  {
+   "word": "beef",
+   "ipa": "/biːf/",
+   "meaning": "thịt bò",
+   "pos": "danh từ",
+   "audio": "A1-31-w-beef.mp3"
+  },
+  {
+   "word": "milk",
+   "ipa": "/mɪlk/",
+   "meaning": "sữa",
+   "pos": "danh từ",
+   "audio": "A1-31-w-milk.mp3"
+  },
+  {
+   "word": "tea",
+   "ipa": "/tiː/",
+   "meaning": "trà, chè",
+   "pos": "danh từ",
+   "audio": "A1-31-w-tea.mp3"
+  },
+  {
+   "word": "juice",
+   "ipa": "/dʒuːs/",
+   "meaning": "nước ép hoa quả",
+   "pos": "danh từ",
+   "audio": "A1-31-w-juice.mp3"
+  },
+  {
+   "word": "vegetables",
+   "ipa": "/ˈvɛdʒtəbəlz/",
+   "meaning": "rau, rau củ",
+   "pos": "danh từ (số nhiều)",
+   "audio": "A1-31-w-vegetables.mp3"
+  },
+  {
+   "word": "fruit",
+   "ipa": "/fruːt/",
+   "meaning": "hoa quả, trái cây",
+   "pos": "danh từ",
+   "audio": "A1-31-w-fruit.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have bread and eggs for breakfast.",
+   "vi": "Bữa sáng tôi ăn bánh mì và trứng.",
+   "audio": "A1-31-ex-1.mp3"
+  },
+  {
+   "en": "I drink milk every morning.",
+   "vi": "Sáng nào tôi cũng uống sữa.",
+   "audio": "A1-31-ex-2.mp3"
+  },
+  {
+   "en": "We don't eat beef.",
+   "vi": "Chúng tôi không ăn thịt bò.",
+   "audio": "A1-31-ex-3.mp3"
+  },
+  {
+   "en": "My son doesn't like fish.",
+   "vi": "Con trai tôi không thích cá.",
+   "audio": "A1-31-ex-4.mp3"
+  },
+  {
+   "en": "They usually have chicken and vegetables for dinner.",
+   "vi": "Bữa tối họ thường ăn thịt gà và rau.",
+   "audio": "A1-31-ex-5.mp3"
+  }
+ ]
+}

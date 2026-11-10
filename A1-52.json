@@ -1,0 +1,74 @@
+{
+ "title": "Bài 52. Câu hỏi Wh- ở quá khứ",
+ "vocabulary": [
+  {
+   "word": "holiday",
+   "ipa": "/ˈhɑːlədeɪ/",
+   "meaning": "ngày lễ, kỳ nghỉ lễ",
+   "pos": "danh từ",
+   "audio": "A1-52-w-holiday.mp3"
+  },
+  {
+   "word": "trip",
+   "ipa": "/trɪp/",
+   "meaning": "chuyến đi",
+   "pos": "danh từ",
+   "audio": "A1-52-w-trip.mp3"
+  },
+  {
+   "word": "beach",
+   "ipa": "/biːtʃ/",
+   "meaning": "bãi biển",
+   "pos": "danh từ",
+   "audio": "A1-52-w-beach.mp3"
+  },
+  {
+   "word": "mountain",
+   "ipa": "/ˈmaʊntən/",
+   "meaning": "núi",
+   "pos": "danh từ",
+   "audio": "A1-52-w-mountain.mp3"
+  },
+  {
+   "word": "village",
+   "ipa": "/ˈvɪlɪdʒ/",
+   "meaning": "làng",
+   "pos": "danh từ",
+   "audio": "A1-52-w-village.mp3"
+  },
+  {
+   "word": "hometown",
+   "ipa": "/ˈhoʊmtaʊn/",
+   "meaning": "quê nhà, quê hương",
+   "pos": "danh từ",
+   "audio": "A1-52-w-hometown.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What did you do for the Tet holiday? I visited my hometown.",
+   "vi": "Dịp nghỉ Tết bạn làm gì? Tôi về thăm quê.",
+   "audio": "A1-52-ex-1.mp3"
+  },
+  {
+   "en": "Where did you go? We went to the beach.",
+   "vi": "Các bạn đã đi đâu? Chúng tôi đi biển.",
+   "audio": "A1-52-ex-2.mp3"
+  },
+  {
+   "en": "Who did you go with? I went with my sister.",
+   "vi": "Bạn đi với ai? Tôi đi với chị gái.",
+   "audio": "A1-52-ex-3.mp3"
+  },
+  {
+   "en": "How did you go to the village? By bus.",
+   "vi": "Bạn đến ngôi làng bằng gì? Bằng xe buýt.",
+   "audio": "A1-52-ex-4.mp3"
+  },
+  {
+   "en": "How was the trip? It was very good.",
+   "vi": "Chuyến đi thế nào? Rất tốt.",
+   "audio": "A1-52-ex-5.mp3"
+  }
+ ]
+}

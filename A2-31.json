@@ -1,0 +1,95 @@
+{
+ "title": "Bài 31. Chủ đề: cơ thể và triệu chứng",
+ "vocabulary": [
+  {
+   "word": "head",
+   "ipa": "/hɛd/",
+   "meaning": "đầu",
+   "pos": "danh từ",
+   "audio": "A2-31-w-head.mp3"
+  },
+  {
+   "word": "back",
+   "ipa": "/bæk/",
+   "meaning": "lưng",
+   "pos": "danh từ",
+   "audio": "A2-31-w-back.mp3"
+  },
+  {
+   "word": "stomach",
+   "ipa": "/ˈstʌmək/",
+   "meaning": "bụng, dạ dày",
+   "pos": "danh từ",
+   "audio": "A2-31-w-stomach.mp3"
+  },
+  {
+   "word": "tooth",
+   "ipa": "/tuːθ/",
+   "meaning": "răng (số nhiều: teeth)",
+   "pos": "danh từ",
+   "audio": "A2-31-w-tooth.mp3"
+  },
+  {
+   "word": "headache",
+   "ipa": "/ˈhɛdeɪk/",
+   "meaning": "chứng đau đầu",
+   "pos": "danh từ",
+   "audio": "A2-31-w-headache.mp3"
+  },
+  {
+   "word": "fever",
+   "ipa": "/ˈfiːvər/",
+   "meaning": "cơn sốt",
+   "pos": "danh từ",
+   "audio": "A2-31-w-fever.mp3"
+  },
+  {
+   "word": "cough",
+   "ipa": "/kɔːf/",
+   "meaning": "cơn ho; ho",
+   "pos": "danh từ / động từ",
+   "audio": "A2-31-w-cough.mp3"
+  },
+  {
+   "word": "sore throat",
+   "ipa": "/ˌsɔːr ˈθroʊt/",
+   "meaning": "đau họng",
+   "pos": "cụm danh từ",
+   "audio": "A2-31-w-sore-throat.mp3"
+  },
+  {
+   "word": "ill",
+   "ipa": "/ɪl/",
+   "meaning": "ốm, không khỏe",
+   "pos": "tính từ",
+   "audio": "A2-31-w-ill.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What's the matter? I feel ill.",
+   "vi": "Bạn bị sao thế? Tôi thấy không khỏe.",
+   "audio": "A2-31-ex-1.mp3"
+  },
+  {
+   "en": "I have a headache and a fever.",
+   "vi": "Tôi bị đau đầu và sốt.",
+   "audio": "A2-31-ex-2.mp3"
+  },
+  {
+   "en": "I also have a sore throat and a cough.",
+   "vi": "Tôi cũng bị đau họng và ho.",
+   "audio": "A2-31-ex-3.mp3"
+  },
+  {
+   "en": "No, it doesn't. My back hurts.",
+   "vi": "Không, bụng không đau. Lưng tôi đau.",
+   "audio": "A2-31-ex-4.mp3"
+  },
+  {
+   "en": "My son has a cough, and his stomach hurts.",
+   "vi": "Con trai tôi bị ho, và bụng cháu bị đau.",
+   "audio": "A2-31-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 46. Động từ + to V",
+ "vocabulary": [
+  {
+   "word": "agree",
+   "ipa": "/əˈɡriː/",
+   "meaning": "đồng ý",
+   "pos": "động từ",
+   "audio": "A2-46-w-agree.mp3"
+  },
+  {
+   "word": "refuse",
+   "ipa": "/rɪˈfjuːz/",
+   "meaning": "từ chối",
+   "pos": "động từ",
+   "audio": "A2-46-w-refuse.mp3"
+  },
+  {
+   "word": "afford",
+   "ipa": "/əˈfɔːrd/",
+   "meaning": "có đủ tiền (để làm gì)",
+   "pos": "động từ",
+   "audio": "A2-46-w-afford.mp3"
+  },
+  {
+   "word": "manage",
+   "ipa": "/ˈmænɪdʒ/",
+   "meaning": "xoay xở làm được; quản lý",
+   "pos": "động từ",
+   "audio": "A2-46-w-manage.mp3"
+  },
+  {
+   "word": "expect",
+   "ipa": "/ɪkˈspɛkt/",
+   "meaning": "dự kiến, mong đợi",
+   "pos": "động từ",
+   "audio": "A2-46-w-expect.mp3"
+  },
+  {
+   "word": "seem",
+   "ipa": "/siːm/",
+   "meaning": "có vẻ, dường như",
+   "pos": "động từ",
+   "audio": "A2-46-w-seem.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "We decided to move to a bigger apartment.",
+   "vi": "Chúng tôi quyết định chuyển đến một căn hộ lớn hơn.",
+   "audio": "A2-46-ex-1.mp3"
+  },
+  {
+   "en": "I can't afford to buy a new car this year.",
+   "vi": "Năm nay tôi không đủ tiền mua ô tô mới.",
+   "audio": "A2-46-ex-2.mp3"
+  },
+  {
+   "en": "She refused to work overtime on Sunday.",
+   "vi": "Cô ấy từ chối làm thêm giờ vào Chủ nhật.",
+   "audio": "A2-46-ex-3.mp3"
+  },
+  {
+   "en": "After an hour, we finally managed to find the hotel.",
+   "vi": "Sau một tiếng, cuối cùng chúng tôi cũng tìm được khách sạn.",
+   "audio": "A2-46-ex-4.mp3"
+  },
+  {
+   "en": "My manager agreed to give me a higher salary.",
+   "vi": "Quản lý của tôi đồng ý tăng lương cho tôi.",
+   "audio": "A2-46-ex-5.mp3"
+  }
+ ]
+}

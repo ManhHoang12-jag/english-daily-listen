@@ -1,0 +1,88 @@
+{
+ "title": "Bài 73. Đại từ bất định: anything, nothing, no one...",
+ "vocabulary": [
+  {
+   "word": "anything",
+   "ipa": "/ˈɛniθɪŋ/",
+   "meaning": "bất cứ thứ gì; (trong câu phủ định, câu hỏi) cái gì",
+   "pos": "đại từ",
+   "audio": "A2-73-w-anything.mp3"
+  },
+  {
+   "word": "nothing",
+   "ipa": "/ˈnʌθɪŋ/",
+   "meaning": "không có gì",
+   "pos": "đại từ",
+   "audio": "A2-73-w-nothing.mp3"
+  },
+  {
+   "word": "anyone",
+   "ipa": "/ˈɛniwʌn/",
+   "meaning": "bất cứ ai; (trong câu phủ định, câu hỏi) ai",
+   "pos": "đại từ",
+   "audio": "A2-73-w-anyone.mp3"
+  },
+  {
+   "word": "no one",
+   "ipa": "/ˈnoʊ wʌn/",
+   "meaning": "không ai",
+   "pos": "đại từ",
+   "audio": "A2-73-w-no-one.mp3"
+  },
+  {
+   "word": "everyone",
+   "ipa": "/ˈɛvriwʌn/",
+   "meaning": "mọi người",
+   "pos": "đại từ",
+   "audio": "A2-73-w-everyone.mp3"
+  },
+  {
+   "word": "somewhere",
+   "ipa": "/ˈsʌmwɛr/",
+   "meaning": "ở đâu đó, đến đâu đó",
+   "pos": "trạng từ",
+   "audio": "A2-73-w-somewhere.mp3"
+  },
+  {
+   "word": "anywhere",
+   "ipa": "/ˈɛniwɛr/",
+   "meaning": "bất cứ đâu; (trong câu phủ định, câu hỏi) đâu",
+   "pos": "trạng từ",
+   "audio": "A2-73-w-anywhere.mp3"
+  },
+  {
+   "word": "everywhere",
+   "ipa": "/ˈɛvriwɛr/",
+   "meaning": "khắp nơi",
+   "pos": "trạng từ",
+   "audio": "A2-73-w-everywhere.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I heard something in the kitchen.",
+   "vi": "Tôi nghe thấy cái gì đó trong bếp.",
+   "audio": "A2-73-ex-1.mp3"
+  },
+  {
+   "en": "I didn't eat anything this morning.",
+   "vi": "Sáng nay tôi không ăn gì cả.",
+   "audio": "A2-73-ex-2.mp3"
+  },
+  {
+   "en": "There's nothing in my bag.",
+   "vi": "Trong túi tôi không có gì.",
+   "audio": "A2-73-ex-3.mp3"
+  },
+  {
+   "en": "Did anyone call me? No, no one called.",
+   "vi": "Có ai gọi cho tôi không? Không, không ai gọi cả.",
+   "audio": "A2-73-ex-4.mp3"
+  },
+  {
+   "en": "Everyone is tired, so let's go somewhere quiet.",
+   "vi": "Mọi người đều mệt rồi, nên mình đi đâu đó yên tĩnh đi.",
+   "audio": "A2-73-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Bài 27. Too và enough",
+ "vocabulary": [
+  {
+   "word": "enough",
+   "ipa": "/ɪˈnʌf/",
+   "meaning": "đủ",
+   "pos": "từ chỉ mức độ",
+   "audio": "A2-27-w-enough.mp3"
+  },
+  {
+   "word": "tight",
+   "ipa": "/taɪt/",
+   "meaning": "chật, bó",
+   "pos": "tính từ",
+   "audio": "A2-27-w-tight.mp3"
+  },
+  {
+   "word": "loose",
+   "ipa": "/lus/",
+   "meaning": "rộng, lỏng",
+   "pos": "tính từ",
+   "audio": "A2-27-w-loose.mp3"
+  },
+  {
+   "word": "wide",
+   "ipa": "/waɪd/",
+   "meaning": "rộng (chiều ngang)",
+   "pos": "tính từ",
+   "audio": "A2-27-w-wide.mp3"
+  },
+  {
+   "word": "narrow",
+   "ipa": "/ˈnæroʊ/",
+   "meaning": "hẹp",
+   "pos": "tính từ",
+   "audio": "A2-27-w-narrow.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "These shoes are too tight.",
+   "vi": "Đôi giày này chật quá.",
+   "audio": "A2-27-ex-1.mp3"
+  },
+  {
+   "en": "This jacket isn't big enough for me.",
+   "vi": "Chiếc áo khoác này không đủ rộng với tôi.",
+   "audio": "A2-27-ex-2.mp3"
+  },
+  {
+   "en": "I don't have enough money to buy it.",
+   "vi": "Tôi không có đủ tiền để mua nó.",
+   "audio": "A2-27-ex-3.mp3"
+  },
+  {
+   "en": "This street is too narrow for buses.",
+   "vi": "Con phố này quá hẹp cho xe buýt.",
+   "audio": "A2-27-ex-4.mp3"
+  },
+  {
+   "en": "Are you old enough to drive?",
+   "vi": "Bạn đủ tuổi lái xe chưa?",
+   "audio": "A2-27-ex-5.mp3"
+  }
+ ]
+}

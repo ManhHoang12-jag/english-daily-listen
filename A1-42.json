@@ -1,0 +1,74 @@
+{
+ "title": "Bài 42. Hiện tại tiếp diễn: phủ định và câu hỏi",
+ "vocabulary": [
+  {
+   "word": "at the moment",
+   "ipa": "/æt ðə ˈmoʊmənt/",
+   "meaning": "lúc này, hiện giờ",
+   "pos": "cụm trạng từ",
+   "audio": "A1-42-w-at-the-moment.mp3"
+  },
+  {
+   "word": "homework",
+   "ipa": "/ˈhoʊmwɝːk/",
+   "meaning": "bài tập về nhà",
+   "pos": "danh từ",
+   "audio": "A1-42-w-homework.mp3"
+  },
+  {
+   "word": "write",
+   "ipa": "/raɪt/",
+   "meaning": "viết",
+   "pos": "động từ",
+   "audio": "A1-42-w-write.mp3"
+  },
+  {
+   "word": "laugh",
+   "ipa": "/læf/",
+   "meaning": "cười (thành tiếng)",
+   "pos": "động từ",
+   "audio": "A1-42-w-laugh.mp3"
+  },
+  {
+   "word": "smile",
+   "ipa": "/smaɪl/",
+   "meaning": "mỉm cười",
+   "pos": "động từ",
+   "audio": "A1-42-w-smile.mp3"
+  },
+  {
+   "word": "rain",
+   "ipa": "/reɪn/",
+   "meaning": "mưa",
+   "pos": "động từ",
+   "audio": "A1-42-w-rain.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What are you doing? I'm doing my homework.",
+   "vi": "Bạn đang làm gì thế? Mình đang làm bài tập về nhà.",
+   "audio": "A1-42-ex-1.mp3"
+  },
+  {
+   "en": "Is she sleeping? No, she isn't.",
+   "vi": "Cô ấy đang ngủ à? Không phải.",
+   "audio": "A1-42-ex-2.mp3"
+  },
+  {
+   "en": "He isn't working at the moment.",
+   "vi": "Lúc này anh ấy không làm việc.",
+   "audio": "A1-42-ex-3.mp3"
+  },
+  {
+   "en": "Are the children laughing? Yes, they are.",
+   "vi": "Bọn trẻ đang cười à? Đúng vậy.",
+   "audio": "A1-42-ex-4.mp3"
+  },
+  {
+   "en": "It isn't raining right now.",
+   "vi": "Bây giờ trời không mưa.",
+   "audio": "A1-42-ex-5.mp3"
+  }
+ ]
+}

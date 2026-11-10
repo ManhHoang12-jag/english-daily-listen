@@ -1,0 +1,53 @@
+{
+ "title": "Bài 13. Hiện tại hoàn thành hay quá khứ đơn",
+ "vocabulary": [
+  {
+   "word": "once",
+   "ipa": "/wʌns/",
+   "meaning": "một lần",
+   "pos": "trạng từ",
+   "audio": "A2-13-w-once.mp3"
+  },
+  {
+   "word": "twice",
+   "ipa": "/twaɪs/",
+   "meaning": "hai lần",
+   "pos": "trạng từ",
+   "audio": "A2-13-w-twice.mp3"
+  },
+  {
+   "word": "times",
+   "ipa": "/taɪmz/",
+   "meaning": "lần (three times = ba lần)",
+   "pos": "danh từ số nhiều",
+   "audio": "A2-13-w-times.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've been to Da Nang twice.",
+   "vi": "Tôi đã đến Đà Nẵng hai lần.",
+   "audio": "A2-13-ex-1.mp3"
+  },
+  {
+   "en": "I went there in 2022.",
+   "vi": "Tôi đến đó vào năm 2022.",
+   "audio": "A2-13-ex-2.mp3"
+  },
+  {
+   "en": "My father has flown to Hanoi three times.",
+   "vi": "Bố tôi đã bay ra Hà Nội ba lần.",
+   "audio": "A2-13-ex-3.mp3"
+  },
+  {
+   "en": "When did you go to Sa Pa?",
+   "vi": "Bạn đi Sa Pa khi nào?",
+   "audio": "A2-13-ex-4.mp3"
+  },
+  {
+   "en": "We've eaten bun cha once. We ate it in Hanoi last year.",
+   "vi": "Chúng tôi đã ăn bún chả một lần. Chúng tôi ăn món đó ở Hà Nội năm ngoái.",
+   "audio": "A2-13-ex-5.mp3"
+  }
+ ]
+}

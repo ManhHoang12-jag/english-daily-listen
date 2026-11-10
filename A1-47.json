@@ -1,0 +1,102 @@
+{
+ "title": "Bài 47. Động từ bất quy tắc nhóm 1",
+ "vocabulary": [
+  {
+   "word": "went",
+   "ipa": "/wɛnt/",
+   "meaning": "đã đi (quá khứ của go)",
+   "pos": "động từ",
+   "audio": "A1-47-w-went.mp3"
+  },
+  {
+   "word": "had",
+   "ipa": "/hæd/",
+   "meaning": "đã có, đã ăn (quá khứ của have, has)",
+   "pos": "động từ",
+   "audio": "A1-47-w-had.mp3"
+  },
+  {
+   "word": "did",
+   "ipa": "/dɪd/",
+   "meaning": "đã làm (quá khứ của do, does)",
+   "pos": "động từ",
+   "audio": "A1-47-w-did.mp3"
+  },
+  {
+   "word": "got",
+   "ipa": "/ɡɑːt/",
+   "meaning": "đã nhận, đã được; got up = đã dậy (quá khứ của get)",
+   "pos": "động từ",
+   "audio": "A1-47-w-got.mp3"
+  },
+  {
+   "word": "came",
+   "ipa": "/keɪm/",
+   "meaning": "đã đến (quá khứ của come)",
+   "pos": "động từ",
+   "audio": "A1-47-w-came.mp3"
+  },
+  {
+   "word": "saw",
+   "ipa": "/sɔː/",
+   "meaning": "đã nhìn thấy, đã gặp (quá khứ của see)",
+   "pos": "động từ",
+   "audio": "A1-47-w-saw.mp3"
+  },
+  {
+   "word": "made",
+   "ipa": "/meɪd/",
+   "meaning": "đã làm ra, đã nấu, đã pha (quá khứ của make)",
+   "pos": "động từ",
+   "audio": "A1-47-w-made.mp3"
+  },
+  {
+   "word": "ate",
+   "ipa": "/eɪt/",
+   "meaning": "đã ăn (quá khứ của eat)",
+   "pos": "động từ",
+   "audio": "A1-47-w-ate.mp3"
+  },
+  {
+   "word": "drank",
+   "ipa": "/dræŋk/",
+   "meaning": "đã uống (quá khứ của drink)",
+   "pos": "động từ",
+   "audio": "A1-47-w-drank.mp3"
+  },
+  {
+   "word": "took",
+   "ipa": "/tʊk/",
+   "meaning": "đã cầm, đã đi (xe), đã mất (thời gian) (quá khứ của take)",
+   "pos": "động từ",
+   "audio": "A1-47-w-took.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I got up at six and had breakfast.",
+   "vi": "Tôi dậy lúc sáu giờ và ăn sáng.",
+   "audio": "A1-47-ex-1.mp3"
+  },
+  {
+   "en": "My husband made coffee and drank it.",
+   "vi": "Chồng tôi pha cà phê rồi uống.",
+   "audio": "A1-47-ex-2.mp3"
+  },
+  {
+   "en": "We went to the market and saw Lan.",
+   "vi": "Chúng tôi đi chợ và gặp Lan.",
+   "audio": "A1-47-ex-3.mp3"
+  },
+  {
+   "en": "My son came home and did his homework.",
+   "vi": "Con trai tôi về nhà và làm bài tập.",
+   "audio": "A1-47-ex-4.mp3"
+  },
+  {
+   "en": "They ate noodles and took the bus home.",
+   "vi": "Họ ăn mì rồi đi xe buýt về nhà.",
+   "audio": "A1-47-ex-5.mp3"
+  }
+ ]
+}

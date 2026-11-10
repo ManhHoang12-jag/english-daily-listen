@@ -1,0 +1,88 @@
+{
+ "title": "Bài 57. Kỹ năng: đọc biển báo và thông báo ngắn",
+ "vocabulary": [
+  {
+   "word": "closed",
+   "ipa": "/kloʊzd/",
+   "meaning": "đóng cửa (không mở)",
+   "pos": "tính từ",
+   "audio": "A1-57-w-closed.mp3"
+  },
+  {
+   "word": "exit",
+   "ipa": "/ˈeɡzɪt/",
+   "meaning": "lối ra",
+   "pos": "danh từ",
+   "audio": "A1-57-w-exit.mp3"
+  },
+  {
+   "word": "push",
+   "ipa": "/pʊʃ/",
+   "meaning": "đẩy",
+   "pos": "động từ",
+   "audio": "A1-57-w-push.mp3"
+  },
+  {
+   "word": "pull",
+   "ipa": "/pʊl/",
+   "meaning": "kéo",
+   "pos": "động từ",
+   "audio": "A1-57-w-pull.mp3"
+  },
+  {
+   "word": "ticket",
+   "ipa": "/ˈtɪkɪt/",
+   "meaning": "vé",
+   "pos": "danh từ",
+   "audio": "A1-57-w-ticket.mp3"
+  },
+  {
+   "word": "no smoking",
+   "ipa": "/ˌnoʊ ˈsmoʊkɪŋ/",
+   "meaning": "cấm hút thuốc",
+   "pos": "cụm biển báo",
+   "audio": "A1-57-w-no-smoking.mp3"
+  },
+  {
+   "word": "sale",
+   "ipa": "/seɪl/",
+   "meaning": "đợt giảm giá",
+   "pos": "danh từ",
+   "audio": "A1-57-w-sale.mp3"
+  },
+  {
+   "word": "opening hours",
+   "ipa": "/ˈoʊpənɪŋ ˌaʊərz/",
+   "meaning": "giờ mở cửa",
+   "pos": "cụm danh từ",
+   "audio": "A1-57-w-opening-hours.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You can't smoke here.",
+   "vi": "Bạn không được hút thuốc ở đây.",
+   "audio": "A1-57-ex-1.mp3"
+  },
+  {
+   "en": "The museum is closed on Mondays.",
+   "vi": "Bảo tàng đóng cửa vào các ngày thứ Hai.",
+   "audio": "A1-57-ex-2.mp3"
+  },
+  {
+   "en": "Please buy your ticket here.",
+   "vi": "Vui lòng mua vé ở đây.",
+   "audio": "A1-57-ex-3.mp3"
+  },
+  {
+   "en": "There is a big sale today.",
+   "vi": "Hôm nay có đợt giảm giá lớn.",
+   "audio": "A1-57-ex-4.mp3"
+  },
+  {
+   "en": "Our opening hours are eight a.m. to six p.m., Monday to Friday.",
+   "vi": "Giờ mở cửa của chúng tôi là 8 giờ sáng đến 6 giờ chiều, từ thứ Hai đến thứ Sáu.",
+   "audio": "A1-57-ex-5.mp3"
+  }
+ ]
+}

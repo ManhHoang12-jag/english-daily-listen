@@ -1,0 +1,60 @@
+{
+ "title": "Bài 49. Quá khứ đơn: didn't và Did...?",
+ "vocabulary": [
+  {
+   "word": "didn't",
+   "ipa": "/ˈdɪdənt/",
+   "meaning": "đã không (= did not, dùng với mọi chủ ngữ)",
+   "pos": "dạng gọn",
+   "audio": "A1-49-w-didn-t.mp3"
+  },
+  {
+   "word": "last week",
+   "ipa": "/ˌlæst ˈwiːk/",
+   "meaning": "tuần trước",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-49-w-last-week.mp3"
+  },
+  {
+   "word": "last month",
+   "ipa": "/ˌlæst ˈmʌnθ/",
+   "meaning": "tháng trước",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-49-w-last-month.mp3"
+  },
+  {
+   "word": "last year",
+   "ipa": "/ˌlæst ˈjɪr/",
+   "meaning": "năm ngoái",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-49-w-last-year.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I didn't go to work last week.",
+   "vi": "Tuần trước tôi không đi làm.",
+   "audio": "A1-49-ex-1.mp3"
+  },
+  {
+   "en": "She didn't buy a new phone.",
+   "vi": "Cô ấy không mua điện thoại mới.",
+   "audio": "A1-49-ex-2.mp3"
+  },
+  {
+   "en": "Did you visit your parents last month? Yes, I did.",
+   "vi": "Tháng trước bạn có về thăm bố mẹ không? Có.",
+   "audio": "A1-49-ex-3.mp3"
+  },
+  {
+   "en": "Did they stay at a hotel? No, they didn't.",
+   "vi": "Họ có ở khách sạn không? Không.",
+   "audio": "A1-49-ex-4.mp3"
+  },
+  {
+   "en": "We didn't travel last year. We stayed home.",
+   "vi": "Năm ngoái chúng tôi không đi du lịch. Chúng tôi ở nhà.",
+   "audio": "A1-49-ex-5.mp3"
+  }
+ ]
+}

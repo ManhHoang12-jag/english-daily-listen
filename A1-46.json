@@ -1,0 +1,74 @@
+{
+ "title": "Bài 46. Quá khứ đơn có quy tắc -ed",
+ "vocabulary": [
+  {
+   "word": "visit",
+   "ipa": "/ˈvɪzɪt/",
+   "meaning": "đến thăm",
+   "pos": "động từ",
+   "audio": "A1-46-w-visit.mp3"
+  },
+  {
+   "word": "stay",
+   "ipa": "/steɪ/",
+   "meaning": "ở lại, lưu lại",
+   "pos": "động từ",
+   "audio": "A1-46-w-stay.mp3"
+  },
+  {
+   "word": "clean",
+   "ipa": "/kliːn/",
+   "meaning": "dọn dẹp, lau chùi",
+   "pos": "động từ",
+   "audio": "A1-46-w-clean.mp3"
+  },
+  {
+   "word": "wash",
+   "ipa": "/wɑːʃ/",
+   "meaning": "rửa, giặt",
+   "pos": "động từ",
+   "audio": "A1-46-w-wash.mp3"
+  },
+  {
+   "word": "arrive",
+   "ipa": "/əˈraɪv/",
+   "meaning": "đến nơi",
+   "pos": "động từ",
+   "audio": "A1-46-w-arrive.mp3"
+  },
+  {
+   "word": "decide",
+   "ipa": "/dɪˈsaɪd/",
+   "meaning": "quyết định",
+   "pos": "động từ",
+   "audio": "A1-46-w-decide.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I visited my grandmother last Sunday.",
+   "vi": "Chủ nhật tuần trước tôi đến thăm bà.",
+   "audio": "A1-46-ex-1.mp3"
+  },
+  {
+   "en": "We stayed at home yesterday.",
+   "vi": "Hôm qua chúng tôi ở nhà.",
+   "audio": "A1-46-ex-2.mp3"
+  },
+  {
+   "en": "My husband washed the cups and cleaned the kitchen.",
+   "vi": "Chồng tôi rửa cốc và dọn bếp.",
+   "audio": "A1-46-ex-3.mp3"
+  },
+  {
+   "en": "The train arrived ten minutes ago.",
+   "vi": "Tàu đã đến cách đây mười phút.",
+   "audio": "A1-46-ex-4.mp3"
+  },
+  {
+   "en": "She decided to walk to work.",
+   "vi": "Cô ấy quyết định đi bộ đi làm.",
+   "audio": "A1-46-ex-5.mp3"
+  }
+ ]
+}

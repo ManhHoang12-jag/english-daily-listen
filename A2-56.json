@@ -1,0 +1,88 @@
+{
+ "title": "Bài 56. Chủ đề: sự cố trong nhà",
+ "vocabulary": [
+  {
+   "word": "leak",
+   "ipa": "/liːk/",
+   "meaning": "chỗ rò; rò, rỉ (nước, ga)",
+   "pos": "danh từ / động từ",
+   "audio": "A2-56-w-leak.mp3"
+  },
+  {
+   "word": "broken",
+   "ipa": "/ˈbroʊkən/",
+   "meaning": "bị hỏng, bị vỡ, bị gãy",
+   "pos": "tính từ",
+   "audio": "A2-56-w-broken.mp3"
+  },
+  {
+   "word": "fix",
+   "ipa": "/fɪks/",
+   "meaning": "sửa",
+   "pos": "động từ",
+   "audio": "A2-56-w-fix.mp3"
+  },
+  {
+   "word": "repair",
+   "ipa": "/rɪˈper/",
+   "meaning": "sửa chữa",
+   "pos": "động từ",
+   "audio": "A2-56-w-repair.mp3"
+  },
+  {
+   "word": "heater",
+   "ipa": "/ˈhiːtɚ/",
+   "meaning": "máy sưởi; bình nóng lạnh (water heater)",
+   "pos": "danh từ",
+   "audio": "A2-56-w-heater.mp3"
+  },
+  {
+   "word": "air conditioner",
+   "ipa": "/ˈer kənˌdɪʃənɚ/",
+   "meaning": "máy điều hòa",
+   "pos": "danh từ",
+   "audio": "A2-56-w-air-conditioner.mp3"
+  },
+  {
+   "word": "sink",
+   "ipa": "/sɪŋk/",
+   "meaning": "bồn rửa (bát, tay)",
+   "pos": "danh từ",
+   "audio": "A2-56-w-sink.mp3"
+  },
+  {
+   "word": "light bulb",
+   "ipa": "/ˈlaɪt bʌlb/",
+   "meaning": "bóng đèn",
+   "pos": "danh từ",
+   "audio": "A2-56-w-light-bulb.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The air conditioner is broken.",
+   "vi": "Điều hòa bị hỏng.",
+   "audio": "A2-56-ex-1.mp3"
+  },
+  {
+   "en": "The heater has stopped working.",
+   "vi": "Máy sưởi ngừng chạy rồi.",
+   "audio": "A2-56-ex-2.mp3"
+  },
+  {
+   "en": "There is a leak under the kitchen sink.",
+   "vi": "Dưới bồn rửa trong bếp bị rò nước.",
+   "audio": "A2-56-ex-3.mp3"
+  },
+  {
+   "en": "The light bulb in the bathroom doesn't work.",
+   "vi": "Bóng đèn trong phòng tắm không sáng.",
+   "audio": "A2-56-ex-4.mp3"
+  },
+  {
+   "en": "Could you send someone to repair it this week, please?",
+   "vi": "Ông có thể cho người đến sửa nó trong tuần này được không ạ?",
+   "audio": "A2-56-ex-5.mp3"
+  }
+ ]
+}

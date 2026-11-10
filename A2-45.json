@@ -1,0 +1,74 @@
+{
+ "title": "Bài 45. Động từ + V-ing",
+ "vocabulary": [
+  {
+   "word": "enjoy",
+   "ipa": "/ɪnˈdʒɔɪ/",
+   "meaning": "thích, tận hưởng",
+   "pos": "động từ",
+   "audio": "A2-45-w-enjoy.mp3"
+  },
+  {
+   "word": "mind",
+   "ipa": "/maɪnd/",
+   "meaning": "phiền, ngại",
+   "pos": "động từ",
+   "audio": "A2-45-w-mind.mp3"
+  },
+  {
+   "word": "avoid",
+   "ipa": "/əˈvɔɪd/",
+   "meaning": "tránh",
+   "pos": "động từ",
+   "audio": "A2-45-w-avoid.mp3"
+  },
+  {
+   "word": "keep",
+   "ipa": "/kiːp/",
+   "meaning": "giữ; cứ (làm gì) mãi",
+   "pos": "động từ",
+   "audio": "A2-45-w-keep.mp3"
+  },
+  {
+   "word": "practice",
+   "ipa": "/ˈpræktɪs/",
+   "meaning": "luyện tập",
+   "pos": "động từ",
+   "audio": "A2-45-w-practice.mp3"
+  },
+  {
+   "word": "suggest",
+   "ipa": "/səɡˈdʒɛst/",
+   "meaning": "đề nghị, gợi ý",
+   "pos": "động từ",
+   "audio": "A2-45-w-suggest.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I enjoy working with my colleagues.",
+   "vi": "Tôi thích làm việc với các đồng nghiệp.",
+   "audio": "A2-45-ex-1.mp3"
+  },
+  {
+   "en": "I don't mind working overtime.",
+   "vi": "Tôi không ngại làm thêm giờ.",
+   "audio": "A2-45-ex-2.mp3"
+  },
+  {
+   "en": "She avoids drinking coffee in the evening.",
+   "vi": "Cô ấy tránh uống cà phê vào buổi tối.",
+   "audio": "A2-45-ex-3.mp3"
+  },
+  {
+   "en": "My colleague keeps calling me at night.",
+   "vi": "Đồng nghiệp của tôi cứ gọi cho tôi vào ban đêm.",
+   "audio": "A2-45-ex-4.mp3"
+  },
+  {
+   "en": "Our manager suggested taking a short break.",
+   "vi": "Quản lý của chúng tôi đề nghị nghỉ giải lao một chút.",
+   "audio": "A2-45-ex-5.mp3"
+  }
+ ]
+}

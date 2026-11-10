@@ -1,0 +1,67 @@
+{
+ "title": "Bài 42. Câu điều kiện loại 1",
+ "vocabulary": [
+  {
+   "word": "pass",
+   "ipa": "/pæs/",
+   "meaning": "thi đỗ, vượt qua (kỳ thi)",
+   "pos": "động từ",
+   "audio": "A2-42-w-pass.mp3"
+  },
+  {
+   "word": "fail",
+   "ipa": "/feɪl/",
+   "meaning": "thi trượt, thất bại",
+   "pos": "động từ",
+   "audio": "A2-42-w-fail.mp3"
+  },
+  {
+   "word": "exam",
+   "ipa": "/ɪɡˈzæm/",
+   "meaning": "kỳ thi, bài thi",
+   "pos": "danh từ",
+   "audio": "A2-42-w-exam.mp3"
+  },
+  {
+   "word": "get lost",
+   "ipa": "/ˌɡet ˈlɔːst/",
+   "meaning": "bị lạc (đường)",
+   "pos": "cụm động từ",
+   "audio": "A2-42-w-get-lost.mp3"
+  },
+  {
+   "word": "in time",
+   "ipa": "/ɪn ˈtaɪm/",
+   "meaning": "kịp, kịp lúc",
+   "pos": "cụm trạng từ",
+   "audio": "A2-42-w-in-time.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If it rains, I'll stay home.",
+   "vi": "Nếu trời mưa, tôi sẽ ở nhà.",
+   "audio": "A2-42-ex-1.mp3"
+  },
+  {
+   "en": "If you study hard, you'll pass the exam.",
+   "vi": "Nếu bạn học chăm, bạn sẽ thi đỗ.",
+   "audio": "A2-42-ex-2.mp3"
+  },
+  {
+   "en": "If he doesn't study, he'll fail the exam.",
+   "vi": "Nếu cậu ấy không học, cậu ấy sẽ thi trượt.",
+   "audio": "A2-42-ex-3.mp3"
+  },
+  {
+   "en": "If we don't take a map, we'll get lost.",
+   "vi": "Nếu chúng ta không mang bản đồ, chúng ta sẽ bị lạc.",
+   "audio": "A2-42-ex-4.mp3"
+  },
+  {
+   "en": "If we leave now, we'll arrive in time.",
+   "vi": "Nếu chúng ta đi bây giờ, chúng ta sẽ đến kịp.",
+   "audio": "A2-42-ex-5.mp3"
+  }
+ ]
+}

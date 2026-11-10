@@ -1,0 +1,81 @@
+{
+ "title": "Bài 24. So sánh hơn đầy đủ và as...as",
+ "vocabulary": [
+  {
+   "word": "as big as",
+   "ipa": "/əz ˈbɪɡ əz/",
+   "meaning": "to bằng (mẫu as + tính từ + as = bằng)",
+   "pos": "cấu trúc so sánh",
+   "audio": "A2-24-w-as-big-as.mp3"
+  },
+  {
+   "word": "far",
+   "ipa": "/fɑːr/",
+   "meaning": "xa",
+   "pos": "tính từ / trạng từ",
+   "audio": "A2-24-w-far.mp3"
+  },
+  {
+   "word": "farther",
+   "ipa": "/ˈfɑːrðər/",
+   "meaning": "xa hơn (so sánh của far)",
+   "pos": "tính từ so sánh",
+   "audio": "A2-24-w-farther.mp3"
+  },
+  {
+   "word": "crowded",
+   "ipa": "/ˈkraʊdɪd/",
+   "meaning": "đông đúc, chật người",
+   "pos": "tính từ",
+   "audio": "A2-24-w-crowded.mp3"
+  },
+  {
+   "word": "noisy",
+   "ipa": "/ˈnɔɪzi/",
+   "meaning": "ồn ào",
+   "pos": "tính từ",
+   "audio": "A2-24-w-noisy.mp3"
+  },
+  {
+   "word": "modern",
+   "ipa": "/ˈmɑːdərn/",
+   "meaning": "hiện đại",
+   "pos": "tính từ",
+   "audio": "A2-24-w-modern.mp3"
+  },
+  {
+   "word": "comfortable",
+   "ipa": "/ˈkʌmftərbəl/",
+   "meaning": "thoải mái, tiện nghi",
+   "pos": "tính từ",
+   "audio": "A2-24-w-comfortable.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hanoi is bigger and more modern than my village.",
+   "vi": "Hà Nội lớn hơn và hiện đại hơn làng tôi.",
+   "audio": "A2-24-ex-1.mp3"
+  },
+  {
+   "en": "The streets in Hanoi are noisier and more crowded, and the traffic is worse.",
+   "vi": "Đường phố Hà Nội ồn ào hơn và đông đúc hơn, và giao thông tệ hơn.",
+   "audio": "A2-24-ex-2.mp3"
+  },
+  {
+   "en": "Hai Phong is far from Hanoi, but my village is farther.",
+   "vi": "Hải Phòng cách Hà Nội xa, nhưng làng tôi còn xa hơn.",
+   "audio": "A2-24-ex-3.mp3"
+  },
+  {
+   "en": "My apartment in Hanoi is smaller, but it's more comfortable than my parents' old house.",
+   "vi": "Căn hộ của tôi ở Hà Nội nhỏ hơn, nhưng nó tiện nghi, thoải mái hơn ngôi nhà cũ của bố mẹ tôi.",
+   "audio": "A2-24-ex-4.mp3"
+  },
+  {
+   "en": "My village isn't as noisy as Hanoi.",
+   "vi": "Làng tôi không ồn ào bằng Hà Nội.",
+   "audio": "A2-24-ex-5.mp3"
+  }
+ ]
+}

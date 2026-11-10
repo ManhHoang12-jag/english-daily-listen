@@ -1,0 +1,60 @@
+{
+ "title": "Bài 49. Kỹ năng: viết email hỏi thông tin",
+ "vocabulary": [
+  {
+   "word": "attach",
+   "ipa": "/əˈtætʃ/",
+   "meaning": "đính kèm, gửi kèm (tệp trong email)",
+   "pos": "động từ",
+   "audio": "A2-49-w-attach.mp3"
+  },
+  {
+   "word": "information",
+   "ipa": "/ˌɪnfərˈmeɪʃən/",
+   "meaning": "thông tin (không đếm được, không thêm s)",
+   "pos": "danh từ",
+   "audio": "A2-49-w-information.mp3"
+  },
+  {
+   "word": "reply",
+   "ipa": "/rɪˈplaɪ/",
+   "meaning": "trả lời, hồi âm; thư trả lời",
+   "pos": "động từ / danh từ",
+   "audio": "A2-49-w-reply.mp3"
+  },
+  {
+   "word": "look forward to",
+   "ipa": "/lʊk ˈfɔrwərd tə/",
+   "meaning": "mong chờ, mong đợi (+ V-ing)",
+   "pos": "cụm động từ",
+   "audio": "A2-49-w-look-forward-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm writing to ask for information about the master's degree in English.",
+   "vi": "Tôi viết thư này để hỏi thông tin về chương trình thạc sĩ tiếng Anh.",
+   "audio": "A2-49-ex-1.mp3"
+  },
+  {
+   "en": "I have a degree in English, and I have worked as a teacher for three years.",
+   "vi": "Tôi có bằng cử nhân tiếng Anh và đã làm giáo viên được ba năm.",
+   "audio": "A2-49-ex-2.mp3"
+  },
+  {
+   "en": "Could you tell me when the classes start?",
+   "vi": "Xin cho tôi biết khi nào các lớp học bắt đầu?",
+   "audio": "A2-49-ex-3.mp3"
+  },
+  {
+   "en": "I would also like to know how much the fee is.",
+   "vi": "Tôi cũng muốn biết học phí là bao nhiêu.",
+   "audio": "A2-49-ex-4.mp3"
+  },
+  {
+   "en": "I have attached my certificate. I look forward to hearing from you.",
+   "vi": "Tôi đã gửi kèm chứng chỉ của tôi. Tôi mong nhận được hồi âm của quý vị.",
+   "audio": "A2-49-ex-5.mp3"
+  }
+ ]
+}

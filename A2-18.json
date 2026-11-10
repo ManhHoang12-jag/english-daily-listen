@@ -1,0 +1,60 @@
+{
+ "title": "Bài 18. Hiện tại tiếp diễn cho lịch hẹn tương lai",
+ "vocabulary": [
+  {
+   "word": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "meaning": "cuộc hẹn (bác sĩ, công việc)",
+   "pos": "danh từ",
+   "audio": "A2-18-w-appointment.mp3"
+  },
+  {
+   "word": "this evening",
+   "ipa": "/ðɪs ˈiːvnɪŋ/",
+   "meaning": "tối nay",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A2-18-w-this-evening.mp3"
+  },
+  {
+   "word": "the day after tomorrow",
+   "ipa": "/ðə ˌdeɪ ˌæftər təˈmɑːroʊ/",
+   "meaning": "ngày kia",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A2-18-w-the-day-after-tomorrow.mp3"
+  },
+  {
+   "word": "pick up",
+   "ipa": "/ˌpɪk ˈʌp/",
+   "meaning": "đón (người), lấy (đồ)",
+   "pos": "cụm động từ",
+   "audio": "A2-18-w-pick-up.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm meeting my colleague at three tomorrow.",
+   "vi": "Ba giờ chiều mai tôi gặp đồng nghiệp.",
+   "audio": "A2-18-ex-1.mp3"
+  },
+  {
+   "en": "I'm having dinner with Mai this evening.",
+   "vi": "Tối nay tôi ăn tối với Mai.",
+   "audio": "A2-18-ex-2.mp3"
+  },
+  {
+   "en": "I have a doctor's appointment the day after tomorrow.",
+   "vi": "Ngày kia tôi có hẹn với bác sĩ.",
+   "audio": "A2-18-ex-3.mp3"
+  },
+  {
+   "en": "On Friday, I'm picking up my mother at the station.",
+   "vi": "Thứ Sáu tôi đón mẹ ở ga.",
+   "audio": "A2-18-ex-4.mp3"
+  },
+  {
+   "en": "What are you doing on Saturday?",
+   "vi": "Thứ Bảy bạn làm gì?",
+   "audio": "A2-18-ex-5.mp3"
+  }
+ ]
+}

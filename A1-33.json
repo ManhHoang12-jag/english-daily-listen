@@ -1,0 +1,88 @@
+{
+ "title": "Bài 33. How much / How many và a lot of",
+ "vocabulary": [
+  {
+   "word": "how much",
+   "ipa": "/haʊ ˈmʌtʃ/",
+   "meaning": "bao nhiêu (với danh từ không đếm được; hỏi giá)",
+   "pos": "từ để hỏi",
+   "audio": "A1-33-w-how-much.mp3"
+  },
+  {
+   "word": "how many",
+   "ipa": "/haʊ ˈmɛni/",
+   "meaning": "bao nhiêu (với danh từ đếm được số nhiều)",
+   "pos": "từ để hỏi",
+   "audio": "A1-33-w-how-many.mp3"
+  },
+  {
+   "word": "a lot of",
+   "ipa": "/ə ˈlɑːt əv/",
+   "meaning": "nhiều",
+   "pos": "cụm từ chỉ số lượng",
+   "audio": "A1-33-w-a-lot-of.mp3"
+  },
+  {
+   "word": "kilo",
+   "ipa": "/ˈkiːloʊ/",
+   "meaning": "cân, ki-lô-gam",
+   "pos": "danh từ",
+   "audio": "A1-33-w-kilo.mp3"
+  },
+  {
+   "word": "piece",
+   "ipa": "/piːs/",
+   "meaning": "miếng, mẩu",
+   "pos": "danh từ",
+   "audio": "A1-33-w-piece.mp3"
+  },
+  {
+   "word": "banana",
+   "ipa": "/bəˈnænə/",
+   "meaning": "quả chuối",
+   "pos": "danh từ",
+   "audio": "A1-33-w-banana.mp3"
+  },
+  {
+   "word": "orange",
+   "ipa": "/ˈɔːrɪndʒ/",
+   "meaning": "quả cam",
+   "pos": "danh từ",
+   "audio": "A1-33-w-orange.mp3"
+  },
+  {
+   "word": "potato",
+   "ipa": "/pəˈteɪtoʊ/",
+   "meaning": "củ khoai tây",
+   "pos": "danh từ",
+   "audio": "A1-33-w-potato.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How many eggs do you need? Ten, please.",
+   "vi": "Bạn cần bao nhiêu quả trứng? Mười quả nhé.",
+   "audio": "A1-33-ex-1.mp3"
+  },
+  {
+   "en": "How much milk do we have?",
+   "vi": "Chúng ta có bao nhiêu sữa?",
+   "audio": "A1-33-ex-2.mp3"
+  },
+  {
+   "en": "I need a kilo of potatoes.",
+   "vi": "Tôi cần một cân khoai tây.",
+   "audio": "A1-33-ex-3.mp3"
+  },
+  {
+   "en": "There are a lot of oranges at the market.",
+   "vi": "Ở chợ có nhiều cam.",
+   "audio": "A1-33-ex-4.mp3"
+  },
+  {
+   "en": "I eat a piece of bread and a banana for breakfast.",
+   "vi": "Bữa sáng tôi ăn một miếng bánh mì và một quả chuối.",
+   "audio": "A1-33-ex-5.mp3"
+  }
+ ]
+}

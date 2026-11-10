@@ -1,0 +1,60 @@
+{
+ "title": "Bài 66. Câu hỏi chủ ngữ và câu hỏi tân ngữ",
+ "vocabulary": [
+  {
+   "word": "invent",
+   "ipa": "/ɪnˈvent/",
+   "meaning": "phát minh",
+   "pos": "động từ",
+   "audio": "A2-66-w-invent.mp3"
+  },
+  {
+   "word": "discover",
+   "ipa": "/dɪˈskʌvɚ/",
+   "meaning": "phát hiện, tìm ra",
+   "pos": "động từ",
+   "audio": "A2-66-w-discover.mp3"
+  },
+  {
+   "word": "design",
+   "ipa": "/dɪˈzaɪn/",
+   "meaning": "thiết kế",
+   "pos": "động từ",
+   "audio": "A2-66-w-design.mp3"
+  },
+  {
+   "word": "direct",
+   "ipa": "/dəˈrekt/",
+   "meaning": "đạo diễn (phim); chỉ đạo",
+   "pos": "động từ",
+   "audio": "A2-66-w-direct.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Who called you? My boss called me.",
+   "vi": "Ai gọi cho bạn vậy? Sếp tôi gọi.",
+   "audio": "A2-66-ex-1.mp3"
+  },
+  {
+   "en": "Who did you call? I called my boss.",
+   "vi": "Bạn đã gọi cho ai? Tôi gọi cho sếp.",
+   "audio": "A2-66-ex-2.mp3"
+  },
+  {
+   "en": "What happened? There was a power cut.",
+   "vi": "Có chuyện gì vậy? Bị mất điện.",
+   "audio": "A2-66-ex-3.mp3"
+  },
+  {
+   "en": "Who invented the telephone? Alexander Graham Bell.",
+   "vi": "Ai đã phát minh ra điện thoại? Alexander Graham Bell.",
+   "audio": "A2-66-ex-4.mp3"
+  },
+  {
+   "en": "What did James Cameron direct? He directed Titanic.",
+   "vi": "James Cameron đã đạo diễn phim gì? Ông ấy đạo diễn Titanic.",
+   "audio": "A2-66-ex-5.mp3"
+  }
+ ]
+}

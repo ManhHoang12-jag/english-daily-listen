@@ -1,0 +1,95 @@
+{
+ "title": "Bài 21. Các địa điểm trong thành phố",
+ "vocabulary": [
+  {
+   "word": "bank",
+   "ipa": "/bæŋk/",
+   "meaning": "ngân hàng",
+   "pos": "danh từ",
+   "audio": "A1-21-w-bank.mp3"
+  },
+  {
+   "word": "post office",
+   "ipa": "/ˈpoʊst ˌɑːfɪs/",
+   "meaning": "bưu điện",
+   "pos": "danh từ",
+   "audio": "A1-21-w-post-office.mp3"
+  },
+  {
+   "word": "supermarket",
+   "ipa": "/ˈsuːpərˌmɑːrkɪt/",
+   "meaning": "siêu thị",
+   "pos": "danh từ",
+   "audio": "A1-21-w-supermarket.mp3"
+  },
+  {
+   "word": "market",
+   "ipa": "/ˈmɑːrkɪt/",
+   "meaning": "chợ",
+   "pos": "danh từ",
+   "audio": "A1-21-w-market.mp3"
+  },
+  {
+   "word": "park",
+   "ipa": "/pɑːrk/",
+   "meaning": "công viên",
+   "pos": "danh từ",
+   "audio": "A1-21-w-park.mp3"
+  },
+  {
+   "word": "restaurant",
+   "ipa": "/ˈrestərɑːnt/",
+   "meaning": "nhà hàng",
+   "pos": "danh từ",
+   "audio": "A1-21-w-restaurant.mp3"
+  },
+  {
+   "word": "station",
+   "ipa": "/ˈsteɪʃən/",
+   "meaning": "nhà ga, bến",
+   "pos": "danh từ",
+   "audio": "A1-21-w-station.mp3"
+  },
+  {
+   "word": "pharmacy",
+   "ipa": "/ˈfɑːrməsi/",
+   "meaning": "hiệu thuốc",
+   "pos": "danh từ",
+   "audio": "A1-21-w-pharmacy.mp3"
+  },
+  {
+   "word": "street",
+   "ipa": "/striːt/",
+   "meaning": "đường phố",
+   "pos": "danh từ",
+   "audio": "A1-21-w-street.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Where is the bank? It's on Le Loi Street.",
+   "vi": "Ngân hàng ở đâu? Nó ở đường Lê Lợi.",
+   "audio": "A1-21-ex-1.mp3"
+  },
+  {
+   "en": "The post office is on Tran Phu Street.",
+   "vi": "Bưu điện ở đường Trần Phú.",
+   "audio": "A1-21-ex-2.mp3"
+  },
+  {
+   "en": "I go to the market every morning.",
+   "vi": "Tôi đi chợ mỗi sáng.",
+   "audio": "A1-21-ex-3.mp3"
+  },
+  {
+   "en": "My sister works in a pharmacy.",
+   "vi": "Chị tôi làm việc ở một hiệu thuốc.",
+   "audio": "A1-21-ex-4.mp3"
+  },
+  {
+   "en": "We have dinner at a restaurant on Saturday.",
+   "vi": "Chúng tôi ăn tối ở một nhà hàng vào thứ Bảy.",
+   "audio": "A1-21-ex-5.mp3"
+  }
+ ]
+}

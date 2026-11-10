@@ -1,0 +1,88 @@
+{
+ "title": "Bài 35. Tính từ với very và too",
+ "vocabulary": [
+  {
+   "word": "very",
+   "ipa": "/ˈvɛri/",
+   "meaning": "rất",
+   "pos": "trạng từ",
+   "audio": "A1-35-w-very.mp3"
+  },
+  {
+   "word": "too",
+   "ipa": "/tuː/",
+   "meaning": "quá (quá mức, gây vấn đề)",
+   "pos": "trạng từ",
+   "audio": "A1-35-w-too.mp3"
+  },
+  {
+   "word": "long",
+   "ipa": "/lɔːŋ/",
+   "meaning": "dài",
+   "pos": "tính từ",
+   "audio": "A1-35-w-long.mp3"
+  },
+  {
+   "word": "short",
+   "ipa": "/ʃɔːrt/",
+   "meaning": "ngắn; thấp",
+   "pos": "tính từ",
+   "audio": "A1-35-w-short.mp3"
+  },
+  {
+   "word": "beautiful",
+   "ipa": "/ˈbjuːtɪfəl/",
+   "meaning": "đẹp",
+   "pos": "tính từ",
+   "audio": "A1-35-w-beautiful.mp3"
+  },
+  {
+   "word": "heavy",
+   "ipa": "/ˈhɛvi/",
+   "meaning": "nặng",
+   "pos": "tính từ",
+   "audio": "A1-35-w-heavy.mp3"
+  },
+  {
+   "word": "easy",
+   "ipa": "/ˈiːzi/",
+   "meaning": "dễ",
+   "pos": "tính từ",
+   "audio": "A1-35-w-easy.mp3"
+  },
+  {
+   "word": "difficult",
+   "ipa": "/ˈdɪfɪkəlt/",
+   "meaning": "khó",
+   "pos": "tính từ",
+   "audio": "A1-35-w-difficult.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This bag is very beautiful.",
+   "vi": "Cái túi này rất đẹp.",
+   "audio": "A1-35-ex-1.mp3"
+  },
+  {
+   "en": "It's too expensive. I can't buy it.",
+   "vi": "Nó đắt quá. Tôi không mua được.",
+   "audio": "A1-35-ex-2.mp3"
+  },
+  {
+   "en": "The shirt is too short for me.",
+   "vi": "Cái áo quá ngắn so với tôi.",
+   "audio": "A1-35-ex-3.mp3"
+  },
+  {
+   "en": "English is very easy.",
+   "vi": "Tiếng Anh rất dễ.",
+   "audio": "A1-35-ex-4.mp3"
+  },
+  {
+   "en": "This bag is too heavy. Can you help me?",
+   "vi": "Cái túi này nặng quá. Bạn giúp tôi được không?",
+   "audio": "A1-35-ex-5.mp3"
+  }
+ ]
+}

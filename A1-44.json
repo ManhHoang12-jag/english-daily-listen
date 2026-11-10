@@ -1,0 +1,74 @@
+{
+ "title": "Bài 44. Quá khứ của to be: was / were",
+ "vocabulary": [
+  {
+   "word": "was",
+   "ipa": "/wʌz/",
+   "meaning": "đã là, đã ở (quá khứ của am, is)",
+   "pos": "động từ to be",
+   "audio": "A1-44-w-was.mp3"
+  },
+  {
+   "word": "were",
+   "ipa": "/wɝː/",
+   "meaning": "đã là, đã ở (quá khứ của are)",
+   "pos": "động từ to be",
+   "audio": "A1-44-w-were.mp3"
+  },
+  {
+   "word": "yesterday",
+   "ipa": "/ˈjɛstɚdeɪ/",
+   "meaning": "hôm qua",
+   "pos": "trạng từ",
+   "audio": "A1-44-w-yesterday.mp3"
+  },
+  {
+   "word": "last night",
+   "ipa": "/ˌlæst ˈnaɪt/",
+   "meaning": "tối qua, đêm qua",
+   "pos": "cụm trạng từ",
+   "audio": "A1-44-w-last-night.mp3"
+  },
+  {
+   "word": "ago",
+   "ipa": "/əˈɡoʊ/",
+   "meaning": "cách đây, trước (đứng sau khoảng thời gian)",
+   "pos": "trạng từ",
+   "audio": "A1-44-w-ago.mp3"
+  },
+  {
+   "word": "born",
+   "ipa": "/bɔːrn/",
+   "meaning": "được sinh ra (was/were born)",
+   "pos": "tính từ",
+   "audio": "A1-44-w-born.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I was at home yesterday.",
+   "vi": "Hôm qua tôi ở nhà.",
+   "audio": "A1-44-ex-1.mp3"
+  },
+  {
+   "en": "We were at the cinema last night.",
+   "vi": "Tối qua chúng tôi ở rạp chiếu phim.",
+   "audio": "A1-44-ex-2.mp3"
+  },
+  {
+   "en": "She wasn't at work yesterday. She was sick.",
+   "vi": "Hôm qua cô ấy không đi làm. Cô ấy bị ốm.",
+   "audio": "A1-44-ex-3.mp3"
+  },
+  {
+   "en": "They weren't at home two hours ago.",
+   "vi": "Hai tiếng trước họ không ở nhà.",
+   "audio": "A1-44-ex-4.mp3"
+  },
+  {
+   "en": "I was born in Hai Phong.",
+   "vi": "Tôi sinh ra ở Hải Phòng.",
+   "audio": "A1-44-ex-5.mp3"
+  }
+ ]
+}

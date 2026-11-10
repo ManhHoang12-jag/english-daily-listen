@@ -1,0 +1,95 @@
+{
+ "title": "Bài 07. Chủ đề: thời tiết",
+ "vocabulary": [
+  {
+   "word": "temperature",
+   "ipa": "/ˈtempərətʃɚ/",
+   "meaning": "nhiệt độ",
+   "pos": "danh từ",
+   "audio": "A2-07-w-temperature.mp3"
+  },
+  {
+   "word": "degrees",
+   "ipa": "/dɪˈɡriːz/",
+   "meaning": "độ (nhiệt độ)",
+   "pos": "danh từ số nhiều",
+   "audio": "A2-07-w-degrees.mp3"
+  },
+  {
+   "word": "storm",
+   "ipa": "/stɔːrm/",
+   "meaning": "cơn bão",
+   "pos": "danh từ",
+   "audio": "A2-07-w-storm.mp3"
+  },
+  {
+   "word": "snow",
+   "ipa": "/snoʊ/",
+   "meaning": "tuyết; có tuyết rơi",
+   "pos": "danh từ / động từ",
+   "audio": "A2-07-w-snow.mp3"
+  },
+  {
+   "word": "foggy",
+   "ipa": "/ˈfɑːɡi/",
+   "meaning": "có sương mù",
+   "pos": "tính từ",
+   "audio": "A2-07-w-foggy.mp3"
+  },
+  {
+   "word": "wet",
+   "ipa": "/wet/",
+   "meaning": "ướt",
+   "pos": "tính từ",
+   "audio": "A2-07-w-wet.mp3"
+  },
+  {
+   "word": "dry",
+   "ipa": "/draɪ/",
+   "meaning": "khô",
+   "pos": "tính từ",
+   "audio": "A2-07-w-dry.mp3"
+  },
+  {
+   "word": "humid",
+   "ipa": "/ˈhjuːmɪd/",
+   "meaning": "oi, ẩm (không khí)",
+   "pos": "tính từ",
+   "audio": "A2-07-w-humid.mp3"
+  },
+  {
+   "word": "forecast",
+   "ipa": "/ˈfɔːrkæst/",
+   "meaning": "bản dự báo (thời tiết)",
+   "pos": "danh từ",
+   "audio": "A2-07-w-forecast.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It's raining in Hanoi right now.",
+   "vi": "Hà Nội đang mưa ngay lúc này.",
+   "audio": "A2-07-ex-1.mp3"
+  },
+  {
+   "en": "The temperature is 28 degrees.",
+   "vi": "Nhiệt độ là 28 độ.",
+   "audio": "A2-07-ex-2.mp3"
+  },
+  {
+   "en": "It's foggy and cool in Da Lat this morning.",
+   "vi": "Sáng nay Đà Lạt có sương mù và mát.",
+   "audio": "A2-07-ex-3.mp3"
+  },
+  {
+   "en": "A big storm is going to come to Da Nang tomorrow.",
+   "vi": "Ngày mai một cơn bão lớn sẽ đến Đà Nẵng.",
+   "audio": "A2-07-ex-4.mp3"
+  },
+  {
+   "en": "It was snowing in Sa Pa last night.",
+   "vi": "Tối qua ở Sa Pa có tuyết rơi.",
+   "audio": "A2-07-ex-5.mp3"
+  }
+ ]
+}

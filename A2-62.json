@@ -1,0 +1,74 @@
+{
+ "title": "Bài 62. Cụm động từ 2: vị trí tân ngữ",
+ "vocabulary": [
+  {
+   "word": "give back",
+   "ipa": "/ˌɡɪv ˈbæk/",
+   "meaning": "trả lại",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-give-back.mp3"
+  },
+  {
+   "word": "throw away",
+   "ipa": "/ˌθroʊ əˈweɪ/",
+   "meaning": "vứt đi",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-throw-away.mp3"
+  },
+  {
+   "word": "turn down",
+   "ipa": "/ˌtɝːn ˈdaʊn/",
+   "meaning": "vặn nhỏ (âm lượng, nhiệt độ)",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-turn-down.mp3"
+  },
+  {
+   "word": "turn up",
+   "ipa": "/ˌtɝːn ˈʌp/",
+   "meaning": "vặn to (âm lượng, nhiệt độ)",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-turn-up.mp3"
+  },
+  {
+   "word": "write down",
+   "ipa": "/ˌraɪt ˈdaʊn/",
+   "meaning": "ghi lại, viết ra",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-write-down.mp3"
+  },
+  {
+   "word": "put away",
+   "ipa": "/ˌpʊt əˈweɪ/",
+   "meaning": "cất đi",
+   "pos": "cụm động từ",
+   "audio": "A2-62-w-put-away.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The music is too loud. Please turn it down.",
+   "vi": "Nhạc to quá. Làm ơn vặn nhỏ lại.",
+   "audio": "A2-62-ex-1.mp3"
+  },
+  {
+   "en": "Can I borrow your pen? I'll give it back tomorrow.",
+   "vi": "Mình mượn bút của bạn được không? Mai mình trả.",
+   "audio": "A2-62-ex-2.mp3"
+  },
+  {
+   "en": "This bread is too old. Throw it away.",
+   "vi": "Bánh mì này cũ quá rồi. Vứt nó đi.",
+   "audio": "A2-62-ex-3.mp3"
+  },
+  {
+   "en": "Here's my phone number. Write it down.",
+   "vi": "Đây là số điện thoại của tôi. Ghi lại nhé.",
+   "audio": "A2-62-ex-4.mp3"
+  },
+  {
+   "en": "Please put your books away.",
+   "vi": "Con cất sách vở đi.",
+   "audio": "A2-62-ex-5.mp3"
+  }
+ ]
+}

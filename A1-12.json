@@ -1,0 +1,88 @@
+{
+ "title": "Bài 12. Thói quen hằng ngày của tôi",
+ "vocabulary": [
+  {
+   "word": "get up",
+   "ipa": "/ɡet ˈʌp/",
+   "meaning": "thức dậy, ra khỏi giường",
+   "pos": "cụm động từ",
+   "audio": "A1-12-w-get-up.mp3"
+  },
+  {
+   "word": "have breakfast",
+   "ipa": "/hæv ˈbrekfəst/",
+   "meaning": "ăn sáng",
+   "pos": "cụm động từ",
+   "audio": "A1-12-w-have-breakfast.mp3"
+  },
+  {
+   "word": "lunch",
+   "ipa": "/lʌntʃ/",
+   "meaning": "bữa trưa (have lunch = ăn trưa)",
+   "pos": "danh từ",
+   "audio": "A1-12-w-lunch.mp3"
+  },
+  {
+   "word": "dinner",
+   "ipa": "/ˈdɪnɚ/",
+   "meaning": "bữa tối (have dinner = ăn tối)",
+   "pos": "danh từ",
+   "audio": "A1-12-w-dinner.mp3"
+  },
+  {
+   "word": "take a shower",
+   "ipa": "/teɪk ə ˈʃaʊɚ/",
+   "meaning": "tắm (vòi sen)",
+   "pos": "cụm động từ",
+   "audio": "A1-12-w-take-a-shower.mp3"
+  },
+  {
+   "word": "go to bed",
+   "ipa": "/ɡoʊ tə ˈbed/",
+   "meaning": "đi ngủ",
+   "pos": "cụm động từ",
+   "audio": "A1-12-w-go-to-bed.mp3"
+  },
+  {
+   "word": "start",
+   "ipa": "/stɑːrt/",
+   "meaning": "bắt đầu",
+   "pos": "động từ",
+   "audio": "A1-12-w-start.mp3"
+  },
+  {
+   "word": "finish",
+   "ipa": "/ˈfɪnɪʃ/",
+   "meaning": "kết thúc, xong",
+   "pos": "động từ",
+   "audio": "A1-12-w-finish.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I get up at six o'clock.",
+   "vi": "Tôi thức dậy lúc sáu giờ.",
+   "audio": "A1-12-ex-1.mp3"
+  },
+  {
+   "en": "I have breakfast at half past six.",
+   "vi": "Tôi ăn sáng lúc sáu giờ rưỡi.",
+   "audio": "A1-12-ex-2.mp3"
+  },
+  {
+   "en": "I start work at eight.",
+   "vi": "Tôi bắt đầu làm việc lúc tám giờ.",
+   "audio": "A1-12-ex-3.mp3"
+  },
+  {
+   "en": "We have dinner at seven.",
+   "vi": "Chúng tôi ăn tối lúc bảy giờ.",
+   "audio": "A1-12-ex-4.mp3"
+  },
+  {
+   "en": "I go to bed at eleven.",
+   "vi": "Tôi đi ngủ lúc mười một giờ.",
+   "audio": "A1-12-ex-5.mp3"
+  }
+ ]
+}

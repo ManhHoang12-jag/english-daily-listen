@@ -1,0 +1,88 @@
+{
+ "title": "Bài 28. Ôn đại từ tân ngữ sau động từ và giới từ",
+ "vocabulary": [
+  {
+   "word": "give",
+   "ipa": "/ɡɪv/",
+   "meaning": "đưa, cho",
+   "pos": "động từ",
+   "audio": "A1-28-w-give.mp3"
+  },
+  {
+   "word": "send",
+   "ipa": "/send/",
+   "meaning": "gửi",
+   "pos": "động từ",
+   "audio": "A1-28-w-send.mp3"
+  },
+  {
+   "word": "show",
+   "ipa": "/ʃoʊ/",
+   "meaning": "cho xem, chỉ cho",
+   "pos": "động từ",
+   "audio": "A1-28-w-show.mp3"
+  },
+  {
+   "word": "tell",
+   "ipa": "/tel/",
+   "meaning": "nói với, kể cho",
+   "pos": "động từ",
+   "audio": "A1-28-w-tell.mp3"
+  },
+  {
+   "word": "ask",
+   "ipa": "/æsk/",
+   "meaning": "hỏi",
+   "pos": "động từ",
+   "audio": "A1-28-w-ask.mp3"
+  },
+  {
+   "word": "with",
+   "ipa": "/wɪð/",
+   "meaning": "với, cùng với",
+   "pos": "giới từ",
+   "audio": "A1-28-w-with.mp3"
+  },
+  {
+   "word": "for",
+   "ipa": "/fɔːr/",
+   "meaning": "cho, dành cho",
+   "pos": "giới từ",
+   "audio": "A1-28-w-for.mp3"
+  },
+  {
+   "word": "message",
+   "ipa": "/ˈmesɪdʒ/",
+   "meaning": "tin nhắn",
+   "pos": "danh từ",
+   "audio": "A1-28-w-message.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Give it to me, please.",
+   "vi": "Làm ơn đưa nó cho tôi.",
+   "audio": "A1-28-ex-1.mp3"
+  },
+  {
+   "en": "Can you send me a message?",
+   "vi": "Bạn gửi cho tôi một tin nhắn được không?",
+   "audio": "A1-28-ex-2.mp3"
+  },
+  {
+   "en": "Show me your new phone.",
+   "vi": "Cho tôi xem điện thoại mới của bạn.",
+   "audio": "A1-28-ex-3.mp3"
+  },
+  {
+   "en": "I go to work with them every day.",
+   "vi": "Ngày nào tôi cũng đi làm cùng họ.",
+   "audio": "A1-28-ex-4.mp3"
+  },
+  {
+   "en": "This coffee is for her.",
+   "vi": "Cốc cà phê này là cho cô ấy.",
+   "audio": "A1-28-ex-5.mp3"
+  }
+ ]
+}

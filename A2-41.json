@@ -1,0 +1,67 @@
+{
+ "title": "Bài 41. Câu điều kiện loại 0",
+ "vocabulary": [
+  {
+   "word": "if",
+   "ipa": "/ɪf/",
+   "meaning": "nếu",
+   "pos": "liên từ",
+   "audio": "A2-41-w-if.mp3"
+  },
+  {
+   "word": "heat",
+   "ipa": "/hiːt/",
+   "meaning": "đun nóng, làm nóng",
+   "pos": "động từ",
+   "audio": "A2-41-w-heat.mp3"
+  },
+  {
+   "word": "boil",
+   "ipa": "/bɔɪl/",
+   "meaning": "sôi; đun sôi",
+   "pos": "động từ",
+   "audio": "A2-41-w-boil.mp3"
+  },
+  {
+   "word": "freeze",
+   "ipa": "/friːz/",
+   "meaning": "đóng băng; làm đông lạnh",
+   "pos": "động từ",
+   "audio": "A2-41-w-freeze.mp3"
+  },
+  {
+   "word": "melt",
+   "ipa": "/melt/",
+   "meaning": "tan chảy",
+   "pos": "động từ",
+   "audio": "A2-41-w-melt.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "If you heat water, it boils.",
+   "vi": "Nếu đun nóng nước, nước sôi.",
+   "audio": "A2-41-ex-1.mp3"
+  },
+  {
+   "en": "If it's very cold, water freezes.",
+   "vi": "Nếu trời rất lạnh, nước đóng băng.",
+   "audio": "A2-41-ex-2.mp3"
+  },
+  {
+   "en": "If you leave snow in the sun, it melts.",
+   "vi": "Nếu để tuyết ngoài nắng, tuyết tan.",
+   "audio": "A2-41-ex-3.mp3"
+  },
+  {
+   "en": "If you put hot tea in this bottle, it stays hot for twelve hours.",
+   "vi": "Nếu bạn cho trà nóng vào bình này, trà giữ nóng trong 12 giờ.",
+   "audio": "A2-41-ex-4.mp3"
+  },
+  {
+   "en": "Don't freeze the bottle. If water freezes, it gets bigger.",
+   "vi": "Đừng để bình đóng băng. Nếu nước đóng băng, nó nở to ra.",
+   "audio": "A2-41-ex-5.mp3"
+  }
+ ]
+}

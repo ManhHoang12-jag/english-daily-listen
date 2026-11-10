@@ -1,0 +1,74 @@
+{
+ "title": "Bài 50. Ôn tập và kiểm tra A1-5",
+ "vocabulary": [
+  {
+   "word": "right now",
+   "ipa": "/ˌraɪt ˈnaʊ/",
+   "meaning": "ngay bây giờ (ôn Bài 41)",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-50-w-right-now.mp3"
+  },
+  {
+   "word": "wearing",
+   "ipa": "/ˈwerɪŋ/",
+   "meaning": "đang mặc, đang đội (ôn Bài 41)",
+   "pos": "động từ -ing",
+   "audio": "A1-50-w-wearing.mp3"
+  },
+  {
+   "word": "yesterday",
+   "ipa": "/ˈjestərdeɪ/",
+   "meaning": "hôm qua (ôn Bài 44)",
+   "pos": "trạng từ",
+   "audio": "A1-50-w-yesterday.mp3"
+  },
+  {
+   "word": "arrived",
+   "ipa": "/əˈraɪvd/",
+   "meaning": "đã đến (ôn Bài 46, -ed đọc /d/)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-50-w-arrived.mp3"
+  },
+  {
+   "word": "bought",
+   "ipa": "/bɔːt/",
+   "meaning": "đã mua (ôn Bài 48)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-50-w-bought.mp3"
+  },
+  {
+   "word": "didn't",
+   "ipa": "/ˈdɪdənt/",
+   "meaning": "đã không (ôn Bài 49)",
+   "pos": "dạng gọn",
+   "audio": "A1-50-w-didn-t.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Last Saturday was sunny and warm.",
+   "vi": "Thứ Bảy tuần trước trời nắng và ấm.",
+   "audio": "A1-50-ex-1.mp3"
+  },
+  {
+   "en": "They went to the market and bought fish.",
+   "vi": "Họ đi chợ và mua cá.",
+   "audio": "A1-50-ex-2.mp3"
+  },
+  {
+   "en": "In the afternoon, Minh visited his parents.",
+   "vi": "Buổi chiều, Minh đến thăm bố mẹ.",
+   "audio": "A1-50-ex-3.mp3"
+  },
+  {
+   "en": "Minh didn't drink coffee. He drank tea.",
+   "vi": "Minh không uống cà phê. Anh ấy uống trà.",
+   "audio": "A1-50-ex-4.mp3"
+  },
+  {
+   "en": "Minh is reading a book, and his wife is watching a movie.",
+   "vi": "Minh đang đọc sách, còn vợ anh ấy đang xem phim.",
+   "audio": "A1-50-ex-5.mp3"
+  }
+ ]
+}

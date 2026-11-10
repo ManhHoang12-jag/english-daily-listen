@@ -1,0 +1,74 @@
+{
+ "title": "Bài 29. Kỹ năng: hỏi đường và hẹn gặp",
+ "vocabulary": [
+  {
+   "word": "map",
+   "ipa": "/mæp/",
+   "meaning": "bản đồ",
+   "pos": "danh từ",
+   "audio": "A1-29-w-map.mp3"
+  },
+  {
+   "word": "find",
+   "ipa": "/faɪnd/",
+   "meaning": "tìm thấy",
+   "pos": "động từ",
+   "audio": "A1-29-w-find.mp3"
+  },
+  {
+   "word": "building",
+   "ipa": "/ˈbɪldɪŋ/",
+   "meaning": "tòa nhà",
+   "pos": "danh từ",
+   "audio": "A1-29-w-building.mp3"
+  },
+  {
+   "word": "floor",
+   "ipa": "/flɔːr/",
+   "meaning": "tầng (nhà)",
+   "pos": "danh từ",
+   "audio": "A1-29-w-floor.mp3"
+  },
+  {
+   "word": "entrance",
+   "ipa": "/ˈentrəns/",
+   "meaning": "lối vào",
+   "pos": "danh từ",
+   "audio": "A1-29-w-entrance.mp3"
+  },
+  {
+   "word": "way",
+   "ipa": "/weɪ/",
+   "meaning": "đường đi, lối đi",
+   "pos": "danh từ",
+   "audio": "A1-29-w-way.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Can you tell me the way to the Hoa Binh building?",
+   "vi": "Bạn có thể chỉ cho tôi đường đến tòa nhà Hòa Bình không?",
+   "audio": "A1-29-ex-1.mp3"
+  },
+  {
+   "en": "I can't find it on my map.",
+   "vi": "Tôi không tìm thấy nó trên bản đồ của tôi.",
+   "audio": "A1-29-ex-2.mp3"
+  },
+  {
+   "en": "Turn right at the bank.",
+   "vi": "Rẽ phải ở chỗ ngân hàng.",
+   "audio": "A1-29-ex-3.mp3"
+  },
+  {
+   "en": "The entrance is on Tran Phu Street, next to a pharmacy.",
+   "vi": "Lối vào ở phố Trần Phú, cạnh một hiệu thuốc.",
+   "audio": "A1-29-ex-4.mp3"
+  },
+  {
+   "en": "The meeting room is on the third floor.",
+   "vi": "Phòng họp ở tầng ba.",
+   "audio": "A1-29-ex-5.mp3"
+  }
+ ]
+}

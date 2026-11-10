@@ -1,0 +1,67 @@
+{
+ "title": "Bài 08. Kỹ năng: đọc truyện và tin ngắn",
+ "vocabulary": [
+  {
+   "word": "story",
+   "ipa": "/ˈstɔːri/",
+   "meaning": "câu chuyện",
+   "pos": "danh từ",
+   "audio": "A2-08-w-story.mp3"
+  },
+  {
+   "word": "police",
+   "ipa": "/pəˈliːs/",
+   "meaning": "cảnh sát",
+   "pos": "danh từ (số nhiều)",
+   "audio": "A2-08-w-police.mp3"
+  },
+  {
+   "word": "report",
+   "ipa": "/rɪˈpɔːrt/",
+   "meaning": "bản báo cáo, biên bản; bản tin",
+   "pos": "danh từ",
+   "audio": "A2-08-w-report.mp3"
+  },
+  {
+   "word": "lucky",
+   "ipa": "/ˈlʌki/",
+   "meaning": "may mắn",
+   "pos": "tính từ",
+   "audio": "A2-08-w-lucky.mp3"
+  },
+  {
+   "word": "safe",
+   "ipa": "/seɪf/",
+   "meaning": "an toàn",
+   "pos": "tính từ",
+   "audio": "A2-08-w-safe.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Mr. Binh was walking home from the market.",
+   "vi": "Ông Bình đang đi bộ từ chợ về nhà.",
+   "audio": "A2-08-ex-1.mp3"
+  },
+  {
+   "en": "While he was crossing the street, he slipped and fell.",
+   "vi": "Trong lúc ông đang băng qua đường thì ông bị trượt và ngã.",
+   "audio": "A2-08-ex-2.mp3"
+  },
+  {
+   "en": "A young woman was waiting for the bus.",
+   "vi": "Một cô gái trẻ đang đợi xe buýt.",
+   "audio": "A2-08-ex-3.mp3"
+  },
+  {
+   "en": "The police came and wrote a report.",
+   "vi": "Cảnh sát đến và viết biên bản.",
+   "audio": "A2-08-ex-4.mp3"
+  },
+  {
+   "en": "Mr. Binh is safe now. He was very lucky.",
+   "vi": "Bây giờ ông Bình đã an toàn. Ông ấy rất may mắn.",
+   "audio": "A2-08-ex-5.mp3"
+  }
+ ]
+}

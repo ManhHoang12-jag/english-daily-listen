@@ -1,0 +1,102 @@
+{
+ "title": "Bài 02. Số 4–12 và hỏi tuổi",
+ "vocabulary": [
+  {
+   "word": "four",
+   "ipa": "/fɔːr/",
+   "meaning": "số 4",
+   "pos": "số",
+   "audio": "A1-02-w-four.mp3"
+  },
+  {
+   "word": "five",
+   "ipa": "/faɪv/",
+   "meaning": "số 5",
+   "pos": "số",
+   "audio": "A1-02-w-five.mp3"
+  },
+  {
+   "word": "six",
+   "ipa": "/sɪks/",
+   "meaning": "số 6",
+   "pos": "số",
+   "audio": "A1-02-w-six.mp3"
+  },
+  {
+   "word": "seven",
+   "ipa": "/ˈsevən/",
+   "meaning": "số 7",
+   "pos": "số",
+   "audio": "A1-02-w-seven.mp3"
+  },
+  {
+   "word": "eight",
+   "ipa": "/eɪt/",
+   "meaning": "số 8",
+   "pos": "số",
+   "audio": "A1-02-w-eight.mp3"
+  },
+  {
+   "word": "nine",
+   "ipa": "/naɪn/",
+   "meaning": "số 9",
+   "pos": "số",
+   "audio": "A1-02-w-nine.mp3"
+  },
+  {
+   "word": "ten",
+   "ipa": "/ten/",
+   "meaning": "số 10",
+   "pos": "số",
+   "audio": "A1-02-w-ten.mp3"
+  },
+  {
+   "word": "eleven",
+   "ipa": "/ɪˈlevən/",
+   "meaning": "số 11",
+   "pos": "số",
+   "audio": "A1-02-w-eleven.mp3"
+  },
+  {
+   "word": "twelve",
+   "ipa": "/twelv/",
+   "meaning": "số 12",
+   "pos": "số",
+   "audio": "A1-02-w-twelve.mp3"
+  },
+  {
+   "word": "years",
+   "ipa": "/jɪrz/",
+   "meaning": "năm (số nhiều); years old = tuổi",
+   "pos": "danh từ",
+   "audio": "A1-02-w-years.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How old are you?",
+   "vi": "Bạn bao nhiêu tuổi?",
+   "audio": "A1-02-ex-1.mp3"
+  },
+  {
+   "en": "I'm eight years old.",
+   "vi": "Tôi tám tuổi.",
+   "audio": "A1-02-ex-2.mp3"
+  },
+  {
+   "en": "How old is your son?",
+   "vi": "Con trai bạn bao nhiêu tuổi?",
+   "audio": "A1-02-ex-3.mp3"
+  },
+  {
+   "en": "He's eleven.",
+   "vi": "Nó mười một tuổi.",
+   "audio": "A1-02-ex-4.mp3"
+  },
+  {
+   "en": "My name is Hoa. I have three children, two sons and a daughter. Nam is twelve years old. Minh is eight. My daughter, Lan, is five. Lan loves cats. She has four cats!",
+   "vi": "Tôi tên là Hoa. Tôi có ba con, hai con trai và một con gái. Nam mười hai tuổi. Minh tám tuổi. Con gái tôi, Lan, năm tuổi. Lan yêu mèo. Con bé có bốn con mèo!",
+   "audio": "A1-02-ex-5.mp3"
+  }
+ ]
+}

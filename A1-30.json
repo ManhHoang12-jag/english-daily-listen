@@ -1,0 +1,74 @@
+{
+ "title": "Bài 30. Ôn tập và kiểm tra A1-3",
+ "vocabulary": [
+  {
+   "word": "opposite",
+   "ipa": "/ˈɑːpəzɪt/",
+   "meaning": "đối diện",
+   "pos": "giới từ",
+   "audio": "A1-30-w-opposite.mp3"
+  },
+  {
+   "word": "there are",
+   "ipa": "/ðer ɑːr/",
+   "meaning": "có (nhiều cái, ở đâu đó)",
+   "pos": "cụm từ",
+   "audio": "A1-30-w-there-are.mp3"
+  },
+  {
+   "word": "near here",
+   "ipa": "/nɪr hɪr/",
+   "meaning": "gần đây",
+   "pos": "cụm từ",
+   "audio": "A1-30-w-near-here.mp3"
+  },
+  {
+   "word": "straight",
+   "ipa": "/streɪt/",
+   "meaning": "thẳng",
+   "pos": "trạng từ",
+   "audio": "A1-30-w-straight.mp3"
+  },
+  {
+   "word": "can't",
+   "ipa": "/kænt/",
+   "meaning": "không thể, không biết (= cannot)",
+   "pos": "dạng gọn",
+   "audio": "A1-30-w-can-t.mp3"
+  },
+  {
+   "word": "borrow",
+   "ipa": "/ˈbɑːroʊ/",
+   "meaning": "mượn",
+   "pos": "động từ",
+   "audio": "A1-30-w-borrow.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "There are two parks and a big supermarket on my street.",
+   "vi": "Trên phố nhà tôi có hai công viên và một siêu thị lớn.",
+   "audio": "A1-30-ex-1.mp3"
+  },
+  {
+   "en": "Is there a bank near here? Yes, there is. It's opposite the station.",
+   "vi": "Gần đây có ngân hàng không? Có. Nó ở đối diện nhà ga.",
+   "audio": "A1-30-ex-2.mp3"
+  },
+  {
+   "en": "Go straight along this road and turn left at the corner.",
+   "vi": "Đi thẳng dọc con đường này rồi rẽ trái ở góc phố.",
+   "audio": "A1-30-ex-3.mp3"
+  },
+  {
+   "en": "My brother can't drive. Can you help him?",
+   "vi": "Anh trai tôi không biết lái xe. Bạn giúp anh ấy được không?",
+   "audio": "A1-30-ex-4.mp3"
+  },
+  {
+   "en": "Can I borrow your map? Sure.",
+   "vi": "Tôi mượn bản đồ của bạn được không? Được chứ.",
+   "audio": "A1-30-ex-5.mp3"
+  }
+ ]
+}

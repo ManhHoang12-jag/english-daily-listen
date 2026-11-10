@@ -1,0 +1,74 @@
+{
+ "title": "Bài 36. Could / would: nhờ vả lịch sự",
+ "vocabulary": [
+  {
+   "word": "could",
+   "ipa": "/kʊd/",
+   "meaning": "(dùng để nhờ, xin phép lịch sự); quá khứ của can",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-36-w-could.mp3"
+  },
+  {
+   "word": "would",
+   "ipa": "/wʊd/",
+   "meaning": "(dùng để nhờ lịch sự: Would you...?)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-36-w-would.mp3"
+  },
+  {
+   "word": "repeat",
+   "ipa": "/rɪˈpiːt/",
+   "meaning": "nhắc lại",
+   "pos": "động từ",
+   "audio": "A2-36-w-repeat.mp3"
+  },
+  {
+   "word": "explain",
+   "ipa": "/ɪkˈspleɪn/",
+   "meaning": "giải thích",
+   "pos": "động từ",
+   "audio": "A2-36-w-explain.mp3"
+  },
+  {
+   "word": "fill in",
+   "ipa": "/ˌfɪl ˈɪn/",
+   "meaning": "điền (tờ khai, phiếu)",
+   "pos": "cụm động từ",
+   "audio": "A2-36-w-fill-in.mp3"
+  },
+  {
+   "word": "sign",
+   "ipa": "/saɪn/",
+   "meaning": "ký (tên)",
+   "pos": "động từ",
+   "audio": "A2-36-w-sign.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Could you repeat that, please? Sure.",
+   "vi": "Anh nhắc lại được không ạ? Được chứ.",
+   "audio": "A2-36-ex-1.mp3"
+  },
+  {
+   "en": "Could you explain this form to me, please?",
+   "vi": "Chị giải thích tờ khai này cho tôi được không ạ?",
+   "audio": "A2-36-ex-2.mp3"
+  },
+  {
+   "en": "Could I borrow your pen? Of course.",
+   "vi": "Tôi mượn bút của anh được không ạ? Tất nhiên rồi.",
+   "audio": "A2-36-ex-3.mp3"
+  },
+  {
+   "en": "Would you fill in this form, please?",
+   "vi": "Anh vui lòng điền tờ khai này.",
+   "audio": "A2-36-ex-4.mp3"
+  },
+  {
+   "en": "Could you sign here, please? Sure.",
+   "vi": "Chị ký vào đây được không ạ? Được chứ.",
+   "audio": "A2-36-ex-5.mp3"
+  }
+ ]
+}

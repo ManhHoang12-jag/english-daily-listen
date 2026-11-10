@@ -1,0 +1,88 @@
+{
+ "title": "Bài 09. Kỹ năng: điền phiếu thông tin cá nhân",
+ "vocabulary": [
+  {
+   "word": "form",
+   "ipa": "/fɔːrm/",
+   "meaning": "phiếu, mẫu đơn",
+   "pos": "danh từ",
+   "audio": "A1-09-w-form.mp3"
+  },
+  {
+   "word": "age",
+   "ipa": "/eɪdʒ/",
+   "meaning": "tuổi",
+   "pos": "danh từ",
+   "audio": "A1-09-w-age.mp3"
+  },
+  {
+   "word": "nationality",
+   "ipa": "/ˌnæʃəˈnæləti/",
+   "meaning": "quốc tịch",
+   "pos": "danh từ",
+   "audio": "A1-09-w-nationality.mp3"
+  },
+  {
+   "word": "Vietnamese",
+   "ipa": "/viˌetnəˈmiːz/",
+   "meaning": "người Việt, thuộc Việt Nam, tiếng Việt",
+   "pos": "tính từ / danh từ",
+   "audio": "A1-09-w-vietnamese.mp3"
+  },
+  {
+   "word": "Vietnam",
+   "ipa": "/viˌetˈnɑːm/",
+   "meaning": "nước Việt Nam",
+   "pos": "danh từ riêng",
+   "audio": "A1-09-w-vietnam.mp3"
+  },
+  {
+   "word": "married",
+   "ipa": "/ˈmerid/",
+   "meaning": "đã kết hôn",
+   "pos": "tính từ",
+   "audio": "A1-09-w-married.mp3"
+  },
+  {
+   "word": "single",
+   "ipa": "/ˈsɪŋɡəl/",
+   "meaning": "độc thân",
+   "pos": "tính từ",
+   "audio": "A1-09-w-single.mp3"
+  },
+  {
+   "word": "country",
+   "ipa": "/ˈkʌntri/",
+   "meaning": "đất nước",
+   "pos": "danh từ",
+   "audio": "A1-09-w-country.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Her first name is Hoa.",
+   "vi": "Tên của cô ấy là Hoa.",
+   "audio": "A1-09-ex-1.mp3"
+  },
+  {
+   "en": "She is 34 years old.",
+   "vi": "Cô ấy 34 tuổi.",
+   "audio": "A1-09-ex-2.mp3"
+  },
+  {
+   "en": "She's from Vietnam. She's Vietnamese.",
+   "vi": "Cô ấy đến từ Việt Nam. Cô ấy là người Việt.",
+   "audio": "A1-09-ex-3.mp3"
+  },
+  {
+   "en": "Where are you from? I'm from Vietnam.",
+   "vi": "Bạn đến từ đâu? Tôi đến từ Việt Nam.",
+   "audio": "A1-09-ex-4.mp3"
+  },
+  {
+   "en": "She is married.",
+   "vi": "Cô ấy đã kết hôn.",
+   "audio": "A1-09-ex-5.mp3"
+  }
+ ]
+}

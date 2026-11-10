@@ -1,0 +1,88 @@
+{
+ "title": "Bài 28. Từ chỉ lượng: many, much, a few, a little",
+ "vocabulary": [
+  {
+   "word": "many",
+   "ipa": "/ˈmeni/",
+   "meaning": "nhiều (đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-many.mp3"
+  },
+  {
+   "word": "much",
+   "ipa": "/mʌtʃ/",
+   "meaning": "nhiều (không đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-much.mp3"
+  },
+  {
+   "word": "a few",
+   "ipa": "/ə ˈfju/",
+   "meaning": "vài, một ít (đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-a-few.mp3"
+  },
+  {
+   "word": "a little",
+   "ipa": "/ə ˈlɪtəl/",
+   "meaning": "một ít (không đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-a-little.mp3"
+  },
+  {
+   "word": "few",
+   "ipa": "/fju/",
+   "meaning": "rất ít, gần như không (đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-few.mp3"
+  },
+  {
+   "word": "little",
+   "ipa": "/ˈlɪtəl/",
+   "meaning": "rất ít, gần như không (không đếm được)",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-little.mp3"
+  },
+  {
+   "word": "none",
+   "ipa": "/nʌn/",
+   "meaning": "không cái nào, không chút nào",
+   "pos": "đại từ",
+   "audio": "A2-28-w-none.mp3"
+  },
+  {
+   "word": "plenty of",
+   "ipa": "/ˈplenti əv/",
+   "meaning": "nhiều, dư dả",
+   "pos": "từ chỉ lượng",
+   "audio": "A2-28-w-plenty-of.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I only buy a few T-shirts every year.",
+   "vi": "Mỗi năm tôi chỉ mua vài chiếc áo phông.",
+   "audio": "A2-28-ex-1.mp3"
+  },
+  {
+   "en": "I don't have much money for clothes.",
+   "vi": "Tôi không có nhiều tiền cho quần áo.",
+   "audio": "A2-28-ex-2.mp3"
+  },
+  {
+   "en": "I save a little money every month.",
+   "vi": "Mỗi tháng tôi tiết kiệm được một ít tiền.",
+   "audio": "A2-28-ex-3.mp3"
+  },
+  {
+   "en": "Few shops near my office take cash now.",
+   "vi": "Bây giờ rất ít cửa hàng gần văn phòng tôi nhận tiền mặt.",
+   "audio": "A2-28-ex-4.mp3"
+  },
+  {
+   "en": "How many expensive clothes did you buy last month? None.",
+   "vi": "Tháng trước bạn mua bao nhiêu bộ quần áo đắt tiền? Không bộ nào.",
+   "audio": "A2-28-ex-5.mp3"
+  }
+ ]
+}

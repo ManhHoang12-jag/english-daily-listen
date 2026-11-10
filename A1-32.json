@@ -1,0 +1,81 @@
+{
+ "title": "Bài 32. Danh từ đếm được, không đếm được và some/any",
+ "vocabulary": [
+  {
+   "word": "some",
+   "ipa": "/sʌm/",
+   "meaning": "một ít, một vài",
+   "pos": "từ hạn định",
+   "audio": "A1-32-w-some.mp3"
+  },
+  {
+   "word": "sugar",
+   "ipa": "/ˈʃʊɡɚ/",
+   "meaning": "đường (ăn)",
+   "pos": "danh từ không đếm được",
+   "audio": "A1-32-w-sugar.mp3"
+  },
+  {
+   "word": "salt",
+   "ipa": "/sɔːlt/",
+   "meaning": "muối",
+   "pos": "danh từ không đếm được",
+   "audio": "A1-32-w-salt.mp3"
+  },
+  {
+   "word": "oil",
+   "ipa": "/ɔɪl/",
+   "meaning": "dầu (ăn)",
+   "pos": "danh từ không đếm được",
+   "audio": "A1-32-w-oil.mp3"
+  },
+  {
+   "word": "bottle",
+   "ipa": "/ˈbɑːtəl/",
+   "meaning": "cái chai",
+   "pos": "danh từ",
+   "audio": "A1-32-w-bottle.mp3"
+  },
+  {
+   "word": "glass",
+   "ipa": "/ɡlæs/",
+   "meaning": "cái cốc (thủy tinh), cái ly",
+   "pos": "danh từ",
+   "audio": "A1-32-w-glass.mp3"
+  },
+  {
+   "word": "cup",
+   "ipa": "/kʌp/",
+   "meaning": "cái tách, cái chén (uống trà, cà phê)",
+   "pos": "danh từ",
+   "audio": "A1-32-w-cup.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "There is some rice in the kitchen.",
+   "vi": "Trong bếp có một ít gạo.",
+   "audio": "A1-32-ex-1.mp3"
+  },
+  {
+   "en": "There are some eggs on the table.",
+   "vi": "Trên bàn có vài quả trứng.",
+   "audio": "A1-32-ex-2.mp3"
+  },
+  {
+   "en": "There is a bottle of oil next to the eggs.",
+   "vi": "Có một chai dầu ăn bên cạnh trứng.",
+   "audio": "A1-32-ex-3.mp3"
+  },
+  {
+   "en": "There isn't any sugar.",
+   "vi": "Không có chút đường nào.",
+   "audio": "A1-32-ex-4.mp3"
+  },
+  {
+   "en": "Are there any apples? No, there aren't.",
+   "vi": "Có quả táo nào không? Không, không có.",
+   "audio": "A1-32-ex-5.mp3"
+  }
+ ]
+}

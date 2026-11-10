@@ -1,0 +1,88 @@
+{
+ "title": "Bài 03. Số 13–100 và số điện thoại",
+ "vocabulary": [
+  {
+   "word": "thirteen",
+   "ipa": "/ˌθɝːˈtiːn/",
+   "meaning": "số 13 (thir-TEEN)",
+   "pos": "số",
+   "audio": "A1-03-w-thirteen.mp3"
+  },
+  {
+   "word": "fifteen",
+   "ipa": "/ˌfɪfˈtiːn/",
+   "meaning": "số 15 (fif-TEEN)",
+   "pos": "số",
+   "audio": "A1-03-w-fifteen.mp3"
+  },
+  {
+   "word": "twenty",
+   "ipa": "/ˈtwenti/",
+   "meaning": "số 20",
+   "pos": "số",
+   "audio": "A1-03-w-twenty.mp3"
+  },
+  {
+   "word": "thirty",
+   "ipa": "/ˈθɝːti/",
+   "meaning": "số 30 (THIR-ty)",
+   "pos": "số",
+   "audio": "A1-03-w-thirty.mp3"
+  },
+  {
+   "word": "forty",
+   "ipa": "/ˈfɔːrti/",
+   "meaning": "số 40 (FOR-ty)",
+   "pos": "số",
+   "audio": "A1-03-w-forty.mp3"
+  },
+  {
+   "word": "fifty",
+   "ipa": "/ˈfɪfti/",
+   "meaning": "số 50 (FIF-ty)",
+   "pos": "số",
+   "audio": "A1-03-w-fifty.mp3"
+  },
+  {
+   "word": "hundred",
+   "ipa": "/ˈhʌndrəd/",
+   "meaning": "trăm; a hundred = 100",
+   "pos": "số",
+   "audio": "A1-03-w-hundred.mp3"
+  },
+  {
+   "word": "number",
+   "ipa": "/ˈnʌmbɚ/",
+   "meaning": "số; phone number = số điện thoại",
+   "pos": "danh từ",
+   "audio": "A1-03-w-number.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm thirty-five years old.",
+   "vi": "Tôi ba mươi lăm tuổi.",
+   "audio": "A1-03-ex-1.mp3"
+  },
+  {
+   "en": "My father is seventy, and my son is seventeen.",
+   "vi": "Bố tôi bảy mươi tuổi, còn con trai tôi mười bảy tuổi.",
+   "audio": "A1-03-ex-2.mp3"
+  },
+  {
+   "en": "What's your phone number?",
+   "vi": "Số điện thoại của bạn là gì?",
+   "audio": "A1-03-ex-3.mp3"
+  },
+  {
+   "en": "It's oh nine one two, three four five, six seven eight.",
+   "vi": "Là 0912 345 678.",
+   "audio": "A1-03-ex-4.mp3"
+  },
+  {
+   "en": "My name is Nam. I am a teacher. I am forty years old. I have fifty students. My son is fifteen. My father is seventy-six. My phone number is oh nine eight three, one five five, two one four.",
+   "vi": "Tôi tên là Nam. Tôi là giáo viên. Tôi bốn mươi tuổi. Tôi có năm mươi học sinh. Con trai tôi mười lăm tuổi. Bố tôi bảy mươi sáu tuổi. Số điện thoại của tôi là 0983 155 214.",
+   "audio": "A1-03-ex-5.mp3"
+  }
+ ]
+}

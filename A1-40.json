@@ -1,0 +1,74 @@
+{
+ "title": "Bài 40. Ôn tập và kiểm tra A1-4",
+ "vocabulary": [
+  {
+   "word": "vegetables",
+   "ipa": "/ˈvedʒtəbəlz/",
+   "meaning": "rau, rau củ (ôn Bài 31)",
+   "pos": "danh từ",
+   "audio": "A1-40-w-vegetables.mp3"
+  },
+  {
+   "word": "how many",
+   "ipa": "/haʊ ˈmeni/",
+   "meaning": "bao nhiêu (đếm được, ôn Bài 33)",
+   "pos": "cụm từ để hỏi",
+   "audio": "A1-40-w-how-many.mp3"
+  },
+  {
+   "word": "expensive",
+   "ipa": "/ɪkˈspensɪv/",
+   "meaning": "đắt (ôn Bài 34)",
+   "pos": "tính từ",
+   "audio": "A1-40-w-expensive.mp3"
+  },
+  {
+   "word": "better",
+   "ipa": "/ˈbetər/",
+   "meaning": "tốt hơn (ôn Bài 36)",
+   "pos": "tính từ so sánh",
+   "audio": "A1-40-w-better.mp3"
+  },
+  {
+   "word": "would like",
+   "ipa": "/wʊd laɪk/",
+   "meaning": "muốn (lịch sự, ôn Bài 38)",
+   "pos": "cụm động từ",
+   "audio": "A1-40-w-would-like.mp3"
+  },
+  {
+   "word": "delicious",
+   "ipa": "/dɪˈlɪʃəs/",
+   "meaning": "ngon (ôn Bài 39)",
+   "pos": "tính từ",
+   "audio": "A1-40-w-delicious.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like a kilo of potatoes and some eggs.",
+   "vi": "Cho tôi một cân khoai tây và ít trứng.",
+   "audio": "A1-40-ex-1.mp3"
+  },
+  {
+   "en": "How many eggs would you like? Ten, please.",
+   "vi": "Chị muốn mấy quả trứng? Mười quả.",
+   "audio": "A1-40-ex-2.mp3"
+  },
+  {
+   "en": "How much is the fish? It's eight dollars.",
+   "vi": "Con cá bao nhiêu tiền? Tám đô la.",
+   "audio": "A1-40-ex-3.mp3"
+  },
+  {
+   "en": "This fish is too expensive. The chicken is cheaper.",
+   "vi": "Con cá này đắt quá. Gà rẻ hơn.",
+   "audio": "A1-40-ex-4.mp3"
+  },
+  {
+   "en": "I hate cooking, but I love eating!",
+   "vi": "Tôi ghét nấu ăn, nhưng tôi rất thích ăn!",
+   "audio": "A1-40-ex-5.mp3"
+  }
+ ]
+}

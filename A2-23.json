@@ -1,0 +1,60 @@
+{
+ "title": "Bài 23. Will hay going to",
+ "vocabulary": [
+  {
+   "word": "career",
+   "ipa": "/kəˈrɪr/",
+   "meaning": "sự nghiệp, con đường nghề nghiệp",
+   "pos": "danh từ",
+   "audio": "A2-23-w-career.mp3"
+  },
+  {
+   "word": "retire",
+   "ipa": "/rɪˈtaɪər/",
+   "meaning": "nghỉ hưu",
+   "pos": "động từ",
+   "audio": "A2-23-w-retire.mp3"
+  },
+  {
+   "word": "save money",
+   "ipa": "/ˌseɪv ˈmʌni/",
+   "meaning": "tiết kiệm tiền",
+   "pos": "cụm động từ",
+   "audio": "A2-23-w-save-money.mp3"
+  },
+  {
+   "word": "get married",
+   "ipa": "/ˌɡet ˈmerid/",
+   "meaning": "kết hôn, cưới",
+   "pos": "cụm động từ",
+   "audio": "A2-23-w-get-married.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm going to save money every month, because I'm going to buy an apartment.",
+   "vi": "Tôi định tiết kiệm tiền hằng tháng, vì tôi định mua một căn hộ.",
+   "audio": "A2-23-ex-1.mp3"
+  },
+  {
+   "en": "Linh and I are getting married in October. We've already booked the restaurant.",
+   "vi": "Linh và tôi sẽ kết hôn vào tháng Mười. Chúng tôi đã đặt nhà hàng rồi.",
+   "audio": "A2-23-ex-2.mp3"
+  },
+  {
+   "en": "Look at the sky! It's going to rain.",
+   "vi": "Nhìn bầu trời kìa! Trời sắp mưa rồi.",
+   "audio": "A2-23-ex-3.mp3"
+  },
+  {
+   "en": "I don't think I'll retire early. I'll probably retire at sixty-five.",
+   "vi": "Tôi không nghĩ là tôi sẽ nghỉ hưu sớm. Có lẽ tôi sẽ nghỉ hưu ở tuổi 65.",
+   "audio": "A2-23-ex-4.mp3"
+  },
+  {
+   "en": "We don't have any milk? OK, I'll buy some.",
+   "vi": "Nhà mình hết sữa à? Được, để tôi đi mua.",
+   "audio": "A2-23-ex-5.mp3"
+  }
+ ]
+}

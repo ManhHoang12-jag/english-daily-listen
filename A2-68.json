@@ -1,0 +1,67 @@
+{
+ "title": "Bài 68. Gợi ý và lời mời",
+ "vocabulary": [
+  {
+   "word": "let's",
+   "ipa": "/lets/",
+   "meaning": "chúng ta hãy..., mình... đi (rủ cùng làm)",
+   "pos": "cụm gợi ý",
+   "audio": "A2-68-w-let-s.mp3"
+  },
+  {
+   "word": "shall",
+   "ipa": "/ʃæl/",
+   "meaning": "nhé (Shall we...? = mình... nhé?)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-68-w-shall.mp3"
+  },
+  {
+   "word": "how about",
+   "ipa": "/haʊ əˈbaʊt/",
+   "meaning": "... thì sao?, hay là...?",
+   "pos": "cụm gợi ý",
+   "audio": "A2-68-w-how-about.mp3"
+  },
+  {
+   "word": "why don't we",
+   "ipa": "/waɪ ˈdoʊnt wi/",
+   "meaning": "sao mình không... nhỉ?",
+   "pos": "cụm gợi ý",
+   "audio": "A2-68-w-why-don-t-we.mp3"
+  },
+  {
+   "word": "sounds good",
+   "ipa": "/saʊndz ˈɡʊd/",
+   "meaning": "nghe được đấy, đồng ý",
+   "pos": "cụm đáp lời",
+   "audio": "A2-68-w-sounds-good.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Let's go to the cinema tonight.",
+   "vi": "Tối nay mình đi xem phim đi.",
+   "audio": "A2-68-ex-1.mp3"
+  },
+  {
+   "en": "Why don't we have dinner at the new restaurant?",
+   "vi": "Sao mình không ăn tối ở nhà hàng mới nhỉ?",
+   "audio": "A2-68-ex-2.mp3"
+  },
+  {
+   "en": "How about going hiking on Sunday?",
+   "vi": "Chủ nhật mình đi leo núi thì sao?",
+   "audio": "A2-68-ex-3.mp3"
+  },
+  {
+   "en": "Shall we meet at seven? Sounds good.",
+   "vi": "Mình gặp nhau lúc bảy giờ nhé? Được đấy.",
+   "audio": "A2-68-ex-4.mp3"
+  },
+  {
+   "en": "Would you like to come to my party? I'd love to, but I'm working that day.",
+   "vi": "Bạn có muốn đến bữa tiệc của mình không? Mình rất muốn, nhưng hôm đó mình đi làm.",
+   "audio": "A2-68-ex-5.mp3"
+  }
+ ]
+}

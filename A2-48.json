@@ -1,0 +1,88 @@
+{
+ "title": "Bài 48. Chủ đề: hồ sơ, phỏng vấn, học lên cao",
+ "vocabulary": [
+  {
+   "word": "apply",
+   "ipa": "/əˈplaɪ/",
+   "meaning": "nộp đơn, xin (apply for)",
+   "pos": "động từ",
+   "audio": "A2-48-w-apply.mp3"
+  },
+  {
+   "word": "interview",
+   "ipa": "/ˈɪntərvjuː/",
+   "meaning": "cuộc phỏng vấn",
+   "pos": "danh từ",
+   "audio": "A2-48-w-interview.mp3"
+  },
+  {
+   "word": "skill",
+   "ipa": "/skɪl/",
+   "meaning": "kỹ năng",
+   "pos": "danh từ",
+   "audio": "A2-48-w-skill.mp3"
+  },
+  {
+   "word": "qualification",
+   "ipa": "/ˌkwɑːlɪfɪˈkeɪʃən/",
+   "meaning": "bằng cấp, chứng chỉ",
+   "pos": "danh từ",
+   "audio": "A2-48-w-qualification.mp3"
+  },
+  {
+   "word": "degree",
+   "ipa": "/dɪˈɡriː/",
+   "meaning": "bằng đại học",
+   "pos": "danh từ",
+   "audio": "A2-48-w-degree.mp3"
+  },
+  {
+   "word": "master's",
+   "ipa": "/ˈmæstərz/",
+   "meaning": "bằng thạc sĩ (a master's degree)",
+   "pos": "danh từ",
+   "audio": "A2-48-w-master-s.mp3"
+  },
+  {
+   "word": "certificate",
+   "ipa": "/sərˈtɪfɪkət/",
+   "meaning": "chứng chỉ, giấy chứng nhận",
+   "pos": "danh từ",
+   "audio": "A2-48-w-certificate.mp3"
+  },
+  {
+   "word": "university",
+   "ipa": "/ˌjuːnɪˈvɝːsəti/",
+   "meaning": "trường đại học",
+   "pos": "danh từ",
+   "audio": "A2-48-w-university.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I studied English at Hanoi University.",
+   "vi": "Tôi đã học tiếng Anh ở Trường Đại học Hà Nội.",
+   "audio": "A2-48-ex-1.mp3"
+  },
+  {
+   "en": "I've worked as an engineer for eight years.",
+   "vi": "Tôi làm kỹ sư được tám năm rồi.",
+   "audio": "A2-48-ex-2.mp3"
+  },
+  {
+   "en": "I have an English certificate and good computer skills.",
+   "vi": "Tôi có chứng chỉ tiếng Anh và kỹ năng máy tính tốt.",
+   "audio": "A2-48-ex-3.mp3"
+  },
+  {
+   "en": "I plan to apply for a master's degree next year.",
+   "vi": "Tôi dự định nộp hồ sơ học thạc sĩ vào năm sau.",
+   "audio": "A2-48-ex-4.mp3"
+  },
+  {
+   "en": "I have an interview at the university on Monday.",
+   "vi": "Thứ Hai tôi có một buổi phỏng vấn ở trường đại học.",
+   "audio": "A2-48-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Bài 87. Luyện thi Nghe",
+ "vocabulary": [
+  {
+   "word": "detail",
+   "ipa": "/ˈdiːteɪl/",
+   "meaning": "chi tiết (ôn A2 · Bài 79)",
+   "pos": "danh từ",
+   "audio": "A2-87-w-detail.mp3"
+  },
+  {
+   "word": "missing",
+   "ipa": "/ˈmɪsɪŋ/",
+   "meaning": "bị thiếu, còn trống (ôn A2 · Bài 79)",
+   "pos": "tính từ",
+   "audio": "A2-87-w-missing.mp3"
+  },
+  {
+   "word": "correct",
+   "ipa": "/kəˈrɛkt/",
+   "meaning": "đúng (ôn A2 · Bài 79)",
+   "pos": "tính từ",
+   "audio": "A2-87-w-correct.mp3"
+  },
+  {
+   "word": "announcement",
+   "ipa": "/əˈnaʊnsmənt/",
+   "meaning": "thông báo (ôn A1 · Bài 58)",
+   "pos": "danh từ",
+   "audio": "A2-87-w-announcement.mp3"
+  },
+  {
+   "word": "information",
+   "ipa": "/ˌɪnfɚˈmeɪʃən/",
+   "meaning": "thông tin (ôn A2 · Bài 49)",
+   "pos": "danh từ",
+   "audio": "A2-87-w-information.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What did you buy at the market? I wanted some fish, but there wasn't any, so I bought chicken and some oranges.",
+   "vi": "Bạn mua gì ở chợ? Mình định mua cá, nhưng hết cá rồi, nên mình mua gà và ít cam.",
+   "audio": "A2-87-ex-1.mp3"
+  },
+  {
+   "en": "Are you taking a taxi to the airport tomorrow? No, it's too expensive. My brother is going to drive me there.",
+   "vi": "Mai bạn đi taxi ra sân bay à? Không, đắt quá. Anh trai mình sẽ chở mình đi.",
+   "audio": "A2-87-ex-2.mp3"
+  },
+  {
+   "en": "Welcome to City Sports Club. The swimming pool is open every day from six a.m. to nine p.m. A one-month ticket costs thirty-five dollars.",
+   "vi": "Chào mừng đến Câu lạc bộ Thể thao Thành phố. Bể bơi mở cửa hằng ngày từ 6 giờ sáng đến 9 giờ tối. Vé một tháng giá 35 đô la.",
+   "audio": "A2-87-ex-3.mp3"
+  },
+  {
+   "en": "Hi Mai, it's Tom. I'm sorry, but I can't meet you at the coffee shop at four. I have to finish a report for my boss. Can we meet at six instead?",
+   "vi": "Chào Mai, Tom đây. Xin lỗi, mình không gặp bạn ở quán cà phê lúc 4 giờ được. Mình phải làm xong báo cáo cho sếp. Mình gặp lúc 6 giờ được không?",
+   "audio": "A2-87-ex-4.mp3"
+  },
+  {
+   "en": "Did you enjoy the film? Well, the actors were great, but the story was boring, and it was too long.",
+   "vi": "Bạn có thích bộ phim không? Ừm, diễn viên rất giỏi, nhưng cốt truyện chán, và phim dài quá.",
+   "audio": "A2-87-ex-5.mp3"
+  }
+ ]
+}

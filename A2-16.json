@@ -1,0 +1,88 @@
+{
+ "title": "Bài 16. Chủ đề: khách sạn và đặt phòng",
+ "vocabulary": [
+  {
+   "word": "reservation",
+   "ipa": "/ˌrezərˈveɪʃən/",
+   "meaning": "sự đặt chỗ, đặt phòng",
+   "pos": "danh từ",
+   "audio": "A2-16-w-reservation.mp3"
+  },
+  {
+   "word": "check in",
+   "ipa": "/ˌtʃek ˈɪn/",
+   "meaning": "nhận phòng, làm thủ tục",
+   "pos": "cụm động từ",
+   "audio": "A2-16-w-check-in.mp3"
+  },
+  {
+   "word": "check out",
+   "ipa": "/ˌtʃek ˈaʊt/",
+   "meaning": "trả phòng",
+   "pos": "cụm động từ",
+   "audio": "A2-16-w-check-out.mp3"
+  },
+  {
+   "word": "single room",
+   "ipa": "/ˌsɪŋɡəl ˈruːm/",
+   "meaning": "phòng đơn",
+   "pos": "cụm danh từ",
+   "audio": "A2-16-w-single-room.mp3"
+  },
+  {
+   "word": "double room",
+   "ipa": "/ˌdʌbəl ˈruːm/",
+   "meaning": "phòng đôi",
+   "pos": "cụm danh từ",
+   "audio": "A2-16-w-double-room.mp3"
+  },
+  {
+   "word": "reception",
+   "ipa": "/rɪˈsepʃən/",
+   "meaning": "quầy lễ tân",
+   "pos": "danh từ",
+   "audio": "A2-16-w-reception.mp3"
+  },
+  {
+   "word": "luggage",
+   "ipa": "/ˈlʌɡɪdʒ/",
+   "meaning": "hành lý (không đếm được)",
+   "pos": "danh từ",
+   "audio": "A2-16-w-luggage.mp3"
+  },
+  {
+   "word": "tourist",
+   "ipa": "/ˈtʊrɪst/",
+   "meaning": "khách du lịch",
+   "pos": "danh từ",
+   "audio": "A2-16-w-tourist.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like to book a double room for two nights.",
+   "vi": "Tôi muốn đặt một phòng đôi trong hai đêm.",
+   "audio": "A2-16-ex-1.mp3"
+  },
+  {
+   "en": "I've booked a single room for tonight.",
+   "vi": "Tôi đã đặt một phòng đơn cho tối nay.",
+   "audio": "A2-16-ex-2.mp3"
+  },
+  {
+   "en": "Is breakfast included?",
+   "vi": "Có bao gồm bữa sáng không?",
+   "audio": "A2-16-ex-3.mp3"
+  },
+  {
+   "en": "Can I check in now?",
+   "vi": "Tôi có thể nhận phòng bây giờ không?",
+   "audio": "A2-16-ex-4.mp3"
+  },
+  {
+   "en": "Can I leave my luggage at reception?",
+   "vi": "Tôi có thể để hành lý ở quầy lễ tân không?",
+   "audio": "A2-16-ex-5.mp3"
+  }
+ ]
+}

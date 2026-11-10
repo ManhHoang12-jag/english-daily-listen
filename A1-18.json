@@ -1,0 +1,95 @@
+{
+ "title": "Bài 18. Tháng 7–12, số thứ tự và ngày tháng",
+ "vocabulary": [
+  {
+   "word": "July",
+   "ipa": "/dʒʊˈlaɪ/",
+   "meaning": "tháng Bảy",
+   "pos": "danh từ",
+   "audio": "A1-18-w-july.mp3"
+  },
+  {
+   "word": "August",
+   "ipa": "/ˈɑːɡəst/",
+   "meaning": "tháng Tám",
+   "pos": "danh từ",
+   "audio": "A1-18-w-august.mp3"
+  },
+  {
+   "word": "September",
+   "ipa": "/sepˈtembɚ/",
+   "meaning": "tháng Chín",
+   "pos": "danh từ",
+   "audio": "A1-18-w-september.mp3"
+  },
+  {
+   "word": "October",
+   "ipa": "/ɑːkˈtoʊbɚ/",
+   "meaning": "tháng Mười",
+   "pos": "danh từ",
+   "audio": "A1-18-w-october.mp3"
+  },
+  {
+   "word": "November",
+   "ipa": "/noʊˈvembɚ/",
+   "meaning": "tháng Mười Một",
+   "pos": "danh từ",
+   "audio": "A1-18-w-november.mp3"
+  },
+  {
+   "word": "December",
+   "ipa": "/dɪˈsembɚ/",
+   "meaning": "tháng Mười Hai",
+   "pos": "danh từ",
+   "audio": "A1-18-w-december.mp3"
+  },
+  {
+   "word": "first",
+   "ipa": "/fɝːst/",
+   "meaning": "thứ nhất; ngày mùng 1",
+   "pos": "số thứ tự",
+   "audio": "A1-18-w-first.mp3"
+  },
+  {
+   "word": "second",
+   "ipa": "/ˈsekənd/",
+   "meaning": "thứ hai; ngày mùng 2",
+   "pos": "số thứ tự",
+   "audio": "A1-18-w-second.mp3"
+  },
+  {
+   "word": "third",
+   "ipa": "/θɝːd/",
+   "meaning": "thứ ba; ngày mùng 3",
+   "pos": "số thứ tự",
+   "audio": "A1-18-w-third.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Lan's birthday is on July fourth.",
+   "vi": "Sinh nhật Lan vào ngày 4 tháng 7.",
+   "audio": "A1-18-ex-1.mp3"
+  },
+  {
+   "en": "School starts on September fifth.",
+   "vi": "Năm học bắt đầu vào ngày 5 tháng 9.",
+   "audio": "A1-18-ex-2.mp3"
+  },
+  {
+   "en": "Her husband's birthday is on the twenty-third of August.",
+   "vi": "Sinh nhật chồng chị ấy vào ngày 23 tháng 8.",
+   "audio": "A1-18-ex-3.mp3"
+  },
+  {
+   "en": "Their son's birthday is on November twelfth.",
+   "vi": "Sinh nhật con trai họ vào ngày 12 tháng 11.",
+   "audio": "A1-18-ex-4.mp3"
+  },
+  {
+   "en": "Today is October first.",
+   "vi": "Hôm nay là ngày 1 tháng 10.",
+   "audio": "A1-18-ex-5.mp3"
+  }
+ ]
+}

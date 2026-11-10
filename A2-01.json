@@ -1,0 +1,67 @@
+{
+ "title": "Bài 01. Ôn quá khứ đơn qua chuyện cuối tuần",
+ "vocabulary": [
+  {
+   "word": "relax",
+   "ipa": "/rɪˈlæks/",
+   "meaning": "thư giãn, nghỉ ngơi",
+   "pos": "động từ",
+   "audio": "A2-01-w-relax.mp3"
+  },
+  {
+   "word": "tidy",
+   "ipa": "/ˈtaɪdi/",
+   "meaning": "dọn dẹp cho gọn gàng",
+   "pos": "động từ",
+   "audio": "A2-01-w-tidy.mp3"
+  },
+  {
+   "word": "chat",
+   "ipa": "/tʃæt/",
+   "meaning": "trò chuyện, tán gẫu",
+   "pos": "động từ",
+   "audio": "A2-01-w-chat.mp3"
+  },
+  {
+   "word": "do the laundry",
+   "ipa": "/du ðə ˈlɔːndri/",
+   "meaning": "giặt quần áo",
+   "pos": "cụm động từ",
+   "audio": "A2-01-w-do-the-laundry.mp3"
+  },
+  {
+   "word": "go shopping",
+   "ipa": "/ɡoʊ ˈʃɑːpɪŋ/",
+   "meaning": "đi mua sắm",
+   "pos": "cụm động từ",
+   "audio": "A2-01-w-go-shopping.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "On Saturday morning, I did the laundry and tidied my room.",
+   "vi": "Sáng thứ Bảy, tôi giặt quần áo và dọn phòng.",
+   "audio": "A2-01-ex-1.mp3"
+  },
+  {
+   "en": "In the afternoon, I went shopping with my sister.",
+   "vi": "Buổi chiều, tôi đi mua sắm với em gái.",
+   "audio": "A2-01-ex-2.mp3"
+  },
+  {
+   "en": "I chatted with my friend Mai on the phone for an hour.",
+   "vi": "Tôi trò chuyện điện thoại với bạn tôi là Mai suốt một tiếng.",
+   "audio": "A2-01-ex-3.mp3"
+  },
+  {
+   "en": "On Sunday, I didn't go shopping. I relaxed at home.",
+   "vi": "Chủ nhật, tôi không đi mua sắm. Tôi thư giãn ở nhà.",
+   "audio": "A2-01-ex-4.mp3"
+  },
+  {
+   "en": "Where did you go shopping? We went to the supermarket near my house.",
+   "vi": "Bạn đi mua sắm ở đâu? Chúng tôi đến siêu thị gần nhà tôi.",
+   "audio": "A2-01-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 21. Will: quyết định tức thì và đề nghị giúp",
+ "vocabulary": [
+  {
+   "word": "will",
+   "ipa": "/wɪl/",
+   "meaning": "sẽ (quyết định ngay, đề nghị, hứa)",
+   "pos": "trợ động từ",
+   "audio": "A2-21-w-will.mp3"
+  },
+  {
+   "word": "won't",
+   "ipa": "/woʊnt/",
+   "meaning": "sẽ không (= will not)",
+   "pos": "dạng gọn",
+   "audio": "A2-21-w-won-t.mp3"
+  },
+  {
+   "word": "carry",
+   "ipa": "/ˈkæri/",
+   "meaning": "mang, xách, bế",
+   "pos": "động từ",
+   "audio": "A2-21-w-carry.mp3"
+  },
+  {
+   "word": "answer",
+   "ipa": "/ˈænsər/",
+   "meaning": "trả lời; nghe (điện thoại)",
+   "pos": "động từ",
+   "audio": "A2-21-w-answer.mp3"
+  },
+  {
+   "word": "lend",
+   "ipa": "/lend/",
+   "meaning": "cho mượn",
+   "pos": "động từ",
+   "audio": "A2-21-w-lend.mp3"
+  },
+  {
+   "word": "promise",
+   "ipa": "/ˈprɑːmɪs/",
+   "meaning": "hứa; lời hứa",
+   "pos": "động từ / danh từ",
+   "audio": "A2-21-w-promise.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The phone is ringing. I'll answer it.",
+   "vi": "Điện thoại đang reo. Để tôi nghe.",
+   "audio": "A2-21-ex-1.mp3"
+  },
+  {
+   "en": "Your bag is heavy. I'll carry it for you.",
+   "vi": "Túi của bạn nặng quá. Để tôi xách giúp bạn.",
+   "audio": "A2-21-ex-2.mp3"
+  },
+  {
+   "en": "You don't have any cash? I'll lend you some.",
+   "vi": "Bạn không có tiền mặt à? Tôi sẽ cho bạn mượn một ít.",
+   "audio": "A2-21-ex-3.mp3"
+  },
+  {
+   "en": "It's cold. Shall I close the door?",
+   "vi": "Trời lạnh. Để tôi đóng cửa nhé?",
+   "audio": "A2-21-ex-4.mp3"
+  },
+  {
+   "en": "I won't be late. I promise.",
+   "vi": "Tôi sẽ không đến muộn đâu. Tôi hứa.",
+   "audio": "A2-21-ex-5.mp3"
+  }
+ ]
+}

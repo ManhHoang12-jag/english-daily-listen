@@ -1,0 +1,74 @@
+{
+ "title": "Bài 34. Have to / don't have to",
+ "vocabulary": [
+  {
+   "word": "have to",
+   "ipa": "/ˈhæftə/",
+   "meaning": "phải",
+   "pos": "cụm động từ",
+   "audio": "A2-34-w-have-to.mp3"
+  },
+  {
+   "word": "don't have to",
+   "ipa": "/ˌdoʊnt ˈhæftə/",
+   "meaning": "không cần, không bắt buộc",
+   "pos": "cụm động từ (phủ định)",
+   "audio": "A2-34-w-don-t-have-to.mp3"
+  },
+  {
+   "word": "uniform",
+   "ipa": "/ˈjuːnəfɔːrm/",
+   "meaning": "đồng phục",
+   "pos": "danh từ",
+   "audio": "A2-34-w-uniform.mp3"
+  },
+  {
+   "word": "on time",
+   "ipa": "/ɑːn ˈtaɪm/",
+   "meaning": "đúng giờ",
+   "pos": "cụm trạng từ",
+   "audio": "A2-34-w-on-time.mp3"
+  },
+  {
+   "word": "overtime",
+   "ipa": "/ˈoʊvərtaɪm/",
+   "meaning": "(làm) thêm giờ",
+   "pos": "trạng từ / danh từ",
+   "audio": "A2-34-w-overtime.mp3"
+  },
+  {
+   "word": "deadline",
+   "ipa": "/ˈdɛdlaɪn/",
+   "meaning": "hạn chót",
+   "pos": "danh từ",
+   "audio": "A2-34-w-deadline.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have to wear a uniform at work.",
+   "vi": "Tôi phải mặc đồng phục khi đi làm.",
+   "audio": "A2-34-ex-1.mp3"
+  },
+  {
+   "en": "My wife has to work overtime on Fridays.",
+   "vi": "Vợ tôi phải làm thêm giờ vào các thứ Sáu.",
+   "audio": "A2-34-ex-2.mp3"
+  },
+  {
+   "en": "We don't have to work on Sundays.",
+   "vi": "Chủ nhật chúng tôi không phải đi làm.",
+   "audio": "A2-34-ex-3.mp3"
+  },
+  {
+   "en": "You mustn't be late, but you don't have to come early.",
+   "vi": "Bạn không được đến muộn, nhưng không cần đến sớm.",
+   "audio": "A2-34-ex-4.mp3"
+  },
+  {
+   "en": "Last week I had to finish a report before the deadline.",
+   "vi": "Tuần trước tôi phải làm xong một báo cáo trước hạn chót.",
+   "audio": "A2-34-ex-5.mp3"
+  }
+ ]
+}

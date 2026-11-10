@@ -1,0 +1,67 @@
+{
+ "title": "Bài 88. Luyện thi Nói 1: phỏng vấn cá nhân",
+ "vocabulary": [
+  {
+   "word": "interview",
+   "ipa": "/ˈɪntɚvjuː/",
+   "meaning": "cuộc phỏng vấn (ôn A2 · Bài 48)",
+   "pos": "danh từ",
+   "audio": "A2-88-w-interview.mp3"
+  },
+  {
+   "word": "colleague",
+   "ipa": "/ˈkɑːliːɡ/",
+   "meaning": "đồng nghiệp (ôn A2 · Bài 15)",
+   "pos": "danh từ",
+   "audio": "A2-88-w-colleague.mp3"
+  },
+  {
+   "word": "experience",
+   "ipa": "/ɪkˈspɪriəns/",
+   "meaning": "kinh nghiệm, trải nghiệm (ôn A2 · Bài 11)",
+   "pos": "danh từ",
+   "audio": "A2-88-w-experience.mp3"
+  },
+  {
+   "word": "career",
+   "ipa": "/kəˈrɪr/",
+   "meaning": "sự nghiệp (ôn A2 · Bài 23)",
+   "pos": "danh từ",
+   "audio": "A2-88-w-career.mp3"
+  },
+  {
+   "word": "hobby",
+   "ipa": "/ˈhɑːbi/",
+   "meaning": "sở thích (ôn A1 · Bài 59)",
+   "pos": "danh từ",
+   "audio": "A2-88-w-hobby.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm an engineer at a car factory. I like my job because my colleagues are very friendly.",
+   "vi": "Tôi là kỹ sư ở một nhà máy ô tô. Tôi thích công việc vì đồng nghiệp rất thân thiện.",
+   "audio": "A2-88-ex-1.mp3"
+  },
+  {
+   "en": "I usually go hiking on weekends. For example, last month I climbed a mountain near Da Lat.",
+   "vi": "Tôi thường đi leo núi vào cuối tuần. Ví dụ, tháng trước tôi leo một ngọn núi gần Đà Lạt.",
+   "audio": "A2-88-ex-2.mp3"
+  },
+  {
+   "en": "I've lived here since 2015. It's quiet, and the people are very kind.",
+   "vi": "Tôi sống ở đây từ năm 2015. Ở đây yên tĩnh và mọi người rất tốt bụng.",
+   "audio": "A2-88-ex-3.mp3"
+  },
+  {
+   "en": "I visited my parents in my hometown. We cooked a big dinner together, and it was really nice.",
+   "vi": "Tôi về quê thăm bố mẹ. Cả nhà cùng nấu một bữa tối thịnh soạn, rất vui.",
+   "audio": "A2-88-ex-4.mp3"
+  },
+  {
+   "en": "I'm going to apply for a master's degree because I want to get a better job.",
+   "vi": "Tôi định nộp hồ sơ học thạc sĩ vì tôi muốn có công việc tốt hơn.",
+   "audio": "A2-88-ex-5.mp3"
+  }
+ ]
+}

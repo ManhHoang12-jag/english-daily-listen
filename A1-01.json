@@ -1,0 +1,88 @@
+{
+ "title": "Bài 01. Chào hỏi và tạm biệt",
+ "vocabulary": [
+  {
+   "word": "hello",
+   "ipa": "/həˈloʊ/",
+   "meaning": "xin chào",
+   "pos": "câu chào",
+   "audio": "A1-01-w-hello.mp3"
+  },
+  {
+   "word": "hi",
+   "ipa": "/haɪ/",
+   "meaning": "chào (thân mật)",
+   "pos": "câu chào",
+   "audio": "A1-01-w-hi.mp3"
+  },
+  {
+   "word": "morning",
+   "ipa": "/ˈmɔːrnɪŋ/",
+   "meaning": "buổi sáng",
+   "pos": "danh từ",
+   "audio": "A1-01-w-morning.mp3"
+  },
+  {
+   "word": "afternoon",
+   "ipa": "/ˌæftɚˈnuːn/",
+   "meaning": "buổi chiều",
+   "pos": "danh từ",
+   "audio": "A1-01-w-afternoon.mp3"
+  },
+  {
+   "word": "evening",
+   "ipa": "/ˈiːvnɪŋ/",
+   "meaning": "buổi tối",
+   "pos": "danh từ",
+   "audio": "A1-01-w-evening.mp3"
+  },
+  {
+   "word": "goodbye",
+   "ipa": "/ɡʊdˈbaɪ/",
+   "meaning": "tạm biệt",
+   "pos": "câu chào",
+   "audio": "A1-01-w-goodbye.mp3"
+  },
+  {
+   "word": "see",
+   "ipa": "/siː/",
+   "meaning": "gặp, thấy",
+   "pos": "động từ",
+   "audio": "A1-01-w-see.mp3"
+  },
+  {
+   "word": "later",
+   "ipa": "/ˈleɪtɚ/",
+   "meaning": "lát nữa, sau",
+   "pos": "trạng từ",
+   "audio": "A1-01-w-later.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning, Lan.",
+   "vi": "Chào buổi sáng, Lan.",
+   "audio": "A1-01-ex-1.mp3"
+  },
+  {
+   "en": "How are you?",
+   "vi": "Bạn khỏe không?",
+   "audio": "A1-01-ex-2.mp3"
+  },
+  {
+   "en": "I'm fine, thanks. And you?",
+   "vi": "Tôi khỏe, cảm ơn. Còn bạn?",
+   "audio": "A1-01-ex-3.mp3"
+  },
+  {
+   "en": "See you later.",
+   "vi": "Hẹn gặp lại.",
+   "audio": "A1-01-ex-4.mp3"
+  },
+  {
+   "en": "Good morning, Lan. How are you? Hi, Nam. I'm fine, thanks. And you? I'm fine, too. See you later. Goodbye, Nam.",
+   "vi": "Chào buổi sáng, Lan. Bạn khỏe không? Chào Nam. Mình khỏe, cảm ơn. Còn bạn? Mình cũng khỏe. Hẹn gặp lại. Tạm biệt Nam.",
+   "audio": "A1-01-ex-5.mp3"
+  }
+ ]
+}

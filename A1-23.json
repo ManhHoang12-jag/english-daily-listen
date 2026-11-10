@@ -1,0 +1,88 @@
+{
+ "title": "Bài 23. There is / there are",
+ "vocabulary": [
+  {
+   "word": "there is",
+   "ipa": "/ðer ɪz/",
+   "meaning": "có (một cái gì đó ở đâu đó)",
+   "pos": "cụm từ",
+   "audio": "A1-23-w-there-is.mp3"
+  },
+  {
+   "word": "there are",
+   "ipa": "/ðer ɑːr/",
+   "meaning": "có (nhiều cái gì đó ở đâu đó)",
+   "pos": "cụm từ",
+   "audio": "A1-23-w-there-are.mp3"
+  },
+  {
+   "word": "kitchen",
+   "ipa": "/ˈkɪtʃɪn/",
+   "meaning": "nhà bếp",
+   "pos": "danh từ",
+   "audio": "A1-23-w-kitchen.mp3"
+  },
+  {
+   "word": "bedroom",
+   "ipa": "/ˈbedruːm/",
+   "meaning": "phòng ngủ",
+   "pos": "danh từ",
+   "audio": "A1-23-w-bedroom.mp3"
+  },
+  {
+   "word": "bathroom",
+   "ipa": "/ˈbæθruːm/",
+   "meaning": "phòng tắm",
+   "pos": "danh từ",
+   "audio": "A1-23-w-bathroom.mp3"
+  },
+  {
+   "word": "living room",
+   "ipa": "/ˈlɪvɪŋ ruːm/",
+   "meaning": "phòng khách",
+   "pos": "danh từ",
+   "audio": "A1-23-w-living-room.mp3"
+  },
+  {
+   "word": "chair",
+   "ipa": "/tʃer/",
+   "meaning": "cái ghế",
+   "pos": "danh từ",
+   "audio": "A1-23-w-chair.mp3"
+  },
+  {
+   "word": "sofa",
+   "ipa": "/ˈsoʊfə/",
+   "meaning": "ghế sofa, ghế dài có đệm",
+   "pos": "danh từ",
+   "audio": "A1-23-w-sofa.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "There is a sofa in the living room.",
+   "vi": "Có một cái ghế sofa trong phòng khách.",
+   "audio": "A1-23-ex-1.mp3"
+  },
+  {
+   "en": "There are two bedrooms in my house.",
+   "vi": "Nhà tôi có hai phòng ngủ.",
+   "audio": "A1-23-ex-2.mp3"
+  },
+  {
+   "en": "There is a big table in the kitchen.",
+   "vi": "Trong bếp có một cái bàn lớn.",
+   "audio": "A1-23-ex-3.mp3"
+  },
+  {
+   "en": "There are four chairs next to the table.",
+   "vi": "Có bốn cái ghế cạnh cái bàn.",
+   "audio": "A1-23-ex-4.mp3"
+  },
+  {
+   "en": "I have a small house. There is one bathroom.",
+   "vi": "Tôi có một ngôi nhà nhỏ. Nhà có một phòng tắm.",
+   "audio": "A1-23-ex-5.mp3"
+  }
+ ]
+}

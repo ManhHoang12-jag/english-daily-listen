@@ -1,0 +1,81 @@
+{
+ "title": "Bài 61. Cụm động từ 1: sinh hoạt hằng ngày",
+ "vocabulary": [
+  {
+   "word": "wake up",
+   "ipa": "/ˌweɪk ˈʌp/",
+   "meaning": "tỉnh giấc, thức dậy",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-wake-up.mp3"
+  },
+  {
+   "word": "turn on",
+   "ipa": "/ˌtɝːn ˈɑːn/",
+   "meaning": "bật (đèn, TV, máy)",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-turn-on.mp3"
+  },
+  {
+   "word": "turn off",
+   "ipa": "/ˌtɝːn ˈɔːf/",
+   "meaning": "tắt (đèn, TV, máy)",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-turn-off.mp3"
+  },
+  {
+   "word": "put on",
+   "ipa": "/ˌpʊt ˈɑːn/",
+   "meaning": "mặc vào, đội, đeo",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-put-on.mp3"
+  },
+  {
+   "word": "take off",
+   "ipa": "/ˌteɪk ˈɔːf/",
+   "meaning": "cởi ra (áo, giày, mũ)",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-take-off.mp3"
+  },
+  {
+   "word": "look for",
+   "ipa": "/ˈlʊk fɔːr/",
+   "meaning": "tìm (đang tìm)",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-look-for.mp3"
+  },
+  {
+   "word": "find out",
+   "ipa": "/ˌfaɪnd ˈaʊt/",
+   "meaning": "biết được, phát hiện ra",
+   "pos": "cụm động từ",
+   "audio": "A2-61-w-find-out.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I wake up at six, but I get up at half past six.",
+   "vi": "Tôi tỉnh giấc lúc 6 giờ, nhưng 6 rưỡi mới ra khỏi giường.",
+   "audio": "A2-61-ex-1.mp3"
+  },
+  {
+   "en": "He took off his jacket and turned on the air conditioner.",
+   "vi": "Anh ấy cởi áo khoác và bật máy lạnh.",
+   "audio": "A2-61-ex-2.mp3"
+  },
+  {
+   "en": "It's cold. Put on your jacket.",
+   "vi": "Trời lạnh. Mặc áo khoác vào đi.",
+   "audio": "A2-61-ex-3.mp3"
+  },
+  {
+   "en": "I'm looking for my keys. Have you seen them?",
+   "vi": "Tôi đang tìm chìa khóa. Bạn có thấy không?",
+   "audio": "A2-61-ex-4.mp3"
+  },
+  {
+   "en": "I found out that my phone was off.",
+   "vi": "Tôi phát hiện ra là điện thoại của tôi bị tắt.",
+   "audio": "A2-61-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Bài 07. Sở hữu cách 's: Lan's mother",
+ "vocabulary": [
+  {
+   "word": "aunt",
+   "ipa": "/ænt/",
+   "meaning": "cô, dì, thím, mợ, bác gái",
+   "pos": "danh từ",
+   "audio": "A1-07-w-aunt.mp3"
+  },
+  {
+   "word": "uncle",
+   "ipa": "/ˈʌŋkəl/",
+   "meaning": "chú, bác, cậu, dượng",
+   "pos": "danh từ",
+   "audio": "A1-07-w-uncle.mp3"
+  },
+  {
+   "word": "cousin",
+   "ipa": "/ˈkʌzən/",
+   "meaning": "anh, chị, em họ",
+   "pos": "danh từ",
+   "audio": "A1-07-w-cousin.mp3"
+  },
+  {
+   "word": "bike",
+   "ipa": "/baɪk/",
+   "meaning": "xe đạp",
+   "pos": "danh từ",
+   "audio": "A1-07-w-bike.mp3"
+  },
+  {
+   "word": "car",
+   "ipa": "/kɑːr/",
+   "meaning": "xe ô tô",
+   "pos": "danh từ",
+   "audio": "A1-07-w-car.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Lan's father is Minh.",
+   "vi": "Bố của Lan là Minh.",
+   "audio": "A1-07-ex-1.mp3"
+  },
+  {
+   "en": "Mai is Lan's aunt.",
+   "vi": "Mai là cô của Lan.",
+   "audio": "A1-07-ex-2.mp3"
+  },
+  {
+   "en": "Bao is Lan's cousin.",
+   "vi": "Bảo là em họ của Lan.",
+   "audio": "A1-07-ex-3.mp3"
+  },
+  {
+   "en": "Bao's bike is new.",
+   "vi": "Xe đạp của Bảo mới.",
+   "audio": "A1-07-ex-4.mp3"
+  },
+  {
+   "en": "Her parents' house is in Hanoi.",
+   "vi": "Nhà của bố mẹ cô ấy ở Hà Nội.",
+   "audio": "A1-07-ex-5.mp3"
+  }
+ ]
+}

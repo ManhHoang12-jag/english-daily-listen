@@ -1,0 +1,74 @@
+{
+ "title": "Bài 11. Hỏi và nói giờ",
+ "vocabulary": [
+  {
+   "word": "o'clock",
+   "ipa": "/əˈklɑːk/",
+   "meaning": "giờ đúng (seven o'clock = 7 giờ)",
+   "pos": "trạng từ",
+   "audio": "A1-11-w-o-clock.mp3"
+  },
+  {
+   "word": "half",
+   "ipa": "/hæf/",
+   "meaning": "một nửa, rưỡi (30 phút)",
+   "pos": "danh từ",
+   "audio": "A1-11-w-half.mp3"
+  },
+  {
+   "word": "past",
+   "ipa": "/pæst/",
+   "meaning": "hơn, quá (khi nói giờ)",
+   "pos": "giới từ",
+   "audio": "A1-11-w-past.mp3"
+  },
+  {
+   "word": "quarter",
+   "ipa": "/ˈkwɔːrtɚ/",
+   "meaning": "mười lăm phút, một phần tư",
+   "pos": "danh từ",
+   "audio": "A1-11-w-quarter.mp3"
+  },
+  {
+   "word": "minute",
+   "ipa": "/ˈmɪnɪt/",
+   "meaning": "phút",
+   "pos": "danh từ",
+   "audio": "A1-11-w-minute.mp3"
+  },
+  {
+   "word": "hour",
+   "ipa": "/aʊɚ/",
+   "meaning": "giờ, tiếng đồng hồ",
+   "pos": "danh từ",
+   "audio": "A1-11-w-hour.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What time is it? It's seven o'clock.",
+   "vi": "Mấy giờ rồi? Bảy giờ đúng.",
+   "audio": "A1-11-ex-1.mp3"
+  },
+  {
+   "en": "It's half past eight.",
+   "vi": "Tám giờ rưỡi.",
+   "audio": "A1-11-ex-2.mp3"
+  },
+  {
+   "en": "It's quarter to eight.",
+   "vi": "Tám giờ kém mười lăm.",
+   "audio": "A1-11-ex-3.mp3"
+  },
+  {
+   "en": "It's ten twenty.",
+   "vi": "Mười giờ hai mươi.",
+   "audio": "A1-11-ex-4.mp3"
+  },
+  {
+   "en": "I go to school at seven o'clock.",
+   "vi": "Tôi đi học lúc bảy giờ.",
+   "audio": "A1-11-ex-5.mp3"
+  }
+ ]
+}

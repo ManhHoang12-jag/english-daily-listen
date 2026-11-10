@@ -1,0 +1,95 @@
+{
+ "title": "Bài 34. Giá tiền và mua bán",
+ "vocabulary": [
+  {
+   "word": "dollar",
+   "ipa": "/ˈdɑːlɚ/",
+   "meaning": "đô la",
+   "pos": "danh từ",
+   "audio": "A1-34-w-dollar.mp3"
+  },
+  {
+   "word": "dong",
+   "ipa": "/dɑːŋ/",
+   "meaning": "đồng (tiền Việt Nam)",
+   "pos": "danh từ",
+   "audio": "A1-34-w-dong.mp3"
+  },
+  {
+   "word": "cost",
+   "ipa": "/kɔːst/",
+   "meaning": "có giá, tốn (tiền)",
+   "pos": "động từ",
+   "audio": "A1-34-w-cost.mp3"
+  },
+  {
+   "word": "price",
+   "ipa": "/praɪs/",
+   "meaning": "giá, giá tiền",
+   "pos": "danh từ",
+   "audio": "A1-34-w-price.mp3"
+  },
+  {
+   "word": "cheap",
+   "ipa": "/tʃiːp/",
+   "meaning": "rẻ",
+   "pos": "tính từ",
+   "audio": "A1-34-w-cheap.mp3"
+  },
+  {
+   "word": "expensive",
+   "ipa": "/ɪkˈspɛnsɪv/",
+   "meaning": "đắt",
+   "pos": "tính từ",
+   "audio": "A1-34-w-expensive.mp3"
+  },
+  {
+   "word": "pay",
+   "ipa": "/peɪ/",
+   "meaning": "trả (tiền)",
+   "pos": "động từ",
+   "audio": "A1-34-w-pay.mp3"
+  },
+  {
+   "word": "cash",
+   "ipa": "/kæʃ/",
+   "meaning": "tiền mặt",
+   "pos": "danh từ",
+   "audio": "A1-34-w-cash.mp3"
+  },
+  {
+   "word": "card",
+   "ipa": "/kɑːrd/",
+   "meaning": "thẻ (ngân hàng)",
+   "pos": "danh từ",
+   "audio": "A1-34-w-card.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How much is this shirt? It's twelve dollars.",
+   "vi": "Cái áo sơ mi này giá bao nhiêu? Mười hai đô la.",
+   "audio": "A1-34-ex-1.mp3"
+  },
+  {
+   "en": "How much are these bananas? They're thirty thousand dong.",
+   "vi": "Chỗ chuối này bao nhiêu? Ba mươi nghìn đồng.",
+   "audio": "A1-34-ex-2.mp3"
+  },
+  {
+   "en": "The bag costs fifty dollars. It's expensive.",
+   "vi": "Cái túi giá năm mươi đô. Nó đắt.",
+   "audio": "A1-34-ex-3.mp3"
+  },
+  {
+   "en": "This bike is cheap. The price is good.",
+   "vi": "Cái xe đạp này rẻ. Giá tốt.",
+   "audio": "A1-34-ex-4.mp3"
+  },
+  {
+   "en": "Can I pay by card? Sure.",
+   "vi": "Tôi trả bằng thẻ được không? Được chứ.",
+   "audio": "A1-34-ex-5.mp3"
+  }
+ ]
+}

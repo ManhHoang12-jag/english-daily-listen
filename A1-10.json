@@ -1,0 +1,74 @@
+{
+ "title": "Bài 10. Ôn tập và kiểm tra A1-1",
+ "vocabulary": [
+  {
+   "word": "years",
+   "ipa": "/jɪrz/",
+   "meaning": "năm, tuổi (years old)",
+   "pos": "danh từ",
+   "audio": "A1-10-w-years.mp3"
+  },
+  {
+   "word": "spell",
+   "ipa": "/spel/",
+   "meaning": "đánh vần",
+   "pos": "động từ",
+   "audio": "A1-10-w-spell.mp3"
+  },
+  {
+   "word": "surname",
+   "ipa": "/ˈsɝːneɪm/",
+   "meaning": "họ",
+   "pos": "danh từ",
+   "audio": "A1-10-w-surname.mp3"
+  },
+  {
+   "word": "engineer",
+   "ipa": "/ˌendʒɪˈnɪr/",
+   "meaning": "kỹ sư",
+   "pos": "danh từ",
+   "audio": "A1-10-w-engineer.mp3"
+  },
+  {
+   "word": "cousin",
+   "ipa": "/ˈkʌzən/",
+   "meaning": "anh, chị, em họ",
+   "pos": "danh từ",
+   "audio": "A1-10-w-cousin.mp3"
+  },
+  {
+   "word": "nationality",
+   "ipa": "/ˌnæʃəˈnæləti/",
+   "meaning": "quốc tịch",
+   "pos": "danh từ",
+   "audio": "A1-10-w-nationality.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Good morning! How are you? I'm fine, thanks.",
+   "vi": "Chào buổi sáng! Bạn khỏe không? Tôi khỏe, cảm ơn.",
+   "audio": "A1-10-ex-1.mp3"
+  },
+  {
+   "en": "How old is your brother? He's twenty-five.",
+   "vi": "Anh trai bạn bao nhiêu tuổi? Anh ấy 25 tuổi.",
+   "audio": "A1-10-ex-2.mp3"
+  },
+  {
+   "en": "My sister is a nurse. She works in a hospital.",
+   "vi": "Chị gái tôi là y tá. Chị ấy làm việc ở bệnh viện.",
+   "audio": "A1-10-ex-3.mp3"
+  },
+  {
+   "en": "That's my uncle's car.",
+   "vi": "Kia là xe ô tô của chú tôi.",
+   "audio": "A1-10-ex-4.mp3"
+  },
+  {
+   "en": "I'm from Vietnam. I'm Vietnamese.",
+   "vi": "Tôi đến từ Việt Nam. Tôi là người Việt.",
+   "audio": "A1-10-ex-5.mp3"
+  }
+ ]
+}

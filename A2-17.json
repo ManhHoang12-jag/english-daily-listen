@@ -1,0 +1,88 @@
+{
+ "title": "Bài 17. Chủ đề: phương tiện giao thông",
+ "vocabulary": [
+  {
+   "word": "return ticket",
+   "ipa": "/rɪˈtɝːn ˌtɪkɪt/",
+   "meaning": "vé khứ hồi",
+   "pos": "cụm danh từ",
+   "audio": "A2-17-w-return-ticket.mp3"
+  },
+  {
+   "word": "one-way",
+   "ipa": "/ˌwʌnˈweɪ/",
+   "meaning": "một chiều (vé)",
+   "pos": "tính từ",
+   "audio": "A2-17-w-one-way.mp3"
+  },
+  {
+   "word": "timetable",
+   "ipa": "/ˈtaɪmˌteɪbəl/",
+   "meaning": "lịch chạy (tàu, xe)",
+   "pos": "danh từ",
+   "audio": "A2-17-w-timetable.mp3"
+  },
+  {
+   "word": "get on",
+   "ipa": "/ˌɡet ˈɑːn/",
+   "meaning": "lên (tàu, xe buýt, máy bay)",
+   "pos": "cụm động từ",
+   "audio": "A2-17-w-get-on.mp3"
+  },
+  {
+   "word": "get off",
+   "ipa": "/ˌɡet ˈɔːf/",
+   "meaning": "xuống (tàu, xe buýt, máy bay)",
+   "pos": "cụm động từ",
+   "audio": "A2-17-w-get-off.mp3"
+  },
+  {
+   "word": "fare",
+   "ipa": "/fer/",
+   "meaning": "giá vé (tàu, xe, taxi)",
+   "pos": "danh từ",
+   "audio": "A2-17-w-fare.mp3"
+  },
+  {
+   "word": "traffic",
+   "ipa": "/ˈtræfɪk/",
+   "meaning": "giao thông, xe cộ trên đường",
+   "pos": "danh từ",
+   "audio": "A2-17-w-traffic.mp3"
+  },
+  {
+   "word": "motorbike",
+   "ipa": "/ˈmoʊtərbaɪk/",
+   "meaning": "xe máy",
+   "pos": "danh từ",
+   "audio": "A2-17-w-motorbike.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like a return ticket to Hue, please.",
+   "vi": "Cho tôi một vé khứ hồi đi Huế.",
+   "audio": "A2-17-ex-1.mp3"
+  },
+  {
+   "en": "How much is the fare?",
+   "vi": "Giá vé bao nhiêu?",
+   "audio": "A2-17-ex-2.mp3"
+  },
+  {
+   "en": "How long does it take?",
+   "vi": "Đi mất bao lâu?",
+   "audio": "A2-17-ex-3.mp3"
+  },
+  {
+   "en": "It takes thirteen hours.",
+   "vi": "Mất mười ba tiếng.",
+   "audio": "A2-17-ex-4.mp3"
+  },
+  {
+   "en": "You can get on the train at seven.",
+   "vi": "Chị có thể lên tàu lúc bảy giờ.",
+   "audio": "A2-17-ex-5.mp3"
+  }
+ ]
+}

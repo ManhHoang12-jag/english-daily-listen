@@ -1,0 +1,67 @@
+{
+ "title": "Bài 82. Tổng ôn: tương lai và câu điều kiện",
+ "vocabulary": [
+  {
+   "word": "going to",
+   "ipa": "/ˈɡoʊɪŋ tə/",
+   "meaning": "sẽ, định (kế hoạch) (ôn A1 · Bài 53)",
+   "pos": "cụm động từ",
+   "audio": "A2-82-w-going-to.mp3"
+  },
+  {
+   "word": "won't",
+   "ipa": "/woʊnt/",
+   "meaning": "sẽ không (= will not) (ôn A2 · Bài 21)",
+   "pos": "dạng gọn",
+   "audio": "A2-82-w-won-t.mp3"
+  },
+  {
+   "word": "probably",
+   "ipa": "/ˈprɑːbəbli/",
+   "meaning": "có lẽ, chắc là (ôn A2 · Bài 22)",
+   "pos": "trạng từ",
+   "audio": "A2-82-w-probably.mp3"
+  },
+  {
+   "word": "unless",
+   "ipa": "/ənˈles/",
+   "meaning": "trừ khi, nếu không (ôn A2 · Bài 43)",
+   "pos": "liên từ",
+   "audio": "A2-82-w-unless.mp3"
+  },
+  {
+   "word": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "meaning": "cuộc hẹn (ôn A2 · Bài 18)",
+   "pos": "danh từ",
+   "audio": "A2-82-w-appointment.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm meeting my manager at ten tomorrow.",
+   "vi": "Tôi có hẹn gặp quản lý lúc 10 giờ ngày mai.",
+   "audio": "A2-82-ex-1.mp3"
+  },
+  {
+   "en": "I'm going to apply for a master's degree next year.",
+   "vi": "Tôi định nộp hồ sơ học thạc sĩ vào năm sau.",
+   "audio": "A2-82-ex-2.mp3"
+  },
+  {
+   "en": "The phone is ringing. I'll answer it.",
+   "vi": "Điện thoại đang reo. Để tôi nghe.",
+   "audio": "A2-82-ex-3.mp3"
+  },
+  {
+   "en": "If you heat ice, it melts.",
+   "vi": "Nếu bạn làm nóng nước đá, nó sẽ tan.",
+   "audio": "A2-82-ex-4.mp3"
+  },
+  {
+   "en": "If it rains on Saturday, we won't go hiking.",
+   "vi": "Nếu thứ Bảy trời mưa, chúng tôi sẽ không đi leo núi.",
+   "audio": "A2-82-ex-5.mp3"
+  }
+ ]
+}

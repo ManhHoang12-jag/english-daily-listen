@@ -1,0 +1,88 @@
+{
+ "title": "Bài 17. Tháng 1–6 và giới từ in",
+ "vocabulary": [
+  {
+   "word": "January",
+   "ipa": "/ˈdʒænjueri/",
+   "meaning": "tháng Một",
+   "pos": "danh từ",
+   "audio": "A1-17-w-january.mp3"
+  },
+  {
+   "word": "February",
+   "ipa": "/ˈfebrueri/",
+   "meaning": "tháng Hai",
+   "pos": "danh từ",
+   "audio": "A1-17-w-february.mp3"
+  },
+  {
+   "word": "March",
+   "ipa": "/mɑːrtʃ/",
+   "meaning": "tháng Ba",
+   "pos": "danh từ",
+   "audio": "A1-17-w-march.mp3"
+  },
+  {
+   "word": "April",
+   "ipa": "/ˈeɪprəl/",
+   "meaning": "tháng Tư",
+   "pos": "danh từ",
+   "audio": "A1-17-w-april.mp3"
+  },
+  {
+   "word": "May",
+   "ipa": "/meɪ/",
+   "meaning": "tháng Năm",
+   "pos": "danh từ",
+   "audio": "A1-17-w-may.mp3"
+  },
+  {
+   "word": "June",
+   "ipa": "/dʒuːn/",
+   "meaning": "tháng Sáu",
+   "pos": "danh từ",
+   "audio": "A1-17-w-june.mp3"
+  },
+  {
+   "word": "month",
+   "ipa": "/mʌnθ/",
+   "meaning": "tháng",
+   "pos": "danh từ",
+   "audio": "A1-17-w-month.mp3"
+  },
+  {
+   "word": "birthday",
+   "ipa": "/ˈbɝːθdeɪ/",
+   "meaning": "sinh nhật",
+   "pos": "danh từ",
+   "audio": "A1-17-w-birthday.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "When is your birthday? It's in March.",
+   "vi": "Sinh nhật bạn vào khi nào? Vào tháng Ba.",
+   "audio": "A1-17-ex-1.mp3"
+  },
+  {
+   "en": "My birthday is in January.",
+   "vi": "Sinh nhật tôi vào tháng Một.",
+   "audio": "A1-17-ex-2.mp3"
+  },
+  {
+   "en": "My son's birthday is in June.",
+   "vi": "Sinh nhật con trai tôi vào tháng Sáu.",
+   "audio": "A1-17-ex-3.mp3"
+  },
+  {
+   "en": "It's hot in May.",
+   "vi": "Tháng Năm trời nóng.",
+   "audio": "A1-17-ex-4.mp3"
+  },
+  {
+   "en": "What month is it? It's April.",
+   "vi": "Bây giờ là tháng mấy? Tháng Tư.",
+   "audio": "A1-17-ex-5.mp3"
+  }
+ ]
+}

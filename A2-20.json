@@ -1,0 +1,74 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra A2-2",
+ "vocabulary": [
+  {
+   "word": "ever",
+   "ipa": "/ˈevər/",
+   "meaning": "đã từng (trong câu hỏi; ôn Bài 12)",
+   "pos": "trạng từ",
+   "audio": "A2-20-w-ever.mp3"
+  },
+  {
+   "word": "already",
+   "ipa": "/ɔːlˈredi/",
+   "meaning": "đã ... rồi (ôn Bài 14)",
+   "pos": "trạng từ",
+   "audio": "A2-20-w-already.mp3"
+  },
+  {
+   "word": "since",
+   "ipa": "/sɪns/",
+   "meaning": "từ (một mốc thời gian) (ôn Bài 15)",
+   "pos": "giới từ",
+   "audio": "A2-20-w-since.mp3"
+  },
+  {
+   "word": "reservation",
+   "ipa": "/ˌrezərˈveɪʃən/",
+   "meaning": "sự đặt chỗ, đặt phòng (ôn Bài 16)",
+   "pos": "danh từ",
+   "audio": "A2-20-w-reservation.mp3"
+  },
+  {
+   "word": "timetable",
+   "ipa": "/ˈtaɪmteɪbəl/",
+   "meaning": "bảng giờ tàu xe (ôn Bài 17)",
+   "pos": "danh từ",
+   "audio": "A2-20-w-timetable.mp3"
+  },
+  {
+   "word": "appointment",
+   "ipa": "/əˈpɔɪntmənt/",
+   "meaning": "cuộc hẹn (ôn Bài 18)",
+   "pos": "danh từ",
+   "audio": "A2-20-w-appointment.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I arrived on Monday, and I've been here for three days now.",
+   "vi": "Mình đến vào thứ Hai, và đến giờ mình đã ở đây được ba ngày.",
+   "audio": "A2-20-ex-1.mp3"
+  },
+  {
+   "en": "We booked a double room, and breakfast is included.",
+   "vi": "Bọn mình đã đặt phòng đôi, và giá phòng có cả bữa sáng.",
+   "audio": "A2-20-ex-2.mp3"
+  },
+  {
+   "en": "Yesterday we went to the mountains by motorbike. It took two hours.",
+   "vi": "Hôm qua bọn mình đi xe máy lên núi. Mất hai tiếng.",
+   "audio": "A2-20-ex-3.mp3"
+  },
+  {
+   "en": "I've already visited the museum, and I've just eaten some delicious fish.",
+   "vi": "Mình đã đi thăm bảo tàng rồi, và mình vừa ăn món cá rất ngon.",
+   "audio": "A2-20-ex-4.mp3"
+  },
+  {
+   "en": "My flight home has been delayed, so I'm leaving on Sunday morning.",
+   "vi": "Chuyến bay về nhà của mình bị hoãn, nên sáng Chủ nhật mình mới đi.",
+   "audio": "A2-20-ex-5.mp3"
+  }
+ ]
+}

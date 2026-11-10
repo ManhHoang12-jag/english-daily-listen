@@ -1,0 +1,81 @@
+{
+ "title": "Bài 14. Just, already, yet",
+ "vocabulary": [
+  {
+   "word": "just",
+   "ipa": "/dʒʌst/",
+   "meaning": "vừa mới",
+   "pos": "trạng từ",
+   "audio": "A2-14-w-just.mp3"
+  },
+  {
+   "word": "already",
+   "ipa": "/ɔːlˈredi/",
+   "meaning": "đã... rồi",
+   "pos": "trạng từ",
+   "audio": "A2-14-w-already.mp3"
+  },
+  {
+   "word": "yet",
+   "ipa": "/jet/",
+   "meaning": "chưa (phủ định), chưa? (câu hỏi)",
+   "pos": "trạng từ",
+   "audio": "A2-14-w-yet.mp3"
+  },
+  {
+   "word": "pack",
+   "ipa": "/pæk/",
+   "meaning": "xếp đồ, đóng gói (vào va li, túi)",
+   "pos": "động từ",
+   "audio": "A2-14-w-pack.mp3"
+  },
+  {
+   "word": "passport",
+   "ipa": "/ˈpæspɔːrt/",
+   "meaning": "hộ chiếu",
+   "pos": "danh từ",
+   "audio": "A2-14-w-passport.mp3"
+  },
+  {
+   "word": "suitcase",
+   "ipa": "/ˈsuːtkeɪs/",
+   "meaning": "va li",
+   "pos": "danh từ",
+   "audio": "A2-14-w-suitcase.mp3"
+  },
+  {
+   "word": "visa",
+   "ipa": "/ˈviːzə/",
+   "meaning": "thị thực, visa",
+   "pos": "danh từ",
+   "audio": "A2-14-w-visa.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've just packed my suitcase.",
+   "vi": "Tôi vừa xếp xong va li.",
+   "audio": "A2-14-ex-1.mp3"
+  },
+  {
+   "en": "She has already found her passport.",
+   "vi": "Cô ấy đã tìm thấy hộ chiếu rồi.",
+   "audio": "A2-14-ex-2.mp3"
+  },
+  {
+   "en": "We haven't packed our bags yet.",
+   "vi": "Chúng tôi chưa xếp đồ vào túi.",
+   "audio": "A2-14-ex-3.mp3"
+  },
+  {
+   "en": "Have you bought the tickets yet?",
+   "vi": "Bạn đã mua vé chưa?",
+   "audio": "A2-14-ex-4.mp3"
+  },
+  {
+   "en": "Lan has just left for the station.",
+   "vi": "Lan vừa đi ra ga.",
+   "audio": "A2-14-ex-5.mp3"
+  }
+ ]
+}

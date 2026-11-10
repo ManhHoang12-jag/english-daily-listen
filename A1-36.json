@@ -1,0 +1,88 @@
+{
+ "title": "Bài 36. So sánh hơn cơ bản",
+ "vocabulary": [
+  {
+   "word": "than",
+   "ipa": "/ðæn/",
+   "meaning": "hơn (đứng trước vật được so sánh)",
+   "pos": "liên từ / giới từ",
+   "audio": "A1-36-w-than.mp3"
+  },
+  {
+   "word": "more",
+   "ipa": "/mɔːr/",
+   "meaning": "hơn (đứng trước tính từ dài)",
+   "pos": "trạng từ",
+   "audio": "A1-36-w-more.mp3"
+  },
+  {
+   "word": "better",
+   "ipa": "/ˈbɛtɚ/",
+   "meaning": "tốt hơn (so sánh của good)",
+   "pos": "tính từ so sánh",
+   "audio": "A1-36-w-better.mp3"
+  },
+  {
+   "word": "worse",
+   "ipa": "/wɝːs/",
+   "meaning": "tệ hơn (so sánh của bad)",
+   "pos": "tính từ so sánh",
+   "audio": "A1-36-w-worse.mp3"
+  },
+  {
+   "word": "fast",
+   "ipa": "/fæst/",
+   "meaning": "nhanh",
+   "pos": "tính từ",
+   "audio": "A1-36-w-fast.mp3"
+  },
+  {
+   "word": "slow",
+   "ipa": "/sloʊ/",
+   "meaning": "chậm",
+   "pos": "tính từ",
+   "audio": "A1-36-w-slow.mp3"
+  },
+  {
+   "word": "young",
+   "ipa": "/jʌŋ/",
+   "meaning": "trẻ, nhỏ tuổi",
+   "pos": "tính từ",
+   "audio": "A1-36-w-young.mp3"
+  },
+  {
+   "word": "tall",
+   "ipa": "/tɔːl/",
+   "meaning": "cao (người, cây, tòa nhà)",
+   "pos": "tính từ",
+   "audio": "A1-36-w-tall.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My brother is taller than me.",
+   "vi": "Anh trai tôi cao hơn tôi.",
+   "audio": "A1-36-ex-1.mp3"
+  },
+  {
+   "en": "The train is faster than the bus.",
+   "vi": "Tàu hỏa nhanh hơn xe buýt.",
+   "audio": "A1-36-ex-2.mp3"
+  },
+  {
+   "en": "My sister is younger than my brother.",
+   "vi": "Em gái tôi nhỏ tuổi hơn anh trai tôi.",
+   "audio": "A1-36-ex-3.mp3"
+  },
+  {
+   "en": "The supermarket is more expensive than the market.",
+   "vi": "Siêu thị đắt hơn chợ.",
+   "audio": "A1-36-ex-4.mp3"
+  },
+  {
+   "en": "This phone is better than my old phone.",
+   "vi": "Cái điện thoại này tốt hơn cái điện thoại cũ của tôi.",
+   "audio": "A1-36-ex-5.mp3"
+  }
+ ]
+}

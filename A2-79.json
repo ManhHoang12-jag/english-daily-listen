@@ -1,0 +1,53 @@
+{
+ "title": "Bài 79. Kỹ năng: nghe hội thoại dài và ghi chú",
+ "vocabulary": [
+  {
+   "word": "detail",
+   "ipa": "/ˈdiːteɪl/",
+   "meaning": "chi tiết, thông tin cụ thể",
+   "pos": "danh từ",
+   "audio": "A2-79-w-detail.mp3"
+  },
+  {
+   "word": "correct",
+   "ipa": "/kəˈrɛkt/",
+   "meaning": "đúng, chính xác",
+   "pos": "tính từ",
+   "audio": "A2-79-w-correct.mp3"
+  },
+  {
+   "word": "missing",
+   "ipa": "/ˈmɪsɪŋ/",
+   "meaning": "còn thiếu, bị mất",
+   "pos": "tính từ",
+   "audio": "A2-79-w-missing.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Can I take your details? What's your name? Mai Pham. That's P, H, A, M.",
+   "vi": "Tôi ghi thông tin của chị nhé? Chị tên gì? Mai Phạm. Đánh vần là P-H-A-M.",
+   "audio": "A2-79-ex-1.mp3"
+  },
+  {
+   "en": "The class is on Tuesdays and Thursdays from six thirty to eight.",
+   "vi": "Lớp học vào thứ Ba và thứ Năm, từ 6 giờ 30 đến 8 giờ.",
+   "audio": "A2-79-ex-2.mp3"
+  },
+  {
+   "en": "Six thirty? Not six? Yes, that's correct.",
+   "vi": "6 giờ 30 à? Không phải 6 giờ à? Vâng, đúng rồi.",
+   "audio": "A2-79-ex-3.mp3"
+  },
+  {
+   "en": "It's in Room fourteen on the second floor. Not forty, one four.",
+   "vi": "Lớp ở phòng 14, tầng hai. Không phải 40, mà là một bốn.",
+   "audio": "A2-79-ex-4.mp3"
+  },
+  {
+   "en": "It's ninety dollars a month, and the first class is on March fifth.",
+   "vi": "Học phí 90 đô la một tháng, và buổi học đầu tiên vào ngày 5 tháng 3.",
+   "audio": "A2-79-ex-5.mp3"
+  }
+ ]
+}

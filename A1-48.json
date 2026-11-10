@@ -1,0 +1,102 @@
+{
+ "title": "Bài 48. Động từ bất quy tắc nhóm 2",
+ "vocabulary": [
+  {
+   "word": "bought",
+   "ipa": "/bɔːt/",
+   "meaning": "đã mua (quá khứ của buy)",
+   "pos": "động từ",
+   "audio": "A1-48-w-bought.mp3"
+  },
+  {
+   "word": "said",
+   "ipa": "/sɛd/",
+   "meaning": "đã nói (quá khứ của say)",
+   "pos": "động từ",
+   "audio": "A1-48-w-said.mp3"
+  },
+  {
+   "word": "told",
+   "ipa": "/toʊld/",
+   "meaning": "đã kể, đã bảo (quá khứ của tell)",
+   "pos": "động từ",
+   "audio": "A1-48-w-told.mp3"
+  },
+  {
+   "word": "gave",
+   "ipa": "/ɡeɪv/",
+   "meaning": "đã đưa, đã tặng (quá khứ của give)",
+   "pos": "động từ",
+   "audio": "A1-48-w-gave.mp3"
+  },
+  {
+   "word": "found",
+   "ipa": "/faʊnd/",
+   "meaning": "đã tìm thấy (quá khứ của find)",
+   "pos": "động từ",
+   "audio": "A1-48-w-found.mp3"
+  },
+  {
+   "word": "knew",
+   "ipa": "/nuː/",
+   "meaning": "đã biết (quá khứ của know)",
+   "pos": "động từ",
+   "audio": "A1-48-w-knew.mp3"
+  },
+  {
+   "word": "thought",
+   "ipa": "/θɔːt/",
+   "meaning": "đã nghĩ (quá khứ của think)",
+   "pos": "động từ",
+   "audio": "A1-48-w-thought.mp3"
+  },
+  {
+   "word": "left",
+   "ipa": "/lɛft/",
+   "meaning": "đã rời đi (quá khứ của leave)",
+   "pos": "động từ",
+   "audio": "A1-48-w-left.mp3"
+  },
+  {
+   "word": "met",
+   "ipa": "/mɛt/",
+   "meaning": "đã gặp (quá khứ của meet)",
+   "pos": "động từ",
+   "audio": "A1-48-w-met.mp3"
+  },
+  {
+   "word": "wrote",
+   "ipa": "/roʊt/",
+   "meaning": "đã viết (quá khứ của write)",
+   "pos": "động từ",
+   "audio": "A1-48-w-wrote.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I met my friend Hoa at the market.",
+   "vi": "Tôi gặp bạn Hoa ở chợ.",
+   "audio": "A1-48-ex-1.mp3"
+  },
+  {
+   "en": "I bought some fruit and a new hat.",
+   "vi": "Tôi mua ít hoa quả và một cái mũ mới.",
+   "audio": "A1-48-ex-2.mp3"
+  },
+  {
+   "en": "Hoa gave me a book.",
+   "vi": "Hoa tặng tôi một cuốn sách.",
+   "audio": "A1-48-ex-3.mp3"
+  },
+  {
+   "en": "I found my old phone under the sofa.",
+   "vi": "Tôi tìm thấy chiếc điện thoại cũ dưới ghế sofa.",
+   "audio": "A1-48-ex-4.mp3"
+  },
+  {
+   "en": "I told her the price of the hat.",
+   "vi": "Tôi nói cho em ấy giá cái mũ.",
+   "audio": "A1-48-ex-5.mp3"
+  }
+ ]
+}

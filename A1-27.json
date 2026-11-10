@@ -1,0 +1,88 @@
+{
+ "title": "Bài 27. Can I...? / Can you...?: xin phép và nhờ vả",
+ "vocabulary": [
+  {
+   "word": "sit",
+   "ipa": "/sɪt/",
+   "meaning": "ngồi",
+   "pos": "động từ",
+   "audio": "A1-27-w-sit.mp3"
+  },
+  {
+   "word": "open",
+   "ipa": "/ˈoʊpən/",
+   "meaning": "mở",
+   "pos": "động từ",
+   "audio": "A1-27-w-open.mp3"
+  },
+  {
+   "word": "close",
+   "ipa": "/kloʊz/",
+   "meaning": "đóng",
+   "pos": "động từ",
+   "audio": "A1-27-w-close.mp3"
+  },
+  {
+   "word": "borrow",
+   "ipa": "/ˈbɑːroʊ/",
+   "meaning": "mượn",
+   "pos": "động từ",
+   "audio": "A1-27-w-borrow.mp3"
+  },
+  {
+   "word": "use",
+   "ipa": "/juːz/",
+   "meaning": "dùng, sử dụng",
+   "pos": "động từ",
+   "audio": "A1-27-w-use.mp3"
+  },
+  {
+   "word": "of course",
+   "ipa": "/əv ˈkɔːrs/",
+   "meaning": "tất nhiên, dĩ nhiên",
+   "pos": "cụm từ",
+   "audio": "A1-27-w-of-course.mp3"
+  },
+  {
+   "word": "sure",
+   "ipa": "/ʃʊr/",
+   "meaning": "được chứ, chắc chắn",
+   "pos": "trạng từ",
+   "audio": "A1-27-w-sure.mp3"
+  },
+  {
+   "word": "sorry",
+   "ipa": "/ˈsɑːri/",
+   "meaning": "xin lỗi",
+   "pos": "tính từ / thán từ",
+   "audio": "A1-27-w-sorry.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Can I sit here? Sure.",
+   "vi": "Tôi ngồi đây được không? Được chứ.",
+   "audio": "A1-27-ex-1.mp3"
+  },
+  {
+   "en": "Can you open the window, please? Of course.",
+   "vi": "Bạn mở cửa sổ giúp tôi được không? Tất nhiên rồi.",
+   "audio": "A1-27-ex-2.mp3"
+  },
+  {
+   "en": "Can I borrow your pen? Sorry, I need it.",
+   "vi": "Tôi mượn bút của bạn được không? Xin lỗi, tôi cần nó.",
+   "audio": "A1-27-ex-3.mp3"
+  },
+  {
+   "en": "Can I use your phone? Yes, of course.",
+   "vi": "Tôi dùng điện thoại của bạn được không? Vâng, tất nhiên.",
+   "audio": "A1-27-ex-4.mp3"
+  },
+  {
+   "en": "Can you close the door, please? Sure.",
+   "vi": "Bạn đóng cửa giúp tôi được không? Được chứ.",
+   "audio": "A1-27-ex-5.mp3"
+  }
+ ]
+}

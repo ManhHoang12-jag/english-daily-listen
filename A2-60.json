@@ -1,0 +1,74 @@
+{
+ "title": "Bài 60. Ôn tập và kiểm tra A2-6",
+ "vocabulary": [
+  {
+   "word": "landlord",
+   "ipa": "/ˈlændlɔːrd/",
+   "meaning": "chủ nhà (người cho thuê)",
+   "pos": "danh từ",
+   "audio": "A2-60-w-landlord.mp3"
+  },
+  {
+   "word": "neighborhood",
+   "ipa": "/ˈneɪbɚhʊd/",
+   "meaning": "khu phố, khu vực quanh nhà",
+   "pos": "danh từ",
+   "audio": "A2-60-w-neighborhood.mp3"
+  },
+  {
+   "word": "used to",
+   "ipa": "/ˈjuːstə/",
+   "meaning": "trước đây thường (nay không còn)",
+   "pos": "cụm động từ",
+   "audio": "A2-60-w-used-to.mp3"
+  },
+  {
+   "word": "broken",
+   "ipa": "/ˈbroʊkən/",
+   "meaning": "bị hỏng, bị vỡ",
+   "pos": "tính từ",
+   "audio": "A2-60-w-broken.mp3"
+  },
+  {
+   "word": "recipe",
+   "ipa": "/ˈresəpi/",
+   "meaning": "công thức nấu ăn",
+   "pos": "danh từ",
+   "audio": "A2-60-w-recipe.mp3"
+  },
+  {
+   "word": "healthy",
+   "ipa": "/ˈhelθi/",
+   "meaning": "khỏe mạnh; tốt cho sức khỏe",
+   "pos": "tính từ",
+   "audio": "A2-60-w-healthy.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "A plumber is a person who fixes pipes.",
+   "vi": "Thợ sửa ống nước là người sửa đường ống.",
+   "audio": "A2-60-ex-1.mp3"
+  },
+  {
+   "en": "This is the phone which I bought last week.",
+   "vi": "Đây là cái điện thoại tôi mua tuần trước.",
+   "audio": "A2-60-ex-2.mp3"
+  },
+  {
+   "en": "I used to live in the countryside, but now I live in the city.",
+   "vi": "Trước đây tôi sống ở nông thôn, nhưng giờ tôi sống ở thành phố.",
+   "audio": "A2-60-ex-3.mp3"
+  },
+  {
+   "en": "The heater has stopped working. Could you fix it, please?",
+   "vi": "Máy sưởi ngừng chạy rồi. Ông sửa giúp được không ạ?",
+   "audio": "A2-60-ex-4.mp3"
+  },
+  {
+   "en": "First, chop the vegetables. Then fry them in a pan.",
+   "vi": "Đầu tiên, cắt nhỏ rau. Sau đó xào rau trong chảo.",
+   "audio": "A2-60-ex-5.mp3"
+  }
+ ]
+}

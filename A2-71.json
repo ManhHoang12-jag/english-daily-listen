@@ -1,0 +1,95 @@
+{
+ "title": "Bài 71. Chủ đề: công nghệ và điện thoại",
+ "vocabulary": [
+  {
+   "word": "download",
+   "ipa": "/ˈdaʊnloʊd/",
+   "meaning": "tải về",
+   "pos": "động từ",
+   "audio": "A2-71-w-download.mp3"
+  },
+  {
+   "word": "install",
+   "ipa": "/ɪnˈstɔːl/",
+   "meaning": "cài đặt",
+   "pos": "động từ",
+   "audio": "A2-71-w-install.mp3"
+  },
+  {
+   "word": "charge",
+   "ipa": "/tʃɑːrdʒ/",
+   "meaning": "sạc (pin)",
+   "pos": "động từ",
+   "audio": "A2-71-w-charge.mp3"
+  },
+  {
+   "word": "battery",
+   "ipa": "/ˈbætəri/",
+   "meaning": "pin",
+   "pos": "danh từ",
+   "audio": "A2-71-w-battery.mp3"
+  },
+  {
+   "word": "screen",
+   "ipa": "/skriːn/",
+   "meaning": "màn hình",
+   "pos": "danh từ",
+   "audio": "A2-71-w-screen.mp3"
+  },
+  {
+   "word": "password",
+   "ipa": "/ˈpæswɝːd/",
+   "meaning": "mật khẩu",
+   "pos": "danh từ",
+   "audio": "A2-71-w-password.mp3"
+  },
+  {
+   "word": "Wi-Fi",
+   "ipa": "/ˈwaɪfaɪ/",
+   "meaning": "mạng không dây Wi-Fi",
+   "pos": "danh từ",
+   "audio": "A2-71-w-wi-fi.mp3"
+  },
+  {
+   "word": "app",
+   "ipa": "/æp/",
+   "meaning": "ứng dụng",
+   "pos": "danh từ",
+   "audio": "A2-71-w-app.mp3"
+  },
+  {
+   "word": "online",
+   "ipa": "/ˌɑːnˈlaɪn/",
+   "meaning": "trực tuyến, trên mạng",
+   "pos": "trạng từ, tính từ",
+   "audio": "A2-71-w-online.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've forgotten my password.",
+   "vi": "Tôi quên mật khẩu rồi.",
+   "audio": "A2-71-ex-1.mp3"
+  },
+  {
+   "en": "My phone has stopped working, and the screen is black.",
+   "vi": "Điện thoại của tôi không chạy nữa và màn hình đen ngòm.",
+   "audio": "A2-71-ex-2.mp3"
+  },
+  {
+   "en": "Could you turn on the Wi-Fi? I want to go online.",
+   "vi": "Bạn bật Wi-Fi giúp tôi được không? Tôi muốn lên mạng.",
+   "audio": "A2-71-ex-3.mp3"
+  },
+  {
+   "en": "I've just downloaded a new app, but I can't install it.",
+   "vi": "Tôi vừa tải một ứng dụng mới nhưng không cài được.",
+   "audio": "A2-71-ex-4.mp3"
+  },
+  {
+   "en": "This is the app which I use for my English lessons.",
+   "vi": "Đây là ứng dụng tôi dùng để học tiếng Anh.",
+   "audio": "A2-71-ex-5.mp3"
+  }
+ ]
+}

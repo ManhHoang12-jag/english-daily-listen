@@ -1,0 +1,74 @@
+{
+ "title": "Bài 47. V-ing hay to V: so sánh và sau giới từ",
+ "vocabulary": [
+  {
+   "word": "prefer",
+   "ipa": "/prɪˈfɝː/",
+   "meaning": "thích hơn",
+   "pos": "động từ",
+   "audio": "A2-47-w-prefer.mp3"
+  },
+  {
+   "word": "interested in",
+   "ipa": "/ˈɪntrəstɪd ɪn/",
+   "meaning": "quan tâm đến, thích tìm hiểu",
+   "pos": "cụm tính từ",
+   "audio": "A2-47-w-interested-in.mp3"
+  },
+  {
+   "word": "good at",
+   "ipa": "/ɡʊd æt/",
+   "meaning": "giỏi về",
+   "pos": "cụm tính từ",
+   "audio": "A2-47-w-good-at.mp3"
+  },
+  {
+   "word": "bored",
+   "ipa": "/bɔːrd/",
+   "meaning": "(cảm thấy) chán",
+   "pos": "tính từ",
+   "audio": "A2-47-w-bored.mp3"
+  },
+  {
+   "word": "excited",
+   "ipa": "/ɪkˈsaɪtɪd/",
+   "meaning": "háo hức, phấn khích",
+   "pos": "tính từ",
+   "audio": "A2-47-w-excited.mp3"
+  },
+  {
+   "word": "tired of",
+   "ipa": "/ˈtaɪərd ʌv/",
+   "meaning": "chán, ngán (việc gì)",
+   "pos": "cụm tính từ",
+   "audio": "A2-47-w-tired-of.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm interested in studying abroad.",
+   "vi": "Tôi quan tâm đến việc đi du học.",
+   "audio": "A2-47-ex-1.mp3"
+  },
+  {
+   "en": "She's good at speaking English.",
+   "vi": "Cô ấy nói tiếng Anh giỏi.",
+   "audio": "A2-47-ex-2.mp3"
+  },
+  {
+   "en": "I'm tired of waiting for the bus.",
+   "vi": "Tôi chán phải chờ xe buýt lắm rồi.",
+   "audio": "A2-47-ex-3.mp3"
+  },
+  {
+   "en": "Swimming is good for you.",
+   "vi": "Bơi lội tốt cho sức khỏe của bạn.",
+   "audio": "A2-47-ex-4.mp3"
+  },
+  {
+   "en": "I prefer studying in the morning.",
+   "vi": "Tôi thích học vào buổi sáng hơn.",
+   "audio": "A2-47-ex-5.mp3"
+  }
+ ]
+}

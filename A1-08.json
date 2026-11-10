@@ -1,0 +1,88 @@
+{
+ "title": "Bài 08. This, that, these, those",
+ "vocabulary": [
+  {
+   "word": "this",
+   "ipa": "/ðɪs/",
+   "meaning": "cái này, đây (một cái, ở gần)",
+   "pos": "từ chỉ định",
+   "audio": "A1-08-w-this.mp3"
+  },
+  {
+   "word": "that",
+   "ipa": "/ðæt/",
+   "meaning": "cái kia, kia (một cái, ở xa)",
+   "pos": "từ chỉ định",
+   "audio": "A1-08-w-that.mp3"
+  },
+  {
+   "word": "these",
+   "ipa": "/ðiːz/",
+   "meaning": "những cái này (nhiều cái, ở gần)",
+   "pos": "từ chỉ định",
+   "audio": "A1-08-w-these.mp3"
+  },
+  {
+   "word": "those",
+   "ipa": "/ðoʊz/",
+   "meaning": "những cái kia (nhiều cái, ở xa)",
+   "pos": "từ chỉ định",
+   "audio": "A1-08-w-those.mp3"
+  },
+  {
+   "word": "bag",
+   "ipa": "/bæɡ/",
+   "meaning": "cái túi, cái cặp",
+   "pos": "danh từ",
+   "audio": "A1-08-w-bag.mp3"
+  },
+  {
+   "word": "key",
+   "ipa": "/kiː/",
+   "meaning": "chìa khóa",
+   "pos": "danh từ",
+   "audio": "A1-08-w-key.mp3"
+  },
+  {
+   "word": "glasses",
+   "ipa": "/ˈɡlæsɪz/",
+   "meaning": "kính đeo mắt (luôn số nhiều)",
+   "pos": "danh từ",
+   "audio": "A1-08-w-glasses.mp3"
+  },
+  {
+   "word": "shirt",
+   "ipa": "/ʃɝːt/",
+   "meaning": "áo sơ mi",
+   "pos": "danh từ",
+   "audio": "A1-08-w-shirt.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This is my bag.",
+   "vi": "Đây là túi của tôi.",
+   "audio": "A1-08-ex-1.mp3"
+  },
+  {
+   "en": "That's Nam's car.",
+   "vi": "Kia là xe ô tô của Nam.",
+   "audio": "A1-08-ex-2.mp3"
+  },
+  {
+   "en": "These are my keys.",
+   "vi": "Đây là những chiếc chìa khóa của tôi.",
+   "audio": "A1-08-ex-3.mp3"
+  },
+  {
+   "en": "Are those your glasses? Yes, they are.",
+   "vi": "Kia có phải kính của bạn không? Đúng vậy.",
+   "audio": "A1-08-ex-4.mp3"
+  },
+  {
+   "en": "What's this? It's a key.",
+   "vi": "Đây là cái gì? Đó là một chiếc chìa khóa.",
+   "audio": "A1-08-ex-5.mp3"
+  }
+ ]
+}

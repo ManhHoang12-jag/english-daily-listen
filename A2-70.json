@@ -1,0 +1,74 @@
+{
+ "title": "Bài 70. Ôn tập và kiểm tra A2-7",
+ "vocabulary": [
+  {
+   "word": "turn off",
+   "ipa": "/tɝːn ˈɔːf/",
+   "meaning": "tắt (đèn, máy)",
+   "pos": "cụm động từ",
+   "audio": "A2-70-w-turn-off.mp3"
+  },
+  {
+   "word": "run out of",
+   "ipa": "/rʌn ˈaʊt əv/",
+   "meaning": "hết, cạn (cái gì)",
+   "pos": "cụm động từ",
+   "audio": "A2-70-w-run-out-of.mp3"
+  },
+  {
+   "word": "member",
+   "ipa": "/ˈmembɚ/",
+   "meaning": "thành viên",
+   "pos": "danh từ",
+   "audio": "A2-70-w-member.mp3"
+  },
+  {
+   "word": "match",
+   "ipa": "/mætʃ/",
+   "meaning": "trận đấu",
+   "pos": "danh từ",
+   "audio": "A2-70-w-match.mp3"
+  },
+  {
+   "word": "confused",
+   "ipa": "/kənˈfjuːzd/",
+   "meaning": "bối rối, không hiểu",
+   "pos": "tính từ",
+   "audio": "A2-70-w-confused.mp3"
+  },
+  {
+   "word": "how about",
+   "ipa": "/haʊ əˈbaʊt/",
+   "meaning": "... thì sao?, hay là...?",
+   "pos": "cụm gợi ý",
+   "audio": "A2-70-w-how-about.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Can you turn off the light? Sure, I'll turn it off.",
+   "vi": "Bạn tắt đèn được không? Được, để tôi tắt.",
+   "audio": "A2-70-ex-1.mp3"
+  },
+  {
+   "en": "I've been a member of the hiking club since 2020.",
+   "vi": "Tôi là thành viên câu lạc bộ leo núi từ năm 2020.",
+   "audio": "A2-70-ex-2.mp3"
+  },
+  {
+   "en": "Who won the match? Our team won three to one.",
+   "vi": "Đội nào thắng trận? Đội mình thắng ba – một.",
+   "audio": "A2-70-ex-3.mp3"
+  },
+  {
+   "en": "The class was interesting, but I was tired after work.",
+   "vi": "Buổi học thú vị, nhưng tôi mệt sau giờ làm.",
+   "audio": "A2-70-ex-4.mp3"
+  },
+  {
+   "en": "How about going jogging tomorrow? I'd love to, but I'm working.",
+   "vi": "Mai đi chạy bộ nhé? Mình rất muốn, nhưng mình phải đi làm.",
+   "audio": "A2-70-ex-5.mp3"
+  }
+ ]
+}

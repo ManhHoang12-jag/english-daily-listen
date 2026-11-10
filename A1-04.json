@@ -1,0 +1,74 @@
+{
+ "title": "Bài 04. Bảng chữ cái và đánh vần tên",
+ "vocabulary": [
+  {
+   "word": "spell",
+   "ipa": "/spel/",
+   "meaning": "đánh vần",
+   "pos": "động từ",
+   "audio": "A1-04-w-spell.mp3"
+  },
+  {
+   "word": "letter",
+   "ipa": "/ˈletɚ/",
+   "meaning": "chữ cái; lá thư",
+   "pos": "danh từ",
+   "audio": "A1-04-w-letter.mp3"
+  },
+  {
+   "word": "email",
+   "ipa": "/ˈiːmeɪl/",
+   "meaning": "thư điện tử, email",
+   "pos": "danh từ",
+   "audio": "A1-04-w-email.mp3"
+  },
+  {
+   "word": "address",
+   "ipa": "/ˈædres/",
+   "meaning": "địa chỉ",
+   "pos": "danh từ",
+   "audio": "A1-04-w-address.mp3"
+  },
+  {
+   "word": "surname",
+   "ipa": "/ˈsɝːneɪm/",
+   "meaning": "họ",
+   "pos": "danh từ",
+   "audio": "A1-04-w-surname.mp3"
+  },
+  {
+   "word": "first name",
+   "ipa": "/ˈfɝːst neɪm/",
+   "meaning": "tên (không gồm họ)",
+   "pos": "cụm danh từ",
+   "audio": "A1-04-w-first-name.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How do you spell your name?",
+   "vi": "Tên bạn đánh vần thế nào?",
+   "audio": "A1-04-ex-1.mp3"
+  },
+  {
+   "en": "It's L, A, N.",
+   "vi": "Là L-A-N.",
+   "audio": "A1-04-ex-2.mp3"
+  },
+  {
+   "en": "My first name is Lan, and my surname is Tran.",
+   "vi": "Tên tôi là Lan, còn họ tôi là Trần.",
+   "audio": "A1-04-ex-3.mp3"
+  },
+  {
+   "en": "My email address is lan dot tran at gmail dot com.",
+   "vi": "Địa chỉ email của tôi là lan.tran@gmail.com.",
+   "audio": "A1-04-ex-4.mp3"
+  },
+  {
+   "en": "What's your name? My name is Hung. How do you spell your first name? H, U, N, G. And your surname? Pham. P, H, A, M. What's your email address? It's hung dot pham at gmail dot com.",
+   "vi": "Bạn tên là gì? Tôi tên là Hùng. Tên bạn đánh vần thế nào? H-U-N-G. Còn họ của bạn? Phạm. P-H-A-M. Địa chỉ email của bạn là gì? Là hung.pham@gmail.com.",
+   "audio": "A1-04-ex-5.mp3"
+  }
+ ]
+}

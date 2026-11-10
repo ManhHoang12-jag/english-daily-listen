@@ -1,0 +1,95 @@
+{
+ "title": "Bài 57. Chủ đề: nấu ăn và công thức",
+ "vocabulary": [
+  {
+   "word": "recipe",
+   "ipa": "/ˈresəpi/",
+   "meaning": "công thức nấu ăn",
+   "pos": "danh từ",
+   "audio": "A2-57-w-recipe.mp3"
+  },
+  {
+   "word": "ingredient",
+   "ipa": "/ɪnˈɡriːdiənt/",
+   "meaning": "nguyên liệu",
+   "pos": "danh từ",
+   "audio": "A2-57-w-ingredient.mp3"
+  },
+  {
+   "word": "chop",
+   "ipa": "/tʃɑːp/",
+   "meaning": "cắt nhỏ, chặt (thành miếng)",
+   "pos": "động từ",
+   "audio": "A2-57-w-chop.mp3"
+  },
+  {
+   "word": "fry",
+   "ipa": "/fraɪ/",
+   "meaning": "chiên, rán, xào",
+   "pos": "động từ",
+   "audio": "A2-57-w-fry.mp3"
+  },
+  {
+   "word": "mix",
+   "ipa": "/mɪks/",
+   "meaning": "trộn, đánh (trứng)",
+   "pos": "động từ",
+   "audio": "A2-57-w-mix.mp3"
+  },
+  {
+   "word": "add",
+   "ipa": "/æd/",
+   "meaning": "thêm, cho vào",
+   "pos": "động từ",
+   "audio": "A2-57-w-add.mp3"
+  },
+  {
+   "word": "slice",
+   "ipa": "/slaɪs/",
+   "meaning": "thái lát; một lát",
+   "pos": "động từ / danh từ",
+   "audio": "A2-57-w-slice.mp3"
+  },
+  {
+   "word": "pan",
+   "ipa": "/pæn/",
+   "meaning": "chảo",
+   "pos": "danh từ",
+   "audio": "A2-57-w-pan.mp3"
+  },
+  {
+   "word": "oven",
+   "ipa": "/ˈʌvən/",
+   "meaning": "lò nướng",
+   "pos": "danh từ",
+   "audio": "A2-57-w-oven.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "First, slice the chicken and chop the vegetables.",
+   "vi": "Đầu tiên, thái lát thịt gà và cắt nhỏ rau.",
+   "audio": "A2-57-ex-1.mp3"
+  },
+  {
+   "en": "Then mix the eggs in a bowl.",
+   "vi": "Sau đó đánh trứng trong một cái bát.",
+   "audio": "A2-57-ex-2.mp3"
+  },
+  {
+   "en": "When the oil is hot, fry the chicken for three minutes.",
+   "vi": "Khi dầu nóng, chiên thịt gà trong ba phút.",
+   "audio": "A2-57-ex-3.mp3"
+  },
+  {
+   "en": "Then add the rice and mix everything well.",
+   "vi": "Sau đó cho cơm vào và đảo đều mọi thứ.",
+   "audio": "A2-57-ex-4.mp3"
+  },
+  {
+   "en": "If the rice is too dry, add a little more oil.",
+   "vi": "Nếu cơm khô quá thì cho thêm một chút dầu.",
+   "audio": "A2-57-ex-5.mp3"
+  }
+ ]
+}

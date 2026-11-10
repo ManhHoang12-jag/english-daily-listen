@@ -1,0 +1,67 @@
+{
+ "title": "Bài 15. For và since, How long...?",
+ "vocabulary": [
+  {
+   "word": "since",
+   "ipa": "/sɪns/",
+   "meaning": "từ (một mốc thời gian) đến nay",
+   "pos": "giới từ",
+   "audio": "A2-15-w-since.mp3"
+  },
+  {
+   "word": "how long",
+   "ipa": "/haʊ ˈlɔːŋ/",
+   "meaning": "bao lâu",
+   "pos": "từ để hỏi",
+   "audio": "A2-15-w-how-long.mp3"
+  },
+  {
+   "word": "move",
+   "ipa": "/muːv/",
+   "meaning": "chuyển (nhà, chỗ ở)",
+   "pos": "động từ",
+   "audio": "A2-15-w-move.mp3"
+  },
+  {
+   "word": "apartment",
+   "ipa": "/əˈpɑːrtmənt/",
+   "meaning": "căn hộ",
+   "pos": "danh từ",
+   "audio": "A2-15-w-apartment.mp3"
+  },
+  {
+   "word": "colleague",
+   "ipa": "/ˈkɑːliːɡ/",
+   "meaning": "đồng nghiệp",
+   "pos": "danh từ",
+   "audio": "A2-15-w-colleague.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've lived in this apartment for five years.",
+   "vi": "Tôi sống ở căn hộ này được năm năm rồi.",
+   "audio": "A2-15-ex-1.mp3"
+  },
+  {
+   "en": "She has worked at the bank since 2019.",
+   "vi": "Cô ấy làm việc ở ngân hàng từ năm 2019.",
+   "audio": "A2-15-ex-2.mp3"
+  },
+  {
+   "en": "How long have you known your colleague?",
+   "vi": "Bạn quen đồng nghiệp của bạn bao lâu rồi?",
+   "audio": "A2-15-ex-3.mp3"
+  },
+  {
+   "en": "We've had this car since last year.",
+   "vi": "Chúng tôi có chiếc ô tô này từ năm ngoái.",
+   "audio": "A2-15-ex-4.mp3"
+  },
+  {
+   "en": "We moved to Hanoi four years ago.",
+   "vi": "Chúng tôi chuyển đến Hà Nội bốn năm trước.",
+   "audio": "A2-15-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 15. Trạng từ tần suất",
+ "vocabulary": [
+  {
+   "word": "always",
+   "ipa": "/ˈɔːlweɪz/",
+   "meaning": "luôn luôn",
+   "pos": "trạng từ",
+   "audio": "A1-15-w-always.mp3"
+  },
+  {
+   "word": "usually",
+   "ipa": "/ˈjuːʒuəli/",
+   "meaning": "thường thường",
+   "pos": "trạng từ",
+   "audio": "A1-15-w-usually.mp3"
+  },
+  {
+   "word": "often",
+   "ipa": "/ˈɔːfən/",
+   "meaning": "hay, thường",
+   "pos": "trạng từ",
+   "audio": "A1-15-w-often.mp3"
+  },
+  {
+   "word": "sometimes",
+   "ipa": "/ˈsʌmtaɪmz/",
+   "meaning": "thỉnh thoảng",
+   "pos": "trạng từ",
+   "audio": "A1-15-w-sometimes.mp3"
+  },
+  {
+   "word": "never",
+   "ipa": "/ˈnevɚ/",
+   "meaning": "không bao giờ",
+   "pos": "trạng từ",
+   "audio": "A1-15-w-never.mp3"
+  },
+  {
+   "word": "how often",
+   "ipa": "/haʊ ˈɔːfən/",
+   "meaning": "bao lâu một lần, có hay ... không",
+   "pos": "cụm từ để hỏi",
+   "audio": "A1-15-w-how-often.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I always get up early.",
+   "vi": "Tôi luôn dậy sớm.",
+   "audio": "A1-15-ex-1.mp3"
+  },
+  {
+   "en": "My mother usually has breakfast at six o'clock.",
+   "vi": "Mẹ tôi thường ăn sáng lúc sáu giờ.",
+   "audio": "A1-15-ex-2.mp3"
+  },
+  {
+   "en": "We often go to bed late on Saturday.",
+   "vi": "Chúng tôi hay đi ngủ muộn vào thứ Bảy.",
+   "audio": "A1-15-ex-3.mp3"
+  },
+  {
+   "en": "He is never late.",
+   "vi": "Anh ấy không bao giờ đến muộn.",
+   "audio": "A1-15-ex-4.mp3"
+  },
+  {
+   "en": "How often do you cook? I sometimes cook on Sunday.",
+   "vi": "Bạn có hay nấu ăn không? Thỉnh thoảng tôi nấu vào Chủ nhật.",
+   "audio": "A1-15-ex-5.mp3"
+  }
+ ]
+}

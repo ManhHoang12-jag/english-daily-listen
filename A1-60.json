@@ -1,0 +1,67 @@
+{
+ "title": "Bài 60. Kiểm tra cuối giai đoạn A1",
+ "vocabulary": [
+  {
+   "word": "yesterday",
+   "ipa": "/ˈjestərdeɪ/",
+   "meaning": "hôm qua",
+   "pos": "trạng từ",
+   "audio": "A1-60-w-yesterday.mp3"
+  },
+  {
+   "word": "opposite",
+   "ipa": "/ˈɑːpəzɪt/",
+   "meaning": "đối diện",
+   "pos": "giới từ",
+   "audio": "A1-60-w-opposite.mp3"
+  },
+  {
+   "word": "because",
+   "ipa": "/bɪˈkʌz/",
+   "meaning": "vì, bởi vì",
+   "pos": "liên từ",
+   "audio": "A1-60-w-because.mp3"
+  },
+  {
+   "word": "going to",
+   "ipa": "/ˈɡoʊɪŋ tə/",
+   "meaning": "sẽ, định (kế hoạch, dự đoán)",
+   "pos": "cụm động từ",
+   "audio": "A1-60-w-going-to.mp3"
+  },
+  {
+   "word": "introduce",
+   "ipa": "/ˌɪntrəˈduːs/",
+   "meaning": "giới thiệu",
+   "pos": "động từ",
+   "audio": "A1-60-w-introduce.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hi, I'm Hoa. I'm a nurse, and I work in a hospital.",
+   "vi": "Chào bạn, tôi là Hoa. Tôi là y tá và tôi làm việc ở bệnh viện.",
+   "audio": "A1-60-ex-1.mp3"
+  },
+  {
+   "en": "She usually walks to work, but today she's taking the bus.",
+   "vi": "Cô ấy thường đi bộ đi làm, nhưng hôm nay cô ấy đi xe buýt.",
+   "audio": "A1-60-ex-2.mp3"
+  },
+  {
+   "en": "Where did you go last year? I went to Da Lat with my family.",
+   "vi": "Năm ngoái bạn đi đâu? Tôi đi Đà Lạt với gia đình.",
+   "audio": "A1-60-ex-3.mp3"
+  },
+  {
+   "en": "Is there a pharmacy near here? Yes, it's opposite the bank.",
+   "vi": "Gần đây có hiệu thuốc không? Có, nó ở đối diện ngân hàng.",
+   "audio": "A1-60-ex-4.mp3"
+  },
+  {
+   "en": "It's going to rain, so we're going to stay home.",
+   "vi": "Trời sắp mưa nên chúng tôi sẽ ở nhà.",
+   "audio": "A1-60-ex-5.mp3"
+  }
+ ]
+}

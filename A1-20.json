@@ -1,0 +1,74 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra A1-2",
+ "vocabulary": [
+  {
+   "word": "quarter",
+   "ipa": "/ˈkwɔːrtɚ/",
+   "meaning": "mười lăm phút (một phần tư giờ)",
+   "pos": "danh từ",
+   "audio": "A1-20-w-quarter.mp3"
+  },
+  {
+   "word": "usually",
+   "ipa": "/ˈjuːʒuəli/",
+   "meaning": "thường, thường thường",
+   "pos": "trạng từ",
+   "audio": "A1-20-w-usually.mp3"
+  },
+  {
+   "word": "Wednesday",
+   "ipa": "/ˈwenzdeɪ/",
+   "meaning": "thứ Tư",
+   "pos": "danh từ",
+   "audio": "A1-20-w-wednesday.mp3"
+  },
+  {
+   "word": "February",
+   "ipa": "/ˈfebjueri/",
+   "meaning": "tháng Hai",
+   "pos": "danh từ",
+   "audio": "A1-20-w-february.mp3"
+  },
+  {
+   "word": "third",
+   "ipa": "/θɝːd/",
+   "meaning": "thứ ba (số thứ tự), ngày mùng 3",
+   "pos": "số thứ tự",
+   "audio": "A1-20-w-third.mp3"
+  },
+  {
+   "word": "schedule",
+   "ipa": "/ˈskedʒuːl/",
+   "meaning": "thời gian biểu, lịch",
+   "pos": "danh từ",
+   "audio": "A1-20-w-schedule.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Mai gets up at half past five.",
+   "vi": "Mai thức dậy lúc năm giờ rưỡi.",
+   "audio": "A1-20-ex-1.mp3"
+  },
+  {
+   "en": "She usually has breakfast at six.",
+   "vi": "Cô ấy thường ăn sáng lúc sáu giờ.",
+   "audio": "A1-20-ex-2.mp3"
+  },
+  {
+   "en": "She goes to work by bus.",
+   "vi": "Cô ấy đi làm bằng xe buýt.",
+   "audio": "A1-20-ex-3.mp3"
+  },
+  {
+   "en": "She doesn't work on Sunday.",
+   "vi": "Cô ấy không làm việc vào Chủ nhật.",
+   "audio": "A1-20-ex-4.mp3"
+  },
+  {
+   "en": "Her birthday is on July third.",
+   "vi": "Sinh nhật cô ấy vào ngày 3 tháng 7.",
+   "audio": "A1-20-ex-5.mp3"
+  }
+ ]
+}

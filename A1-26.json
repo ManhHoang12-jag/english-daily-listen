@@ -1,0 +1,88 @@
+{
+ "title": "Bài 26. Can / can't: khả năng",
+ "vocabulary": [
+  {
+   "word": "can",
+   "ipa": "/kæn/ (đọc nhẹ /kən/)",
+   "meaning": "có thể, biết (làm gì)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A1-26-w-can.mp3"
+  },
+  {
+   "word": "can't",
+   "ipa": "/kænt/",
+   "meaning": "không thể, không biết (= cannot)",
+   "pos": "dạng gọn",
+   "audio": "A1-26-w-can-t.mp3"
+  },
+  {
+   "word": "swim",
+   "ipa": "/swɪm/",
+   "meaning": "bơi",
+   "pos": "động từ",
+   "audio": "A1-26-w-swim.mp3"
+  },
+  {
+   "word": "drive",
+   "ipa": "/draɪv/",
+   "meaning": "lái (xe ô tô)",
+   "pos": "động từ",
+   "audio": "A1-26-w-drive.mp3"
+  },
+  {
+   "word": "ride",
+   "ipa": "/raɪd/",
+   "meaning": "đi, cưỡi (xe đạp, xe máy)",
+   "pos": "động từ",
+   "audio": "A1-26-w-ride.mp3"
+  },
+  {
+   "word": "draw",
+   "ipa": "/drɔː/",
+   "meaning": "vẽ",
+   "pos": "động từ",
+   "audio": "A1-26-w-draw.mp3"
+  },
+  {
+   "word": "play",
+   "ipa": "/pleɪ/",
+   "meaning": "chơi",
+   "pos": "động từ",
+   "audio": "A1-26-w-play.mp3"
+  },
+  {
+   "word": "well",
+   "ipa": "/wel/",
+   "meaning": "giỏi, tốt",
+   "pos": "trạng từ",
+   "audio": "A1-26-w-well.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I can swim. I can't drive.",
+   "vi": "Tôi biết bơi. Tôi không biết lái xe.",
+   "audio": "A1-26-ex-1.mp3"
+  },
+  {
+   "en": "She can ride a bike.",
+   "vi": "Cô ấy biết đi xe đạp.",
+   "audio": "A1-26-ex-2.mp3"
+  },
+  {
+   "en": "Can you draw? Yes, I can.",
+   "vi": "Bạn có biết vẽ không? Có, tôi biết.",
+   "audio": "A1-26-ex-3.mp3"
+  },
+  {
+   "en": "Can he drive a car? No, he can't.",
+   "vi": "Anh ấy có biết lái ô tô không? Không, anh ấy không biết.",
+   "audio": "A1-26-ex-4.mp3"
+  },
+  {
+   "en": "My mother can cook well.",
+   "vi": "Mẹ tôi nấu ăn giỏi.",
+   "audio": "A1-26-ex-5.mp3"
+  }
+ ]
+}

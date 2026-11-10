@@ -1,0 +1,74 @@
+{
+ "title": "Bài 24. Is there...? / There isn't any",
+ "vocabulary": [
+  {
+   "word": "any",
+   "ipa": "/ˈeni/",
+   "meaning": "nào (trong câu hỏi, câu phủ định)",
+   "pos": "từ hạn định",
+   "audio": "A1-24-w-any.mp3"
+  },
+  {
+   "word": "hotel",
+   "ipa": "/hoʊˈtel/",
+   "meaning": "khách sạn",
+   "pos": "danh từ",
+   "audio": "A1-24-w-hotel.mp3"
+  },
+  {
+   "word": "cinema",
+   "ipa": "/ˈsɪnəmə/",
+   "meaning": "rạp chiếu phim",
+   "pos": "danh từ",
+   "audio": "A1-24-w-cinema.mp3"
+  },
+  {
+   "word": "museum",
+   "ipa": "/mjuˈziːəm/",
+   "meaning": "bảo tàng",
+   "pos": "danh từ",
+   "audio": "A1-24-w-museum.mp3"
+  },
+  {
+   "word": "bus stop",
+   "ipa": "/ˈbʌs stɑːp/",
+   "meaning": "trạm xe buýt, điểm dừng xe buýt",
+   "pos": "danh từ",
+   "audio": "A1-24-w-bus-stop.mp3"
+  },
+  {
+   "word": "near here",
+   "ipa": "/ˌnɪr ˈhɪr/",
+   "meaning": "gần đây",
+   "pos": "cụm từ",
+   "audio": "A1-24-w-near-here.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Is there a bank near here? Yes, there is.",
+   "vi": "Gần đây có ngân hàng không? Có.",
+   "audio": "A1-24-ex-1.mp3"
+  },
+  {
+   "en": "Are there any restaurants near here? Yes, there are.",
+   "vi": "Gần đây có nhà hàng nào không? Có.",
+   "audio": "A1-24-ex-2.mp3"
+  },
+  {
+   "en": "There isn't a museum in this city.",
+   "vi": "Thành phố này không có bảo tàng.",
+   "audio": "A1-24-ex-3.mp3"
+  },
+  {
+   "en": "There aren't any hotels on this street.",
+   "vi": "Trên con phố này không có khách sạn nào.",
+   "audio": "A1-24-ex-4.mp3"
+  },
+  {
+   "en": "Is there a bus stop near here? No, there isn't.",
+   "vi": "Gần đây có trạm xe buýt không? Không có.",
+   "audio": "A1-24-ex-5.mp3"
+  }
+ ]
+}

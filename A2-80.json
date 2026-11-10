@@ -1,0 +1,74 @@
+{
+ "title": "Bài 80. Ôn tập và kiểm tra A2-8",
+ "vocabulary": [
+  {
+   "word": "password",
+   "ipa": "/ˈpæswɝːd/",
+   "meaning": "mật khẩu (ôn Bài 71)",
+   "pos": "danh từ",
+   "audio": "A2-80-w-password.mp3"
+  },
+  {
+   "word": "leave a message",
+   "ipa": "/ˌliːv ə ˈmesɪdʒ/",
+   "meaning": "để lại lời nhắn (ôn Bài 72)",
+   "pos": "cụm động từ",
+   "audio": "A2-80-w-leave-a-message.mp3"
+  },
+  {
+   "word": "anything",
+   "ipa": "/ˈeniθɪŋ/",
+   "meaning": "bất cứ thứ gì (phủ định, câu hỏi) (ôn Bài 73)",
+   "pos": "đại từ",
+   "audio": "A2-80-w-anything.mp3"
+  },
+  {
+   "word": "each other",
+   "ipa": "/ˌiːtʃ ˈʌðɚ/",
+   "meaning": "nhau, lẫn nhau (ôn Bài 74)",
+   "pos": "đại từ",
+   "audio": "A2-80-w-each-other.mp3"
+  },
+  {
+   "word": "recycle",
+   "ipa": "/ˌriːˈsaɪkəl/",
+   "meaning": "tái chế (ôn Bài 75)",
+   "pos": "động từ",
+   "audio": "A2-80-w-recycle.mp3"
+  },
+  {
+   "word": "however",
+   "ipa": "/haʊˈɛvɚ/",
+   "meaning": "tuy nhiên (ôn Bài 76)",
+   "pos": "trạng từ liên kết",
+   "audio": "A2-80-w-however.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My new colleague, Tuan, is tall and slim, and he has curly hair.",
+   "vi": "Đồng nghiệp mới của tôi, Tuấn, cao và mảnh mai, và anh ấy có tóc xoăn.",
+   "audio": "A2-80-ex-1.mp3"
+  },
+  {
+   "en": "This morning my laptop stopped working, and there was no one at the help desk.",
+   "vi": "Sáng nay máy tính xách tay của tôi bị hỏng, và không có ai ở bộ phận hỗ trợ kỹ thuật.",
+   "audio": "A2-80-ex-2.mp3"
+  },
+  {
+   "en": "Tuan fixed it himself in ten minutes.",
+   "vi": "Tuấn tự sửa nó trong mười phút.",
+   "audio": "A2-80-ex-3.mp3"
+  },
+  {
+   "en": "He doesn't use plastic bags, and he doesn't drive a car either.",
+   "vi": "Anh ấy không dùng túi ni lông, và anh ấy cũng không lái ô tô.",
+   "audio": "A2-80-ex-4.mp3"
+  },
+  {
+   "en": "However, he never answers his phone, so people often have to leave a message.",
+   "vi": "Tuy nhiên, anh ấy không bao giờ nghe điện thoại, nên mọi người thường phải để lại lời nhắn.",
+   "audio": "A2-80-ex-5.mp3"
+  }
+ ]
+}

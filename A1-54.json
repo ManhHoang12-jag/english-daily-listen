@@ -1,0 +1,74 @@
+{
+ "title": "Bài 54. Going to: câu hỏi, phủ định và dự đoán",
+ "vocabulary": [
+  {
+   "word": "sky",
+   "ipa": "/skaɪ/",
+   "meaning": "bầu trời",
+   "pos": "danh từ",
+   "audio": "A1-54-w-sky.mp3"
+  },
+  {
+   "word": "fall",
+   "ipa": "/fɔːl/",
+   "meaning": "ngã, rơi xuống",
+   "pos": "động từ",
+   "audio": "A1-54-w-fall.mp3"
+  },
+  {
+   "word": "break",
+   "ipa": "/breɪk/",
+   "meaning": "vỡ, gãy, làm vỡ",
+   "pos": "động từ",
+   "audio": "A1-54-w-break.mp3"
+  },
+  {
+   "word": "miss",
+   "ipa": "/mɪs/",
+   "meaning": "lỡ, trễ (xe, tàu)",
+   "pos": "động từ",
+   "audio": "A1-54-w-miss.mp3"
+  },
+  {
+   "word": "careful",
+   "ipa": "/ˈkerfəl/",
+   "meaning": "cẩn thận",
+   "pos": "tính từ",
+   "audio": "A1-54-w-careful.mp3"
+  },
+  {
+   "word": "hurry",
+   "ipa": "/ˈhɝːi/",
+   "meaning": "nhanh lên, vội",
+   "pos": "động từ",
+   "audio": "A1-54-w-hurry.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What are you going to do this weekend?",
+   "vi": "Cuối tuần này bạn định làm gì?",
+   "audio": "A1-54-ex-1.mp3"
+  },
+  {
+   "en": "Are you going to drive? No, I'm not.",
+   "vi": "Bạn định lái xe à? Không.",
+   "audio": "A1-54-ex-2.mp3"
+  },
+  {
+   "en": "Look at the sky! It's going to rain.",
+   "vi": "Nhìn bầu trời kìa! Trời sắp mưa.",
+   "audio": "A1-54-ex-3.mp3"
+  },
+  {
+   "en": "I'm not going to walk to the station.",
+   "vi": "Tôi sẽ không đi bộ ra ga.",
+   "audio": "A1-54-ex-4.mp3"
+  },
+  {
+   "en": "Hurry! You're going to miss the train.",
+   "vi": "Nhanh lên! Bạn sắp lỡ tàu rồi.",
+   "audio": "A1-54-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,60 @@
+{
+ "title": "Bài 09. Kỹ năng: viết câu chuyện 60–80 từ",
+ "vocabulary": [
+  {
+   "word": "at first",
+   "ipa": "/æt ˈfɝːst/",
+   "meaning": "lúc đầu",
+   "pos": "cụm trạng từ",
+   "audio": "A2-09-w-at-first.mp3"
+  },
+  {
+   "word": "in the end",
+   "ipa": "/ɪn ði ˈend/",
+   "meaning": "cuối cùng, rốt cuộc",
+   "pos": "cụm trạng từ",
+   "audio": "A2-09-w-in-the-end.mp3"
+  },
+  {
+   "word": "luckily",
+   "ipa": "/ˈlʌkəli/",
+   "meaning": "may mắn là",
+   "pos": "trạng từ",
+   "audio": "A2-09-w-luckily.mp3"
+  },
+  {
+   "word": "unfortunately",
+   "ipa": "/ʌnˈfɔːrtʃənətli/",
+   "meaning": "không may là, đáng tiếc là",
+   "pos": "trạng từ",
+   "audio": "A2-09-w-unfortunately.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At first, it was sunny and warm.",
+   "vi": "Lúc đầu trời nắng và ấm.",
+   "audio": "A2-09-ex-1.mp3"
+  },
+  {
+   "en": "While she was turning left at a corner, she slipped on the wet road and fell.",
+   "vi": "Trong lúc rẽ trái ở một góc phố, cô ấy trượt trên mặt đường ướt và ngã.",
+   "audio": "A2-09-ex-2.mp3"
+  },
+  {
+   "en": "Unfortunately, she dropped her phone in the water.",
+   "vi": "Không may là cô ấy làm rơi điện thoại xuống nước.",
+   "audio": "A2-09-ex-3.mp3"
+  },
+  {
+   "en": "Luckily, her neighbor was driving home.",
+   "vi": "May mắn là anh hàng xóm đang lái xe về nhà.",
+   "audio": "A2-09-ex-4.mp3"
+  },
+  {
+   "en": "In the end, they drank hot tea at his house, and Lan felt better.",
+   "vi": "Cuối cùng, họ uống trà nóng ở nhà anh ấy, và Lan thấy khỏe hơn.",
+   "audio": "A2-09-ex-5.mp3"
+  }
+ ]
+}

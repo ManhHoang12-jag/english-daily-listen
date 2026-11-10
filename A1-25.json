@@ -1,0 +1,95 @@
+{
+ "title": "Bài 25. Câu mệnh lệnh và chỉ đường",
+ "vocabulary": [
+  {
+   "word": "turn",
+   "ipa": "/tɝːn/",
+   "meaning": "rẽ, quay",
+   "pos": "động từ",
+   "audio": "A1-25-w-turn.mp3"
+  },
+  {
+   "word": "left",
+   "ipa": "/left/",
+   "meaning": "trái, bên trái",
+   "pos": "danh từ / trạng từ",
+   "audio": "A1-25-w-left.mp3"
+  },
+  {
+   "word": "right",
+   "ipa": "/raɪt/",
+   "meaning": "phải, bên phải",
+   "pos": "danh từ / trạng từ",
+   "audio": "A1-25-w-right.mp3"
+  },
+  {
+   "word": "straight",
+   "ipa": "/streɪt/",
+   "meaning": "thẳng",
+   "pos": "trạng từ",
+   "audio": "A1-25-w-straight.mp3"
+  },
+  {
+   "word": "cross",
+   "ipa": "/krɔːs/",
+   "meaning": "băng qua (đường)",
+   "pos": "động từ",
+   "audio": "A1-25-w-cross.mp3"
+  },
+  {
+   "word": "corner",
+   "ipa": "/ˈkɔːrnɚ/",
+   "meaning": "góc (phố)",
+   "pos": "danh từ",
+   "audio": "A1-25-w-corner.mp3"
+  },
+  {
+   "word": "along",
+   "ipa": "/əˈlɔːŋ/",
+   "meaning": "dọc theo",
+   "pos": "giới từ",
+   "audio": "A1-25-w-along.mp3"
+  },
+  {
+   "word": "road",
+   "ipa": "/roʊd/",
+   "meaning": "con đường",
+   "pos": "danh từ",
+   "audio": "A1-25-w-road.mp3"
+  },
+  {
+   "word": "please",
+   "ipa": "/pliːz/",
+   "meaning": "làm ơn, vui lòng",
+   "pos": "trạng từ",
+   "audio": "A1-25-w-please.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Go straight along this road.",
+   "vi": "Đi thẳng dọc con đường này.",
+   "audio": "A1-25-ex-1.mp3"
+  },
+  {
+   "en": "Turn left at the corner.",
+   "vi": "Rẽ trái ở góc phố.",
+   "audio": "A1-25-ex-2.mp3"
+  },
+  {
+   "en": "Cross the street and turn right.",
+   "vi": "Băng qua đường rồi rẽ phải.",
+   "audio": "A1-25-ex-3.mp3"
+  },
+  {
+   "en": "Please don't cross the road here.",
+   "vi": "Làm ơn đừng băng qua đường ở chỗ này.",
+   "audio": "A1-25-ex-4.mp3"
+  },
+  {
+   "en": "Turn right. The station is on your left.",
+   "vi": "Rẽ phải. Nhà ga ở bên tay trái bạn.",
+   "audio": "A1-25-ex-5.mp3"
+  }
+ ]
+}

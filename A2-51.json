@@ -1,0 +1,74 @@
+{
+ "title": "Bài 51. Mệnh đề quan hệ với who",
+ "vocabulary": [
+  {
+   "word": "person",
+   "ipa": "/ˈpɝːsən/",
+   "meaning": "người, một người",
+   "pos": "danh từ",
+   "audio": "A2-51-w-person.mp3"
+  },
+  {
+   "word": "someone",
+   "ipa": "/ˈsʌmwʌn/",
+   "meaning": "ai đó, một người nào đó",
+   "pos": "đại từ",
+   "audio": "A2-51-w-someone.mp3"
+  },
+  {
+   "word": "mechanic",
+   "ipa": "/məˈkænɪk/",
+   "meaning": "thợ máy, thợ sửa xe",
+   "pos": "danh từ",
+   "audio": "A2-51-w-mechanic.mp3"
+  },
+  {
+   "word": "plumber",
+   "ipa": "/ˈplʌmər/",
+   "meaning": "thợ sửa ống nước",
+   "pos": "danh từ",
+   "audio": "A2-51-w-plumber.mp3"
+  },
+  {
+   "word": "electrician",
+   "ipa": "/ɪˌlekˈtrɪʃən/",
+   "meaning": "thợ điện",
+   "pos": "danh từ",
+   "audio": "A2-51-w-electrician.mp3"
+  },
+  {
+   "word": "hairdresser",
+   "ipa": "/ˈherˌdresər/",
+   "meaning": "thợ làm tóc",
+   "pos": "danh từ",
+   "audio": "A2-51-w-hairdresser.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "A mechanic is a person who works on cars and motorbikes.",
+   "vi": "Thợ máy là người sửa chữa ô tô và xe máy.",
+   "audio": "A2-51-ex-1.mp3"
+  },
+  {
+   "en": "My sister is a hairdresser who works in a small shop near the market.",
+   "vi": "Chị tôi là thợ làm tóc, làm ở một tiệm nhỏ gần chợ.",
+   "audio": "A2-51-ex-2.mp3"
+  },
+  {
+   "en": "I have a neighbor who is an electrician.",
+   "vi": "Tôi có một người hàng xóm là thợ điện.",
+   "audio": "A2-51-ex-3.mp3"
+  },
+  {
+   "en": "The man who lives opposite us is a plumber.",
+   "vi": "Người đàn ông sống đối diện nhà chúng tôi là thợ sửa ống nước.",
+   "audio": "A2-51-ex-4.mp3"
+  },
+  {
+   "en": "We need someone who can speak English.",
+   "vi": "Chúng tôi cần một người có thể nói tiếng Anh.",
+   "audio": "A2-51-ex-5.mp3"
+  }
+ ]
+}

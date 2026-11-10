@@ -1,0 +1,81 @@
+{
+ "title": "Bài 25. So sánh nhất",
+ "vocabulary": [
+  {
+   "word": "the most",
+   "ipa": "/ðə moʊst/",
+   "meaning": "nhất (đứng trước tính từ dài)",
+   "pos": "cụm so sánh nhất",
+   "audio": "A2-25-w-the-most.mp3"
+  },
+  {
+   "word": "the best",
+   "ipa": "/ðə best/",
+   "meaning": "tốt nhất, ngon nhất, giỏi nhất",
+   "pos": "tính từ so sánh nhất",
+   "audio": "A2-25-w-the-best.mp3"
+  },
+  {
+   "word": "the worst",
+   "ipa": "/ðə wɜrst/",
+   "meaning": "tệ nhất",
+   "pos": "tính từ so sánh nhất",
+   "audio": "A2-25-w-the-worst.mp3"
+  },
+  {
+   "word": "world",
+   "ipa": "/wɜrld/",
+   "meaning": "thế giới",
+   "pos": "danh từ",
+   "audio": "A2-25-w-world.mp3"
+  },
+  {
+   "word": "popular",
+   "ipa": "/ˈpɑpjələr/",
+   "meaning": "được ưa chuộng, phổ biến",
+   "pos": "tính từ",
+   "audio": "A2-25-w-popular.mp3"
+  },
+  {
+   "word": "famous",
+   "ipa": "/ˈfeɪməs/",
+   "meaning": "nổi tiếng",
+   "pos": "tính từ",
+   "audio": "A2-25-w-famous.mp3"
+  },
+  {
+   "word": "dangerous",
+   "ipa": "/ˈdeɪndʒərəs/",
+   "meaning": "nguy hiểm",
+   "pos": "tính từ",
+   "audio": "A2-25-w-dangerous.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Russia is the biggest country in the world.",
+   "vi": "Nga là nước lớn nhất thế giới.",
+   "audio": "A2-25-ex-1.mp3"
+  },
+  {
+   "en": "This is the cheapest restaurant on our street.",
+   "vi": "Đây là nhà hàng rẻ nhất trên phố của chúng tôi.",
+   "audio": "A2-25-ex-2.mp3"
+  },
+  {
+   "en": "Pho is the most popular dish in Vietnam.",
+   "vi": "Phở là món ăn phổ biến nhất ở Việt Nam.",
+   "audio": "A2-25-ex-3.mp3"
+  },
+  {
+   "en": "Friday evening is the worst time for traffic.",
+   "vi": "Tối thứ Sáu là lúc giao thông tệ nhất.",
+   "audio": "A2-25-ex-4.mp3"
+  },
+  {
+   "en": "It's the best pho I've ever eaten.",
+   "vi": "Đó là bát phở ngon nhất tôi từng ăn.",
+   "audio": "A2-25-ex-5.mp3"
+  }
+ ]
+}

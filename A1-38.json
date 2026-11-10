@@ -1,0 +1,95 @@
+{
+ "title": "Bài 38. Would like: gọi món",
+ "vocabulary": [
+  {
+   "word": "would like",
+   "ipa": "/wʊd laɪk/",
+   "meaning": "muốn (lịch sự)",
+   "pos": "cụm động từ",
+   "audio": "A1-38-w-would-like.mp3"
+  },
+  {
+   "word": "menu",
+   "ipa": "/ˈmenjuː/",
+   "meaning": "thực đơn",
+   "pos": "danh từ",
+   "audio": "A1-38-w-menu.mp3"
+  },
+  {
+   "word": "order",
+   "ipa": "/ˈɔːrdər/",
+   "meaning": "gọi món, đặt hàng",
+   "pos": "động từ",
+   "audio": "A1-38-w-order.mp3"
+  },
+  {
+   "word": "bill",
+   "ipa": "/bɪl/",
+   "meaning": "hóa đơn (ở Mỹ hay nói check)",
+   "pos": "danh từ",
+   "audio": "A1-38-w-bill.mp3"
+  },
+  {
+   "word": "soup",
+   "ipa": "/suːp/",
+   "meaning": "súp, canh",
+   "pos": "danh từ",
+   "audio": "A1-38-w-soup.mp3"
+  },
+  {
+   "word": "noodles",
+   "ipa": "/ˈnuːdəlz/",
+   "meaning": "mì, bún, phở (sợi)",
+   "pos": "danh từ",
+   "audio": "A1-38-w-noodles.mp3"
+  },
+  {
+   "word": "salad",
+   "ipa": "/ˈsæləd/",
+   "meaning": "món salad, rau trộn",
+   "pos": "danh từ",
+   "audio": "A1-38-w-salad.mp3"
+  },
+  {
+   "word": "dessert",
+   "ipa": "/dɪˈzɝːt/",
+   "meaning": "món tráng miệng",
+   "pos": "danh từ",
+   "audio": "A1-38-w-dessert.mp3"
+  },
+  {
+   "word": "waiter",
+   "ipa": "/ˈweɪtər/",
+   "meaning": "người phục vụ (bàn)",
+   "pos": "danh từ",
+   "audio": "A1-38-w-waiter.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like some noodles, please.",
+   "vi": "Cho tôi một phần mì.",
+   "audio": "A1-38-ex-1.mp3"
+  },
+  {
+   "en": "Would you like dessert? No, thanks.",
+   "vi": "Anh/chị có dùng tráng miệng không? Không, cảm ơn.",
+   "audio": "A1-38-ex-2.mp3"
+  },
+  {
+   "en": "She would like a salad and a cup of tea.",
+   "vi": "Cô ấy muốn một đĩa salad và một tách trà.",
+   "audio": "A1-38-ex-3.mp3"
+  },
+  {
+   "en": "We'd like to order now.",
+   "vi": "Chúng tôi muốn gọi món bây giờ.",
+   "audio": "A1-38-ex-4.mp3"
+  },
+  {
+   "en": "Would you like to see the menu? Yes, please.",
+   "vi": "Anh/chị có muốn xem thực đơn không? Vâng, cho tôi xem.",
+   "audio": "A1-38-ex-5.mp3"
+  }
+ ]
+}

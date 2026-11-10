@@ -1,0 +1,74 @@
+{
+ "title": "Bài 55. Liên từ and, but, because, so",
+ "vocabulary": [
+  {
+   "word": "but",
+   "ipa": "/bʌt/",
+   "meaning": "nhưng",
+   "pos": "liên từ",
+   "audio": "A1-55-w-but.mp3"
+  },
+  {
+   "word": "because",
+   "ipa": "/bɪˈkʌz/",
+   "meaning": "vì, bởi vì",
+   "pos": "liên từ",
+   "audio": "A1-55-w-because.mp3"
+  },
+  {
+   "word": "so",
+   "ipa": "/soʊ/",
+   "meaning": "nên, vì vậy",
+   "pos": "liên từ",
+   "audio": "A1-55-w-so.mp3"
+  },
+  {
+   "word": "or",
+   "ipa": "/ɔːr/",
+   "meaning": "hay, hoặc",
+   "pos": "liên từ",
+   "audio": "A1-55-w-or.mp3"
+  },
+  {
+   "word": "why",
+   "ipa": "/waɪ/",
+   "meaning": "tại sao",
+   "pos": "từ để hỏi",
+   "audio": "A1-55-w-why.mp3"
+  },
+  {
+   "word": "also",
+   "ipa": "/ˈɔːlsoʊ/",
+   "meaning": "cũng",
+   "pos": "trạng từ",
+   "audio": "A1-55-w-also.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I was tired, but I went to work.",
+   "vi": "Tôi mệt nhưng tôi vẫn đi làm.",
+   "audio": "A1-55-ex-1.mp3"
+  },
+  {
+   "en": "She stayed home because it was rainy.",
+   "vi": "Cô ấy ở nhà vì trời mưa.",
+   "audio": "A1-55-ex-2.mp3"
+  },
+  {
+   "en": "It was very late, so we went home.",
+   "vi": "Lúc đó đã rất muộn nên chúng tôi về nhà.",
+   "audio": "A1-55-ex-3.mp3"
+  },
+  {
+   "en": "Do you want tea or coffee?",
+   "vi": "Bạn muốn uống trà hay cà phê?",
+   "audio": "A1-55-ex-4.mp3"
+  },
+  {
+   "en": "Why did you leave early? Because I had a meeting.",
+   "vi": "Sao bạn về sớm vậy? Vì tôi có cuộc họp.",
+   "audio": "A1-55-ex-5.mp3"
+  }
+ ]
+}

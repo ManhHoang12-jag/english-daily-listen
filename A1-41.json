@@ -1,0 +1,74 @@
+{
+ "title": "Bài 41. Hiện tại tiếp diễn: đang làm gì",
+ "vocabulary": [
+  {
+   "word": "now",
+   "ipa": "/naʊ/",
+   "meaning": "bây giờ",
+   "pos": "trạng từ",
+   "audio": "A1-41-w-now.mp3"
+  },
+  {
+   "word": "right now",
+   "ipa": "/raɪt naʊ/",
+   "meaning": "ngay lúc này",
+   "pos": "cụm trạng từ",
+   "audio": "A1-41-w-right-now.mp3"
+  },
+  {
+   "word": "wait",
+   "ipa": "/weɪt/",
+   "meaning": "đợi, chờ (wait for + người/vật)",
+   "pos": "động từ",
+   "audio": "A1-41-w-wait.mp3"
+  },
+  {
+   "word": "talk",
+   "ipa": "/tɔːk/",
+   "meaning": "nói chuyện",
+   "pos": "động từ",
+   "audio": "A1-41-w-talk.mp3"
+  },
+  {
+   "word": "look",
+   "ipa": "/lʊk/",
+   "meaning": "nhìn (look at + vật)",
+   "pos": "động từ",
+   "audio": "A1-41-w-look.mp3"
+  },
+  {
+   "word": "wear",
+   "ipa": "/wer/",
+   "meaning": "mặc, đeo, đội",
+   "pos": "động từ",
+   "audio": "A1-41-w-wear.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm working now.",
+   "vi": "Bây giờ tôi đang làm việc.",
+   "audio": "A1-41-ex-1.mp3"
+  },
+  {
+   "en": "She's waiting for the bus.",
+   "vi": "Cô ấy đang đợi xe buýt.",
+   "audio": "A1-41-ex-2.mp3"
+  },
+  {
+   "en": "They're talking on the phone.",
+   "vi": "Họ đang nói chuyện điện thoại.",
+   "audio": "A1-41-ex-3.mp3"
+  },
+  {
+   "en": "He's wearing glasses.",
+   "vi": "Anh ấy đang đeo kính.",
+   "audio": "A1-41-ex-4.mp3"
+  },
+  {
+   "en": "We're looking at the map right now.",
+   "vi": "Ngay lúc này chúng tôi đang xem bản đồ.",
+   "audio": "A1-41-ex-5.mp3"
+  }
+ ]
+}

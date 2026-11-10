@@ -1,0 +1,81 @@
+{
+ "title": "Bài 11. Hiện tại hoàn thành: dạng và nghĩa 'đã từng'",
+ "vocabulary": [
+  {
+   "word": "been",
+   "ipa": "/bɪn/",
+   "meaning": "V3 của be (đã từng ở, đã từng đến)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-been.mp3"
+  },
+  {
+   "word": "seen",
+   "ipa": "/siːn/",
+   "meaning": "V3 của see (đã thấy, đã xem)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-seen.mp3"
+  },
+  {
+   "word": "done",
+   "ipa": "/dʌn/",
+   "meaning": "V3 của do (đã làm)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-done.mp3"
+  },
+  {
+   "word": "eaten",
+   "ipa": "/ˈiːtn/",
+   "meaning": "V3 của eat (đã ăn)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-eaten.mp3"
+  },
+  {
+   "word": "taken",
+   "ipa": "/ˈteɪkən/",
+   "meaning": "V3 của take (đã lấy, đã đi xe)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-taken.mp3"
+  },
+  {
+   "word": "visited",
+   "ipa": "/ˈvɪzɪtɪd/",
+   "meaning": "V2 và V3 của visit (đã đến thăm)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-11-w-visited.mp3"
+  },
+  {
+   "word": "experience",
+   "ipa": "/ɪkˈspɪriəns/",
+   "meaning": "trải nghiệm, kinh nghiệm",
+   "pos": "danh từ",
+   "audio": "A2-11-w-experience.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have visited Hue.",
+   "vi": "Tôi đã từng đến thăm Huế.",
+   "audio": "A2-11-ex-1.mp3"
+  },
+  {
+   "en": "She has seen that movie.",
+   "vi": "Cô ấy đã từng xem bộ phim đó.",
+   "audio": "A2-11-ex-2.mp3"
+  },
+  {
+   "en": "My father has been to Da Lat.",
+   "vi": "Bố tôi đã từng đến Đà Lạt.",
+   "audio": "A2-11-ex-3.mp3"
+  },
+  {
+   "en": "We have eaten spicy noodles in Hue.",
+   "vi": "Chúng tôi đã từng ăn mì cay ở Huế.",
+   "audio": "A2-11-ex-4.mp3"
+  },
+  {
+   "en": "My sister has taken the train to Sa Pa.",
+   "vi": "Chị tôi đã từng đi tàu lên Sa Pa.",
+   "audio": "A2-11-ex-5.mp3"
+  }
+ ]
+}

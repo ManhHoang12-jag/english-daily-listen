@@ -1,0 +1,74 @@
+{
+ "title": "Bài 52. Mệnh đề quan hệ với which / that",
+ "vocabulary": [
+  {
+   "word": "thing",
+   "ipa": "/θɪŋ/",
+   "meaning": "đồ vật, thứ, điều",
+   "pos": "danh từ",
+   "audio": "A2-52-w-thing.mp3"
+  },
+  {
+   "word": "something",
+   "ipa": "/ˈsʌmθɪŋ/",
+   "meaning": "cái gì đó, một thứ gì đó",
+   "pos": "đại từ",
+   "audio": "A2-52-w-something.mp3"
+  },
+  {
+   "word": "machine",
+   "ipa": "/məˈʃiːn/",
+   "meaning": "máy, máy móc",
+   "pos": "danh từ",
+   "audio": "A2-52-w-machine.mp3"
+  },
+  {
+   "word": "tool",
+   "ipa": "/tuːl/",
+   "meaning": "dụng cụ, công cụ",
+   "pos": "danh từ",
+   "audio": "A2-52-w-tool.mp3"
+  },
+  {
+   "word": "device",
+   "ipa": "/dɪˈvaɪs/",
+   "meaning": "thiết bị (điện thoại, máy tính bảng...)",
+   "pos": "danh từ",
+   "audio": "A2-52-w-device.mp3"
+  },
+  {
+   "word": "charger",
+   "ipa": "/ˈtʃɑrdʒər/",
+   "meaning": "bộ sạc, cục sạc",
+   "pos": "danh từ",
+   "audio": "A2-52-w-charger.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This is the phone that I bought last week.",
+   "vi": "Đây là cái điện thoại tôi mua tuần trước.",
+   "audio": "A2-52-ex-1.mp3"
+  },
+  {
+   "en": "A washing machine is a machine that washes clothes.",
+   "vi": "Máy giặt là cái máy giặt quần áo.",
+   "audio": "A2-52-ex-2.mp3"
+  },
+  {
+   "en": "I can't find the charger which you gave me.",
+   "vi": "Tôi không tìm thấy cái sạc mà bạn đưa tôi.",
+   "audio": "A2-52-ex-3.mp3"
+  },
+  {
+   "en": "She is the colleague that helped me with my report.",
+   "vi": "Cô ấy là người đồng nghiệp đã giúp tôi làm báo cáo.",
+   "audio": "A2-52-ex-4.mp3"
+  },
+  {
+   "en": "Do you have a tool that can open this bottle?",
+   "vi": "Bạn có dụng cụ nào mở được cái chai này không?",
+   "audio": "A2-52-ex-5.mp3"
+  }
+ ]
+}

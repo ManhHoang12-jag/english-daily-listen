@@ -1,0 +1,60 @@
+{
+ "title": "Bài 78. Mô tả tranh khi nói",
+ "vocabulary": [
+  {
+   "word": "background",
+   "ipa": "/ˈbækɡraʊnd/",
+   "meaning": "phía sau, hậu cảnh (của bức tranh)",
+   "pos": "danh từ",
+   "audio": "A2-78-w-background.mp3"
+  },
+  {
+   "word": "foreground",
+   "ipa": "/ˈfɔːrɡraʊnd/",
+   "meaning": "phía trước, tiền cảnh (gần người xem)",
+   "pos": "danh từ",
+   "audio": "A2-78-w-foreground.mp3"
+  },
+  {
+   "word": "look like",
+   "ipa": "/ˈlʊk laɪk/",
+   "meaning": "trông giống như, trông như là",
+   "pos": "cụm động từ",
+   "audio": "A2-78-w-look-like.mp3"
+  },
+  {
+   "word": "in the middle",
+   "ipa": "/ɪn ðə ˈmɪdəl/",
+   "meaning": "ở giữa",
+   "pos": "cụm giới từ",
+   "audio": "A2-78-w-in-the-middle.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "In the foreground, a woman is sitting under a tree and reading a book.",
+   "vi": "Ở phía trước, một người phụ nữ đang ngồi dưới gốc cây đọc sách.",
+   "audio": "A2-78-ex-1.mp3"
+  },
+  {
+   "en": "In the middle, two children are playing football.",
+   "vi": "Ở giữa, hai đứa trẻ đang chơi bóng đá.",
+   "audio": "A2-78-ex-2.mp3"
+  },
+  {
+   "en": "In the background, there are some tall buildings.",
+   "vi": "Ở phía sau có vài tòa nhà cao.",
+   "audio": "A2-78-ex-3.mp3"
+  },
+  {
+   "en": "It looks like a park in a big city.",
+   "vi": "Trông như một công viên ở thành phố lớn.",
+   "audio": "A2-78-ex-4.mp3"
+  },
+  {
+   "en": "The woman might be the children's mother.",
+   "vi": "Người phụ nữ có thể là mẹ của hai đứa trẻ.",
+   "audio": "A2-78-ex-5.mp3"
+  }
+ ]
+}

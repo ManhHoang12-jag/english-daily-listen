@@ -1,0 +1,60 @@
+{
+ "title": "Bài 39. Kỹ năng: ở phòng khám",
+ "vocabulary": [
+  {
+   "word": "clinic",
+   "ipa": "/ˈklɪnɪk/",
+   "meaning": "phòng khám",
+   "pos": "danh từ",
+   "audio": "A2-39-w-clinic.mp3"
+  },
+  {
+   "word": "symptom",
+   "ipa": "/ˈsɪmptəm/",
+   "meaning": "triệu chứng",
+   "pos": "danh từ",
+   "audio": "A2-39-w-symptom.mp3"
+  },
+  {
+   "word": "examine",
+   "ipa": "/ɪɡˈzæmɪn/",
+   "meaning": "khám (bệnh), kiểm tra kỹ",
+   "pos": "động từ",
+   "audio": "A2-39-w-examine.mp3"
+  },
+  {
+   "word": "pill",
+   "ipa": "/pɪl/",
+   "meaning": "viên thuốc",
+   "pos": "danh từ",
+   "audio": "A2-39-w-pill.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have a bad cough and a sore throat.",
+   "vi": "Tôi bị ho nặng và đau họng.",
+   "audio": "A2-39-ex-1.mp3"
+  },
+  {
+   "en": "I've had a cough for three days, and I've had a fever since Sunday.",
+   "vi": "Tôi bị ho được ba ngày rồi, và bị sốt từ Chủ nhật.",
+   "audio": "A2-39-ex-2.mp3"
+  },
+  {
+   "en": "I'm going to examine you now.",
+   "vi": "Bây giờ tôi sẽ khám cho anh.",
+   "audio": "A2-39-ex-3.mp3"
+  },
+  {
+   "en": "Take one pill twice a day, after breakfast and after dinner.",
+   "vi": "Uống một viên, ngày hai lần, sau bữa sáng và sau bữa tối.",
+   "audio": "A2-39-ex-4.mp3"
+  },
+  {
+   "en": "You have to stay home for two days, and you might feel tired.",
+   "vi": "Anh phải ở nhà hai ngày, và anh có thể thấy mệt.",
+   "audio": "A2-39-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Bài 14. Thứ trong tuần và giới từ on",
+ "vocabulary": [
+  {
+   "word": "Monday",
+   "ipa": "/ˈmʌndeɪ/",
+   "meaning": "thứ Hai",
+   "pos": "danh từ",
+   "audio": "A1-14-w-monday.mp3"
+  },
+  {
+   "word": "Tuesday",
+   "ipa": "/ˈtuːzdeɪ/",
+   "meaning": "thứ Ba",
+   "pos": "danh từ",
+   "audio": "A1-14-w-tuesday.mp3"
+  },
+  {
+   "word": "Wednesday",
+   "ipa": "/ˈwenzdeɪ/",
+   "meaning": "thứ Tư",
+   "pos": "danh từ",
+   "audio": "A1-14-w-wednesday.mp3"
+  },
+  {
+   "word": "Thursday",
+   "ipa": "/ˈθɝːzdeɪ/",
+   "meaning": "thứ Năm",
+   "pos": "danh từ",
+   "audio": "A1-14-w-thursday.mp3"
+  },
+  {
+   "word": "Friday",
+   "ipa": "/ˈfraɪdeɪ/",
+   "meaning": "thứ Sáu",
+   "pos": "danh từ",
+   "audio": "A1-14-w-friday.mp3"
+  },
+  {
+   "word": "Saturday",
+   "ipa": "/ˈsætɚdeɪ/",
+   "meaning": "thứ Bảy",
+   "pos": "danh từ",
+   "audio": "A1-14-w-saturday.mp3"
+  },
+  {
+   "word": "Sunday",
+   "ipa": "/ˈsʌndeɪ/",
+   "meaning": "Chủ nhật",
+   "pos": "danh từ",
+   "audio": "A1-14-w-sunday.mp3"
+  },
+  {
+   "word": "today",
+   "ipa": "/təˈdeɪ/",
+   "meaning": "hôm nay",
+   "pos": "trạng từ, danh từ",
+   "audio": "A1-14-w-today.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "He works on Monday, Tuesday, Wednesday, Thursday and Friday.",
+   "vi": "Anh ấy làm việc vào thứ Hai, thứ Ba, thứ Tư, thứ Năm và thứ Sáu.",
+   "audio": "A1-14-ex-1.mp3"
+  },
+  {
+   "en": "On Monday and Wednesday, he studies English in the evening.",
+   "vi": "Vào thứ Hai và thứ Tư, anh ấy học tiếng Anh vào buổi tối.",
+   "audio": "A1-14-ex-2.mp3"
+  },
+  {
+   "en": "On Thursday evening, he calls his parents.",
+   "vi": "Vào tối thứ Năm, anh ấy gọi điện cho bố mẹ.",
+   "audio": "A1-14-ex-3.mp3"
+  },
+  {
+   "en": "On Saturday morning, he gets up late.",
+   "vi": "Vào sáng thứ Bảy, anh ấy dậy muộn.",
+   "audio": "A1-14-ex-4.mp3"
+  },
+  {
+   "en": "What day is it today? It's Sunday!",
+   "vi": "Hôm nay là thứ mấy? Chủ nhật!",
+   "audio": "A1-14-ex-5.mp3"
+  }
+ ]
+}

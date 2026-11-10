@@ -1,0 +1,60 @@
+{
+ "title": "Bài 35. Might / may: khả năng",
+ "vocabulary": [
+  {
+   "word": "might",
+   "ipa": "/maɪt/",
+   "meaning": "có thể (sẽ), chưa chắc",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-35-w-might.mp3"
+  },
+  {
+   "word": "may",
+   "ipa": "/meɪ/",
+   "meaning": "có thể (sẽ), chưa chắc",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-35-w-may.mp3"
+  },
+  {
+   "word": "possible",
+   "ipa": "/ˈpɑːsəbəl/",
+   "meaning": "có thể xảy ra, có khả năng",
+   "pos": "tính từ",
+   "audio": "A2-35-w-possible.mp3"
+  },
+  {
+   "word": "certain",
+   "ipa": "/ˈsɜːrtən/",
+   "meaning": "chắc chắn",
+   "pos": "tính từ",
+   "audio": "A2-35-w-certain.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I might visit my parents this weekend.",
+   "vi": "Cuối tuần này có thể tôi sẽ về thăm bố mẹ.",
+   "audio": "A2-35-ex-1.mp3"
+  },
+  {
+   "en": "It may rain on Saturday.",
+   "vi": "Thứ Bảy có thể trời mưa.",
+   "audio": "A2-35-ex-2.mp3"
+  },
+  {
+   "en": "We might not go to the beach.",
+   "vi": "Có thể chúng tôi sẽ không đi biển.",
+   "audio": "A2-35-ex-3.mp3"
+  },
+  {
+   "en": "I'm not certain, but it's possible.",
+   "vi": "Tôi không chắc, nhưng có thể.",
+   "audio": "A2-35-ex-4.mp3"
+  },
+  {
+   "en": "He'll definitely be at work on Monday, but he may be late.",
+   "vi": "Thứ Hai anh ấy chắc chắn sẽ đi làm, nhưng có thể sẽ đến muộn.",
+   "audio": "A2-35-ex-5.mp3"
+  }
+ ]
+}

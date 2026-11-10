@@ -1,0 +1,102 @@
+{
+ "title": "Bài 02. Động từ bất quy tắc nhóm 4",
+ "vocabulary": [
+  {
+   "word": "became",
+   "ipa": "/bɪˈkeɪm/",
+   "meaning": "đã trở thành (quá khứ của become)",
+   "pos": "động từ",
+   "audio": "A2-02-w-became.mp3"
+  },
+  {
+   "word": "built",
+   "ipa": "/bɪlt/",
+   "meaning": "đã xây (quá khứ của build)",
+   "pos": "động từ",
+   "audio": "A2-02-w-built.mp3"
+  },
+  {
+   "word": "caught",
+   "ipa": "/kɔːt/",
+   "meaning": "đã bắt, bắt được (quá khứ của catch)",
+   "pos": "động từ",
+   "audio": "A2-02-w-caught.mp3"
+  },
+  {
+   "word": "chose",
+   "ipa": "/tʃoʊz/",
+   "meaning": "đã chọn (quá khứ của choose)",
+   "pos": "động từ",
+   "audio": "A2-02-w-chose.mp3"
+  },
+  {
+   "word": "drove",
+   "ipa": "/droʊv/",
+   "meaning": "đã lái xe (quá khứ của drive)",
+   "pos": "động từ",
+   "audio": "A2-02-w-drove.mp3"
+  },
+  {
+   "word": "fell",
+   "ipa": "/fel/",
+   "meaning": "đã ngã, rơi (quá khứ của fall)",
+   "pos": "động từ",
+   "audio": "A2-02-w-fell.mp3"
+  },
+  {
+   "word": "flew",
+   "ipa": "/fluː/",
+   "meaning": "đã bay (quá khứ của fly)",
+   "pos": "động từ",
+   "audio": "A2-02-w-flew.mp3"
+  },
+  {
+   "word": "forgot",
+   "ipa": "/fərˈɡɑːt/",
+   "meaning": "đã quên (quá khứ của forget)",
+   "pos": "động từ",
+   "audio": "A2-02-w-forgot.mp3"
+  },
+  {
+   "word": "lost",
+   "ipa": "/lɔːst/",
+   "meaning": "đã mất, làm mất; đã thua (quá khứ của lose)",
+   "pos": "động từ",
+   "audio": "A2-02-w-lost.mp3"
+  },
+  {
+   "word": "won",
+   "ipa": "/wʌn/",
+   "meaning": "đã thắng (quá khứ của win)",
+   "pos": "động từ",
+   "audio": "A2-02-w-won.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At eighteen, he caught the first bus to Da Nang and became a taxi driver.",
+   "vi": "Năm 18 tuổi, ông bắt chuyến xe buýt đầu tiên đi Đà Nẵng và trở thành tài xế taxi.",
+   "audio": "A2-02-ex-1.mp3"
+  },
+  {
+   "en": "In 2005, he chose a new job: he built houses with his uncle.",
+   "vi": "Năm 2005, ông chọn một công việc mới: ông xây nhà cùng chú của mình.",
+   "audio": "A2-02-ex-2.mp3"
+  },
+  {
+   "en": "The first year was difficult, and he lost a lot of money.",
+   "vi": "Năm đầu tiên rất khó khăn, và ông mất nhiều tiền.",
+   "audio": "A2-02-ex-3.mp3"
+  },
+  {
+   "en": "In 2018, he flew to Japan with his wife for the first time.",
+   "vi": "Năm 2018, ông lần đầu tiên bay sang Nhật Bản cùng vợ.",
+   "audio": "A2-02-ex-4.mp3"
+  },
+  {
+   "en": "He never forgot his village.",
+   "vi": "Ông không bao giờ quên ngôi làng của mình.",
+   "audio": "A2-02-ex-5.mp3"
+  }
+ ]
+}

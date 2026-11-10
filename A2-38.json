@@ -1,0 +1,81 @@
+{
+ "title": "Bài 38. Dịch vụ: bưu điện và đặt lịch khám",
+ "vocabulary": [
+  {
+   "word": "parcel",
+   "ipa": "/ˈpɑːrsəl/",
+   "meaning": "bưu kiện, gói hàng",
+   "pos": "danh từ",
+   "audio": "A2-38-w-parcel.mp3"
+  },
+  {
+   "word": "stamp",
+   "ipa": "/stæmp/",
+   "meaning": "con tem",
+   "pos": "danh từ",
+   "audio": "A2-38-w-stamp.mp3"
+  },
+  {
+   "word": "envelope",
+   "ipa": "/ˈenvəloʊp/",
+   "meaning": "phong bì",
+   "pos": "danh từ",
+   "audio": "A2-38-w-envelope.mp3"
+  },
+  {
+   "word": "post",
+   "ipa": "/poʊst/",
+   "meaning": "gửi qua bưu điện",
+   "pos": "động từ",
+   "audio": "A2-38-w-post.mp3"
+  },
+  {
+   "word": "prescription",
+   "ipa": "/prɪˈskrɪpʃən/",
+   "meaning": "đơn thuốc",
+   "pos": "danh từ",
+   "audio": "A2-38-w-prescription.mp3"
+  },
+  {
+   "word": "receptionist",
+   "ipa": "/rɪˈsepʃənɪst/",
+   "meaning": "lễ tân, nhân viên tiếp đón",
+   "pos": "danh từ",
+   "audio": "A2-38-w-receptionist.mp3"
+  },
+  {
+   "word": "insurance",
+   "ipa": "/ɪnˈʃʊrəns/",
+   "meaning": "bảo hiểm",
+   "pos": "danh từ",
+   "audio": "A2-38-w-insurance.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like to send this parcel to Vietnam, please.",
+   "vi": "Tôi muốn gửi bưu kiện này về Việt Nam.",
+   "audio": "A2-38-ex-1.mp3"
+  },
+  {
+   "en": "Could I also have five stamps for these envelopes?",
+   "vi": "Cho tôi mua thêm 5 con tem cho mấy phong bì này được không?",
+   "audio": "A2-38-ex-2.mp3"
+  },
+  {
+   "en": "I'd like to make an appointment with Doctor Smith, please.",
+   "vi": "Tôi muốn đặt lịch khám với bác sĩ Smith.",
+   "audio": "A2-38-ex-3.mp3"
+  },
+  {
+   "en": "Sorry, I'm working on Thursday. Could I come on Friday afternoon?",
+   "vi": "Xin lỗi, thứ Năm tôi phải làm việc. Tôi đến chiều thứ Sáu được không?",
+   "audio": "A2-38-ex-4.mp3"
+  },
+  {
+   "en": "I also need a new prescription for my medicine.",
+   "vi": "Tôi cũng cần một đơn thuốc mới cho thuốc của tôi.",
+   "audio": "A2-38-ex-5.mp3"
+  }
+ ]
+}

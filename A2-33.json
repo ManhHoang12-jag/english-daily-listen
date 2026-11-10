@@ -1,0 +1,74 @@
+{
+ "title": "Bài 33. Must / mustn't: quy định",
+ "vocabulary": [
+  {
+   "word": "must",
+   "ipa": "/mʌst/",
+   "meaning": "phải (bắt buộc)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-33-w-must.mp3"
+  },
+  {
+   "word": "mustn't",
+   "ipa": "/ˈmʌsənt/",
+   "meaning": "không được, cấm",
+   "pos": "động từ khuyết thiếu (phủ định)",
+   "audio": "A2-33-w-mustn-t.mp3"
+  },
+  {
+   "word": "rule",
+   "ipa": "/ruːl/",
+   "meaning": "quy định, nội quy",
+   "pos": "danh từ",
+   "audio": "A2-33-w-rule.mp3"
+  },
+  {
+   "word": "allowed",
+   "ipa": "/əˈlaʊd/",
+   "meaning": "được phép",
+   "pos": "tính từ (trong cụm be allowed)",
+   "audio": "A2-33-w-allowed.mp3"
+  },
+  {
+   "word": "seat belt",
+   "ipa": "/ˈsiːt bɛlt/",
+   "meaning": "dây an toàn",
+   "pos": "danh từ",
+   "audio": "A2-33-w-seat-belt.mp3"
+  },
+  {
+   "word": "helmet",
+   "ipa": "/ˈhɛlmət/",
+   "meaning": "mũ bảo hiểm, mũ bảo hộ",
+   "pos": "danh từ",
+   "audio": "A2-33-w-helmet.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You must wear a helmet in the factory.",
+   "vi": "Bạn phải đội mũ bảo hộ trong nhà máy.",
+   "audio": "A2-33-ex-1.mp3"
+  },
+  {
+   "en": "You mustn't smoke in the building.",
+   "vi": "Bạn không được hút thuốc trong tòa nhà.",
+   "audio": "A2-33-ex-2.mp3"
+  },
+  {
+   "en": "Smoking is allowed only next to the gate.",
+   "vi": "Chỉ được hút thuốc ở cạnh cổng.",
+   "audio": "A2-33-ex-3.mp3"
+  },
+  {
+   "en": "Drivers must wear a seat belt.",
+   "vi": "Tài xế phải thắt dây an toàn.",
+   "audio": "A2-33-ex-4.mp3"
+  },
+  {
+   "en": "Children are not allowed in the factory.",
+   "vi": "Trẻ em không được vào nhà máy.",
+   "audio": "A2-33-ex-5.mp3"
+  }
+ ]
+}

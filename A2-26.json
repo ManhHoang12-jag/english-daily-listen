@@ -1,0 +1,88 @@
+{
+ "title": "Bài 26. Chủ đề: mua quần áo, đổi trả",
+ "vocabulary": [
+  {
+   "word": "size",
+   "ipa": "/saɪz/",
+   "meaning": "cỡ, kích cỡ",
+   "pos": "danh từ",
+   "audio": "A2-26-w-size.mp3"
+  },
+  {
+   "word": "try on",
+   "ipa": "/ˌtraɪ ˈɑn/",
+   "meaning": "mặc thử, đi thử",
+   "pos": "cụm động từ",
+   "audio": "A2-26-w-try-on.mp3"
+  },
+  {
+   "word": "fitting room",
+   "ipa": "/ˈfɪtɪŋ ˌrum/",
+   "meaning": "phòng thử đồ",
+   "pos": "cụm danh từ",
+   "audio": "A2-26-w-fitting-room.mp3"
+  },
+  {
+   "word": "receipt",
+   "ipa": "/rɪˈsit/",
+   "meaning": "hóa đơn, biên lai",
+   "pos": "danh từ",
+   "audio": "A2-26-w-receipt.mp3"
+  },
+  {
+   "word": "refund",
+   "ipa": "/ˈrifʌnd/",
+   "meaning": "khoản tiền hoàn lại",
+   "pos": "danh từ",
+   "audio": "A2-26-w-refund.mp3"
+  },
+  {
+   "word": "exchange",
+   "ipa": "/ɪksˈtʃeɪndʒ/",
+   "meaning": "đổi (hàng)",
+   "pos": "động từ",
+   "audio": "A2-26-w-exchange.mp3"
+  },
+  {
+   "word": "discount",
+   "ipa": "/ˈdɪskaʊnt/",
+   "meaning": "khoản giảm giá",
+   "pos": "danh từ",
+   "audio": "A2-26-w-discount.mp3"
+  },
+  {
+   "word": "cashier",
+   "ipa": "/kæˈʃɪr/",
+   "meaning": "nhân viên thu ngân",
+   "pos": "danh từ",
+   "audio": "A2-26-w-cashier.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Can I try this jacket on?",
+   "vi": "Tôi mặc thử chiếc áo khoác này được không?",
+   "audio": "A2-26-ex-1.mp3"
+  },
+  {
+   "en": "Do you have it in a bigger size?",
+   "vi": "Chị có cỡ to hơn không?",
+   "audio": "A2-26-ex-2.mp3"
+  },
+  {
+   "en": "Sure. The fitting room is next to the cashier.",
+   "vi": "Được chứ. Phòng thử đồ ở cạnh quầy thu ngân.",
+   "audio": "A2-26-ex-3.mp3"
+  },
+  {
+   "en": "There's a discount on all jackets today.",
+   "vi": "Hôm nay tất cả áo khoác đều được giảm giá.",
+   "audio": "A2-26-ex-4.mp3"
+  },
+  {
+   "en": "I'd like a refund, please. Here's my receipt.",
+   "vi": "Tôi muốn được hoàn tiền. Đây là hóa đơn của tôi.",
+   "audio": "A2-26-ex-5.mp3"
+  }
+ ]
+}

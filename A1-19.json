@@ -1,0 +1,74 @@
+{
+ "title": "Bài 19. Kỹ năng: lịch tuần và ghi chú ngắn",
+ "vocabulary": [
+  {
+   "word": "class",
+   "ipa": "/klæs/",
+   "meaning": "lớp học, buổi học",
+   "pos": "danh từ",
+   "audio": "A1-19-w-class.mp3"
+  },
+  {
+   "word": "meeting",
+   "ipa": "/ˈmiːtɪŋ/",
+   "meaning": "cuộc họp",
+   "pos": "danh từ",
+   "audio": "A1-19-w-meeting.mp3"
+  },
+  {
+   "word": "gym",
+   "ipa": "/dʒɪm/",
+   "meaning": "phòng tập thể dục, phòng gym",
+   "pos": "danh từ",
+   "audio": "A1-19-w-gym.mp3"
+  },
+  {
+   "word": "plan",
+   "ipa": "/plæn/",
+   "meaning": "kế hoạch; lên kế hoạch",
+   "pos": "danh từ, động từ",
+   "audio": "A1-19-w-plan.mp3"
+  },
+  {
+   "word": "note",
+   "ipa": "/noʊt/",
+   "meaning": "ghi chú",
+   "pos": "danh từ",
+   "audio": "A1-19-w-note.mp3"
+  },
+  {
+   "word": "schedule",
+   "ipa": "/ˈskedʒuːl/",
+   "meaning": "thời gian biểu, lịch",
+   "pos": "danh từ",
+   "audio": "A1-19-w-schedule.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I get up at six o'clock every day.",
+   "vi": "Tôi thức dậy lúc sáu giờ mỗi ngày.",
+   "audio": "A1-19-ex-1.mp3"
+  },
+  {
+   "en": "I usually go to the gym on Monday and Wednesday.",
+   "vi": "Tôi thường đi tập gym vào thứ Hai và thứ Tư.",
+   "audio": "A1-19-ex-2.mp3"
+  },
+  {
+   "en": "I have a meeting on Monday at nine.",
+   "vi": "Tôi có một cuộc họp vào thứ Hai lúc chín giờ.",
+   "audio": "A1-19-ex-3.mp3"
+  },
+  {
+   "en": "On Tuesday and Thursday, I have an English class in the evening.",
+   "vi": "Vào thứ Ba và thứ Năm, tôi có một lớp tiếng Anh vào buổi tối.",
+   "audio": "A1-19-ex-4.mp3"
+  },
+  {
+   "en": "I read my schedule and plan my week.",
+   "vi": "Tôi đọc lịch của mình và lên kế hoạch cho tuần.",
+   "audio": "A1-19-ex-5.mp3"
+  }
+ ]
+}

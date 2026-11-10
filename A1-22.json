@@ -1,0 +1,88 @@
+{
+ "title": "Bài 22. Giới từ chỉ vị trí",
+ "vocabulary": [
+  {
+   "word": "in",
+   "ipa": "/ɪn/",
+   "meaning": "trong, bên trong",
+   "pos": "giới từ",
+   "audio": "A1-22-w-in.mp3"
+  },
+  {
+   "word": "on",
+   "ipa": "/ɑːn/",
+   "meaning": "trên (chạm mặt)",
+   "pos": "giới từ",
+   "audio": "A1-22-w-on.mp3"
+  },
+  {
+   "word": "under",
+   "ipa": "/ˈʌndɚ/",
+   "meaning": "dưới",
+   "pos": "giới từ",
+   "audio": "A1-22-w-under.mp3"
+  },
+  {
+   "word": "next to",
+   "ipa": "/ˈnekst tə/",
+   "meaning": "ngay bên cạnh",
+   "pos": "giới từ",
+   "audio": "A1-22-w-next-to.mp3"
+  },
+  {
+   "word": "near",
+   "ipa": "/nɪr/",
+   "meaning": "gần",
+   "pos": "giới từ",
+   "audio": "A1-22-w-near.mp3"
+  },
+  {
+   "word": "between",
+   "ipa": "/bɪˈtwiːn/",
+   "meaning": "ở giữa (hai vật)",
+   "pos": "giới từ",
+   "audio": "A1-22-w-between.mp3"
+  },
+  {
+   "word": "opposite",
+   "ipa": "/ˈɑːpəzɪt/",
+   "meaning": "đối diện",
+   "pos": "giới từ",
+   "audio": "A1-22-w-opposite.mp3"
+  },
+  {
+   "word": "behind",
+   "ipa": "/bɪˈhaɪnd/",
+   "meaning": "phía sau",
+   "pos": "giới từ",
+   "audio": "A1-22-w-behind.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "My keys are on the table.",
+   "vi": "Chìa khóa của tôi ở trên bàn.",
+   "audio": "A1-22-ex-1.mp3"
+  },
+  {
+   "en": "The cat is under the table.",
+   "vi": "Con mèo ở dưới gầm bàn.",
+   "audio": "A1-22-ex-2.mp3"
+  },
+  {
+   "en": "The bank is next to the post office.",
+   "vi": "Ngân hàng ở ngay cạnh bưu điện.",
+   "audio": "A1-22-ex-3.mp3"
+  },
+  {
+   "en": "The pharmacy is between the bank and the supermarket.",
+   "vi": "Hiệu thuốc ở giữa ngân hàng và siêu thị.",
+   "audio": "A1-22-ex-4.mp3"
+  },
+  {
+   "en": "The station is opposite the park.",
+   "vi": "Nhà ga ở đối diện công viên.",
+   "audio": "A1-22-ex-5.mp3"
+  }
+ ]
+}

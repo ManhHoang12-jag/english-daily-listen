@@ -1,0 +1,67 @@
+{
+ "title": "Bài 85. Luyện thi Viết 1: tin nhắn và email ngắn",
+ "vocabulary": [
+  {
+   "word": "invite",
+   "ipa": "/ɪnˈvaɪt/",
+   "meaning": "mời (ôn A1 · Bài 56)",
+   "pos": "động từ",
+   "audio": "A2-85-w-invite.mp3"
+  },
+  {
+   "word": "invitation",
+   "ipa": "/ˌɪnvɪˈteɪʃən/",
+   "meaning": "lời mời (ôn A2 · Bài 69)",
+   "pos": "danh từ",
+   "audio": "A2-85-w-invitation.mp3"
+  },
+  {
+   "word": "instead",
+   "ipa": "/ɪnˈsted/",
+   "meaning": "thay vào đó (ôn A2 · Bài 69)",
+   "pos": "trạng từ",
+   "audio": "A2-85-w-instead.mp3"
+  },
+  {
+   "word": "reply",
+   "ipa": "/rɪˈplaɪ/",
+   "meaning": "trả lời, hồi âm (ôn A2 · Bài 49)",
+   "pos": "động từ / danh từ",
+   "audio": "A2-85-w-reply.mp3"
+  },
+  {
+   "word": "look forward to",
+   "ipa": "/lʊk ˈfɔːrwɚd tə/",
+   "meaning": "mong chờ (ôn A2 · Bài 49)",
+   "pos": "cụm động từ",
+   "audio": "A2-85-w-look-forward-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Would you like to come to the cinema with me on Saturday?",
+   "vi": "Thứ Bảy này bạn có muốn đi xem phim với mình không?",
+   "audio": "A2-85-ex-1.mp3"
+  },
+  {
+   "en": "Let's meet outside the cinema at half past six.",
+   "vi": "Mình gặp nhau ở ngoài rạp lúc sáu giờ rưỡi nhé.",
+   "audio": "A2-85-ex-2.mp3"
+  },
+  {
+   "en": "Thanks for the invitation.",
+   "vi": "Cảm ơn lời mời của bạn.",
+   "audio": "A2-85-ex-3.mp3"
+  },
+  {
+   "en": "I'm really sorry, but I can't come to your party on Friday.",
+   "vi": "Mình rất tiếc, nhưng mình không đến dự tiệc của bạn hôm thứ Sáu được.",
+   "audio": "A2-85-ex-4.mp3"
+  },
+  {
+   "en": "Why don't we have dinner together next week instead?",
+   "vi": "Hay là tuần sau mình đi ăn tối cùng nhau nhé?",
+   "audio": "A2-85-ex-5.mp3"
+  }
+ ]
+}

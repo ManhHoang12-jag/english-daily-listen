@@ -1,0 +1,88 @@
+{
+ "title": "Bài 65. Chủ đề: thể thao và rèn luyện",
+ "vocabulary": [
+  {
+   "word": "exercise",
+   "ipa": "/ˈeksɚsaɪz/",
+   "meaning": "tập thể dục; bài tập",
+   "pos": "động từ, danh từ",
+   "audio": "A2-65-w-exercise.mp3"
+  },
+  {
+   "word": "team",
+   "ipa": "/tiːm/",
+   "meaning": "đội",
+   "pos": "danh từ",
+   "audio": "A2-65-w-team.mp3"
+  },
+  {
+   "word": "match",
+   "ipa": "/mætʃ/",
+   "meaning": "trận đấu",
+   "pos": "danh từ",
+   "audio": "A2-65-w-match.mp3"
+  },
+  {
+   "word": "lose",
+   "ipa": "/luːz/",
+   "meaning": "thua; mất",
+   "pos": "động từ",
+   "audio": "A2-65-w-lose.mp3"
+  },
+  {
+   "word": "score",
+   "ipa": "/skɔːr/",
+   "meaning": "ghi bàn, ghi điểm; tỉ số",
+   "pos": "động từ, danh từ",
+   "audio": "A2-65-w-score.mp3"
+  },
+  {
+   "word": "fit",
+   "ipa": "/fɪt/",
+   "meaning": "khỏe mạnh, cân đối",
+   "pos": "tính từ",
+   "audio": "A2-65-w-fit.mp3"
+  },
+  {
+   "word": "jog",
+   "ipa": "/dʒɑːɡ/",
+   "meaning": "chạy bộ (chậm, để tập)",
+   "pos": "động từ",
+   "audio": "A2-65-w-jog.mp3"
+  },
+  {
+   "word": "yoga",
+   "ipa": "/ˈjoʊɡə/",
+   "meaning": "yoga",
+   "pos": "danh từ",
+   "audio": "A2-65-w-yoga.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Hanoi won the match two to one.",
+   "vi": "Hà Nội thắng trận đấu với tỉ số 2–1.",
+   "audio": "A2-65-ex-1.mp3"
+  },
+  {
+   "en": "Hanoi beat Saigon for the first time this year.",
+   "vi": "Hà Nội thắng Sài Gòn lần đầu tiên trong năm nay.",
+   "audio": "A2-65-ex-2.mp3"
+  },
+  {
+   "en": "Saigon lost, but they played well.",
+   "vi": "Sài Gòn thua, nhưng họ đã chơi hay.",
+   "audio": "A2-65-ex-3.mp3"
+  },
+  {
+   "en": "Their number nine scored twice.",
+   "vi": "Cầu thủ số 9 của họ ghi hai bàn.",
+   "audio": "A2-65-ex-4.mp3"
+  },
+  {
+   "en": "I go jogging every morning, and I do yoga on weekends.",
+   "vi": "Tôi chạy bộ mỗi sáng, và tập yoga vào cuối tuần.",
+   "audio": "A2-65-ex-5.mp3"
+  }
+ ]
+}

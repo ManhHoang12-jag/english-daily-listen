@@ -1,0 +1,88 @@
+{
+ "title": "Bài 44. Chủ đề: công việc và nơi làm việc",
+ "vocabulary": [
+  {
+   "word": "manager",
+   "ipa": "/ˈmænɪdʒər/",
+   "meaning": "người quản lý",
+   "pos": "danh từ",
+   "audio": "A2-44-w-manager.mp3"
+  },
+  {
+   "word": "staff",
+   "ipa": "/stæf/",
+   "meaning": "nhân viên (cả tập thể)",
+   "pos": "danh từ",
+   "audio": "A2-44-w-staff.mp3"
+  },
+  {
+   "word": "responsible for",
+   "ipa": "/rɪˈspɑːnsəbəl fɔːr/",
+   "meaning": "chịu trách nhiệm về",
+   "pos": "cụm tính từ",
+   "audio": "A2-44-w-responsible-for.mp3"
+  },
+  {
+   "word": "earn",
+   "ipa": "/ɝːn/",
+   "meaning": "kiếm được (tiền)",
+   "pos": "động từ",
+   "audio": "A2-44-w-earn.mp3"
+  },
+  {
+   "word": "full-time",
+   "ipa": "/ˌfʊlˈtaɪm/",
+   "meaning": "toàn thời gian",
+   "pos": "tính từ / trạng từ",
+   "audio": "A2-44-w-full-time.mp3"
+  },
+  {
+   "word": "part-time",
+   "ipa": "/ˌpɑːrtˈtaɪm/",
+   "meaning": "bán thời gian",
+   "pos": "tính từ / trạng từ",
+   "audio": "A2-44-w-part-time.mp3"
+  },
+  {
+   "word": "shift",
+   "ipa": "/ʃɪft/",
+   "meaning": "ca làm việc",
+   "pos": "danh từ",
+   "audio": "A2-44-w-shift.mp3"
+  },
+  {
+   "word": "duty",
+   "ipa": "/ˈduːti/",
+   "meaning": "nhiệm vụ; on duty = đang trực",
+   "pos": "danh từ",
+   "audio": "A2-44-w-duty.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm responsible for answering customer emails.",
+   "vi": "Tôi chịu trách nhiệm trả lời email của khách hàng.",
+   "audio": "A2-44-ex-1.mp3"
+  },
+  {
+   "en": "My sister works full-time, but I work part-time.",
+   "vi": "Chị tôi làm toàn thời gian, còn tôi làm bán thời gian.",
+   "audio": "A2-44-ex-2.mp3"
+  },
+  {
+   "en": "She earns a good salary at a big company.",
+   "vi": "Cô ấy có mức lương tốt ở một công ty lớn.",
+   "audio": "A2-44-ex-3.mp3"
+  },
+  {
+   "en": "I usually work the morning shift, but this week I'm working the night shift.",
+   "vi": "Tôi thường làm ca sáng, nhưng tuần này tôi làm ca đêm.",
+   "audio": "A2-44-ex-4.mp3"
+  },
+  {
+   "en": "Right now I'm working on a report for my manager.",
+   "vi": "Bây giờ tôi đang làm một bản báo cáo cho quản lý của tôi.",
+   "audio": "A2-44-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Bài 05. Gia đình: have/has và Who",
+ "vocabulary": [
+  {
+   "word": "brother",
+   "ipa": "/ˈbrʌðɚ/",
+   "meaning": "anh trai, em trai",
+   "pos": "danh từ",
+   "audio": "A1-05-w-brother.mp3"
+  },
+  {
+   "word": "sister",
+   "ipa": "/ˈsɪstɚ/",
+   "meaning": "chị gái, em gái",
+   "pos": "danh từ",
+   "audio": "A1-05-w-sister.mp3"
+  },
+  {
+   "word": "wife",
+   "ipa": "/waɪf/",
+   "meaning": "vợ",
+   "pos": "danh từ",
+   "audio": "A1-05-w-wife.mp3"
+  },
+  {
+   "word": "husband",
+   "ipa": "/ˈhʌzbənd/",
+   "meaning": "chồng",
+   "pos": "danh từ",
+   "audio": "A1-05-w-husband.mp3"
+  },
+  {
+   "word": "parents",
+   "ipa": "/ˈperənts/",
+   "meaning": "bố mẹ",
+   "pos": "danh từ (số nhiều)",
+   "audio": "A1-05-w-parents.mp3"
+  },
+  {
+   "word": "grandmother",
+   "ipa": "/ˈɡrænmʌðɚ/",
+   "meaning": "bà (nội, ngoại)",
+   "pos": "danh từ",
+   "audio": "A1-05-w-grandmother.mp3"
+  },
+  {
+   "word": "grandfather",
+   "ipa": "/ˈɡrænfɑːðɚ/",
+   "meaning": "ông (nội, ngoại)",
+   "pos": "danh từ",
+   "audio": "A1-05-w-grandfather.mp3"
+  },
+  {
+   "word": "who",
+   "ipa": "/huː/",
+   "meaning": "ai",
+   "pos": "từ để hỏi",
+   "audio": "A1-05-w-who.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I have two brothers.",
+   "vi": "Tôi có hai anh em trai.",
+   "audio": "A1-05-ex-1.mp3"
+  },
+  {
+   "en": "She has a sister.",
+   "vi": "Cô ấy có một chị (em) gái.",
+   "audio": "A1-05-ex-2.mp3"
+  },
+  {
+   "en": "Who is he? He's my husband.",
+   "vi": "Anh ấy là ai? Anh ấy là chồng tôi.",
+   "audio": "A1-05-ex-3.mp3"
+  },
+  {
+   "en": "Who is she? She's my grandmother.",
+   "vi": "Bà ấy là ai? Đó là bà tôi.",
+   "audio": "A1-05-ex-4.mp3"
+  },
+  {
+   "en": "I have a small family. My husband is a doctor. We have two children, a son and a daughter. My parents live in Hue. I love my family.",
+   "vi": "Tôi có một gia đình nhỏ. Chồng tôi là bác sĩ. Chúng tôi có hai con, một trai một gái. Bố mẹ tôi sống ở Huế. Tôi yêu gia đình mình.",
+   "audio": "A1-05-ex-5.mp3"
+  }
+ ]
+}

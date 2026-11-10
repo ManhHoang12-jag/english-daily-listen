@@ -1,0 +1,67 @@
+{
+ "title": "Bài 04. Quá khứ tiếp diễn + quá khứ đơn với when",
+ "vocabulary": [
+  {
+   "word": "suddenly",
+   "ipa": "/ˈsʌdənli/",
+   "meaning": "đột nhiên, bỗng nhiên",
+   "pos": "trạng từ",
+   "audio": "A2-04-w-suddenly.mp3"
+  },
+  {
+   "word": "accident",
+   "ipa": "/ˈæksədənt/",
+   "meaning": "tai nạn",
+   "pos": "danh từ",
+   "audio": "A2-04-w-accident.mp3"
+  },
+  {
+   "word": "slip",
+   "ipa": "/slɪp/",
+   "meaning": "trượt chân",
+   "pos": "động từ",
+   "audio": "A2-04-w-slip.mp3"
+  },
+  {
+   "word": "drop",
+   "ipa": "/drɑːp/",
+   "meaning": "làm rơi, đánh rơi",
+   "pos": "động từ",
+   "audio": "A2-04-w-drop.mp3"
+  },
+  {
+   "word": "hurt",
+   "ipa": "/hɝːt/",
+   "meaning": "làm đau, bị đau (quá khứ: hurt)",
+   "pos": "động từ",
+   "audio": "A2-04-w-hurt.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I was walking to the bus stop when I slipped and fell.",
+   "vi": "Tôi đang đi bộ đến trạm xe buýt thì bị trượt chân và ngã.",
+   "audio": "A2-04-ex-1.mp3"
+  },
+  {
+   "en": "I dropped my phone and my bag.",
+   "vi": "Tôi làm rơi điện thoại và túi xách.",
+   "audio": "A2-04-ex-2.mp3"
+  },
+  {
+   "en": "My husband was making soup when the phone suddenly rang.",
+   "vi": "Chồng tôi đang nấu canh thì điện thoại đột nhiên reo.",
+   "audio": "A2-04-ex-3.mp3"
+  },
+  {
+   "en": "A young man was riding his bike when a car suddenly turned right.",
+   "vi": "Một chàng trai trẻ đang đạp xe thì một chiếc ô tô đột nhiên rẽ phải.",
+   "audio": "A2-04-ex-4.mp3"
+  },
+  {
+   "en": "I hurt myself, and I didn't go to work that day.",
+   "vi": "Tôi bị đau, và hôm đó tôi không đi làm.",
+   "audio": "A2-04-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,95 @@
+{
+ "title": "Bài 55. Chủ đề: nhà ở và thuê nhà",
+ "vocabulary": [
+  {
+   "word": "rent",
+   "ipa": "/rent/",
+   "meaning": "tiền thuê nhà; thuê",
+   "pos": "danh từ / động từ",
+   "audio": "A2-55-w-rent.mp3"
+  },
+  {
+   "word": "landlord",
+   "ipa": "/ˈlændlɔːrd/",
+   "meaning": "chủ nhà (người cho thuê)",
+   "pos": "danh từ",
+   "audio": "A2-55-w-landlord.mp3"
+  },
+  {
+   "word": "furniture",
+   "ipa": "/ˈfɝːnɪtʃɚ/",
+   "meaning": "đồ đạc trong nhà (bàn, ghế, giường...)",
+   "pos": "danh từ không đếm được",
+   "audio": "A2-55-w-furniture.mp3"
+  },
+  {
+   "word": "neighborhood",
+   "ipa": "/ˈneɪbɚhʊd/",
+   "meaning": "khu phố, khu vực quanh nhà",
+   "pos": "danh từ",
+   "audio": "A2-55-w-neighborhood.mp3"
+  },
+  {
+   "word": "upstairs",
+   "ipa": "/ˌʌpˈsterz/",
+   "meaning": "ở tầng trên, lên tầng trên",
+   "pos": "trạng từ",
+   "audio": "A2-55-w-upstairs.mp3"
+  },
+  {
+   "word": "downstairs",
+   "ipa": "/ˌdaʊnˈsterz/",
+   "meaning": "ở tầng dưới, xuống tầng dưới",
+   "pos": "trạng từ",
+   "audio": "A2-55-w-downstairs.mp3"
+  },
+  {
+   "word": "garden",
+   "ipa": "/ˈɡɑːrdən/",
+   "meaning": "vườn",
+   "pos": "danh từ",
+   "audio": "A2-55-w-garden.mp3"
+  },
+  {
+   "word": "balcony",
+   "ipa": "/ˈbælkəni/",
+   "meaning": "ban công",
+   "pos": "danh từ",
+   "audio": "A2-55-w-balcony.mp3"
+  },
+  {
+   "word": "share",
+   "ipa": "/ʃer/",
+   "meaning": "ở chung, dùng chung, chia sẻ",
+   "pos": "động từ",
+   "audio": "A2-55-w-share.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "How much is the rent? It's four hundred dollars a month.",
+   "vi": "Tiền thuê bao nhiêu? Bốn trăm đô la một tháng.",
+   "audio": "A2-55-ex-1.mp3"
+  },
+  {
+   "en": "Is there a balcony? Yes, there is.",
+   "vi": "Có ban công không? Có.",
+   "audio": "A2-55-ex-2.mp3"
+  },
+  {
+   "en": "There is some furniture: two beds, a sofa and a table.",
+   "vi": "Có một ít đồ đạc: hai giường, một ghế sofa và một cái bàn.",
+   "audio": "A2-55-ex-3.mp3"
+  },
+  {
+   "en": "The landlord lives downstairs.",
+   "vi": "Chủ nhà sống ở tầng dưới.",
+   "audio": "A2-55-ex-4.mp3"
+  },
+  {
+   "en": "There are more shops here than in my hometown.",
+   "vi": "Ở đây có nhiều cửa hàng hơn ở quê tôi.",
+   "audio": "A2-55-ex-5.mp3"
+  }
+ ]
+}

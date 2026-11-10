@@ -1,0 +1,60 @@
+{
+ "title": "Bài 05. While và câu hỏi ở quá khứ tiếp diễn",
+ "vocabulary": [
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi",
+   "pos": "liên từ",
+   "audio": "A2-05-w-while.mp3"
+  },
+  {
+   "word": "notice",
+   "ipa": "/ˈnoʊtɪs/",
+   "meaning": "để ý thấy, nhận ra",
+   "pos": "động từ",
+   "audio": "A2-05-w-notice.mp3"
+  },
+  {
+   "word": "shout",
+   "ipa": "/ʃaʊt/",
+   "meaning": "hét, la to",
+   "pos": "động từ",
+   "audio": "A2-05-w-shout.mp3"
+  },
+  {
+   "word": "power cut",
+   "ipa": "/ˈpaʊər kʌt/",
+   "meaning": "sự mất điện, cúp điện",
+   "pos": "danh từ",
+   "audio": "A2-05-w-power-cut.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "While I was cooking dinner, my husband was watching TV.",
+   "vi": "Trong khi tôi nấu bữa tối thì chồng tôi xem TV.",
+   "audio": "A2-05-ex-1.mp3"
+  },
+  {
+   "en": "My son was doing his homework when the power cut started.",
+   "vi": "Con trai tôi đang làm bài tập thì mất điện.",
+   "audio": "A2-05-ex-2.mp3"
+  },
+  {
+   "en": "He shouted, \"Mom, I can't see my homework!\"",
+   "vi": "Cháu hét lên: \"Mẹ ơi, con không nhìn thấy bài tập!\"",
+   "audio": "A2-05-ex-3.mp3"
+  },
+  {
+   "en": "While we were talking to our neighbors, I noticed a lot of children in the street.",
+   "vi": "Trong lúc chúng tôi đang nói chuyện với hàng xóm, tôi để ý thấy rất nhiều trẻ con ngoài đường.",
+   "audio": "A2-05-ex-4.mp3"
+  },
+  {
+   "en": "What were you doing when the power cut started?",
+   "vi": "Lúc mất điện bạn đang làm gì?",
+   "audio": "A2-05-ex-5.mp3"
+  }
+ ]
+}

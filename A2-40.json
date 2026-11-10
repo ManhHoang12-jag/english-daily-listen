@@ -1,0 +1,67 @@
+{
+ "title": "Bài 40. Ôn tập và kiểm tra A2-4",
+ "vocabulary": [
+  {
+   "word": "should",
+   "ipa": "/ʃʊd/",
+   "meaning": "nên (ôn Bài 32)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-40-w-should.mp3"
+  },
+  {
+   "word": "mustn't",
+   "ipa": "/ˈmʌsənt/",
+   "meaning": "không được, cấm (ôn Bài 33)",
+   "pos": "dạng gọn",
+   "audio": "A2-40-w-mustn-t.mp3"
+  },
+  {
+   "word": "don't have to",
+   "ipa": "/ˌdoʊnt ˈhæf tə/",
+   "meaning": "không cần, không phải (ôn Bài 34)",
+   "pos": "cụm động từ khuyết thiếu",
+   "audio": "A2-40-w-don-t-have-to.mp3"
+  },
+  {
+   "word": "might",
+   "ipa": "/maɪt/",
+   "meaning": "có thể (không chắc) (ôn Bài 35)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-40-w-might.mp3"
+  },
+  {
+   "word": "could",
+   "ipa": "/kʊd/",
+   "meaning": "có thể (nhờ, xin phép lịch sự) (ôn Bài 36)",
+   "pos": "động từ khuyết thiếu",
+   "audio": "A2-40-w-could.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You must show your gym card at the entrance.",
+   "vi": "Bạn phải xuất trình thẻ phòng tập ở lối vào.",
+   "audio": "A2-40-ex-1.mp3"
+  },
+  {
+   "en": "You mustn't smoke or eat in the gym.",
+   "vi": "Bạn không được hút thuốc hoặc ăn trong phòng tập.",
+   "audio": "A2-40-ex-2.mp3"
+  },
+  {
+   "en": "You don't have to pay for water. It's free.",
+   "vi": "Bạn không phải trả tiền nước. Nước miễn phí.",
+   "audio": "A2-40-ex-3.mp3"
+  },
+  {
+   "en": "The doctor says I should rest for two days.",
+   "vi": "Bác sĩ nói tôi nên nghỉ ngơi hai ngày.",
+   "audio": "A2-40-ex-4.mp3"
+  },
+  {
+   "en": "I might come to work on Thursday. Could you tell Hoa about the meeting?",
+   "vi": "Có thể thứ Năm tôi sẽ đi làm. Anh có thể báo cho Hoa về cuộc họp không?",
+   "audio": "A2-40-ex-5.mp3"
+  }
+ ]
+}

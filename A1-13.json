@@ -1,0 +1,74 @@
+{
+ "title": "Bài 13. Thói quen của người khác: he/she + -s",
+ "vocabulary": [
+  {
+   "word": "every",
+   "ipa": "/ˈevri/",
+   "meaning": "mỗi, mọi",
+   "pos": "từ hạn định",
+   "audio": "A1-13-w-every.mp3"
+  },
+  {
+   "word": "week",
+   "ipa": "/wiːk/",
+   "meaning": "tuần",
+   "pos": "danh từ",
+   "audio": "A1-13-w-week.mp3"
+  },
+  {
+   "word": "weekend",
+   "ipa": "/ˈwiːkend/",
+   "meaning": "cuối tuần",
+   "pos": "danh từ",
+   "audio": "A1-13-w-weekend.mp3"
+  },
+  {
+   "word": "early",
+   "ipa": "/ˈɝːli/",
+   "meaning": "sớm",
+   "pos": "trạng từ, tính từ",
+   "audio": "A1-13-w-early.mp3"
+  },
+  {
+   "word": "then",
+   "ipa": "/ðen/",
+   "meaning": "rồi, sau đó",
+   "pos": "trạng từ",
+   "audio": "A1-13-w-then.mp3"
+  },
+  {
+   "word": "after",
+   "ipa": "/ˈæftɚ/",
+   "meaning": "sau, sau khi",
+   "pos": "giới từ",
+   "audio": "A1-13-w-after.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Every day, she gets up early, at half past five.",
+   "vi": "Mỗi ngày, chị ấy dậy sớm, lúc năm giờ rưỡi.",
+   "audio": "A1-13-ex-1.mp3"
+  },
+  {
+   "en": "She takes a shower, then she has breakfast.",
+   "vi": "Chị ấy tắm, rồi chị ấy ăn sáng.",
+   "audio": "A1-13-ex-2.mp3"
+  },
+  {
+   "en": "After that, she goes to work.",
+   "vi": "Sau đó, chị ấy đi làm.",
+   "audio": "A1-13-ex-3.mp3"
+  },
+  {
+   "en": "She finishes work at five o'clock, then she goes home.",
+   "vi": "Chị ấy tan làm lúc năm giờ, rồi chị ấy về nhà.",
+   "audio": "A1-13-ex-4.mp3"
+  },
+  {
+   "en": "After dinner, she watches the children.",
+   "vi": "Sau bữa tối, chị ấy trông bọn trẻ.",
+   "audio": "A1-13-ex-5.mp3"
+  }
+ ]
+}

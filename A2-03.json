@@ -1,0 +1,67 @@
+{
+ "title": "Bài 03. Quá khứ tiếp diễn: đang làm gì lúc đó",
+ "vocabulary": [
+  {
+   "word": "happen",
+   "ipa": "/ˈhæpən/",
+   "meaning": "xảy ra",
+   "pos": "động từ",
+   "audio": "A2-03-w-happen.mp3"
+  },
+  {
+   "word": "neighbor",
+   "ipa": "/ˈneɪbər/",
+   "meaning": "hàng xóm",
+   "pos": "danh từ",
+   "audio": "A2-03-w-neighbor.mp3"
+  },
+  {
+   "word": "noise",
+   "ipa": "/nɔɪz/",
+   "meaning": "tiếng ồn",
+   "pos": "danh từ",
+   "audio": "A2-03-w-noise.mp3"
+  },
+  {
+   "word": "ring",
+   "ipa": "/rɪŋ/",
+   "meaning": "reo, rung chuông (quá khứ: rang)",
+   "pos": "động từ",
+   "audio": "A2-03-w-ring.mp3"
+  },
+  {
+   "word": "knock",
+   "ipa": "/nɑːk/",
+   "meaning": "gõ (cửa)",
+   "pos": "động từ",
+   "audio": "A2-03-w-knock.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At nine o'clock last night, I was watching TV in the living room.",
+   "vi": "Lúc 9 giờ tối qua, tôi đang xem TV trong phòng khách.",
+   "audio": "A2-03-ex-1.mp3"
+  },
+  {
+   "en": "My neighbors were singing, and their dog was making a lot of noise.",
+   "vi": "Hàng xóm của tôi đang hát, còn con chó của họ thì đang làm ồn ầm ĩ.",
+   "audio": "A2-03-ex-2.mp3"
+  },
+  {
+   "en": "The phone was ringing, and a man was knocking on the door.",
+   "vi": "Điện thoại đang reo, và một người đàn ông đang gõ cửa.",
+   "audio": "A2-03-ex-3.mp3"
+  },
+  {
+   "en": "Were you sleeping at eleven o'clock? No, I wasn't. I was reading.",
+   "vi": "Lúc 11 giờ bạn đang ngủ à? Không. Tôi đang đọc sách.",
+   "audio": "A2-03-ex-4.mp3"
+  },
+  {
+   "en": "What was your neighbor doing at ten o'clock? He was cleaning his car.",
+   "vi": "Lúc 10 giờ hàng xóm của bạn đang làm gì? Anh ấy đang rửa xe.",
+   "audio": "A2-03-ex-5.mp3"
+  }
+ ]
+}

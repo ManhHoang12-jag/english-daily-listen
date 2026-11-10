@@ -1,0 +1,95 @@
+{
+ "title": "Bài 06. Nghề nghiệp và nơi làm việc",
+ "vocabulary": [
+  {
+   "word": "engineer",
+   "ipa": "/ˌendʒɪˈnɪr/",
+   "meaning": "kỹ sư",
+   "pos": "danh từ",
+   "audio": "A1-06-w-engineer.mp3"
+  },
+  {
+   "word": "nurse",
+   "ipa": "/nɝːs/",
+   "meaning": "y tá",
+   "pos": "danh từ",
+   "audio": "A1-06-w-nurse.mp3"
+  },
+  {
+   "word": "farmer",
+   "ipa": "/ˈfɑːrmɚ/",
+   "meaning": "nông dân",
+   "pos": "danh từ",
+   "audio": "A1-06-w-farmer.mp3"
+  },
+  {
+   "word": "driver",
+   "ipa": "/ˈdraɪvɚ/",
+   "meaning": "tài xế, người lái xe",
+   "pos": "danh từ",
+   "audio": "A1-06-w-driver.mp3"
+  },
+  {
+   "word": "worker",
+   "ipa": "/ˈwɝːkɚ/",
+   "meaning": "công nhân, người lao động",
+   "pos": "danh từ",
+   "audio": "A1-06-w-worker.mp3"
+  },
+  {
+   "word": "office",
+   "ipa": "/ˈɑːfɪs/",
+   "meaning": "văn phòng",
+   "pos": "danh từ",
+   "audio": "A1-06-w-office.mp3"
+  },
+  {
+   "word": "hospital",
+   "ipa": "/ˈhɑːspɪtəl/",
+   "meaning": "bệnh viện",
+   "pos": "danh từ",
+   "audio": "A1-06-w-hospital.mp3"
+  },
+  {
+   "word": "factory",
+   "ipa": "/ˈfæktəri/",
+   "meaning": "nhà máy",
+   "pos": "danh từ",
+   "audio": "A1-06-w-factory.mp3"
+  },
+  {
+   "word": "company",
+   "ipa": "/ˈkʌmpəni/",
+   "meaning": "công ty",
+   "pos": "danh từ",
+   "audio": "A1-06-w-company.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What do you do?",
+   "vi": "Bạn làm nghề gì?",
+   "audio": "A1-06-ex-1.mp3"
+  },
+  {
+   "en": "I'm a nurse. I work in a hospital.",
+   "vi": "Tôi là y tá. Tôi làm việc ở bệnh viện.",
+   "audio": "A1-06-ex-2.mp3"
+  },
+  {
+   "en": "My father is a farmer.",
+   "vi": "Bố tôi là nông dân.",
+   "audio": "A1-06-ex-3.mp3"
+  },
+  {
+   "en": "She's an engineer. She works in an office.",
+   "vi": "Cô ấy là kỹ sư. Cô ấy làm việc ở văn phòng.",
+   "audio": "A1-06-ex-4.mp3"
+  },
+  {
+   "en": "What do you do? I'm a nurse. I work in a hospital. And you? I'm an engineer. I work at a big company. What does your husband do? He's a driver.",
+   "vi": "Bạn làm nghề gì? Tôi là y tá. Tôi làm ở bệnh viện. Còn bạn? Tôi là kỹ sư. Tôi làm ở một công ty lớn. Chồng bạn làm nghề gì? Anh ấy là tài xế.",
+   "audio": "A1-06-ex-5.mp3"
+  }
+ ]
+}

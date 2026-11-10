@@ -1,0 +1,67 @@
+{
+ "title": "Bài 90. Kiểm tra cuối giai đoạn A2",
+ "vocabulary": [
+  {
+   "word": "already",
+   "ipa": "/ɔːlˈredi/",
+   "meaning": "đã... rồi (ôn A2 · Bài 14)",
+   "pos": "trạng từ",
+   "audio": "A2-90-w-already.mp3"
+  },
+  {
+   "word": "since",
+   "ipa": "/sɪns/",
+   "meaning": "từ (mốc thời gian) (ôn A2 · Bài 15)",
+   "pos": "giới từ",
+   "audio": "A2-90-w-since.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi (ôn A2 · Bài 05)",
+   "pos": "liên từ",
+   "audio": "A2-90-w-while.mp3"
+  },
+  {
+   "word": "unless",
+   "ipa": "/ənˈles/",
+   "meaning": "trừ khi (ôn A2 · Bài 43)",
+   "pos": "liên từ",
+   "audio": "A2-90-w-unless.mp3"
+  },
+  {
+   "word": "used to",
+   "ipa": "/ˈjuːst tə/",
+   "meaning": "đã từng (thói quen trước đây) (ôn A2 · Bài 54)",
+   "pos": "cụm động từ",
+   "audio": "A2-90-w-used-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I've lived in Hanoi for ten years, but I grew up in the countryside.",
+   "vi": "Tôi đã sống ở Hà Nội mười năm, nhưng tôi lớn lên ở nông thôn.",
+   "audio": "A2-90-ex-1.mp3"
+  },
+  {
+   "en": "I was cooking dinner when my phone rang.",
+   "vi": "Tôi đang nấu bữa tối thì điện thoại reo.",
+   "audio": "A2-90-ex-2.mp3"
+  },
+  {
+   "en": "If it rains tomorrow, we'll stay home.",
+   "vi": "Nếu mai trời mưa, chúng tôi sẽ ở nhà.",
+   "audio": "A2-90-ex-3.mp3"
+  },
+  {
+   "en": "You don't have to come early, but you must bring your ID card.",
+   "vi": "Bạn không cần đến sớm, nhưng bạn phải mang theo căn cước.",
+   "audio": "A2-90-ex-4.mp3"
+  },
+  {
+   "en": "The woman who lives next door is the friendliest person I've ever met.",
+   "vi": "Người phụ nữ sống cạnh nhà tôi là người thân thiện nhất tôi từng gặp.",
+   "audio": "A2-90-ex-5.mp3"
+  }
+ ]
+}

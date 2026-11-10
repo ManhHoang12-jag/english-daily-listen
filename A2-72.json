@@ -1,0 +1,67 @@
+{
+ "title": "Bài 72. Chủ đề: gọi điện và để lại lời nhắn",
+ "vocabulary": [
+  {
+   "word": "hold on",
+   "ipa": "/hoʊld ˈɑːn/",
+   "meaning": "chờ máy, đợi một chút",
+   "pos": "cụm động từ",
+   "audio": "A2-72-w-hold-on.mp3"
+  },
+  {
+   "word": "leave a message",
+   "ipa": "/liːv ə ˈmesɪdʒ/",
+   "meaning": "để lại lời nhắn",
+   "pos": "cụm động từ",
+   "audio": "A2-72-w-leave-a-message.mp3"
+  },
+  {
+   "word": "put through",
+   "ipa": "/pʊt ˈθruː/",
+   "meaning": "nối máy (cho ai)",
+   "pos": "cụm động từ",
+   "audio": "A2-72-w-put-through.mp3"
+  },
+  {
+   "word": "extension",
+   "ipa": "/ɪkˈstenʃən/",
+   "meaning": "số máy lẻ",
+   "pos": "danh từ",
+   "audio": "A2-72-w-extension.mp3"
+  },
+  {
+   "word": "voicemail",
+   "ipa": "/ˈvɔɪsmeɪl/",
+   "meaning": "hộp thư thoại",
+   "pos": "danh từ",
+   "audio": "A2-72-w-voicemail.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Could I speak to Ms. Lan, please?",
+   "vi": "Cho tôi nói chuyện với chị Lan được không ạ?",
+   "audio": "A2-72-ex-1.mp3"
+  },
+  {
+   "en": "Hold on, please. I'll put you through.",
+   "vi": "Xin chờ máy. Tôi sẽ nối máy cho anh.",
+   "audio": "A2-72-ex-2.mp3"
+  },
+  {
+   "en": "I'm sorry, she's in a meeting. Can I take a message?",
+   "vi": "Xin lỗi, chị ấy đang họp. Tôi ghi lại lời nhắn nhé?",
+   "audio": "A2-72-ex-3.mp3"
+  },
+  {
+   "en": "Could you ask her to call me back, please?",
+   "vi": "Anh nhờ chị ấy gọi lại cho tôi được không ạ?",
+   "audio": "A2-72-ex-4.mp3"
+  },
+  {
+   "en": "Hi, this is Lan. I can't answer the phone right now. Please leave a message.",
+   "vi": "Xin chào, Lan đây. Hiện tôi không nghe máy được. Vui lòng để lại lời nhắn.",
+   "audio": "A2-72-ex-5.mp3"
+  }
+ ]
+}

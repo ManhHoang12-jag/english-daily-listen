@@ -1,0 +1,74 @@
+{
+ "title": "Bài 56. Kỹ năng: viết email ngắn cho bạn",
+ "vocabulary": [
+  {
+   "word": "dear",
+   "ipa": "/dɪr/",
+   "meaning": "thân mến (mở đầu thư)",
+   "pos": "tính từ",
+   "audio": "A1-56-w-dear.mp3"
+  },
+  {
+   "word": "thanks",
+   "ipa": "/θæŋks/",
+   "meaning": "cảm ơn (thân mật)",
+   "pos": "thán từ",
+   "audio": "A1-56-w-thanks.mp3"
+  },
+  {
+   "word": "best",
+   "ipa": "/best/",
+   "meaning": "thân chào (cuối thư); tốt nhất",
+   "pos": "cụm kết thư",
+   "audio": "A1-56-w-best.mp3"
+  },
+  {
+   "word": "hope",
+   "ipa": "/hoʊp/",
+   "meaning": "hy vọng, mong",
+   "pos": "động từ",
+   "audio": "A1-56-w-hope.mp3"
+  },
+  {
+   "word": "write back",
+   "ipa": "/ˌraɪt ˈbæk/",
+   "meaning": "viết thư trả lời",
+   "pos": "cụm động từ",
+   "audio": "A1-56-w-write-back.mp3"
+  },
+  {
+   "word": "invite",
+   "ipa": "/ɪnˈvaɪt/",
+   "meaning": "mời",
+   "pos": "động từ",
+   "audio": "A1-56-w-invite.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Thanks for your email.",
+   "vi": "Cảm ơn email của bạn.",
+   "audio": "A1-56-ex-1.mp3"
+  },
+  {
+   "en": "Last weekend I went to my hometown with my family.",
+   "vi": "Cuối tuần trước mình về quê với gia đình.",
+   "audio": "A1-56-ex-2.mp3"
+  },
+  {
+   "en": "It was great, but the bus was very slow.",
+   "vi": "Chuyến đi rất tuyệt, nhưng xe buýt đi rất chậm.",
+   "audio": "A1-56-ex-3.mp3"
+  },
+  {
+   "en": "Next Saturday I'm going to cook dinner at home.",
+   "vi": "Thứ Bảy tới mình sẽ nấu bữa tối ở nhà.",
+   "audio": "A1-56-ex-4.mp3"
+  },
+  {
+   "en": "I would like to invite you and Nam.",
+   "vi": "Mình muốn mời bạn và Nam.",
+   "audio": "A1-56-ex-5.mp3"
+  }
+ ]
+}

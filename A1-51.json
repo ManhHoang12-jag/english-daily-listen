@@ -1,0 +1,88 @@
+{
+ "title": "Bài 51. Bất quy tắc nhóm 3 và kể chuyện theo trình tự",
+ "vocabulary": [
+  {
+   "word": "felt",
+   "ipa": "/felt/",
+   "meaning": "đã cảm thấy (quá khứ của feel)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-51-w-felt.mp3"
+  },
+  {
+   "word": "heard",
+   "ipa": "/hɝːd/",
+   "meaning": "đã nghe thấy (quá khứ của hear)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-51-w-heard.mp3"
+  },
+  {
+   "word": "spoke",
+   "ipa": "/spoʊk/",
+   "meaning": "đã nói (quá khứ của speak)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-51-w-spoke.mp3"
+  },
+  {
+   "word": "wore",
+   "ipa": "/wɔːr/",
+   "meaning": "đã mặc, đã đội (quá khứ của wear)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-51-w-wore.mp3"
+  },
+  {
+   "word": "began",
+   "ipa": "/bɪˈɡæn/",
+   "meaning": "đã bắt đầu (quá khứ của begin)",
+   "pos": "động từ quá khứ",
+   "audio": "A1-51-w-began.mp3"
+  },
+  {
+   "word": "put",
+   "ipa": "/pʊt/",
+   "meaning": "đặt, để (quá khứ vẫn là put)",
+   "pos": "động từ",
+   "audio": "A1-51-w-put.mp3"
+  },
+  {
+   "word": "next",
+   "ipa": "/nekst/",
+   "meaning": "tiếp theo",
+   "pos": "trạng từ",
+   "audio": "A1-51-w-next.mp3"
+  },
+  {
+   "word": "finally",
+   "ipa": "/ˈfaɪnəli/",
+   "meaning": "cuối cùng",
+   "pos": "trạng từ",
+   "audio": "A1-51-w-finally.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She wore her new shirt.",
+   "vi": "Cô ấy mặc chiếc áo sơ mi mới.",
+   "audio": "A1-51-ex-1.mp3"
+  },
+  {
+   "en": "She put her bag on a chair.",
+   "vi": "Cô ấy đặt túi lên một cái ghế.",
+   "audio": "A1-51-ex-2.mp3"
+  },
+  {
+   "en": "The meeting began at nine o'clock.",
+   "vi": "Cuộc họp bắt đầu lúc 9 giờ.",
+   "audio": "A1-51-ex-3.mp3"
+  },
+  {
+   "en": "Next, she spoke English in the meeting.",
+   "vi": "Tiếp theo, cô ấy nói tiếng Anh trong cuộc họp.",
+   "audio": "A1-51-ex-4.mp3"
+  },
+  {
+   "en": "Finally, she felt very happy.",
+   "vi": "Cuối cùng, cô ấy cảm thấy rất vui.",
+   "audio": "A1-51-ex-5.mp3"
+  }
+ ]
+}

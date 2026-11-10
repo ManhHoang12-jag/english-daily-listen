@@ -1,0 +1,67 @@
+{
+ "title": "Bài 76. Liên kết ý khi viết",
+ "vocabulary": [
+  {
+   "word": "however",
+   "ipa": "/haʊˈɛvɚ/",
+   "meaning": "tuy nhiên",
+   "pos": "trạng từ nối",
+   "audio": "A2-76-w-however.mp3"
+  },
+  {
+   "word": "for example",
+   "ipa": "/fɚ ɪɡˈzæmpəl/",
+   "meaning": "ví dụ",
+   "pos": "cụm từ nối",
+   "audio": "A2-76-w-for-example.mp3"
+  },
+  {
+   "word": "such as",
+   "ipa": "/ˈsʌtʃ əz/",
+   "meaning": "như là (đưa ra ví dụ)",
+   "pos": "cụm từ",
+   "audio": "A2-76-w-such-as.mp3"
+  },
+  {
+   "word": "either",
+   "ipa": "/ˈiːðɚ/",
+   "meaning": "cũng không (cuối câu phủ định)",
+   "pos": "trạng từ",
+   "audio": "A2-76-w-either.mp3"
+  },
+  {
+   "word": "as well",
+   "ipa": "/əz ˈwɛl/",
+   "meaning": "cũng (cuối câu khẳng định)",
+   "pos": "cụm trạng từ",
+   "audio": "A2-76-w-as-well.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It is a beautiful city with many famous places, such as the Dragon Bridge and Son Tra Mountain.",
+   "vi": "Đó là một thành phố đẹp với nhiều nơi nổi tiếng, như cầu Rồng và núi Sơn Trà.",
+   "audio": "A2-76-ex-1.mp3"
+  },
+  {
+   "en": "For example, a bowl of noodles costs only 30,000 dong.",
+   "vi": "Ví dụ, một tô mì chỉ có 30.000 đồng.",
+   "audio": "A2-76-ex-2.mp3"
+  },
+  {
+   "en": "However, the city is becoming more crowded.",
+   "vi": "Tuy nhiên, thành phố đang ngày càng đông đúc hơn.",
+   "audio": "A2-76-ex-3.mp3"
+  },
+  {
+   "en": "There are many tourists in summer, and the streets are noisy as well.",
+   "vi": "Mùa hè có nhiều khách du lịch, và đường phố cũng ồn ào.",
+   "audio": "A2-76-ex-4.mp3"
+  },
+  {
+   "en": "I don't like the traffic, and my wife doesn't like it either.",
+   "vi": "Tôi không thích giao thông ở đây, và vợ tôi cũng không thích.",
+   "audio": "A2-76-ex-5.mp3"
+  }
+ ]
+}

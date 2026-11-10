@@ -1,0 +1,74 @@
+{
+ "title": "Bài 74. Đại từ phản thân và each other",
+ "vocabulary": [
+  {
+   "word": "yourself",
+   "ipa": "/jʊrˈsɛlf/",
+   "meaning": "(chính) bạn, tự bạn",
+   "pos": "đại từ phản thân",
+   "audio": "A2-74-w-yourself.mp3"
+  },
+  {
+   "word": "himself",
+   "ipa": "/hɪmˈsɛlf/",
+   "meaning": "(chính) anh ấy, tự anh ấy",
+   "pos": "đại từ phản thân",
+   "audio": "A2-74-w-himself.mp3"
+  },
+  {
+   "word": "herself",
+   "ipa": "/hɚˈsɛlf/",
+   "meaning": "(chính) cô ấy, tự cô ấy",
+   "pos": "đại từ phản thân",
+   "audio": "A2-74-w-herself.mp3"
+  },
+  {
+   "word": "ourselves",
+   "ipa": "/aʊɚˈsɛlvz/",
+   "meaning": "(chính) chúng tôi, tự chúng tôi",
+   "pos": "đại từ phản thân",
+   "audio": "A2-74-w-ourselves.mp3"
+  },
+  {
+   "word": "themselves",
+   "ipa": "/ðəmˈsɛlvz/",
+   "meaning": "(chính) họ, tự họ",
+   "pos": "đại từ phản thân",
+   "audio": "A2-74-w-themselves.mp3"
+  },
+  {
+   "word": "each other",
+   "ipa": "/iːtʃ ˈʌðɚ/",
+   "meaning": "lẫn nhau, nhau",
+   "pos": "đại từ",
+   "audio": "A2-74-w-each-other.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Minh and Lan were home by themselves.",
+   "vi": "Minh và Lan ở nhà một mình (không có bố mẹ).",
+   "audio": "A2-74-ex-1.mp3"
+  },
+  {
+   "en": "Lan made breakfast by herself.",
+   "vi": "Lan tự làm bữa sáng một mình.",
+   "audio": "A2-74-ex-2.mp3"
+  },
+  {
+   "en": "Minh fixed his bike, but he hurt himself.",
+   "vi": "Minh sửa xe đạp nhưng tự làm mình bị đau.",
+   "audio": "A2-74-ex-3.mp3"
+  },
+  {
+   "en": "They cleaned the house and helped each other.",
+   "vi": "Họ dọn nhà và giúp đỡ lẫn nhau.",
+   "audio": "A2-74-ex-4.mp3"
+  },
+  {
+   "en": "We did it ourselves!",
+   "vi": "Chúng con tự làm đấy ạ!",
+   "audio": "A2-74-ex-5.mp3"
+  }
+ ]
+}

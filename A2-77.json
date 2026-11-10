@@ -1,0 +1,95 @@
+{
+ "title": "Bài 77. Chủ đề: mô tả người: ngoại hình và tính cách",
+ "vocabulary": [
+  {
+   "word": "slim",
+   "ipa": "/slɪm/",
+   "meaning": "mảnh mai, thon thả",
+   "pos": "tính từ",
+   "audio": "A2-77-w-slim.mp3"
+  },
+  {
+   "word": "curly",
+   "ipa": "/ˈkɝːli/",
+   "meaning": "xoăn (tóc)",
+   "pos": "tính từ",
+   "audio": "A2-77-w-curly.mp3"
+  },
+  {
+   "word": "beard",
+   "ipa": "/bɪrd/",
+   "meaning": "râu (quai nón, ở cằm)",
+   "pos": "danh từ",
+   "audio": "A2-77-w-beard.mp3"
+  },
+  {
+   "word": "friendly",
+   "ipa": "/ˈfrɛndli/",
+   "meaning": "thân thiện",
+   "pos": "tính từ",
+   "audio": "A2-77-w-friendly.mp3"
+  },
+  {
+   "word": "kind",
+   "ipa": "/kaɪnd/",
+   "meaning": "tốt bụng",
+   "pos": "tính từ",
+   "audio": "A2-77-w-kind.mp3"
+  },
+  {
+   "word": "shy",
+   "ipa": "/ʃaɪ/",
+   "meaning": "nhút nhát, ngại ngùng",
+   "pos": "tính từ",
+   "audio": "A2-77-w-shy.mp3"
+  },
+  {
+   "word": "lazy",
+   "ipa": "/ˈleɪzi/",
+   "meaning": "lười biếng",
+   "pos": "tính từ",
+   "audio": "A2-77-w-lazy.mp3"
+  },
+  {
+   "word": "honest",
+   "ipa": "/ˈɑːnɪst/",
+   "meaning": "trung thực, thật thà",
+   "pos": "tính từ",
+   "audio": "A2-77-w-honest.mp3"
+  },
+  {
+   "word": "generous",
+   "ipa": "/ˈdʒɛnərəs/",
+   "meaning": "hào phóng, rộng rãi",
+   "pos": "tính từ",
+   "audio": "A2-77-w-generous.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "What does your manager look like? She's tall and slim.",
+   "vi": "Sếp của bạn trông thế nào? Cô ấy cao và mảnh mai.",
+   "audio": "A2-77-ex-1.mp3"
+  },
+  {
+   "en": "She has long curly hair.",
+   "vi": "Cô ấy có mái tóc dài xoăn.",
+   "audio": "A2-77-ex-2.mp3"
+  },
+  {
+   "en": "Tuan has short black hair and a beard.",
+   "vi": "Tuấn có tóc ngắn màu đen và để râu.",
+   "audio": "A2-77-ex-3.mp3"
+  },
+  {
+   "en": "What is Tuan like? He's friendly and very generous.",
+   "vi": "Tuấn là người thế nào? Anh ấy thân thiện và rất hào phóng.",
+   "audio": "A2-77-ex-4.mp3"
+  },
+  {
+   "en": "He's kind and honest, but he's very shy.",
+   "vi": "Anh ấy tốt bụng và trung thực, nhưng rất nhút nhát.",
+   "audio": "A2-77-ex-5.mp3"
+  }
+ ]
+}

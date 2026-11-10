@@ -1,0 +1,67 @@
+{
+ "title": "Bài 22. Will: dự đoán và hứa hẹn",
+ "vocabulary": [
+  {
+   "word": "probably",
+   "ipa": "/ˈprɑːbəbli/",
+   "meaning": "có lẽ, chắc là (khá chắc)",
+   "pos": "trạng từ",
+   "audio": "A2-22-w-probably.mp3"
+  },
+  {
+   "word": "definitely",
+   "ipa": "/ˈdefənətli/",
+   "meaning": "chắc chắn",
+   "pos": "trạng từ",
+   "audio": "A2-22-w-definitely.mp3"
+  },
+  {
+   "word": "maybe",
+   "ipa": "/ˈmeɪbi/",
+   "meaning": "có thể, có lẽ (không chắc)",
+   "pos": "trạng từ",
+   "audio": "A2-22-w-maybe.mp3"
+  },
+  {
+   "word": "future",
+   "ipa": "/ˈfjuːtʃər/",
+   "meaning": "tương lai",
+   "pos": "danh từ",
+   "audio": "A2-22-w-future.mp3"
+  },
+  {
+   "word": "believe",
+   "ipa": "/bɪˈliːv/",
+   "meaning": "tin, tin rằng",
+   "pos": "động từ",
+   "audio": "A2-22-w-believe.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I think we will travel more in the future.",
+   "vi": "Tôi nghĩ trong tương lai chúng ta sẽ đi du lịch nhiều hơn.",
+   "audio": "A2-22-ex-1.mp3"
+  },
+  {
+   "en": "Cars will probably be cheaper, but the streets will definitely be busier.",
+   "vi": "Ô tô có lẽ sẽ rẻ hơn, nhưng đường phố chắc chắn sẽ đông đúc hơn.",
+   "audio": "A2-22-ex-2.mp3"
+  },
+  {
+   "en": "I don't think we will use cash in 2030.",
+   "vi": "Tôi nghĩ năm 2030 chúng ta sẽ không dùng tiền mặt.",
+   "audio": "A2-22-ex-3.mp3"
+  },
+  {
+   "en": "I'm sure you'll find a good job.",
+   "vi": "Tôi chắc chắn bạn sẽ tìm được một công việc tốt.",
+   "audio": "A2-22-ex-4.mp3"
+  },
+  {
+   "en": "Maybe I'll live abroad, but I definitely won't forget Vietnam.",
+   "vi": "Có thể tôi sẽ sống ở nước ngoài, nhưng chắc chắn tôi sẽ không quên Việt Nam.",
+   "audio": "A2-22-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 16. Câu hỏi Wh- với do/does",
+ "vocabulary": [
+  {
+   "word": "when",
+   "ipa": "/wen/",
+   "meaning": "khi nào",
+   "pos": "từ để hỏi",
+   "audio": "A1-16-w-when.mp3"
+  },
+  {
+   "word": "what time",
+   "ipa": "/wʌt ˈtaɪm/",
+   "meaning": "mấy giờ",
+   "pos": "cụm từ để hỏi",
+   "audio": "A1-16-w-what-time.mp3"
+  },
+  {
+   "word": "how",
+   "ipa": "/haʊ/",
+   "meaning": "bằng cách nào, như thế nào",
+   "pos": "từ để hỏi",
+   "audio": "A1-16-w-how.mp3"
+  },
+  {
+   "word": "which",
+   "ipa": "/wɪtʃ/",
+   "meaning": "cái nào, … nào",
+   "pos": "từ để hỏi",
+   "audio": "A1-16-w-which.mp3"
+  },
+  {
+   "word": "bus",
+   "ipa": "/bʌs/",
+   "meaning": "xe buýt",
+   "pos": "danh từ",
+   "audio": "A1-16-w-bus.mp3"
+  },
+  {
+   "word": "train",
+   "ipa": "/treɪn/",
+   "meaning": "tàu hỏa",
+   "pos": "danh từ",
+   "audio": "A1-16-w-train.mp3"
+  },
+  {
+   "word": "walk",
+   "ipa": "/wɔːk/",
+   "meaning": "đi bộ",
+   "pos": "động từ",
+   "audio": "A1-16-w-walk.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "When does she start work? At eight o'clock.",
+   "vi": "Cô ấy bắt đầu làm việc khi nào? Lúc tám giờ.",
+   "audio": "A1-16-ex-1.mp3"
+  },
+  {
+   "en": "What time do you get up? I get up at six o'clock.",
+   "vi": "Bạn dậy lúc mấy giờ? Tôi dậy lúc sáu giờ.",
+   "audio": "A1-16-ex-2.mp3"
+  },
+  {
+   "en": "How do you go to work? By bus.",
+   "vi": "Bạn đi làm bằng gì? Bằng xe buýt.",
+   "audio": "A1-16-ex-3.mp3"
+  },
+  {
+   "en": "How does your son go to school? He walks.",
+   "vi": "Con trai bạn đến trường bằng gì? Cháu đi bộ.",
+   "audio": "A1-16-ex-4.mp3"
+  },
+  {
+   "en": "Which day do you study English? On Tuesday.",
+   "vi": "Bạn học tiếng Anh vào thứ nào? Vào thứ Ba.",
+   "audio": "A1-16-ex-5.mp3"
+  }
+ ]
+}

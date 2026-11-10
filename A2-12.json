@@ -1,0 +1,74 @@
+{
+ "title": "Bài 12. Have you ever...? / never",
+ "vocabulary": [
+  {
+   "word": "ever",
+   "ipa": "/ˈevɚ/",
+   "meaning": "đã bao giờ (trong câu hỏi)",
+   "pos": "trạng từ",
+   "audio": "A2-12-w-ever.mp3"
+  },
+  {
+   "word": "abroad",
+   "ipa": "/əˈbrɔːd/",
+   "meaning": "ở nước ngoài, ra nước ngoài",
+   "pos": "trạng từ",
+   "audio": "A2-12-w-abroad.mp3"
+  },
+  {
+   "word": "try",
+   "ipa": "/traɪ/",
+   "meaning": "thử",
+   "pos": "động từ",
+   "audio": "A2-12-w-try.mp3"
+  },
+  {
+   "word": "flown",
+   "ipa": "/floʊn/",
+   "meaning": "V3 của fly (đã bay, đã đi máy bay)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-12-w-flown.mp3"
+  },
+  {
+   "word": "ridden",
+   "ipa": "/ˈrɪdn/",
+   "meaning": "V3 của ride (đã đi xe, đã cưỡi)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-12-w-ridden.mp3"
+  },
+  {
+   "word": "climbed",
+   "ipa": "/klaɪmd/",
+   "meaning": "V2 và V3 của climb (đã leo)",
+   "pos": "quá khứ phân từ",
+   "audio": "A2-12-w-climbed.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Have you ever been abroad?",
+   "vi": "Bạn đã bao giờ đi nước ngoài chưa?",
+   "audio": "A2-12-ex-1.mp3"
+  },
+  {
+   "en": "No, I haven't. I've never flown.",
+   "vi": "Chưa. Tôi chưa bao giờ đi máy bay.",
+   "audio": "A2-12-ex-2.mp3"
+  },
+  {
+   "en": "Has your husband ever climbed a mountain?",
+   "vi": "Chồng bạn đã bao giờ leo núi chưa?",
+   "audio": "A2-12-ex-3.mp3"
+  },
+  {
+   "en": "Yes, he has. He has climbed Fansipan.",
+   "vi": "Có. Anh ấy đã từng leo Fansipan.",
+   "audio": "A2-12-ex-4.mp3"
+  },
+  {
+   "en": "Have you ever tried egg coffee?",
+   "vi": "Bạn đã bao giờ thử cà phê trứng chưa?",
+   "audio": "A2-12-ex-5.mp3"
+  }
+ ]
+}

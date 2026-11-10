@@ -1,0 +1,74 @@
+{
+ "title": "Bài 39. Kỹ năng: thực đơn và danh sách mua sắm",
+ "vocabulary": [
+  {
+   "word": "dish",
+   "ipa": "/dɪʃ/",
+   "meaning": "món ăn",
+   "pos": "danh từ",
+   "audio": "A1-39-w-dish.mp3"
+  },
+  {
+   "word": "spicy",
+   "ipa": "/ˈspaɪsi/",
+   "meaning": "cay",
+   "pos": "tính từ",
+   "audio": "A1-39-w-spicy.mp3"
+  },
+  {
+   "word": "sweet",
+   "ipa": "/swiːt/",
+   "meaning": "ngọt",
+   "pos": "tính từ",
+   "audio": "A1-39-w-sweet.mp3"
+  },
+  {
+   "word": "delicious",
+   "ipa": "/dɪˈlɪʃəs/",
+   "meaning": "ngon",
+   "pos": "tính từ",
+   "audio": "A1-39-w-delicious.mp3"
+  },
+  {
+   "word": "bowl",
+   "ipa": "/boʊl/",
+   "meaning": "cái bát, tô",
+   "pos": "danh từ",
+   "audio": "A1-39-w-bowl.mp3"
+  },
+  {
+   "word": "plate",
+   "ipa": "/pleɪt/",
+   "meaning": "cái đĩa",
+   "pos": "danh từ",
+   "audio": "A1-39-w-plate.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd like a bowl of beef noodle soup, please.",
+   "vi": "Cho tôi một bát phở bò.",
+   "audio": "A1-39-ex-1.mp3"
+  },
+  {
+   "en": "Is the fish dish spicy?",
+   "vi": "Món cá có cay không?",
+   "audio": "A1-39-ex-2.mp3"
+  },
+  {
+   "en": "Yes, it's very spicy.",
+   "vi": "Vâng, món đó rất cay.",
+   "audio": "A1-39-ex-3.mp3"
+  },
+  {
+   "en": "The fruit plate is sweet and delicious.",
+   "vi": "Đĩa trái cây ngọt và ngon.",
+   "audio": "A1-39-ex-4.mp3"
+  },
+  {
+   "en": "OK. I'd like a plate of chicken and rice for my son.",
+   "vi": "Vậy thì cho tôi một đĩa cơm gà cho con trai tôi.",
+   "audio": "A1-39-ex-5.mp3"
+  }
+ ]
+}

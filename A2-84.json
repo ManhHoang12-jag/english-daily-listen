@@ -1,0 +1,67 @@
+{
+ "title": "Bài 84. Luyện thi Đọc 2: bài dài và điền từ",
+ "vocabulary": [
+  {
+   "word": "salary",
+   "ipa": "/ˈsæləri/",
+   "meaning": "tiền lương (ôn A2 · Bài 43)",
+   "pos": "danh từ",
+   "audio": "A2-84-w-salary.mp3"
+  },
+  {
+   "word": "overtime",
+   "ipa": "/ˈoʊvɚtaɪm/",
+   "meaning": "làm thêm giờ (ôn A2 · Bài 34)",
+   "pos": "danh từ / trạng từ",
+   "audio": "A2-84-w-overtime.mp3"
+  },
+  {
+   "word": "hometown",
+   "ipa": "/ˈhoʊmtaʊn/",
+   "meaning": "quê nhà (ôn A1 · Bài 52)",
+   "pos": "danh từ",
+   "audio": "A2-84-w-hometown.mp3"
+  },
+  {
+   "word": "junk food",
+   "ipa": "/ˈdʒʌŋk fuːd/",
+   "meaning": "đồ ăn vặt, đồ ăn nhanh không tốt (ôn A2 · Bài 58)",
+   "pos": "cụm danh từ",
+   "audio": "A2-84-w-junk-food.mp3"
+  },
+  {
+   "word": "online",
+   "ipa": "/ˌɑːnˈlaɪn/",
+   "meaning": "trên mạng, trực tuyến (ôn A2 · Bài 71)",
+   "pos": "trạng từ",
+   "audio": "A2-84-w-online.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She spent two hours in traffic every day and often worked overtime.",
+   "vi": "Mỗi ngày cô ấy mất hai tiếng kẹt xe và thường xuyên làm thêm giờ.",
+   "audio": "A2-84-ex-1.mp3"
+  },
+  {
+   "en": "Now she grows vegetables and sells them online.",
+   "vi": "Bây giờ cô ấy trồng rau và bán rau trên mạng.",
+   "audio": "A2-84-ex-2.mp3"
+  },
+  {
+   "en": "She earns less money than before, but she is much happier.",
+   "vi": "Cô ấy kiếm ít tiền hơn trước, nhưng cô ấy hạnh phúc hơn nhiều.",
+   "audio": "A2-84-ex-3.mp3"
+  },
+  {
+   "en": "I used to eat junk food every day.",
+   "vi": "Tôi từng ăn đồ ăn nhanh mỗi ngày.",
+   "audio": "A2-84-ex-4.mp3"
+  },
+  {
+   "en": "However, Hanh doesn't want to go back to the city.",
+   "vi": "Tuy nhiên, Hạnh không muốn quay lại thành phố.",
+   "audio": "A2-84-ex-5.mp3"
+  }
+ ]
+}

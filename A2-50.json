@@ -1,0 +1,74 @@
+{
+ "title": "Bài 50. Ôn tập và kiểm tra A2-5",
+ "vocabulary": [
+  {
+   "word": "responsible for",
+   "ipa": "/rɪˈspɑnsəbəl fər/",
+   "meaning": "chịu trách nhiệm, phụ trách (ôn Bài 44)",
+   "pos": "cụm tính từ",
+   "audio": "A2-50-w-responsible-for.mp3"
+  },
+  {
+   "word": "enjoy",
+   "ipa": "/ɪnˈdʒɔɪ/",
+   "meaning": "thích, tận hưởng (+ V-ing, ôn Bài 45)",
+   "pos": "động từ",
+   "audio": "A2-50-w-enjoy.mp3"
+  },
+  {
+   "word": "afford",
+   "ipa": "/əˈfɔːrd/",
+   "meaning": "có đủ tiền, đủ khả năng (+ to V, ôn Bài 46)",
+   "pos": "động từ",
+   "audio": "A2-50-w-afford.mp3"
+  },
+  {
+   "word": "unless",
+   "ipa": "/ənˈles/",
+   "meaning": "trừ khi, nếu không (ôn Bài 43)",
+   "pos": "liên từ",
+   "audio": "A2-50-w-unless.mp3"
+  },
+  {
+   "word": "interview",
+   "ipa": "/ˈɪntərˌvjuː/",
+   "meaning": "buổi phỏng vấn; phỏng vấn (ôn Bài 48)",
+   "pos": "danh từ / động từ",
+   "audio": "A2-50-w-interview.mp3"
+  },
+  {
+   "word": "look forward to",
+   "ipa": "/lʊk ˈfɔrwərd tə/",
+   "meaning": "mong chờ (+ V-ing, ôn Bài 49)",
+   "pos": "cụm động từ",
+   "audio": "A2-50-w-look-forward-to.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "She is responsible for training new staff, and she works full-time.",
+   "vi": "Cô ấy phụ trách đào tạo nhân viên mới, và cô ấy làm việc toàn thời gian.",
+   "audio": "A2-50-ex-1.mp3"
+  },
+  {
+   "en": "She enjoys meeting tourists, but she avoids working night shifts.",
+   "vi": "Cô ấy thích gặp khách du lịch, nhưng cô ấy tránh làm ca đêm.",
+   "audio": "A2-50-ex-2.mp3"
+  },
+  {
+   "en": "When she works at night, she feels very tired the next day.",
+   "vi": "Khi cô ấy làm ca đêm, ngày hôm sau cô ấy thấy rất mệt.",
+   "audio": "A2-50-ex-3.mp3"
+  },
+  {
+   "en": "Last month Hoa decided to apply for a master's degree.",
+   "vi": "Tháng trước Hoa quyết định nộp đơn học thạc sĩ.",
+   "audio": "A2-50-ex-4.mp3"
+  },
+  {
+   "en": "If she passes the interview, she will start in September.",
+   "vi": "Nếu cô ấy qua vòng phỏng vấn, cô ấy sẽ bắt đầu học vào tháng Chín.",
+   "audio": "A2-50-ex-5.mp3"
+  }
+ ]
+}

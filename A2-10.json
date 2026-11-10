@@ -1,0 +1,74 @@
+{
+ "title": "Bài 10. Ôn tập và kiểm tra A2-1",
+ "vocabulary": [
+  {
+   "word": "built",
+   "ipa": "/bɪlt/",
+   "meaning": "đã xây (ôn Bài 02: build–built)",
+   "pos": "động từ quá khứ",
+   "audio": "A2-10-w-built.mp3"
+  },
+  {
+   "word": "suddenly",
+   "ipa": "/ˈsʌdənli/",
+   "meaning": "bỗng nhiên, đột nhiên (ôn Bài 04)",
+   "pos": "trạng từ",
+   "audio": "A2-10-w-suddenly.mp3"
+  },
+  {
+   "word": "while",
+   "ipa": "/waɪl/",
+   "meaning": "trong khi, trong lúc (ôn Bài 05)",
+   "pos": "liên từ",
+   "audio": "A2-10-w-while.mp3"
+  },
+  {
+   "word": "carefully",
+   "ipa": "/ˈkerfəli/",
+   "meaning": "một cách cẩn thận (ôn Bài 06)",
+   "pos": "trạng từ",
+   "audio": "A2-10-w-carefully.mp3"
+  },
+  {
+   "word": "forecast",
+   "ipa": "/ˈfɔːrkæst/",
+   "meaning": "bản dự báo (ôn Bài 07)",
+   "pos": "danh từ",
+   "audio": "A2-10-w-forecast.mp3"
+  },
+  {
+   "word": "luckily",
+   "ipa": "/ˈlʌkəli/",
+   "meaning": "may mắn là (ôn Bài 09)",
+   "pos": "trạng từ",
+   "audio": "A2-10-w-luckily.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "At first, it was only windy. Then it rained very hard.",
+   "vi": "Lúc đầu trời chỉ có gió. Sau đó mưa rất to.",
+   "audio": "A2-10-ex-1.mp3"
+  },
+  {
+   "en": "My wife was cooking dinner, and I was watching a movie.",
+   "vi": "Vợ tôi đang nấu bữa tối, còn tôi đang xem phim.",
+   "audio": "A2-10-ex-2.mp3"
+  },
+  {
+   "en": "While my wife was calling her mother, our neighbor knocked on the door.",
+   "vi": "Trong lúc vợ tôi đang gọi điện cho mẹ thì anh hàng xóm gõ cửa.",
+   "audio": "A2-10-ex-3.mp3"
+  },
+  {
+   "en": "We drove her to the hospital slowly and carefully.",
+   "vi": "Chúng tôi chở bà ấy đến bệnh viện chậm rãi và cẩn thận.",
+   "audio": "A2-10-ex-4.mp3"
+  },
+  {
+   "en": "Luckily, she was OK.",
+   "vi": "May mắn là bà ấy không sao.",
+   "audio": "A2-10-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,74 @@
+{
+ "title": "Bài 53. Tương lai với be going to: kế hoạch",
+ "vocabulary": [
+  {
+   "word": "going to",
+   "ipa": "/ˈɡoʊɪŋ tə/",
+   "meaning": "sẽ, định (sau am/is/are, chỉ kế hoạch)",
+   "pos": "cụm chỉ tương lai",
+   "audio": "A1-53-w-going-to.mp3"
+  },
+  {
+   "word": "tomorrow",
+   "ipa": "/təˈmɑːroʊ/",
+   "meaning": "ngày mai",
+   "pos": "trạng từ",
+   "audio": "A1-53-w-tomorrow.mp3"
+  },
+  {
+   "word": "tonight",
+   "ipa": "/təˈnaɪt/",
+   "meaning": "tối nay",
+   "pos": "trạng từ",
+   "audio": "A1-53-w-tonight.mp3"
+  },
+  {
+   "word": "next week",
+   "ipa": "/ˌnekst ˈwiːk/",
+   "meaning": "tuần sau",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-53-w-next-week.mp3"
+  },
+  {
+   "word": "next year",
+   "ipa": "/ˌnekst ˈjɪr/",
+   "meaning": "năm sau",
+   "pos": "cụm chỉ thời gian",
+   "audio": "A1-53-w-next-year.mp3"
+  },
+  {
+   "word": "soon",
+   "ipa": "/suːn/",
+   "meaning": "sắp, chẳng bao lâu nữa",
+   "pos": "trạng từ",
+   "audio": "A1-53-w-soon.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'm going to visit my parents tomorrow.",
+   "vi": "Ngày mai tôi sẽ về thăm bố mẹ.",
+   "audio": "A1-53-ex-1.mp3"
+  },
+  {
+   "en": "She's going to cook fish tonight.",
+   "vi": "Tối nay cô ấy định nấu cá.",
+   "audio": "A1-53-ex-2.mp3"
+  },
+  {
+   "en": "We're going to travel to Da Lat next week.",
+   "vi": "Tuần sau chúng tôi sẽ đi du lịch Đà Lạt.",
+   "audio": "A1-53-ex-3.mp3"
+  },
+  {
+   "en": "They're going to buy a new car next year.",
+   "vi": "Năm sau họ định mua một chiếc ô tô mới.",
+   "audio": "A1-53-ex-4.mp3"
+  },
+  {
+   "en": "My sister is going to visit us soon.",
+   "vi": "Chị tôi sắp đến thăm chúng tôi.",
+   "audio": "A1-53-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,67 @@
+{
+ "title": "Bài 29. Kỹ năng: đọc quảng cáo và thông báo mua bán",
+ "vocabulary": [
+  {
+   "word": "offer",
+   "ipa": "/ˈɔfər/",
+   "meaning": "ưu đãi (danh từ); cung cấp, mời (động từ)",
+   "pos": "danh từ / động từ",
+   "audio": "A2-29-w-offer.mp3"
+  },
+  {
+   "word": "half price",
+   "ipa": "/ˌhæf ˈpraɪs/",
+   "meaning": "nửa giá",
+   "pos": "cụm từ",
+   "audio": "A2-29-w-half-price.mp3"
+  },
+  {
+   "word": "free delivery",
+   "ipa": "/ˌfri dɪˈlɪvəri/",
+   "meaning": "giao hàng miễn phí",
+   "pos": "cụm danh từ",
+   "audio": "A2-29-w-free-delivery.mp3"
+  },
+  {
+   "word": "available",
+   "ipa": "/əˈveɪləbəl/",
+   "meaning": "có sẵn, mua được",
+   "pos": "tính từ",
+   "audio": "A2-29-w-available.mp3"
+  },
+  {
+   "word": "customer",
+   "ipa": "/ˈkʌstəmər/",
+   "meaning": "khách hàng",
+   "pos": "danh từ",
+   "audio": "A2-29-w-customer.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "All jackets are half price this week.",
+   "vi": "Tuần này tất cả áo khoác đều giảm một nửa giá.",
+   "audio": "A2-29-ex-1.mp3"
+  },
+  {
+   "en": "We offer free delivery on all orders over fifty dollars.",
+   "vi": "Chúng tôi giao hàng miễn phí cho mọi đơn trên 50 đô.",
+   "audio": "A2-29-ex-2.mp3"
+  },
+  {
+   "en": "The new X5 phone is now available in our store.",
+   "vi": "Điện thoại X5 mới hiện đã có bán tại cửa hàng.",
+   "audio": "A2-29-ex-3.mp3"
+  },
+  {
+   "en": "It's too big for my new apartment.",
+   "vi": "Nó quá to so với căn hộ mới của tôi.",
+   "audio": "A2-29-ex-4.mp3"
+  },
+  {
+   "en": "Buy one T-shirt, get one free!",
+   "vi": "Mua một áo phông, tặng một áo!",
+   "audio": "A2-29-ex-5.mp3"
+  }
+ ]
+}

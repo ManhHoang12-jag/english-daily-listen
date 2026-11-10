@@ -1,0 +1,88 @@
+{
+ "title": "Bài 37. Like / love / hate + V-ing",
+ "vocabulary": [
+  {
+   "word": "hate",
+   "ipa": "/heɪt/",
+   "meaning": "ghét",
+   "pos": "động từ",
+   "audio": "A1-37-w-hate.mp3"
+  },
+  {
+   "word": "dance",
+   "ipa": "/dæns/",
+   "meaning": "nhảy, khiêu vũ",
+   "pos": "động từ",
+   "audio": "A1-37-w-dance.mp3"
+  },
+  {
+   "word": "travel",
+   "ipa": "/ˈtrævəl/",
+   "meaning": "đi du lịch, đi xa",
+   "pos": "động từ",
+   "audio": "A1-37-w-travel.mp3"
+  },
+  {
+   "word": "listen to",
+   "ipa": "/ˈlɪsən tuː/",
+   "meaning": "nghe (cái gì)",
+   "pos": "cụm động từ",
+   "audio": "A1-37-w-listen-to.mp3"
+  },
+  {
+   "word": "music",
+   "ipa": "/ˈmjuːzɪk/",
+   "meaning": "âm nhạc",
+   "pos": "danh từ",
+   "audio": "A1-37-w-music.mp3"
+  },
+  {
+   "word": "movie",
+   "ipa": "/ˈmuːvi/",
+   "meaning": "phim",
+   "pos": "danh từ",
+   "audio": "A1-37-w-movie.mp3"
+  },
+  {
+   "word": "football",
+   "ipa": "/ˈfʊtbɔːl/",
+   "meaning": "bóng đá (ở Mỹ: bóng bầu dục Mỹ)",
+   "pos": "danh từ",
+   "audio": "A1-37-w-football.mp3"
+  },
+  {
+   "word": "game",
+   "ipa": "/ɡeɪm/",
+   "meaning": "trò chơi, trận đấu",
+   "pos": "danh từ",
+   "audio": "A1-37-w-game.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I love dancing.",
+   "vi": "Tôi rất thích nhảy.",
+   "audio": "A1-37-ex-1.mp3"
+  },
+  {
+   "en": "She hates cooking.",
+   "vi": "Cô ấy ghét nấu ăn.",
+   "audio": "A1-37-ex-2.mp3"
+  },
+  {
+   "en": "We like listening to music.",
+   "vi": "Chúng tôi thích nghe nhạc.",
+   "audio": "A1-37-ex-3.mp3"
+  },
+  {
+   "en": "My son loves playing football.",
+   "vi": "Con trai tôi rất thích chơi bóng đá.",
+   "audio": "A1-37-ex-4.mp3"
+  },
+  {
+   "en": "Do you like traveling? Yes, I do.",
+   "vi": "Bạn có thích đi du lịch không? Có, tôi thích.",
+   "audio": "A1-37-ex-5.mp3"
+  }
+ ]
+}

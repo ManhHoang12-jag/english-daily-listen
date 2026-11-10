@@ -1,0 +1,74 @@
+{
+ "title": "Bài 86. Luyện thi Viết 2: câu chuyện và đoạn văn",
+ "vocabulary": [
+  {
+   "word": "at first",
+   "ipa": "/ət ˈfɝːst/",
+   "meaning": "lúc đầu (ôn A2 · Bài 09)",
+   "pos": "cụm trạng từ",
+   "audio": "A2-86-w-at-first.mp3"
+  },
+  {
+   "word": "suddenly",
+   "ipa": "/ˈsʌdənli/",
+   "meaning": "đột nhiên (ôn A2 · Bài 04)",
+   "pos": "trạng từ",
+   "audio": "A2-86-w-suddenly.mp3"
+  },
+  {
+   "word": "luckily",
+   "ipa": "/ˈlʌkɪli/",
+   "meaning": "may mắn là (ôn A2 · Bài 09)",
+   "pos": "trạng từ",
+   "audio": "A2-86-w-luckily.mp3"
+  },
+  {
+   "word": "unfortunately",
+   "ipa": "/ʌnˈfɔːrtʃənətli/",
+   "meaning": "không may là (ôn A2 · Bài 09)",
+   "pos": "trạng từ",
+   "audio": "A2-86-w-unfortunately.mp3"
+  },
+  {
+   "word": "however",
+   "ipa": "/haʊˈɛvɚ/",
+   "meaning": "tuy nhiên (ôn A2 · Bài 76)",
+   "pos": "trạng từ nối",
+   "audio": "A2-86-w-however.mp3"
+  },
+  {
+   "word": "in the end",
+   "ipa": "/ɪn ði ˈend/",
+   "meaning": "cuối cùng (ôn A2 · Bài 09)",
+   "pos": "cụm trạng từ",
+   "audio": "A2-86-w-in-the-end.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Last Saturday morning, Nam was waiting for the bus near his house.",
+   "vi": "Sáng thứ Bảy tuần trước, Nam đang đợi xe buýt gần nhà.",
+   "audio": "A2-86-ex-1.mp3"
+  },
+  {
+   "en": "While he was reading a message on his phone, an old woman got on a different bus.",
+   "vi": "Trong lúc anh ấy đang đọc tin nhắn trên điện thoại, một bà cụ lên một chiếc xe buýt khác.",
+   "audio": "A2-86-ex-2.mp3"
+  },
+  {
+   "en": "At first, he called her, but she didn't hear him.",
+   "vi": "Lúc đầu, anh ấy gọi bà, nhưng bà không nghe thấy.",
+   "audio": "A2-86-ex-3.mp3"
+  },
+  {
+   "en": "Luckily, her bus stopped there too, so Nam gave the bag back to the woman.",
+   "vi": "May mắn là xe buýt của bà cũng dừng ở đó, nên Nam trả lại túi cho bà.",
+   "audio": "A2-86-ex-4.mp3"
+  },
+  {
+   "en": "In the end, Nam missed his bus, but he felt great.",
+   "vi": "Cuối cùng, Nam lỡ chuyến xe buýt của mình, nhưng anh ấy thấy rất vui.",
+   "audio": "A2-86-ex-5.mp3"
+  }
+ ]
+}

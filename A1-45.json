@@ -1,0 +1,81 @@
+{
+ "title": "Bài 45. Was/were trong câu hỏi và thời tiết",
+ "vocabulary": [
+  {
+   "word": "weather",
+   "ipa": "/ˈwɛðɚ/",
+   "meaning": "thời tiết",
+   "pos": "danh từ",
+   "audio": "A1-45-w-weather.mp3"
+  },
+  {
+   "word": "sunny",
+   "ipa": "/ˈsʌni/",
+   "meaning": "nắng",
+   "pos": "tính từ",
+   "audio": "A1-45-w-sunny.mp3"
+  },
+  {
+   "word": "rainy",
+   "ipa": "/ˈreɪni/",
+   "meaning": "mưa, có mưa",
+   "pos": "tính từ",
+   "audio": "A1-45-w-rainy.mp3"
+  },
+  {
+   "word": "windy",
+   "ipa": "/ˈwɪndi/",
+   "meaning": "có gió, nhiều gió",
+   "pos": "tính từ",
+   "audio": "A1-45-w-windy.mp3"
+  },
+  {
+   "word": "cloudy",
+   "ipa": "/ˈklaʊdi/",
+   "meaning": "nhiều mây",
+   "pos": "tính từ",
+   "audio": "A1-45-w-cloudy.mp3"
+  },
+  {
+   "word": "warm",
+   "ipa": "/wɔːrm/",
+   "meaning": "ấm",
+   "pos": "tính từ",
+   "audio": "A1-45-w-warm.mp3"
+  },
+  {
+   "word": "cool",
+   "ipa": "/kuːl/",
+   "meaning": "mát",
+   "pos": "tính từ",
+   "audio": "A1-45-w-cool.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Where were you yesterday?",
+   "vi": "Hôm qua bạn ở đâu?",
+   "audio": "A1-45-ex-1.mp3"
+  },
+  {
+   "en": "I was in Da Lat with my family.",
+   "vi": "Tôi ở Đà Lạt với gia đình.",
+   "audio": "A1-45-ex-2.mp3"
+  },
+  {
+   "en": "How was the weather?",
+   "vi": "Thời tiết thế nào?",
+   "audio": "A1-45-ex-3.mp3"
+  },
+  {
+   "en": "It was cool and windy.",
+   "vi": "Trời mát và có gió.",
+   "audio": "A1-45-ex-4.mp3"
+  },
+  {
+   "en": "Was it rainy? Yes, it was.",
+   "vi": "Trời có mưa không? Có.",
+   "audio": "A1-45-ex-5.mp3"
+  }
+ ]
+}
