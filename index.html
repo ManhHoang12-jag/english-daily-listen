@@ -103,8 +103,8 @@
     const content = document.getElementById("content");
     addHeading(content, "Từ vựng");
     lesson.vocabulary.forEach(v => addItem(content, v, v.word, v.ipa, `${v.meaning} (${v.pos})`));
-    addHeading(content, "Câu ví dụ");
-    lesson.examples.forEach(e => addItem(content, e, e.en, "", e.vi));
+    addHeading(content, lesson.hide_text ? "Bài nghe (nghe trước, lời thoại xem trong bot sau khi làm bài)" : "Câu ví dụ");
+    lesson.examples.forEach((e, i) => addItem(content, e, lesson.hide_text ? `Đoạn ${i + 1}` : e.en, "", e.vi));
   }
 
   main().catch(() => {

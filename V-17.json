@@ -1,0 +1,88 @@
+{
+ "title": "Bài 17. Nói Part 2: thảo luận giải pháp",
+ "vocabulary": [
+  {
+   "word": "I'd go for",
+   "ipa": "/aɪd ˈɡoʊ fɚ/",
+   "meaning": "tôi sẽ chọn",
+   "pos": "cụm nêu lựa chọn",
+   "audio": "V-17-w-i-d-go-for.mp3"
+  },
+  {
+   "word": "first of all",
+   "ipa": "/ˈfɝst əv ˈɔl/",
+   "meaning": "trước hết",
+   "pos": "cụm nối",
+   "audio": "V-17-w-first-of-all.mp3"
+  },
+  {
+   "word": "on top of that",
+   "ipa": "/ɑn ˈtɑp əv ˈðæt/",
+   "meaning": "thêm vào đó, chưa kể",
+   "pos": "cụm nối",
+   "audio": "V-17-w-on-top-of-that.mp3"
+  },
+  {
+   "word": "as for",
+   "ipa": "/ˈæz fɚ/",
+   "meaning": "còn về (chuyển sang một đối tượng khác)",
+   "pos": "cụm nối",
+   "audio": "V-17-w-as-for.mp3"
+  },
+  {
+   "word": "the main drawback",
+   "ipa": "/ðə ˈmeɪn ˈdrɔˌbæk/",
+   "meaning": "nhược điểm chính",
+   "pos": "cụm danh từ",
+   "audio": "V-17-w-the-main-drawback.mp3"
+  },
+  {
+   "word": "all things considered",
+   "ipa": "/ˈɔl ˈθɪŋz kənˈsɪdɚd/",
+   "meaning": "xét mọi mặt, cân nhắc tất cả",
+   "pos": "cụm kết luận",
+   "audio": "V-17-w-all-things-considered.mp3"
+  },
+  {
+   "word": "outweigh",
+   "ipa": "/aʊtˈweɪ/",
+   "meaning": "nặng hơn, lớn hơn (lợi ích lớn hơn bất lợi)",
+   "pos": "động từ",
+   "audio": "V-17-w-outweigh.mp3"
+  },
+  {
+   "word": "it makes more sense",
+   "ipa": "/ɪt ˈmeɪks ˈmɔr ˈsɛns/",
+   "meaning": "hợp lý hơn",
+   "pos": "cụm so sánh",
+   "audio": "V-17-w-it-makes-more-sense.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "In this situation, my cousin has three options, and I think living in the university dormitory would be the most sensible choice.",
+   "vi": "Trong tình huống này, em họ tôi có ba lựa chọn, và tôi nghĩ ở ký túc xá của trường là lựa chọn hợp lý nhất.",
+   "audio": "V-17-ex-1.mp3"
+  },
+  {
+   "en": "First of all, it's much cheaper than the other options, which really matters for a first-year student with no income.",
+   "vi": "Trước hết, nó rẻ hơn nhiều so với các lựa chọn khác, điều này rất quan trọng với một sinh viên năm nhất chưa có thu nhập.",
+   "audio": "V-17-ex-2.mp3"
+  },
+  {
+   "en": "On top of that, living on campus makes it far easier to make friends and join clubs, so he won't feel lonely in a new city.",
+   "vi": "Thêm vào đó, sống trong khuôn viên trường giúp việc kết bạn và tham gia câu lạc bộ dễ hơn nhiều, nên em ấy sẽ không thấy cô đơn ở thành phố mới.",
+   "audio": "V-17-ex-3.mp3"
+  },
+  {
+   "en": "Renting an apartment with friends might sound exciting, but the main drawback is that he would have to deal with bills, a contract and a deposit.",
+   "vi": "Thuê căn hộ với bạn bè nghe thì có vẻ thú vị, nhưng nhược điểm chính là em ấy sẽ phải lo hóa đơn, hợp đồng và tiền đặt cọc.",
+   "audio": "V-17-ex-4.mp3"
+  },
+  {
+   "en": "As for staying with his aunt, it's safe, but the journey takes forty minutes each way. So, all things considered, the dormitory is the best option for him.",
+   "vi": "Còn về việc ở với dì, thì an toàn, nhưng mỗi lượt đi mất bốn mươi phút. Vì vậy, xét mọi mặt, ký túc xá là lựa chọn tốt nhất cho em ấy.",
+   "audio": "V-17-ex-5.mp3"
+  }
+ ]
+}

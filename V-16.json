@@ -1,0 +1,81 @@
+{
+ "title": "Bài 16. Nói Part 1: tương tác xã hội",
+ "vocabulary": [
+  {
+   "word": "I'd say",
+   "ipa": "/aɪd ˈseɪ/",
+   "meaning": "tôi cho là, tôi nghĩ là (mở câu trả lời mềm mại)",
+   "pos": "cụm mở đầu",
+   "audio": "V-16-w-i-d-say.mp3"
+  },
+  {
+   "word": "mainly because",
+   "ipa": "/ˈmeɪnli bɪˈkʌz/",
+   "meaning": "chủ yếu là vì",
+   "pos": "cụm nêu lý do",
+   "audio": "V-16-w-mainly-because.mp3"
+  },
+  {
+   "word": "that said",
+   "ipa": "/ˈðæt ˈsɛd/",
+   "meaning": "dù vậy, nói thế nhưng (thêm một ngoại lệ)",
+   "pos": "cụm nối",
+   "audio": "V-16-w-that-said.mp3"
+  },
+  {
+   "word": "to be honest",
+   "ipa": "/tə bi ˈɑnɪst/",
+   "meaning": "thật lòng mà nói",
+   "pos": "cụm mở đầu",
+   "audio": "V-16-w-to-be-honest.mp3"
+  },
+  {
+   "word": "for instance",
+   "ipa": "/fɚ ˈɪnstəns/",
+   "meaning": "ví dụ như",
+   "pos": "cụm nêu ví dụ",
+   "audio": "V-16-w-for-instance.mp3"
+  },
+  {
+   "word": "these days",
+   "ipa": "/ˈðiz ˈdeɪz/",
+   "meaning": "dạo này, ngày nay",
+   "pos": "cụm chỉ thời gian",
+   "audio": "V-16-w-these-days.mp3"
+  },
+  {
+   "word": "could you repeat the question",
+   "ipa": "/kʊdʒu rɪˈpit ðə ˈkwɛstʃən/",
+   "meaning": "thầy/cô có thể nhắc lại câu hỏi không",
+   "pos": "câu hỏi lịch sự",
+   "audio": "V-16-w-could-you-repeat-the-question.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I'd say I prefer printed books, mainly because I stare at a screen all day at work. That said, I do read e-books when I travel, since they're much lighter.",
+   "vi": "Tôi nghĩ là tôi thích sách in hơn, chủ yếu vì cả ngày đi làm tôi đã nhìn màn hình rồi. Dù vậy, khi đi xa tôi vẫn đọc sách điện tử vì chúng nhẹ hơn nhiều.",
+   "audio": "V-16-ex-1.mp3"
+  },
+  {
+   "en": "What I like most about my neighborhood is the morning market. It's only a five-minute walk away, and everything there is fresh and cheap.",
+   "vi": "Điều tôi thích nhất ở khu tôi sống là chợ sáng. Nó chỉ cách năm phút đi bộ, và mọi thứ ở đó đều tươi và rẻ.",
+   "audio": "V-16-ex-2.mp3"
+  },
+  {
+   "en": "Yes, quite a lot. A few years ago, most people did their shopping at the market, but these days lots of my friends order almost everything online.",
+   "vi": "Có, thay đổi khá nhiều. Vài năm trước hầu hết mọi người đi chợ để mua sắm, nhưng bây giờ nhiều bạn bè tôi đặt gần như mọi thứ qua mạng.",
+   "audio": "V-16-ex-3.mp3"
+  },
+  {
+   "en": "Sorry, could you repeat the question, please? Oh, you mean how often I read for pleasure. To be honest, not as often as I'd like, maybe one book a month.",
+   "vi": "Xin lỗi, thầy/cô có thể nhắc lại câu hỏi được không ạ? À, ý là tôi đọc sách để giải trí thường xuyên thế nào. Thật lòng mà nói, không nhiều như tôi muốn, khoảng một cuốn mỗi tháng.",
+   "audio": "V-16-ex-4.mp3"
+  },
+  {
+   "en": "I'm hoping to work abroad for a few years, mostly to improve my English and gain some international experience. After that, I'd probably come back and start my own business.",
+   "vi": "Tôi hy vọng được làm việc ở nước ngoài vài năm, chủ yếu để nâng cao tiếng Anh và có thêm kinh nghiệm quốc tế. Sau đó, có lẽ tôi sẽ về nước và mở công việc kinh doanh riêng.",
+   "audio": "V-16-ex-5.mp3"
+  }
+ ]
+}

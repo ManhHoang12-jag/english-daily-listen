@@ -1,0 +1,74 @@
+{
+ "title": "Bài 22. Đề thi thử 1: Viết và Nói",
+ "vocabulary": [
+  {
+   "word": "I am writing to",
+   "ipa": "/aɪ æm ˈraɪtɪŋ tu/",
+   "meaning": "tôi viết thư này để... (mở thư trang trọng)",
+   "pos": "cụm câu",
+   "audio": "V-22-w-i-am-writing-to.mp3"
+  },
+  {
+   "word": "I look forward to hearing from you",
+   "ipa": "/aɪ lʊk ˈfɔrwɚd tə ˈhɪrɪŋ frəm ju/",
+   "meaning": "tôi mong nhận được hồi âm (kết thư trang trọng)",
+   "pos": "cụm câu",
+   "audio": "V-22-w-i-look-forward-to-hearing-from-you.mp3"
+  },
+  {
+   "word": "on the other hand",
+   "ipa": "/ɑn ði ˈʌðɚ hænd/",
+   "meaning": "mặt khác (chuyển sang mặt đối lập)",
+   "pos": "cụm từ nối",
+   "audio": "V-22-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "in my opinion",
+   "ipa": "/ɪn maɪ əˈpɪnjən/",
+   "meaning": "theo ý kiến của tôi",
+   "pos": "cụm từ",
+   "audio": "V-22-w-in-my-opinion.mp3"
+  },
+  {
+   "word": "for instance",
+   "ipa": "/fɚ ˈɪnstəns/",
+   "meaning": "ví dụ như",
+   "pos": "cụm từ nối",
+   "audio": "V-22-w-for-instance.mp3"
+  },
+  {
+   "word": "to sum up",
+   "ipa": "/tə sʌm ʌp/",
+   "meaning": "tóm lại (mở đầu kết luận)",
+   "pos": "cụm từ nối",
+   "audio": "V-22-w-to-sum-up.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to share some feedback on the digital skills workshop that I attended at the library last Saturday.",
+   "vi": "Tôi viết thư này để gửi một vài ý kiến phản hồi về buổi hội thảo kỹ năng số mà tôi đã tham dự ở thư viện vào thứ Bảy tuần trước.",
+   "audio": "V-22-ex-1.mp3"
+  },
+  {
+   "en": "On the one hand, cyclists feel safer when they have their own lanes, so more people are willing to leave their cars at home.",
+   "vi": "Một mặt, người đi xe đạp thấy an toàn hơn khi có làn riêng, nên nhiều người sẵn sàng để ô tô ở nhà hơn.",
+   "audio": "V-22-ex-2.mp3"
+  },
+  {
+   "en": "I'm a nurse at a hospital in the city center. What I enjoy most about my job is that I can really help people, although the night shifts can be exhausting.",
+   "vi": "Tôi là y tá ở một bệnh viện trong trung tâm thành phố. Điều tôi thích nhất ở công việc là tôi thực sự giúp được người khác, dù những ca đêm có thể rất mệt.",
+   "audio": "V-22-ex-3.mp3"
+  },
+  {
+   "en": "In my opinion, charging for plastic bags would be the best option, because it would change the habits of almost every shopper. Free water bottles sound attractive, but they would only reach students.",
+   "vi": "Theo tôi, thu phí túi ni lông là lựa chọn tốt nhất, vì nó sẽ thay đổi thói quen của gần như mọi người đi mua sắm. Tặng bình nước miễn phí nghe hấp dẫn, nhưng chỉ đến được với học sinh, sinh viên.",
+   "audio": "V-22-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, learning a foreign language opens doors at work, makes travel more meaningful, and even keeps our brains active as we get older.",
+   "vi": "Tóm lại, học ngoại ngữ mở ra cơ hội trong công việc, làm cho các chuyến đi ý nghĩa hơn, và thậm chí giữ cho não bộ hoạt động khi chúng ta lớn tuổi.",
+   "audio": "V-22-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "title": "Bài 12. Viết Task 1: bài mẫu và lỗi thường gặp",
+ "vocabulary": [
+  {
+   "word": "Thanks for your email",
+   "ipa": "/ˈθæŋks fər jʊr ˈimeɪl/",
+   "meaning": "Cảm ơn email của bạn (mở thư thân mật)",
+   "pos": "cụm mở thư",
+   "audio": "V-12-w-thanks-for-your-email.mp3"
+  },
+  {
+   "word": "It was great to hear from you",
+   "ipa": "/ɪt wəz ˈɡreɪt tə ˈhɪr frəm ju/",
+   "meaning": "Rất vui khi nhận được tin của bạn",
+   "pos": "cụm mở thư",
+   "audio": "V-12-w-it-was-great-to-hear-from-you.mp3"
+  },
+  {
+   "word": "If I were you",
+   "ipa": "/ɪf aɪ ˈwɝ ju/",
+   "meaning": "Nếu mình là bạn (mở đầu lời khuyên)",
+   "pos": "cụm câu",
+   "audio": "V-12-w-if-i-were-you.mp3"
+  },
+  {
+   "word": "As for",
+   "ipa": "/ˈæz fɔr/",
+   "meaning": "còn về (chuyển sang chủ đề khác)",
+   "pos": "cụm giới từ",
+   "audio": "V-12-w-as-for.mp3"
+  },
+  {
+   "word": "By the way",
+   "ipa": "/ˌbaɪ ðə ˈweɪ/",
+   "meaning": "nhân tiện",
+   "pos": "cụm chuyển ý",
+   "audio": "V-12-w-by-the-way.mp3"
+  },
+  {
+   "word": "Let me know",
+   "ipa": "/ˌlɛt mi ˈnoʊ/",
+   "meaning": "báo cho mình biết nhé",
+   "pos": "cụm câu",
+   "audio": "V-12-w-let-me-know.mp3"
+  },
+  {
+   "word": "Take care",
+   "ipa": "/ˌteɪk ˈkɛr/",
+   "meaning": "giữ gìn sức khỏe nhé (kết thư thân mật)",
+   "pos": "cụm kết thư",
+   "audio": "V-12-w-take-care.mp3"
+  },
+  {
+   "word": "Write back soon",
+   "ipa": "/ˌraɪt bæk ˈsun/",
+   "meaning": "sớm hồi âm nhé",
+   "pos": "cụm kết thư",
+   "audio": "V-12-w-write-back-soon.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Thanks for your email. It was great to hear from you.",
+   "vi": "Cảm ơn email của bạn. Rất vui khi nhận được tin của bạn.",
+   "audio": "V-12-ex-1.mp3"
+  },
+  {
+   "en": "Yes, I worked part-time when I was at university.",
+   "vi": "Có, mình đã làm thêm khi còn học đại học.",
+   "audio": "V-12-ex-2.mp3"
+  },
+  {
+   "en": "If I were you, I would take the café job, but only for a few shifts a week.",
+   "vi": "Nếu mình là bạn, mình sẽ nhận việc ở quán cà phê, nhưng chỉ vài ca mỗi tuần.",
+   "audio": "V-12-ex-3.mp3"
+  },
+  {
+   "en": "Also, make sure your manager knows your exam dates in advance.",
+   "vi": "Ngoài ra, nhớ để quản lý biết trước lịch thi của bạn.",
+   "audio": "V-12-ex-4.mp3"
+  },
+  {
+   "en": "As for your trip, that's fantastic news!",
+   "vi": "Còn về chuyến đi của bạn, đó là tin tuyệt vời!",
+   "audio": "V-12-ex-5.mp3"
+  }
+ ]
+}

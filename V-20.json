@@ -1,0 +1,74 @@
+{
+ "title": "Bài 20. Ôn tập và kiểm tra: Viết và Nói",
+ "vocabulary": [
+  {
+   "word": "I would be grateful if you could",
+   "ipa": "/aɪ wʊd bi ˈɡreɪtfəl ɪf ju kʊd/",
+   "meaning": "tôi sẽ rất biết ơn nếu ông/bà có thể (ôn VSTEP · Bài 12)",
+   "pos": "cụm yêu cầu trang trọng",
+   "audio": "V-20-w-i-would-be-grateful-if-you-could.mp3"
+  },
+  {
+   "word": "on the other hand",
+   "ipa": "/ɑn ði ˈʌðɚ ˈhænd/",
+   "meaning": "mặt khác (ôn VSTEP · Bài 13–14)",
+   "pos": "cụm nối",
+   "audio": "V-20-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "I'd say",
+   "ipa": "/aɪd ˈseɪ/",
+   "meaning": "tôi cho là (ôn VSTEP · Bài 16)",
+   "pos": "cụm mở đầu",
+   "audio": "V-20-w-i-d-say.mp3"
+  },
+  {
+   "word": "all things considered",
+   "ipa": "/ˈɔl ˈθɪŋz kənˈsɪdɚd/",
+   "meaning": "xét mọi mặt (ôn VSTEP · Bài 17)",
+   "pos": "cụm kết luận",
+   "audio": "V-20-w-all-things-considered.mp3"
+  },
+  {
+   "word": "moving on to",
+   "ipa": "/ˈmuvɪŋ ˈɑn tu/",
+   "meaning": "chuyển sang (ôn VSTEP · Bài 18)",
+   "pos": "cụm chuyển ý",
+   "audio": "V-20-w-moving-on-to.mp3"
+  },
+  {
+   "word": "what I mean is",
+   "ipa": "/ˈwʌt aɪ ˈmin ɪz/",
+   "meaning": "ý tôi là (ôn VSTEP · Bài 19)",
+   "pos": "cụm diễn đạt lại",
+   "audio": "V-20-w-what-i-mean-is.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to complain about a coffee machine that I ordered from your website on March third.",
+   "vi": "Tôi viết thư này để khiếu nại về một chiếc máy pha cà phê tôi đã đặt trên trang web của quý công ty ngày ba tháng Ba.",
+   "audio": "V-20-ex-1.mp3"
+  },
+  {
+   "en": "I would be grateful if you could replace the machine or give me a full refund within fourteen days.",
+   "vi": "Tôi sẽ rất biết ơn nếu quý công ty có thể đổi máy hoặc hoàn lại toàn bộ tiền trong vòng mười bốn ngày.",
+   "audio": "V-20-ex-2.mp3"
+  },
+  {
+   "en": "While some people argue that community service should be compulsory for students, I believe it works best when young people choose it themselves.",
+   "vi": "Mặc dù một số người cho rằng hoạt động phục vụ cộng đồng nên bắt buộc với học sinh, tôi tin rằng nó hiệu quả nhất khi người trẻ tự lựa chọn.",
+   "audio": "V-20-ex-3.mp3"
+  },
+  {
+   "en": "In this situation, I'd go for an English club, mainly because she can practice speaking with real people every week.",
+   "vi": "Trong tình huống này, tôi sẽ chọn câu lạc bộ tiếng Anh, chủ yếu vì bạn ấy có thể luyện nói với người thật mỗi tuần.",
+   "audio": "V-20-ex-4.mp3"
+  },
+  {
+   "en": "Apart from the ideas given, I'd like to add that working from home can feel quite lonely, especially for people who live alone.",
+   "vi": "Ngoài các ý đã cho, tôi muốn bổ sung rằng làm việc ở nhà có thể khá cô đơn, nhất là với người sống một mình.",
+   "audio": "V-20-ex-5.mp3"
+  }
+ ]
+}

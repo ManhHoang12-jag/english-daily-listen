@@ -1,0 +1,75 @@
+{
+ "title": "Bài 10. Ôn tập và kiểm tra: Nghe và Đọc",
+ "vocabulary": [
+  {
+   "word": "skim",
+   "ipa": "/skɪm/",
+   "meaning": "đọc lướt để nắm ý chính (ôn VSTEP · Bài 6)",
+   "pos": "động từ",
+   "audio": "V-10-w-skim.mp3"
+  },
+  {
+   "word": "scan",
+   "ipa": "/skæn/",
+   "meaning": "đọc quét tìm thông tin cụ thể (ôn VSTEP · Bài 6)",
+   "pos": "động từ",
+   "audio": "V-10-w-scan.mp3"
+  },
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝ/",
+   "meaning": "suy ra (ôn VSTEP · Bài 7)",
+   "pos": "động từ",
+   "audio": "V-10-w-infer.mp3"
+  },
+  {
+   "word": "distractor",
+   "ipa": "/dɪˈstræktɚ/",
+   "meaning": "đáp án gây nhiễu, đáp án bẫy (ôn VSTEP · Bài 7)",
+   "pos": "danh từ",
+   "audio": "V-10-w-distractor.mp3"
+  },
+  {
+   "word": "refers to",
+   "ipa": "/rɪˈfɝz tu/",
+   "meaning": "chỉ đến, nói đến (ôn VSTEP · Bài 8)",
+   "pos": "cụm động từ",
+   "audio": "V-10-w-refers-to.mp3"
+  },
+  {
+   "word": "make an educated guess",
+   "ipa": "/ˈmeɪk ən ˈɛdʒəˌkeɪtɪd ˈɡɛs/",
+   "meaning": "đoán có cơ sở sau khi loại trừ (ôn VSTEP · Bài 9)",
+   "pos": "cụm từ",
+   "audio": "V-10-w-make-an-educated-guess.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Đoạn nghe 1 (cho câu kiểm tra 1): thông báo trên loa ở nhà ga.",
+   "audio": "V-10-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn nghe 2 (cho câu kiểm tra 2): tin nhắn thoại Anna gửi Tom về buổi hẹn thứ Bảy.",
+   "audio": "V-10-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn nghe 3 (cho luyện tập 1): một nhân viên kể lại cuộc nói chuyện với quản lý.",
+   "audio": "V-10-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn nghe 4 (cho câu kiểm tra 3): phần mở đầu một bài giảng về học từ vựng.",
+   "audio": "V-10-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn nghe 5 (cho luyện tập 2): trích đoạn giữa bài giảng đó, nói về các ứng dụng học ngoại ngữ.",
+   "audio": "V-10-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

@@ -1,0 +1,82 @@
+{
+ "title": "Bài 03. Nghe Part 2: hội thoại",
+ "vocabulary": [
+  {
+   "word": "then again",
+   "ipa": "/ðɛn əˈɡɛn/",
+   "meaning": "nhưng mặt khác (người nói tự cân nhắc lại ý vừa nói)",
+   "pos": "cụm từ nối",
+   "audio": "V-03-w-then-again.mp3"
+  },
+  {
+   "word": "on second thought",
+   "ipa": "/ɑn ˈsɛkənd ˈθɔt/",
+   "meaning": "nghĩ lại thì (báo hiệu đổi ý)",
+   "pos": "cụm từ",
+   "audio": "V-03-w-on-second-thought.mp3"
+  },
+  {
+   "word": "I was going to",
+   "ipa": "/aɪ wəz ˈɡoʊɪŋ tu/",
+   "meaning": "tôi đã định (nhưng rồi không làm: bẫy đổi ý)",
+   "pos": "cụm từ",
+   "audio": "V-03-w-i-was-going-to.mp3"
+  },
+  {
+   "word": "I'm not so sure",
+   "ipa": "/aɪm ˈnɑt soʊ ˈʃʊr/",
+   "meaning": "tôi không chắc lắm (cách không đồng ý lịch sự)",
+   "pos": "cụm từ",
+   "audio": "V-03-w-i-m-not-so-sure.mp3"
+  },
+  {
+   "word": "I see what you mean",
+   "ipa": "/aɪ ˈsi wʌt ju ˈmin/",
+   "meaning": "tôi hiểu ý bạn (thường đi trước but)",
+   "pos": "cụm từ",
+   "audio": "V-03-w-i-see-what-you-mean.mp3"
+  },
+  {
+   "word": "exactly",
+   "ipa": "/ɪɡˈzæktli/",
+   "meaning": "chính xác, đúng vậy (đồng ý hoàn toàn)",
+   "pos": "trạng từ",
+   "audio": "V-03-w-exactly.mp3"
+  },
+  {
+   "word": "I couldn't agree more",
+   "ipa": "/aɪ ˈkʊdənt əˈɡri ˈmɔr/",
+   "meaning": "tôi hoàn toàn đồng ý",
+   "pos": "cụm từ",
+   "audio": "V-03-w-i-couldn-t-agree-more.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Clip 1. Mark (nam) mở đầu cuộc bàn bạc về chuyến đi của nhóm.",
+   "audio": "V-03-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 2. Anna (nữ) trả lời về địa điểm hồ và khách sạn.",
+   "audio": "V-03-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 3. Mark đồng ý với Anna rồi chuyển sang chuyện ngày đi.",
+   "audio": "V-03-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 4. Anna nói về chi phí đi thuyền.",
+   "audio": "V-03-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 5. Mark phản hồi đề xuất của Anna.",
+   "audio": "V-03-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

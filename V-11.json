@@ -1,0 +1,88 @@
+{
+ "title": "Bài 11. Viết Task 1: thư/email, xác định mục đích và giọng văn",
+ "vocabulary": [
+  {
+   "word": "Dear Sir or Madam",
+   "ipa": "/dɪr ˈsɝ ɔr ˈmædəm/",
+   "meaning": "Kính gửi ông/bà (thư trang trọng, không biết tên người nhận)",
+   "pos": "cụm chào thư",
+   "audio": "V-11-w-dear-sir-or-madam.mp3"
+  },
+  {
+   "word": "I am writing to",
+   "ipa": "/aɪ æm ˈraɪtɪŋ tə/",
+   "meaning": "Tôi viết thư này để... (nêu mục đích ở câu đầu)",
+   "pos": "cụm mở thư",
+   "audio": "V-11-w-i-am-writing-to.mp3"
+  },
+  {
+   "word": "I would like to",
+   "ipa": "/aɪ wʊd ˈlaɪk tə/",
+   "meaning": "Tôi muốn... (lịch sự hơn I want to)",
+   "pos": "cụm câu",
+   "audio": "V-11-w-i-would-like-to.mp3"
+  },
+  {
+   "word": "I would be grateful if",
+   "ipa": "/aɪ wʊd bi ˈɡreɪtfəl ɪf/",
+   "meaning": "Tôi rất biết ơn nếu... (đưa ra yêu cầu lịch sự)",
+   "pos": "cụm câu",
+   "audio": "V-11-w-i-would-be-grateful-if.mp3"
+  },
+  {
+   "word": "regarding",
+   "ipa": "/rɪˈɡɑrdɪŋ/",
+   "meaning": "về, liên quan đến (trang trọng hơn about)",
+   "pos": "giới từ",
+   "audio": "V-11-w-regarding.mp3"
+  },
+  {
+   "word": "I look forward to hearing from you",
+   "ipa": "/aɪ lʊk ˈfɔrwərd tə ˈhɪrɪŋ frəm ju/",
+   "meaning": "Tôi mong nhận được hồi âm của ông/bà",
+   "pos": "cụm kết thư",
+   "audio": "V-11-w-i-look-forward-to-hearing-from-you.mp3"
+  },
+  {
+   "word": "Sincerely",
+   "ipa": "/sɪnˈsɪrli/",
+   "meaning": "Trân trọng (lời kết thư trang trọng kiểu Mỹ)",
+   "pos": "cụm kết thư",
+   "audio": "V-11-w-sincerely.mp3"
+  },
+  {
+   "word": "Best wishes",
+   "ipa": "/ˌbɛst ˈwɪʃɪz/",
+   "meaning": "Thân mến, chúc mọi điều tốt đẹp (kết thư thân mật hoặc bán trang trọng)",
+   "pos": "cụm kết thư",
+   "audio": "V-11-w-best-wishes.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "I am writing to thank you for the weekend photography course I attended last month.",
+   "vi": "Tôi viết thư này để cảm ơn chị về khóa học nhiếp ảnh cuối tuần mà tôi đã tham gia tháng trước.",
+   "audio": "V-11-ex-1.mp3"
+  },
+  {
+   "en": "I found the session on natural light especially useful.",
+   "vi": "Tôi thấy buổi học về ánh sáng tự nhiên đặc biệt hữu ích.",
+   "audio": "V-11-ex-2.mp3"
+  },
+  {
+   "en": "However, I would like to mention one problem.",
+   "vi": "Tuy nhiên, tôi muốn nêu một vấn đề.",
+   "audio": "V-11-ex-3.mp3"
+  },
+  {
+   "en": "For future courses, I would suggest booking a larger room.",
+   "vi": "Với các khóa sau, tôi đề xuất đặt một phòng rộng hơn.",
+   "audio": "V-11-ex-4.mp3"
+  },
+  {
+   "en": "I look forward to joining the advanced course in the spring.",
+   "vi": "Tôi mong được tham gia khóa nâng cao vào mùa xuân.",
+   "audio": "V-11-ex-5.mp3"
+  }
+ ]
+}

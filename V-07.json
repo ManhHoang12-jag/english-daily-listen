@@ -1,0 +1,74 @@
+{
+ "title": "Bài 07. Đọc: câu hỏi chi tiết, suy luận và mục đích tác giả",
+ "vocabulary": [
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝ/",
+   "meaning": "suy ra (từ thông tin có sẵn)",
+   "pos": "động từ",
+   "audio": "V-07-w-infer.mp3"
+  },
+  {
+   "word": "imply",
+   "ipa": "/ɪmˈplaɪ/",
+   "meaning": "ngụ ý, hàm ý (người viết nói gián tiếp)",
+   "pos": "động từ",
+   "audio": "V-07-w-imply.mp3"
+  },
+  {
+   "word": "suggest",
+   "ipa": "/səɡˈdʒɛst/",
+   "meaning": "gợi ý, cho thấy (trong câu hỏi đọc hiểu: ngụ ý)",
+   "pos": "động từ",
+   "audio": "V-07-w-suggest.mp3"
+  },
+  {
+   "word": "it can be inferred that",
+   "ipa": "/ɪt kən bi ɪnˈfɝd ðæt/",
+   "meaning": "có thể suy ra rằng (mở đầu câu hỏi suy luận)",
+   "pos": "cụm từ",
+   "audio": "V-07-w-it-can-be-inferred-that.mp3"
+  },
+  {
+   "word": "the writer's purpose",
+   "ipa": "/ðə ˈraɪtɚz ˈpɝpəs/",
+   "meaning": "mục đích của người viết",
+   "pos": "cụm danh từ",
+   "audio": "V-07-w-the-writer-s-purpose.mp3"
+  },
+  {
+   "word": "distractor",
+   "ipa": "/dɪˈstræktɚ/",
+   "meaning": "đáp án gây nhiễu, đáp án bẫy",
+   "pos": "danh từ",
+   "audio": "V-07-w-distractor.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "The rule applied only to messages between colleagues; emails to and from customers continued as normal.",
+   "vi": "Quy định chỉ áp dụng cho tin nhắn giữa đồng nghiệp với nhau; email gửi đến và gửi từ khách hàng vẫn diễn ra như bình thường.",
+   "audio": "V-07-ex-1.mp3"
+  },
+  {
+   "en": "Some employees printed documents to carry them across the building.",
+   "vi": "Một số nhân viên in tài liệu ra giấy để mang sang đầu kia tòa nhà.",
+   "audio": "V-07-ex-2.mp3"
+  },
+  {
+   "en": "Others simply saved their messages and sent them all at eight o'clock on Monday morning.",
+   "vi": "Những người khác thì chỉ lưu tin nhắn lại rồi gửi tất cả vào lúc tám giờ sáng thứ Hai.",
+   "audio": "V-07-ex-3.mp3"
+  },
+  {
+   "en": "In an internal survey, seventy percent of staff said that Fridays had become their most productive day.",
+   "vi": "Trong một cuộc khảo sát nội bộ, bảy mươi phần trăm nhân viên cho biết thứ Sáu đã trở thành ngày họ làm việc hiệu quả nhất.",
+   "audio": "V-07-ex-4.mp3"
+  },
+  {
+   "en": "It was never really about email.",
+   "vi": "Thật ra chuyện này chưa bao giờ là chuyện email.",
+   "audio": "V-07-ex-5.mp3"
+  }
+ ]
+}

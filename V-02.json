@@ -1,0 +1,75 @@
+{
+ "title": "Bài 02. Nghe Part 1: thông báo và hướng dẫn ngắn",
+ "vocabulary": [
+  {
+   "word": "instead of",
+   "ipa": "/ɪnˈstɛd əv/",
+   "meaning": "thay vì (thông tin sau instead of là thông tin cũ, bị bỏ)",
+   "pos": "giới từ",
+   "audio": "V-02-w-instead-of.mp3"
+  },
+  {
+   "word": "due to",
+   "ipa": "/ˈdu tu/",
+   "meaning": "do, vì (báo hiệu lý do trong thông báo)",
+   "pos": "giới từ",
+   "audio": "V-02-w-due-to.mp3"
+  },
+  {
+   "word": "except",
+   "ipa": "/ɪkˈsɛpt/",
+   "meaning": "ngoại trừ (bẫy loại trừ)",
+   "pos": "giới từ",
+   "audio": "V-02-w-except.mp3"
+  },
+  {
+   "word": "I'm afraid",
+   "ipa": "/aɪm əˈfreɪd/",
+   "meaning": "tôi e rằng (báo tin xấu một cách lịch sự)",
+   "pos": "cụm từ",
+   "audio": "V-02-w-i-m-afraid.mp3"
+  },
+  {
+   "word": "rather than",
+   "ipa": "/ˈræðɚ ðæn/",
+   "meaning": "thay vì, chứ không (loại bỏ hành động đứng sau)",
+   "pos": "cụm liên từ",
+   "audio": "V-02-w-rather-than.mp3"
+  },
+  {
+   "word": "at least",
+   "ipa": "/æt ˈlist/",
+   "meaning": "ít nhất",
+   "pos": "cụm trạng từ",
+   "audio": "V-02-w-at-least.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Clip 1: thông báo trên loa ở ga tàu về chuyến tàu đi Hải Phòng.",
+   "audio": "V-02-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 2: thông báo trên loa của thư viện vào buổi chiều.",
+   "audio": "V-02-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 3: tin nhắn thoại của nhân viên phòng khám nha khoa gửi anh Nam.",
+   "audio": "V-02-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 4: giáo viên dặn học sinh trước giờ thí nghiệm.",
+   "audio": "V-02-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 5: nhân viên nói với khách tham quan ở bảo tàng lịch sử thành phố.",
+   "audio": "V-02-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

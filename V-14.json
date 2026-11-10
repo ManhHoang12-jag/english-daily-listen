@@ -1,0 +1,88 @@
+{
+ "title": "Bài 14. Viết Task 2: mở bài, thân bài, kết luận",
+ "vocabulary": [
+  {
+   "word": "In recent years",
+   "ipa": "/ɪn ˈrisənt ˈjɪrz/",
+   "meaning": "Trong những năm gần đây (mở bài, đi với thì hiện tại hoàn thành)",
+   "pos": "cụm trạng từ",
+   "audio": "V-14-w-in-recent-years.mp3"
+  },
+  {
+   "word": "This essay will examine",
+   "ipa": "/ðɪs ˈɛseɪ wɪl ɪɡˈzæmɪn/",
+   "meaning": "Bài luận này sẽ xem xét (báo trước hướng bài)",
+   "pos": "cụm câu",
+   "audio": "V-14-w-this-essay-will-examine.mp3"
+  },
+  {
+   "word": "The first cause is",
+   "ipa": "/ðə ˈfɝst ˈkɔz ɪz/",
+   "meaning": "Nguyên nhân đầu tiên là (câu chủ đề)",
+   "pos": "cụm câu",
+   "audio": "V-14-w-the-first-cause-is.mp3"
+  },
+  {
+   "word": "For example",
+   "ipa": "/fər ɪɡˈzæmpəl/",
+   "meaning": "Ví dụ",
+   "pos": "cụm chuyển ý",
+   "audio": "V-14-w-for-example.mp3"
+  },
+  {
+   "word": "As a result",
+   "ipa": "/ˌæz ə rɪˈzʌlt/",
+   "meaning": "Kết quả là, vì vậy",
+   "pos": "cụm chuyển ý",
+   "audio": "V-14-w-as-a-result.mp3"
+  },
+  {
+   "word": "Firstly",
+   "ipa": "/ˈfɝstli/",
+   "meaning": "Thứ nhất",
+   "pos": "trạng từ",
+   "audio": "V-14-w-firstly.mp3"
+  },
+  {
+   "word": "tackle this problem",
+   "ipa": "/ˈtækəl ðɪs ˈprɑbləm/",
+   "meaning": "giải quyết vấn đề này",
+   "pos": "cụm động từ",
+   "audio": "V-14-w-tackle-this-problem.mp3"
+  },
+  {
+   "word": "In conclusion",
+   "ipa": "/ɪn kənˈkluʒən/",
+   "meaning": "Tóm lại, kết luận lại",
+   "pos": "cụm chuyển ý",
+   "audio": "V-14-w-in-conclusion.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This essay will examine the main causes of the problem and suggest some practical solutions.",
+   "vi": "Bài luận này sẽ xem xét các nguyên nhân chính của vấn đề và đề xuất một số giải pháp thiết thực.",
+   "audio": "V-14-ex-1.mp3"
+  },
+  {
+   "en": "The first cause is the ease of borrowing.",
+   "vi": "Nguyên nhân đầu tiên là việc vay tiền quá dễ dàng.",
+   "audio": "V-14-ex-2.mp3"
+  },
+  {
+   "en": "For example, a student who buys a new laptop in four interest-free installments may forget that late payments carry heavy fees.",
+   "vi": "Ví dụ, một sinh viên mua máy tính mới trả góp bốn kỳ không lãi có thể quên rằng trả chậm sẽ bị phạt nặng.",
+   "audio": "V-14-ex-3.mp3"
+  },
+  {
+   "en": "As a result, many young people feel they must keep up with a lifestyle they cannot afford.",
+   "vi": "Kết quả là nhiều người trẻ cảm thấy phải theo kịp một lối sống mà họ không đủ khả năng chi trả.",
+   "audio": "V-14-ex-4.mp3"
+  },
+  {
+   "en": "In conclusion, easy credit and social pressure are the main reasons why many young adults fall into debt.",
+   "vi": "Tóm lại, tín dụng dễ dãi và áp lực xã hội là những lý do chính khiến nhiều người trẻ rơi vào nợ nần.",
+   "audio": "V-14-ex-5.mp3"
+  }
+ ]
+}

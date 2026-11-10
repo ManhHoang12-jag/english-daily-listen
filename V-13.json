@@ -1,0 +1,88 @@
+{
+ "title": "Bài 13. Viết Task 2: phân tích đề và lập dàn ý",
+ "vocabulary": [
+  {
+   "word": "To what extent do you agree",
+   "ipa": "/tə ˈwʌt ɪkˈstɛnt də ju əˈɡri/",
+   "meaning": "Bạn đồng ý đến mức nào (câu lệnh dạng quan điểm)",
+   "pos": "câu lệnh đề",
+   "audio": "V-13-w-to-what-extent-do-you-agree.mp3"
+  },
+  {
+   "word": "Discuss both views",
+   "ipa": "/dɪˈskʌs ˈboʊθ ˈvjuz/",
+   "meaning": "Thảo luận cả hai quan điểm (câu lệnh dạng thảo luận)",
+   "pos": "câu lệnh đề",
+   "audio": "V-13-w-discuss-both-views.mp3"
+  },
+  {
+   "word": "advantages and disadvantages",
+   "ipa": "/ədˈvæntɪdʒɪz ən ˌdɪsədˈvæntɪdʒɪz/",
+   "meaning": "ưu điểm và nhược điểm",
+   "pos": "danh từ",
+   "audio": "V-13-w-advantages-and-disadvantages.mp3"
+  },
+  {
+   "word": "outweigh",
+   "ipa": "/aʊtˈweɪ/",
+   "meaning": "lớn hơn, nặng hơn (lợi ích lớn hơn tác hại)",
+   "pos": "động từ",
+   "audio": "V-13-w-outweigh.mp3"
+  },
+  {
+   "word": "On the one hand",
+   "ipa": "/ɑn ðə ˈwʌn ˌhænd/",
+   "meaning": "Một mặt",
+   "pos": "cụm chuyển ý",
+   "audio": "V-13-w-on-the-one-hand.mp3"
+  },
+  {
+   "word": "On the other hand",
+   "ipa": "/ɑn ði ˈʌðər ˌhænd/",
+   "meaning": "Mặt khác",
+   "pos": "cụm chuyển ý",
+   "audio": "V-13-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "In my opinion",
+   "ipa": "/ɪn ˈmaɪ əˈpɪnjən/",
+   "meaning": "Theo tôi",
+   "pos": "cụm nêu ý kiến",
+   "audio": "V-13-w-in-my-opinion.mp3"
+  },
+  {
+   "word": "provided that",
+   "ipa": "/prəˈvaɪdɪd ðət/",
+   "meaning": "với điều kiện là",
+   "pos": "liên từ",
+   "audio": "V-13-w-provided-that.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "This essay will discuss both views before explaining why I support an early start.",
+   "vi": "Bài luận này sẽ bàn cả hai quan điểm trước khi giải thích vì sao tôi ủng hộ việc học sớm.",
+   "audio": "V-13-ex-1.mp3"
+  },
+  {
+   "en": "On the one hand, there are good reasons to delay.",
+   "vi": "Một mặt, có những lý do chính đáng để trì hoãn.",
+   "audio": "V-13-ex-2.mp3"
+  },
+  {
+   "en": "On the other hand, supporters of an early start point out that young children are natural imitators.",
+   "vi": "Mặt khác, những người ủng hộ việc học sớm chỉ ra rằng trẻ nhỏ là những người bắt chước bẩm sinh.",
+   "audio": "V-13-ex-3.mp3"
+  },
+  {
+   "en": "In my opinion, the benefits of an early start outweigh the risks, provided that lessons are designed for young learners.",
+   "vi": "Theo tôi, lợi ích của việc học sớm lớn hơn rủi ro, với điều kiện bài học được thiết kế cho người học nhỏ tuổi.",
+   "audio": "V-13-ex-4.mp3"
+  },
+  {
+   "en": "In conclusion, both sides make valid points, but I believe that children should begin learning a foreign language early.",
+   "vi": "Tóm lại, cả hai phía đều có lý, nhưng tôi tin rằng trẻ nên bắt đầu học ngoại ngữ sớm.",
+   "audio": "V-13-ex-5.mp3"
+  }
+ ]
+}

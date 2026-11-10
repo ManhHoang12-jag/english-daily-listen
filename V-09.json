@@ -1,0 +1,74 @@
+{
+ "title": "Bài 09. Đọc: bài luyện trọn bộ 4 bài, 40 câu",
+ "vocabulary": [
+  {
+   "word": "time management",
+   "ipa": "/ˈtaɪm ˈmænɪdʒmənt/",
+   "meaning": "quản lý thời gian",
+   "pos": "cụm danh từ",
+   "audio": "V-09-w-time-management.mp3"
+  },
+  {
+   "word": "skip",
+   "ipa": "/skɪp/",
+   "meaning": "bỏ qua (tạm thời một câu khó)",
+   "pos": "động từ",
+   "audio": "V-09-w-skip.mp3"
+  },
+  {
+   "word": "come back to it",
+   "ipa": "/ˈkʌm ˈbæk tu ɪt/",
+   "meaning": "quay lại sau (với câu đã đánh dấu)",
+   "pos": "cụm từ",
+   "audio": "V-09-w-come-back-to-it.mp3"
+  },
+  {
+   "word": "eliminate",
+   "ipa": "/ɪˈlɪməˌneɪt/",
+   "meaning": "loại bỏ (đáp án sai)",
+   "pos": "động từ",
+   "audio": "V-09-w-eliminate.mp3"
+  },
+  {
+   "word": "make an educated guess",
+   "ipa": "/ˈmeɪk ən ˈɛdʒəˌkeɪtɪd ˈɡɛs/",
+   "meaning": "đoán có cơ sở (sau khi loại trừ)",
+   "pos": "cụm từ",
+   "audio": "V-09-w-make-an-educated-guess.mp3"
+  },
+  {
+   "word": "double-check",
+   "ipa": "/ˈdʌbəl ˈtʃɛk/",
+   "meaning": "kiểm tra lại lần nữa",
+   "pos": "động từ",
+   "audio": "V-09-w-double-check.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Since it was launched five years ago, Greenfield Bike Share has grown from forty stations to more than one hundred and fifty.",
+   "vi": "Từ khi ra mắt cách đây năm năm, hệ thống xe đạp công cộng Greenfield đã tăng từ bốn mươi trạm lên hơn một trăm năm mươi trạm.",
+   "audio": "V-09-ex-1.mp3"
+  },
+  {
+   "en": "To keep up with this demand, the city council has approved several changes.",
+   "vi": "Để đáp ứng nhu cầu này, hội đồng thành phố đã thông qua một số thay đổi.",
+   "audio": "V-09-ex-2.mp3"
+  },
+  {
+   "en": "Riders under sixteen will not be permitted to use them.",
+   "vi": "Người đi xe dưới mười sáu tuổi sẽ không được phép sử dụng chúng.",
+   "audio": "V-09-ex-3.mp3"
+  },
+  {
+   "en": "Officials admit that this expansion was overdue.",
+   "vi": "Các quan chức thừa nhận rằng việc mở rộng này lẽ ra phải làm từ lâu.",
+   "audio": "V-09-ex-4.mp3"
+  },
+  {
+   "en": "Not all riders are pleased.",
+   "vi": "Không phải người đi xe nào cũng hài lòng.",
+   "audio": "V-09-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,75 @@
+{
+ "title": "Bài 23. Đề thi thử 2: Nghe và Đọc",
+ "vocabulary": [
+  {
+   "word": "distractor",
+   "ipa": "/dɪˈstræktɚ/",
+   "meaning": "phương án gây nhiễu (đáp án sai cố ý giống đúng)",
+   "pos": "danh từ",
+   "audio": "V-23-w-distractor.mp3"
+  },
+  {
+   "word": "skim",
+   "ipa": "/skɪm/",
+   "meaning": "đọc lướt để lấy ý chính",
+   "pos": "động từ",
+   "audio": "V-23-w-skim.mp3"
+  },
+  {
+   "word": "scan",
+   "ipa": "/skæn/",
+   "meaning": "đọc dò để tìm một thông tin cụ thể",
+   "pos": "động từ",
+   "audio": "V-23-w-scan.mp3"
+  },
+  {
+   "word": "attitude",
+   "ipa": "/ˈætəˌtud/",
+   "meaning": "thái độ (the writer's attitude: thái độ của tác giả)",
+   "pos": "danh từ",
+   "audio": "V-23-w-attitude.mp3"
+  },
+  {
+   "word": "implied",
+   "ipa": "/ɪmˈplaɪd/",
+   "meaning": "được ngụ ý, không nói thẳng",
+   "pos": "tính từ",
+   "audio": "V-23-w-implied.mp3"
+  },
+  {
+   "word": "in contrast",
+   "ipa": "/ɪn ˈkɑntræst/",
+   "meaning": "ngược lại (báo hiệu ý đối lập)",
+   "pos": "cụm từ nối",
+   "audio": "V-23-w-in-contrast.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Đoạn 1 – kiểu Part 1: thông báo cho khách tham quan bảo tàng.",
+   "audio": "V-23-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 2 – kiểu Part 1: hướng dẫn mượn sách điện tử qua ứng dụng thư viện.",
+   "audio": "V-23-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 3 – kiểu Part 2: một người nêu ý kiến trong cuộc họp nhóm.",
+   "audio": "V-23-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 4 – kiểu Part 3: phần mở đầu một bài giảng về trí nhớ và cách ôn thi.",
+   "audio": "V-23-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 5 – kiểu Part 3: phần tiếp theo của cùng bài giảng.",
+   "audio": "V-23-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

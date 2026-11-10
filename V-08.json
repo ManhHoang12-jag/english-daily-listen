@@ -1,0 +1,74 @@
+{
+ "title": "Bài 08. Đọc: từ vựng trong ngữ cảnh và đại từ tham chiếu",
+ "vocabulary": [
+  {
+   "word": "closest in meaning to",
+   "ipa": "/ˈkloʊsɪst ɪn ˈminɪŋ tu/",
+   "meaning": "gần nghĩa nhất với (câu hỏi từ vựng)",
+   "pos": "cụm từ",
+   "audio": "V-08-w-closest-in-meaning-to.mp3"
+  },
+  {
+   "word": "refers to",
+   "ipa": "/rɪˈfɝz tu/",
+   "meaning": "chỉ đến, nói đến (câu hỏi đại từ)",
+   "pos": "cụm động từ",
+   "audio": "V-08-w-refers-to.mp3"
+  },
+  {
+   "word": "context clue",
+   "ipa": "/ˈkɑntɛkst ˌklu/",
+   "meaning": "manh mối ngữ cảnh giúp đoán nghĩa",
+   "pos": "cụm danh từ",
+   "audio": "V-08-w-context-clue.mp3"
+  },
+  {
+   "word": "the former",
+   "ipa": "/ðə ˈfɔrmɚ/",
+   "meaning": "cái (người) được nhắc trước",
+   "pos": "cụm từ",
+   "audio": "V-08-w-the-former.mp3"
+  },
+  {
+   "word": "the latter",
+   "ipa": "/ðə ˈlætɚ/",
+   "meaning": "cái (người) được nhắc sau",
+   "pos": "cụm từ",
+   "audio": "V-08-w-the-latter.mp3"
+  },
+  {
+   "word": "synonym",
+   "ipa": "/ˈsɪnəˌnɪm/",
+   "meaning": "từ đồng nghĩa",
+   "pos": "danh từ",
+   "audio": "V-08-w-synonym.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Glass cases and rope barriers protect objects that are often centuries old and extremely fragile.",
+   "vi": "Tủ kính và dây chắn bảo vệ những hiện vật thường có tuổi hàng thế kỷ và cực kỳ dễ hỏng.",
+   "audio": "V-08-ex-1.mp3"
+  },
+  {
+   "en": "They argue that touch is one of the most powerful ways people learn.",
+   "vi": "Họ lập luận rằng chạm vào là một trong những cách học hiệu quả nhất của con người.",
+   "audio": "V-08-ex-2.mp3"
+  },
+  {
+   "en": "The curator, Leah Moreno, was initially reluctant to support the project.",
+   "vi": "Người phụ trách chuyên môn, Leah Moreno, ban đầu không mấy muốn ủng hộ dự án.",
+   "audio": "V-08-ex-3.mp3"
+  },
+  {
+   "en": "The results have persuaded even the most skeptical staff members.",
+   "vi": "Kết quả đã thuyết phục được cả những nhân viên hoài nghi nhất.",
+   "audio": "V-08-ex-4.mp3"
+  },
+  {
+   "en": "Both concerns are reasonable, but the former is easier to solve than the latter.",
+   "vi": "Cả hai mối lo đều hợp lý, nhưng mối lo thứ nhất dễ giải quyết hơn mối lo thứ hai.",
+   "audio": "V-08-ex-5.mp3"
+  }
+ ]
+}

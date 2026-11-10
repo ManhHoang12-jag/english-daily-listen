@@ -1,0 +1,82 @@
+{
+ "title": "Bài 05. Nghe: bài luyện trọn bộ 35 câu và quản lý thời gian",
+ "vocabulary": [
+  {
+   "word": "in the meantime",
+   "ipa": "/ɪn ðə ˈminˌtaɪm/",
+   "meaning": "trong lúc chờ đợi, trong thời gian đó (giải pháp tạm thời)",
+   "pos": "cụm từ",
+   "audio": "V-05-w-in-the-meantime.mp3"
+  },
+  {
+   "word": "make it",
+   "ipa": "/ˈmeɪk ɪt/",
+   "meaning": "chốt, đổi (giờ hẹn): Could we make it seven?",
+   "pos": "cụm động từ",
+   "audio": "V-05-w-make-it.mp3"
+  },
+  {
+   "word": "keen on",
+   "ipa": "/ˈkin ɑn/",
+   "meaning": "thích, hào hứng với",
+   "pos": "cụm tính từ",
+   "audio": "V-05-w-keen-on.mp3"
+  },
+  {
+   "word": "I'm not convinced",
+   "ipa": "/aɪm ˈnɑt kənˈvɪnst/",
+   "meaning": "tôi chưa bị thuyết phục (không đồng ý lịch sự)",
+   "pos": "cụm từ",
+   "audio": "V-05-w-i-m-not-convinced.mp3"
+  },
+  {
+   "word": "so far",
+   "ipa": "/soʊ ˈfɑr/",
+   "meaning": "cho đến giờ (tóm lại phần đã nói trong bài giảng)",
+   "pos": "cụm trạng từ",
+   "audio": "V-05-w-so-far.mp3"
+  },
+  {
+   "word": "let's turn to",
+   "ipa": "/ˈlɛts ˈtɝn tu/",
+   "meaning": "hãy chuyển sang (bắt đầu phần mới)",
+   "pos": "cụm từ",
+   "audio": "V-05-w-let-s-turn-to.mp3"
+  },
+  {
+   "word": "even though",
+   "ipa": "/ˈivən ˈðoʊ/",
+   "meaning": "mặc dù (nêu điều bất lợi, không phải lý do)",
+   "pos": "liên từ",
+   "audio": "V-05-w-even-though.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Clip 1 (Part 1). Thông báo trong trung tâm mua sắm.",
+   "audio": "V-05-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 2 (Part 1). Tin nhắn thoại của Sam gửi Jenny.",
+   "audio": "V-05-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 3 (Part 2). Người phụ nữ nói với bạn về lớp học buổi tối.",
+   "audio": "V-05-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 4 (Part 2). Người đàn ông trả lời vợ về chuyện chuyển nhà.",
+   "audio": "V-05-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 5 (Part 3). Đoạn giữa một bài giảng về loài ong.",
+   "audio": "V-05-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

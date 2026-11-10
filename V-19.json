@@ -1,0 +1,74 @@
+{
+ "title": "Bài 19. Nói: phát âm, độ trôi chảy và tiêu chí chấm",
+ "vocabulary": [
+  {
+   "word": "let me think about that",
+   "ipa": "/ˈlɛt mi ˈθɪŋk əˌbaʊt ˈðæt/",
+   "meaning": "để tôi nghĩ về điều đó một chút",
+   "pos": "cụm câu giờ",
+   "audio": "V-19-w-let-me-think-about-that.mp3"
+  },
+  {
+   "word": "what I mean is",
+   "ipa": "/ˈwʌt aɪ ˈmin ɪz/",
+   "meaning": "ý tôi là",
+   "pos": "cụm diễn đạt lại",
+   "audio": "V-19-w-what-i-mean-is.mp3"
+  },
+  {
+   "word": "in other words",
+   "ipa": "/ɪn ˈʌðɚ ˈwɝdz/",
+   "meaning": "nói cách khác",
+   "pos": "cụm diễn đạt lại",
+   "audio": "V-19-w-in-other-words.mp3"
+  },
+  {
+   "word": "as far as I know",
+   "ipa": "/əz ˈfɑr əz aɪ ˈnoʊ/",
+   "meaning": "theo những gì tôi biết",
+   "pos": "cụm rào đón",
+   "audio": "V-19-w-as-far-as-i-know.mp3"
+  },
+  {
+   "word": "the thing is",
+   "ipa": "/ðə ˈθɪŋ ɪz/",
+   "meaning": "vấn đề là, chuyện là",
+   "pos": "cụm mở ý",
+   "audio": "V-19-w-the-thing-is.mp3"
+  },
+  {
+   "word": "to put it another way",
+   "ipa": "/tə ˈpʊt ɪt əˈnʌðɚ ˈweɪ/",
+   "meaning": "nói theo cách khác",
+   "pos": "cụm diễn đạt lại",
+   "audio": "V-19-w-to-put-it-another-way.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Well, let me think about that for a second. I'd probably say the biggest problem in my city is traffic.",
+   "vi": "À, để tôi nghĩ một chút. Có lẽ tôi sẽ nói vấn đề lớn nhất ở thành phố tôi là giao thông.",
+   "audio": "V-19-ex-1.mp3"
+  },
+  {
+   "en": "In my hometown, most people work in tourism, so the summer months are extremely busy.",
+   "vi": "Ở quê tôi, phần lớn mọi người làm du lịch, nên những tháng hè cực kỳ bận rộn.",
+   "audio": "V-19-ex-2.mp3"
+  },
+  {
+   "en": "Would you rather live in the city or in the countryside?",
+   "vi": "Bạn thích sống ở thành phố hay ở nông thôn hơn?",
+   "audio": "V-19-ex-3.mp3"
+  },
+  {
+   "en": "Yesterday I walked to work, picked up some groceries and cooked dinner for my family.",
+   "vi": "Hôm qua tôi đi bộ đi làm, mua ít đồ tạp hóa rồi nấu bữa tối cho gia đình.",
+   "audio": "V-19-ex-4.mp3"
+  },
+  {
+   "en": "What I mean is that public transport needs to be cheaper, not just faster.",
+   "vi": "Ý tôi là giao thông công cộng cần rẻ hơn, chứ không chỉ nhanh hơn.",
+   "audio": "V-19-ex-5.mp3"
+  }
+ ]
+}

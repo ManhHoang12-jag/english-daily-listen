@@ -1,0 +1,88 @@
+{
+ "title": "Bài 15. Viết Task 2: tiêu chí chấm và tự sửa bài",
+ "vocabulary": [
+  {
+   "word": "task fulfillment",
+   "ipa": "/ˈtæsk fʊlˈfɪlmənt/",
+   "meaning": "mức độ đáp ứng yêu cầu đề (Anh-Anh viết fulfilment)",
+   "pos": "danh từ",
+   "audio": "V-15-w-task-fulfillment.mp3"
+  },
+  {
+   "word": "organization",
+   "ipa": "/ˌɔrɡənəˈzeɪʃən/",
+   "meaning": "cách tổ chức bài viết",
+   "pos": "danh từ",
+   "audio": "V-15-w-organization.mp3"
+  },
+  {
+   "word": "range of vocabulary",
+   "ipa": "/ˈreɪndʒ əv voʊˈkæbjəˌlɛri/",
+   "meaning": "độ phong phú của vốn từ",
+   "pos": "danh từ",
+   "audio": "V-15-w-range-of-vocabulary.mp3"
+  },
+  {
+   "word": "accuracy",
+   "ipa": "/ˈækjərəsi/",
+   "meaning": "độ chính xác",
+   "pos": "danh từ",
+   "audio": "V-15-w-accuracy.mp3"
+  },
+  {
+   "word": "word count",
+   "ipa": "/ˈwɝd ˌkaʊnt/",
+   "meaning": "số từ của bài viết",
+   "pos": "danh từ",
+   "audio": "V-15-w-word-count.mp3"
+  },
+  {
+   "word": "Admittedly",
+   "ipa": "/ədˈmɪtɪdli/",
+   "meaning": "Phải thừa nhận rằng (mở phần nhượng bộ)",
+   "pos": "trạng từ",
+   "audio": "V-15-w-admittedly.mp3"
+  },
+  {
+   "word": "are likely to",
+   "ipa": "/ɑr ˈlaɪkli tə/",
+   "meaning": "có khả năng sẽ (hedging, khẳng định thận trọng)",
+   "pos": "cụm động từ",
+   "audio": "V-15-w-are-likely-to.mp3"
+  },
+  {
+   "word": "self-correction",
+   "ipa": "/ˌsɛlf kəˈrɛkʃən/",
+   "meaning": "sự tự sửa lỗi",
+   "pos": "danh từ",
+   "audio": "V-15-w-self-correction.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Although this arrangement creates some difficulties, I believe its advantages clearly outweigh its disadvantages.",
+   "vi": "Mặc dù cách sắp xếp này tạo ra một số khó khăn, tôi tin rằng ưu điểm của nó rõ ràng lớn hơn nhược điểm.",
+   "audio": "V-15-ex-1.mp3"
+  },
+  {
+   "en": "Workers who are less tired tend to make fewer mistakes and take fewer sick days.",
+   "vi": "Người lao động ít mệt mỏi hơn thường mắc ít lỗi hơn và nghỉ ốm ít ngày hơn.",
+   "audio": "V-15-ex-2.mp3"
+  },
+  {
+   "en": "A second advantage is that the policy helps firms attract talented people.",
+   "vi": "Ưu điểm thứ hai là chính sách này giúp doanh nghiệp thu hút người tài.",
+   "audio": "V-15-ex-3.mp3"
+  },
+  {
+   "en": "Admittedly, the system does not suit every business.",
+   "vi": "Phải thừa nhận rằng hệ thống này không phù hợp với mọi doanh nghiệp.",
+   "audio": "V-15-ex-4.mp3"
+  },
+  {
+   "en": "Businesses that adopt it thoughtfully are likely to enjoy a happier and more productive workforce.",
+   "vi": "Những doanh nghiệp áp dụng nó một cách chu đáo có thể sẽ có đội ngũ nhân viên vui vẻ và năng suất hơn.",
+   "audio": "V-15-ex-5.mp3"
+  }
+ ]
+}

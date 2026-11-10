@@ -1,0 +1,74 @@
+{
+ "title": "Bài 24. Đề thi thử 2: Viết và Nói",
+ "vocabulary": [
+  {
+   "word": "if I were you",
+   "ipa": "/ɪf aɪ wɝ ju/",
+   "meaning": "nếu tôi là bạn (đưa lời khuyên, hợp thư thân mật)",
+   "pos": "cụm câu",
+   "audio": "V-24-w-if-i-were-you.mp3"
+  },
+  {
+   "word": "take care",
+   "ipa": "/teɪk kɛr/",
+   "meaning": "giữ gìn sức khỏe nhé (kết thư thân mật)",
+   "pos": "cụm câu",
+   "audio": "V-24-w-take-care.mp3"
+  },
+  {
+   "word": "to what extent",
+   "ipa": "/tə wʌt ɪkˈstɛnt/",
+   "meaning": "ở mức độ nào (đề: To what extent do you agree or disagree?)",
+   "pos": "cụm từ",
+   "audio": "V-24-w-to-what-extent.mp3"
+  },
+  {
+   "word": "as far as I'm concerned",
+   "ipa": "/əz fɑr əz aɪm kənˈsɝnd/",
+   "meaning": "theo tôi thì, về phần tôi",
+   "pos": "cụm từ",
+   "audio": "V-24-w-as-far-as-i-m-concerned.mp3"
+  },
+  {
+   "word": "all things considered",
+   "ipa": "/ɔl θɪŋz kənˈsɪdɚd/",
+   "meaning": "xét mọi mặt, cân nhắc tất cả (mở đầu kết luận)",
+   "pos": "cụm từ",
+   "audio": "V-24-w-all-things-considered.mp3"
+  },
+  {
+   "word": "I'd go for",
+   "ipa": "/aɪd ɡoʊ fɔr/",
+   "meaning": "tôi sẽ chọn (văn nói, Part 2)",
+   "pos": "cụm câu",
+   "audio": "V-24-w-i-d-go-for.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "It's great to hear that you're finally coming to Vietnam! If I were you, I'd come in March or April, when the weather is pleasant in most parts of the country.",
+   "vi": "Thật vui khi biết cuối cùng bạn cũng sang Việt Nam! Nếu là bạn, mình sẽ đến vào tháng Ba hoặc tháng Tư, khi thời tiết dễ chịu ở hầu hết các vùng.",
+   "audio": "V-24-ex-1.mp3"
+  },
+  {
+   "en": "Although I agree that these skills are important, I do not believe they should replace academic subjects completely.",
+   "vi": "Mặc dù tôi đồng ý rằng những kỹ năng này quan trọng, tôi không cho rằng chúng nên thay thế hoàn toàn các môn học thuật.",
+   "audio": "V-24-ex-2.mp3"
+  },
+  {
+   "en": "To be honest, I much prefer shopping in stores, because I like to see and touch things before I buy them. I only shop online for things like books.",
+   "vi": "Thành thật mà nói, tôi thích mua sắm ở cửa hàng hơn nhiều, vì tôi muốn nhìn và chạm vào đồ trước khi mua. Tôi chỉ mua trực tuyến những thứ như sách.",
+   "audio": "V-24-ex-3.mp3"
+  },
+  {
+   "en": "I'd go for the street lighting, mainly because it would make the area safer for everyone, not just for children or people who like reading.",
+   "vi": "Tôi sẽ chọn đèn đường, chủ yếu vì nó giúp cả khu an toàn hơn cho tất cả mọi người, chứ không chỉ cho trẻ em hay người thích đọc sách.",
+   "audio": "V-24-ex-4.mp3"
+  },
+  {
+   "en": "As far as I'm concerned, social media is a great way to keep in touch, but it can never fully replace a real conversation over a cup of coffee.",
+   "vi": "Theo tôi, mạng xã hội là cách tuyệt vời để giữ liên lạc, nhưng nó không bao giờ thay thế hoàn toàn được một cuộc trò chuyện thật bên tách cà phê.",
+   "audio": "V-24-ex-5.mp3"
+  }
+ ]
+}

@@ -1,0 +1,81 @@
+{
+ "title": "Bài 18. Nói Part 3: phát triển chủ đề",
+ "vocabulary": [
+  {
+   "word": "I'm going to talk about",
+   "ipa": "/aɪm ˈɡoʊɪŋ tə ˈtɔk əˈbaʊt/",
+   "meaning": "tôi sẽ nói về",
+   "pos": "cụm mở bài",
+   "audio": "V-18-w-i-m-going-to-talk-about.mp3"
+  },
+  {
+   "word": "moving on to",
+   "ipa": "/ˈmuvɪŋ ˈɑn tu/",
+   "meaning": "chuyển sang (ý tiếp theo)",
+   "pos": "cụm chuyển ý",
+   "audio": "V-18-w-moving-on-to.mp3"
+  },
+  {
+   "word": "apart from",
+   "ipa": "/əˈpɑrt frəm/",
+   "meaning": "ngoài ... ra",
+   "pos": "cụm giới từ",
+   "audio": "V-18-w-apart-from.mp3"
+  },
+  {
+   "word": "let me give you an example",
+   "ipa": "/ˈlɛt mi ˈɡɪv ju ən ɪɡˈzæmpəl/",
+   "meaning": "để tôi lấy một ví dụ",
+   "pos": "cụm nêu ví dụ",
+   "audio": "V-18-w-let-me-give-you-an-example.mp3"
+  },
+  {
+   "word": "that's an interesting question",
+   "ipa": "/ˈðæts ən ˈɪntrəstɪŋ ˈkwɛstʃən/",
+   "meaning": "đó là một câu hỏi thú vị (cho mình vài giây suy nghĩ)",
+   "pos": "cụm câu giờ",
+   "audio": "V-18-w-that-s-an-interesting-question.mp3"
+  },
+  {
+   "word": "to sum up",
+   "ipa": "/tə ˈsʌm ˈʌp/",
+   "meaning": "tóm lại",
+   "pos": "cụm kết luận",
+   "audio": "V-18-w-to-sum-up.mp3"
+  },
+  {
+   "word": "in the long run",
+   "ipa": "/ɪn ðə ˈlɔŋ ˈrʌn/",
+   "meaning": "về lâu dài",
+   "pos": "cụm trạng từ",
+   "audio": "V-18-w-in-the-long-run.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Today I'm going to talk about why cooking at home has clear advantages over eating out. I'll focus on money, health and family life.",
+   "vi": "Hôm nay tôi sẽ nói về lý do nấu ăn ở nhà có lợi thế rõ ràng so với ăn ngoài. Tôi sẽ tập trung vào tiền bạc, sức khỏe và đời sống gia đình.",
+   "audio": "V-18-ex-1.mp3"
+  },
+  {
+   "en": "First of all, cooking at home saves a lot of money. Let me give you an example: one dinner at a restaurant can easily cost as much as three or four home-cooked meals.",
+   "vi": "Trước hết, nấu ăn ở nhà tiết kiệm được nhiều tiền. Tôi lấy một ví dụ: một bữa tối ở nhà hàng có thể dễ dàng tốn bằng ba hay bốn bữa nấu ở nhà.",
+   "audio": "V-18-ex-2.mp3"
+  },
+  {
+   "en": "Moving on to my second point, home-cooked meals tend to be healthier, because you decide how much oil, salt and sugar goes into them.",
+   "vi": "Chuyển sang ý thứ hai, các bữa ăn nấu ở nhà thường lành mạnh hơn, vì bạn tự quyết định cho bao nhiêu dầu, muối và đường vào.",
+   "audio": "V-18-ex-3.mp3"
+  },
+  {
+   "en": "Apart from the ideas given, I'd like to add that cooking is a useful life skill, especially for young people who are about to live on their own.",
+   "vi": "Ngoài các ý đã cho, tôi muốn bổ sung rằng nấu ăn là một kỹ năng sống hữu ích, nhất là với người trẻ sắp sống tự lập.",
+   "audio": "V-18-ex-4.mp3"
+  },
+  {
+   "en": "That's an interesting question. I think schools should teach basic cooking, because many teenagers can't make even a simple meal. It doesn't have to be a big subject, just a few practical lessons each term.",
+   "vi": "Đó là một câu hỏi thú vị. Tôi nghĩ trường học nên dạy nấu ăn cơ bản, vì nhiều thiếu niên còn không nấu được một bữa đơn giản. Không cần là một môn lớn, chỉ vài buổi thực hành mỗi học kỳ.",
+   "audio": "V-18-ex-5.mp3"
+  }
+ ]
+}

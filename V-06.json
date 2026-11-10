@@ -1,0 +1,74 @@
+{
+ "title": "Bài 06. Đọc: đọc lướt và đọc tìm thông tin",
+ "vocabulary": [
+  {
+   "word": "skim",
+   "ipa": "/skɪm/",
+   "meaning": "đọc lướt để nắm ý chính",
+   "pos": "động từ",
+   "audio": "V-06-w-skim.mp3"
+  },
+  {
+   "word": "scan",
+   "ipa": "/skæn/",
+   "meaning": "đọc quét để tìm một thông tin cụ thể",
+   "pos": "động từ",
+   "audio": "V-06-w-scan.mp3"
+  },
+  {
+   "word": "main idea",
+   "ipa": "/ˈmeɪn aɪˈdiə/",
+   "meaning": "ý chính (của bài hoặc của đoạn)",
+   "pos": "cụm danh từ",
+   "audio": "V-06-w-main-idea.mp3"
+  },
+  {
+   "word": "keyword",
+   "ipa": "/ˈkiˌwɝd/",
+   "meaning": "từ khóa",
+   "pos": "danh từ",
+   "audio": "V-06-w-keyword.mp3"
+  },
+  {
+   "word": "according to the passage",
+   "ipa": "/əˈkɔrdɪŋ tə ðə ˈpæsɪdʒ/",
+   "meaning": "theo bài đọc (mở đầu câu hỏi chi tiết)",
+   "pos": "cụm từ",
+   "audio": "V-06-w-according-to-the-passage.mp3"
+  },
+  {
+   "word": "paraphrase",
+   "ipa": "/ˈpɛrəˌfreɪz/",
+   "meaning": "diễn đạt lại bằng từ khác (danh từ và động từ)",
+   "pos": "danh từ, động từ",
+   "audio": "V-06-w-paraphrase.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "Like a book library, it lets members borrow items for a short period and return them when they are done.",
+   "vi": "Giống như thư viện sách, nó cho phép thành viên mượn đồ trong một thời gian ngắn và trả lại khi dùng xong.",
+   "audio": "V-06-ex-1.mp3"
+  },
+  {
+   "en": "Members can borrow up to five tools at a time for one week.",
+   "vi": "Thành viên có thể mượn tối đa năm dụng cụ cùng một lúc trong một tuần.",
+   "audio": "V-06-ex-2.mp3"
+  },
+  {
+   "en": "Supporters point to three main benefits.",
+   "vi": "Những người ủng hộ chỉ ra ba lợi ích chính.",
+   "audio": "V-06-ex-3.mp3"
+  },
+  {
+   "en": "The model has weaknesses, however.",
+   "vi": "Tuy nhiên, mô hình này có những điểm yếu.",
+   "audio": "V-06-ex-4.mp3"
+  },
+  {
+   "en": "Ortiz believes the answer is closer cooperation with local governments.",
+   "vi": "Ortiz tin rằng giải pháp là hợp tác chặt chẽ hơn với chính quyền địa phương.",
+   "audio": "V-06-ex-5.mp3"
+  }
+ ]
+}

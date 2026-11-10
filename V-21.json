@@ -1,0 +1,75 @@
+{
+ "title": "Bài 21. Đề thi thử 1: Nghe và Đọc",
+ "vocabulary": [
+  {
+   "word": "according to",
+   "ipa": "/əˈkɔrdɪŋ tu/",
+   "meaning": "theo như (mở đầu câu hỏi chi tiết: According to the passage...)",
+   "pos": "cụm giới từ",
+   "audio": "V-21-w-according-to.mp3"
+  },
+  {
+   "word": "closest in meaning",
+   "ipa": "/ˈkloʊsəst ɪn ˈminɪŋ/",
+   "meaning": "gần nghĩa nhất (câu hỏi từ vựng trong ngữ cảnh)",
+   "pos": "cụm từ",
+   "audio": "V-21-w-closest-in-meaning.mp3"
+  },
+  {
+   "word": "refer to",
+   "ipa": "/rɪˈfɝ tu/",
+   "meaning": "chỉ đến, nói đến (câu hỏi tham chiếu: What does \"it\" refer to?)",
+   "pos": "cụm động từ",
+   "audio": "V-21-w-refer-to.mp3"
+  },
+  {
+   "word": "main idea",
+   "ipa": "/meɪn aɪˈdiə/",
+   "meaning": "ý chính",
+   "pos": "danh từ",
+   "audio": "V-21-w-main-idea.mp3"
+  },
+  {
+   "word": "infer",
+   "ipa": "/ɪnˈfɝ/",
+   "meaning": "suy ra điều không nói thẳng (What can be inferred...?)",
+   "pos": "động từ",
+   "audio": "V-21-w-infer.mp3"
+  },
+  {
+   "word": "paraphrase",
+   "ipa": "/ˈpɛrəˌfreɪz/",
+   "meaning": "diễn đạt lại bằng từ khác",
+   "pos": "danh từ, động từ",
+   "audio": "V-21-w-paraphrase.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Đoạn 1 – kiểu Part 1: thông báo trên loa ở nhà ga.",
+   "audio": "V-21-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 2 – kiểu Part 1: lời nhắn điện thoại của một phòng khám nha khoa.",
+   "audio": "V-21-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 3 – kiểu Part 2: một người kể đang phân vân chọn lớp học.",
+   "audio": "V-21-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 4 – kiểu Part 3: phần mở đầu một bài giảng về đường cao tốc trong thành phố.",
+   "audio": "V-21-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Đoạn 5 – kiểu Part 3: phần tiếp theo của cùng bài giảng.",
+   "audio": "V-21-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}

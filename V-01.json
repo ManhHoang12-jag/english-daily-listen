@@ -1,0 +1,74 @@
+{
+ "title": "Bài 01. Tổng quan đề VSTEP.3-5 và mục tiêu 6.0",
+ "vocabulary": [
+  {
+   "word": "in my opinion",
+   "ipa": "/ɪn maɪ əˈpɪnjən/",
+   "meaning": "theo ý kiến của tôi (nêu quan điểm khi viết luận và khi nói)",
+   "pos": "cụm từ",
+   "audio": "V-01-w-in-my-opinion.mp3"
+  },
+  {
+   "word": "on the other hand",
+   "ipa": "/ɑn ði ˈʌðɚ hænd/",
+   "meaning": "mặt khác (đưa ý đối lập)",
+   "pos": "cụm từ nối",
+   "audio": "V-01-w-on-the-other-hand.mp3"
+  },
+  {
+   "word": "for instance",
+   "ipa": "/fɚ ˈɪnstəns/",
+   "meaning": "ví dụ như (đưa ví dụ, giống for example)",
+   "pos": "cụm từ nối",
+   "audio": "V-01-w-for-instance.mp3"
+  },
+  {
+   "word": "to sum up",
+   "ipa": "/tə ˈsʌm ˈʌp/",
+   "meaning": "tóm lại (mở đầu kết luận)",
+   "pos": "cụm từ nối",
+   "audio": "V-01-w-to-sum-up.mp3"
+  },
+  {
+   "word": "I'm writing to",
+   "ipa": "/aɪm ˈraɪtɪŋ tu/",
+   "meaning": "tôi viết thư này để... (mở đầu thư, email Task 1)",
+   "pos": "cụm từ",
+   "audio": "V-01-w-i-m-writing-to.mp3"
+  },
+  {
+   "word": "as far as I know",
+   "ipa": "/æz ˈfɑr æz aɪ ˈnoʊ/",
+   "meaning": "theo như tôi biết (nói khi không chắc chắn hoàn toàn)",
+   "pos": "cụm từ",
+   "audio": "V-01-w-as-far-as-i-know.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "You will hear each recording only once, so read the questions carefully before it starts.",
+   "vi": "Bạn sẽ chỉ được nghe mỗi bài một lần, vì vậy hãy đọc kỹ câu hỏi trước khi bài nghe bắt đầu.",
+   "audio": "V-01-ex-1.mp3"
+  },
+  {
+   "en": "The reading section has four passages, and each passage is followed by ten questions.",
+   "vi": "Phần đọc có bốn bài đọc, và mỗi bài có mười câu hỏi đi kèm.",
+   "audio": "V-01-ex-2.mp3"
+  },
+  {
+   "en": "I'm writing to ask for more information about the English course you advertised last week.",
+   "vi": "Tôi viết thư này để hỏi thêm thông tin về khóa học tiếng Anh mà quý trung tâm quảng cáo tuần trước.",
+   "audio": "V-01-ex-3.mp3"
+  },
+  {
+   "en": "In my opinion, the advantages of working from home clearly outweigh the disadvantages.",
+   "vi": "Theo tôi, lợi ích của việc làm việc tại nhà rõ ràng lớn hơn bất lợi.",
+   "audio": "V-01-ex-4.mp3"
+  },
+  {
+   "en": "To sum up, I believe that better public transport is the most effective solution for our city.",
+   "vi": "Tóm lại, tôi tin rằng giao thông công cộng tốt hơn là giải pháp hiệu quả nhất cho thành phố chúng ta.",
+   "audio": "V-01-ex-5.mp3"
+  }
+ ]
+}

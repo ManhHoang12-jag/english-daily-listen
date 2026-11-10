@@ -1,0 +1,82 @@
+{
+ "title": "Bài 04. Nghe Part 3: bài giảng và bài nói dài",
+ "vocabulary": [
+  {
+   "word": "in today's talk",
+   "ipa": "/ɪn təˈdeɪz ˈtɔk/",
+   "meaning": "trong bài nói hôm nay (mở đầu, nêu mục đích)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-in-today-s-talk.mp3"
+  },
+  {
+   "word": "the research suggests",
+   "ipa": "/ðə ˈrisɚtʃ səɡˈdʒɛsts/",
+   "meaning": "nghiên cứu cho thấy (thường là có xu hướng, chưa chắc tuyệt đối)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-the-research-suggests.mp3"
+  },
+  {
+   "word": "the most likely explanation",
+   "ipa": "/ðə ˈmoʊst ˈlaɪkli ˌɛkspləˈneɪʃən/",
+   "meaning": "lời giải thích hợp lý nhất (báo hiệu phần lý do)",
+   "pos": "cụm danh từ",
+   "audio": "V-04-w-the-most-likely-explanation.mp3"
+  },
+  {
+   "word": "I'm not saying",
+   "ipa": "/aɪm ˈnɑt ˈseɪɪŋ/",
+   "meaning": "tôi không nói rằng (nhượng bộ, tránh bị hiểu sai)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-i-m-not-saying.mp3"
+  },
+  {
+   "word": "let me give you an example",
+   "ipa": "/ˈlɛt mi ˈɡɪv ju ən ɪɡˈzæmpəl/",
+   "meaning": "để tôi đưa ra một ví dụ (báo hiệu minh họa)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-let-me-give-you-an-example.mp3"
+  },
+  {
+   "word": "what does this mean for you",
+   "ipa": "/ˈwʌt dəz ˈðɪs ˈmin fɚ ju/",
+   "meaning": "điều này có ý nghĩa gì với bạn (chuyển sang lời khuyên, kết luận)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-what-does-this-mean-for-you.mp3"
+  },
+  {
+   "word": "by the way",
+   "ipa": "/baɪ ðə ˈweɪ/",
+   "meaning": "nhân tiện (trong bài giảng hay mở một ý nhấn mạnh gián tiếp)",
+   "pos": "cụm từ",
+   "audio": "V-04-w-by-the-way.mp3"
+  }
+ ],
+ "examples": [
+  {
+   "en": "",
+   "vi": "Clip 1. Mở đầu bài nói chuyện của một giảng viên.",
+   "audio": "V-04-ex-1.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 2. Phần 1: kết quả nghiên cứu.",
+   "audio": "V-04-ex-2.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 3. Phần 2: giải thích nguyên nhân.",
+   "audio": "V-04-ex-3.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 4. Nhượng bộ và một câu chuyện từ lớp học của giảng viên.",
+   "audio": "V-04-ex-4.mp3"
+  },
+  {
+   "en": "",
+   "vi": "Clip 5. Phần 3: lời khuyên và kết luận.",
+   "audio": "V-04-ex-5.mp3"
+  }
+ ],
+ "hide_text": true
+}
